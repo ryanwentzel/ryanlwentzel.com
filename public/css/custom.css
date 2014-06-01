@@ -30,8 +30,6 @@ img.alignleft {
 	border-radius: 50%;
 }
 
-
-
 .symbol, a.symbol:before {
     font-family: "Mono Social Icons Font";
     -webkit-text-rendering: optimizeLegibility;
@@ -51,23 +49,6 @@ img.alignleft {
     margin-right: 0.3em;
     font-size: 130%;
 }*/
-
-.social-icons a.symbol {
-	color: #515151;
-	font-size: 32px;
-	text-decoration: none;
-}
-
-.social-icons ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-.social-icons ul li {
-	display: inline;
-	margin-right: 10px;
-}
 
 .posts .post {
 	border-bottom: 1px solid #EEEEEE;
@@ -102,9 +83,36 @@ img.alignleft {
 	font-weight: bold;
 }
 
+@media (min-width: 38rem) {
+	.about-container {
+		float: left;
+	}
+	
+	.social-container {
+		float: right;
+	}
+}
+
 #about {
 	font-size: 16px;
 	width: 350px;
+}
+
+.social-icons a.symbol {
+	color: #515151;
+	font-size: 32px;
+	text-decoration: none;
+}
+
+.social-icons ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.social-icons ul li {
+	display: inline;
+	margin-right: 10px;
 }
 
 /* http://opus.fm/ */
