@@ -42,24 +42,7 @@
   {% endif %}
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css" />
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/lanyon.css" />
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/custom.css" />
-  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400" />
-  <style type="text/css">
-	  /* http://drinchev.github.io/monosocialiconsfont/ */
-	  @font-face {
-	      font-family: "Mono Social Icons Font";
-	      src: url("{{ site.baseurl }}/public/fonts/mono/MonoSocialIconsFont-1.10.eot");
-	      src: url("{{ site.baseurl }}/public/fonts/mono/MonoSocialIconsFont-1.10.eot?#iefix") format("embedded-opentype"),
-	           url("{{ site.baseurl }}/public/fonts/mono/MonoSocialIconsFont-1.10.woff") format("woff"),
-	           url("{{ site.baseurl }}/public/fonts/mono/MonoSocialIconsFont-1.10.ttf") format("truetype"),
-	           url("{{ site.baseurl }}/public/fonts/mono/MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont") format("svg");
-	      src: url("{{ site.baseurl }}/public/fonts/mono/MonoSocialIconsFont-1.10.ttf") format("truetype");
-	      font-weight: normal;
-	      font-style: normal;
-	  }
-  </style>
+  {% include css.html %}
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-144-precomposed.png">
