@@ -1,0 +1,24 @@
+<footer class="container" role="contentinfo">
+	{% if page.title != "About" %}
+	<div class="alignleft">
+		<div id="about">
+			<h4>About Ryan Wentzel</h4>
+			<img class="alignleft" src="{{ site.baseurl }}/public/images/profile-color-78x78.jpg" alt="Ryan Wentzel" />
+			I’m a Christian, family man, software developer, and a pastor at <a href="http://www.grcbible.org/">Grace Bible Church</a> in Escondido, CA. I'm also a student at <a href="http://www.rbseminary.org/">Reformed Baptist Seminary</a>. 
+			<a href="{{ site.baseurl }}/about/" title="About Ryan Wentzel">Read more...</a>
+		</div>
+	</div>
+	{% endif %}
+	<div class="alignright social-icons">
+		<h4>Connect</h4>
+		<ul>
+			<li><a class="symbol" href="{{ site.rss_url }}" title="RSS">circlerss</a></li>
+			<li><a class="symbol" href="{{ site.baseurl }}/contact/" title="Email">circleemail</a></li>
+			<li><a class="symbol" href="{{ site.twitter }}" title="Twitter" target="_blank">circletwitter</a></li>
+			<li><a class="symbol" href="{{ site.flickr }}" title="Flickr" target="_blank">circleflickr</a></li>
+			<li><a class="symbol" href="{{ site.github }}" title="Github"target="_blank">circlegithubalt</a></li>
+		</ul>
+	</div>
+	
+	<div class="clear"></div>
+</footer>

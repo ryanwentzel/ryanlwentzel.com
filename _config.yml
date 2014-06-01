@@ -1,0 +1,44 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:year/:month/:day/:title/
+
+# Disqus
+disqus_short_name: ryanlwentzel
+disqus_show_comment_count: true
+
+# Setup
+title:            Ryan Wentzel
+tagline:          "The Blog"
+description:      "Ryan Wentzel is a Christian, family man, software developer, pastor, and a student."
+url:              http://ryanlwentzel.com
+baseurl:          /ryanlwentzel.com
+paginate:         5
+rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
+
+author:
+  name:           'Ryan Wentzel'
+  url:            https://twitter.com/ryanwentzel
+
+keywords: 		  "Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"
+  
+# social
+github: "https://github.com/ryanwentzel"
+flickr: "https://www.flickr.com/photos/rwentzel/"
+twitter: "http://twitter.com/ryanwentzel"
+
+# navbar
+
+pages_list: { "About": "/about/", "Contact": "/contact/" }
+
+# Defaults
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      comments: true
