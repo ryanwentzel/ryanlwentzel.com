@@ -14,7 +14,7 @@ title:            Ryan Wentzel
 tagline:          "The Blog"
 description:      "Ryan Wentzel is a Christian, family man, software developer, pastor, and a student."
 url:              http://ryanlwentzel.com
-baseurl:          /ryanlwentzel.com
+baseurl:          http://ryanlwentzel.com
 paginate:         5
 rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
 
