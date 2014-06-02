@@ -10,7 +10,7 @@
 
 ul.navbar {
 	font-family: "PT Sans",Helvetica,Arial,sans-serif;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 .navbar li {
@@ -101,9 +101,9 @@ img.alignleft {
 	}
 }
 
-#about {
+.about-container {
 	font-size: 16px;
-	width: 350px;
+	width: 60%;
 }
 
 .social-icons a {
