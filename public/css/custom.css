@@ -1,10 +1,16 @@
+/* lanyon overrides */
+.masthead {
+	color: #515151;
+}
+
+.masthead a {
+	color: #515151 !important;
+	text-decoration: none;
+}
+
 ul.navbar {
 	font-family: "PT Sans",Helvetica,Arial,sans-serif;
 	font-size: 18px;
-}
-
-.navbar {
-	color: #6a9fb5;
 }
 
 .navbar li {
@@ -100,9 +106,9 @@ img.alignleft {
 	width: 350px;
 }
 
-.social-icons a.symbol {
+.social-icons a {
 	color: #515151;
-	font-size: 32px;
+	font-size: 24px;
 	text-decoration: none;
 }
 
