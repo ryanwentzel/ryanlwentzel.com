@@ -1,13 +1,15 @@
 ul.navbar {
 	font-family: "PT Sans",Helvetica,Arial,sans-serif;
 	font-size: 18px;
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+}
+
+.navbar {
+	color: #6a9fb5;
 }
 
 .navbar li {
 	display: inline;
+	margin-right: 50px;
 }
 
 .alignleft {

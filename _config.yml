@@ -17,6 +17,7 @@ url:              http://ryanlwentzel.com
 baseurl:          http://ryanlwentzel.com
 paginate:         5
 rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
+assets_path:	  /public
 
 author:
   name:           'Ryan Wentzel'
