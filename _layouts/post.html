@@ -4,7 +4,18 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
+	<div class="post-meta">
+		<span class="post-date">
+			<i class="fa fa-calendar"></i>
+			{{ page.date | date: '%B %d, %Y' }}
+		</span>
+		{% if site.disqus_short_name and page.disable_comments != true %}
+		<span class="post-comments">
+			<i class="fa fa-comment"></i>
+			<a href="#comment" title="Comments on {{ page.title | xml_escape }}">Comments</a>
+		</span>
+		{% endif %}
+	</div>
   {{ content }}
 </article>
 

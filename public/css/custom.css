@@ -71,8 +71,30 @@ img.alignleft {
 	-moz-border-radius: 5px;
     margin-bottom: 1rem;
     padding: 1rem;
-    color: #717171;
     background-color: #f9f9f9;
+}
+
+.post .post-read-more, .post-read-more a {
+	color: #717171;
+}
+
+.post-meta {
+	margin-top: -0.5rem;
+	margin-bottom: 1rem;
+}
+
+.post-meta, .post-meta a {
+	color: #9a9a9a;
+}
+
+.post-date {
+	display: inline;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.post-meta .post-date, .post-meta .post-comments {
+	padding-right: 10px;
 }
 
 .comments {
