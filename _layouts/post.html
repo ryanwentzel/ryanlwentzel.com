@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<article class="entry entry-single">
+	<header>
+		<h1 class="entry-title">
+			<a href="{{ site.url }}{{ post.url }}">{{ page.title }}</a>
+		</h1>
+		<div class="entry-meta">
+			<span class="entry-date">{{ page.date | date: '%B %d, %Y' }}</span>
+		</div>
+	</header>
+	
+	<section class="entry-content">
+	{{ content }}
+	</section>
+	{% include post-footer.html %}
+</article>
