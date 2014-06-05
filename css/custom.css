@@ -55,9 +55,33 @@ img {
 	}
 }
 
+/* Overide Bootstrap */
+.navbar-custom {
+	background-color: transparent;
+	border: none;
+}
+
+.navbar-custom .navbar-nav > li > a {
+	color: #333;
+}
+
+.navbar-custom .navbar-nav > li > a:hover {
+	color: #0061c9;
+}
+
+.navbar-nav {
+	font-size: 22px;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+	background-color: transparent;
+}
+
 .btn {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+/* End of Bootstrap overrides */
 
 .alignleft {
 	float: left;
@@ -76,6 +100,10 @@ header.masthead {
 	border-bottom: 3px solid #333;
 }
 */
+
+.masthead {
+	border-bottom: 2px solid #333;
+}
 
 .masthead a {
 	text-decoration: none;
@@ -109,17 +137,18 @@ header.masthead {
 	text-decoration: none;
 }
 
-/* override navbar */
 .site-navbar {
-	margin-bottom: 60px;
+	font-size: 1.5em;
+	margin-top: 1em;
+	margin-bottom: 1.5em;
 }
 
-.navbar-nav {
-	font-size: 22px;
+.site-nav-list {
+	text-align: center;
 }
 
-.navbar-nav li a:hover {
-	background-color: transparent;
+.site-nav-list li {
+	padding-right: 1.3em;
 }
 
 #main {

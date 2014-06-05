@@ -1,4 +1,5 @@
-<nav class="navbar site-navbar" role="navigation">
+{% comment %}
+<nav class="navbar navbar-custom site-navbar" role="navigation">
 	<div class="container-fluid">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-links">
@@ -16,5 +17,16 @@
 				<li><a href="#"><i class="fa fa-rss"></i></a></li>
 			</ul>
 		</div>
+	</div>
+</nav>
+{% endcomment %}
+
+<nav class="site-navbar" role="navigation">
+	<div class="container site-nav-wrap">
+		<ul class="site-nav-list list-inline">
+			<li><a href="{{ sit.baseurl }}/about/">About</a></li>
+			<li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
+			<li><a href="#"><i class="fa fa-rss"></i></a></li>
+		</ul>
 	</div>
 </nav>
