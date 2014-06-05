@@ -215,3 +215,10 @@ header.masthead {
 	padding-top: 20px;
 }
 
+/* Pagination */
+.pagination {
+	padding-right: 1.3em;
+	overflow: hidden; /* clearfix */
+	width: 100%;
+}
+

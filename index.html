@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <article class="entry">
 	<header>
 		<h1 class="entry-title">
@@ -51,3 +51,20 @@ title: Home
 	</footer>
 </article>
 {% endfor %}
+
+<div class="pagination container">
+	<div class="pull-left pagination-item older">
+	    {% if paginator.next_page %}
+		<a href="{{ site.baseurl }}/page{{paginator.next_page }}">&larr; Older</a>
+		{% endif %}
+	</div>
+	<div class="pull-right pagination-item newer">
+	    {% if paginator.previous_page %}
+	      {% if paginator.page == 2 %}
+	        <a href="{{ site.baseurl }}/">Newer &rarr;</a>
+	      {% else %}
+	        <a href="{{ site.baseurl }}/page{{ paginator.previous_page }}">Newer &rarr;</a>
+	      {% endif %}
+	    {% endif %}
+	</div>
+</div>
