@@ -1,0 +1,185 @@
+body {
+	font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+a {
+	color: #0061c9;
+}
+
+p, blockquote, ul, ol {
+	margin-bottom: 1.5em;
+}
+
+img {
+	display: block;
+	max-width: 100%;
+	margin: 0 10px;
+	border-radius: 5px;
+}
+
+@media (min-width: 768px) {
+   .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) {
+	.container {
+		max-width: 730px;
+	}
+}
+
+@media (min-width: 992px) {
+	.container {
+		width: 970px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.container {
+		width: 1170px;
+	}
+}
+
+.btn {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+header.masthead {
+	border-bottom: 3px solid #333;
+}
+
+.masthead a {
+	text-decoration: none;
+}
+
+.masthead a, .site-navbar a, .entry-title a {
+	color: #333;
+}
+
+.masthead a:hover, .site-navbar a:hover, .entry-title a:hover {
+	color: #0061c9;
+}
+
+.masthead-title {
+	font-size: 4.5em;
+	text-align: center;
+}
+
+.header-title a {
+	text-decoration: none;
+}
+
+/* override navbar */
+.site-navbar {
+	margin-bottom: 60px;
+}
+
+.navbar-nav {
+	font-size: 22px;
+}
+
+.navbar-nav li a:hover {
+	background-color: transparent;
+}
+
+#main {
+	margin: 0 auto;
+}
+
+#main > article:after, #main > div > article:after {
+	clear: both
+	content: "";
+	display: table;
+}
+
+#main article:first-child {
+	border-top: medium none;
+	padding-top: 1em;
+}
+
+#main article {
+	border-top: 2px solid #E6E6E6;
+	padding-bottom: 1.5em;
+	padding-top: 3em;
+}
+
+.entry {
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.entry header {
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+.entry-title {
+	font-size: 47px;
+	letter-spacing: 3px;
+	line-height: 1.3em;
+}
+
+.entry-meta {
+	color: #a2a2a2;
+	margin-top: 30px;
+}
+
+.entry-content p {
+	line-height: 1.6em;
+	margin-top: 15px;
+}
+
+.entry-footer {
+	margin-top: 1em;
+	margin-bottom: 2.5em;
+}
+
+.entry-sharing {
+	font-size: 24px;
+	text-align: center;
+}
+
+.entry-more-container {
+	margin-top: 3em;
+	text-align: center;
+}
+
+.entry-sharing a {
+	color: #a2a2a2;
+}
+
+.entry-about-author img {
+	margin: 5px 10px 5px 0px;
+}
+
+.comments-container {
+	border-top: 2px solid #E6E6E6;
+	padding-top: 3em;
+}
+
+.site-footer {
+	border-top: 2px solid #E6E6E6;
+	padding-top: 20px;
+}
+

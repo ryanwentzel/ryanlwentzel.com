@@ -2,26 +2,56 @@
 layout: default
 ---
 
-<article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-	<div class="post-meta">
-		<span class="post-date">
-			<i class="fa fa-calendar"></i>
-			{{ page.date | date: '%B %d, %Y' }}
-		</span>
-		{% if site.disqus_short_name and page.disable_comments != true %}
-		<span class="post-comments">
-			<i class="fa fa-comment"></i>
-			<a href="#comment" title="Comments on {{ page.title | xml_escape }}">Comments</a>
-		</span>
-		{% endif %}
+<article class="entry">
+	<header>
+		<h1 class="entry-title">
+			<a href="{{ site.url }}{{ post.url }}">{{ page.title }}</a>
+		</h1>
+		<div class="entry-meta">
+			<span class="entry-date">{{ page.date | date: '%B %d, %Y' }}</span>
+		</div>
+	</header>
+	
+	<div class="entry-content">
+	{{ content }}
 	</div>
-  {{ content }}
+	
+	<footer class="entry-footer">
+		{% comment %}
+		<div class="entry-sharing">
+			<ul class="list-inline">
+				<li>
+					<a href="#">
+						<i class="fa fa-twitter"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-facebook"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-google-plus"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-envelope"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+		{% endcomment %}
+		<div class="well well-small entry-about-author">
+			<span class="show"><strong>About the author</strong></span>
+			<img class="pull-left" src="http://ryanlwentzel.com/public/images/profile-color-78x78.jpg" />Ryan Wentzel is a family man, software developer, and a pastor at <a href="#">Grace Bible Church</a> in Escondido, CA.
+			<span class="clearfix"></span>
+		</div>
+	</footer>
+	
+	{% if site.disqus_short_name and page.disable_comments != true %}
+	{% include comments.html %}
+	{% endif %}
+	
 </article>
-
-{% if site.disqus_short_name and page.disable_comments != true %}
-<section id="comment" class="comments">
-    <div id="disqus_thread" aria-live="polite"></div>
-</section>
-{% include disqus.html %}
-{% endif %}

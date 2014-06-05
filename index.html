@@ -3,45 +3,51 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post clear">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-	<div class="post-meta">
-		<span class="post-date">
-			<i class="fa fa-calendar"></i>
-			{{ post.date | date: '%B %d, %Y' }}
-		</span>
-		{% if site.disqus_short_name and page.disable_comments != true %}
-		<span class="post-comments">
-			<i class="fa fa-comment"></i>
-			<a href="{{ site.baseurl }}{{ post.url }}#comment" title="Comments on {{ post.title | xml_escape }}">Comments</a>
-		</span>
-		{% endif %}
+{% for post in site.posts %}
+<article class="entry">
+	<header>
+		<h1 class="entry-title">
+			<a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+		</h1>
+		<div class="entry-meta">
+			<span class="entry-date">{{ post.date | date: '%B %d, %Y' }}</span>
+		</div>
+	</header>
+	
+	<div class="entry-content">
+	{{ post.content }}
 	</div>
-    {{ post.content }}
-  </article>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+	
+	<footer class="entry-footer">
+		{% comment %}
+		<div class="entry-sharing">
+			<ul class="list-inline">
+				<li>
+					<a href="#">
+						<i class="fa fa-twitter"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-facebook"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-google-plus"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-envelope"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+		{% endcomment %}
+		<div class="entry-more-container">
+			<a class="btn btn-primary" href="{{ site.baseurl }}{{ post.url }}#disqus_thread">View comments</a>
+		</div>
+	</footer>
+</article>
+{% endfor %}
