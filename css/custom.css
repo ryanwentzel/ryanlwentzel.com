@@ -144,8 +144,8 @@ header.masthead {
 }
 
 .entry {
-	padding-left: 18px;
-	padding-right: 18px;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 
 .entry header {
@@ -181,22 +181,28 @@ header.masthead {
 }
 
 .entry-footer {
-	margin-top: 1em;
-	margin-bottom: 2.5em;
+	border-top: 2px solid #E6E6E6;
+	border-bottom: 2px solid #E6E6E6;
+	margin-bottom: 1em;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
-.entry-sharing {
-	font-size: 24px;
+.entry-footer h4 {
+	font-weight: bold;
+}
+
+.entry-footer-sharing {
 	text-align: center;
 }
 
-.entry-more-container {
-	margin-top: 3em;
-	text-align: center;
-}
-
-.entry-sharing a {
+.entry-footer-sharing a {
 	color: #a2a2a2;
+}
+
+.entry-footer-author {
+	font-size: 0.9em;
+	width: 60%;
 }
 
 .entry-about-author img {
@@ -204,8 +210,8 @@ header.masthead {
 }
 
 .comments-container {
-	border-top: 2px solid #E6E6E6;
-	padding-top: 3em;
+	clear: both;
+	margin-top: 3em;
 }
 
 .site-footer {

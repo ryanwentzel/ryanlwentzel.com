@@ -43,11 +43,38 @@ layout: default
 			</ul>
 		</div>
 		{% endcomment %}
-		<div class="well well-small entry-about-author">
-			<span class="show"><strong>About the author</strong></span>
-			<img class="pull-left" src="http://ryanlwentzel.com/public/images/profile-color-78x78.jpg" />Ryan Wentzel is a family man, software developer, and a pastor at <a href="#">Grace Bible Church</a> in Escondido, CA.
-			<span class="clearfix"></span>
-		</div>
+		<section class="entry-footer-author pull-left">
+			<h4>About {{ site.author.name }}</h4>
+			<img class="pull-left" src="{{ site.baseurl }}/public/images/profile-color-78x78.jpg" />
+			<p>I'm a family man, software developer, and a pastor at <a href="#">Grace Bible Church</a> in Escondido, CA.</p>
+		</section>
+		
+		<section class="entry-footer-sharing pull-right">
+			<h4>Share this post</h4>
+			<ul class="list-inline">
+				<li>
+					<a href="#">
+						<i class="fa fa-twitter"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-facebook"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-google-plus"></i>
+					</a>
+				</li>
+				<li>
+					<a href="#">
+						<i class="fa fa-envelope"></i>
+					</a>
+				</li>
+			</ul>
+		</section>
+		<span class="clearfix"></span>
 	</footer>
 	
 	{% if site.disqus_short_name and page.disable_comments != true %}
