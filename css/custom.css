@@ -181,11 +181,14 @@ header.masthead {
 }
 
 .entry-footer {
-	border-top: 2px solid #E6E6E6;
-	border-bottom: 2px solid #E6E6E6;
 	margin-bottom: 1em;
 	padding-top: 1em;
 	padding-bottom: 1em;
+}
+
+.entry-single .entry-footer {
+	border-top: 2px solid #E6E6E6;
+	border-bottom: 2px solid #E6E6E6;
 }
 
 .entry-footer h4 {
@@ -207,6 +210,10 @@ header.masthead {
 
 .entry-about-author img {
 	margin: 5px 10px 5px 0px;
+}
+
+.entry-more-container {
+	text-align: center;
 }
 
 .comments-container {
