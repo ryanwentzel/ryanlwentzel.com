@@ -105,6 +105,8 @@ header.masthead {
 	border-bottom: 2px solid #333;
 }
 
+.entry-title a,
+.site-nav-list li a,
 .masthead a {
 	text-decoration: none;
 }
