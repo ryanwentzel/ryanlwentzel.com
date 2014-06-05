@@ -1,8 +1,14 @@
 body {
 	font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
-	font-size: 20px;
+	font-size: 2em;
 	padding-top: 20px;
 	padding-bottom: 20px;
+}
+
+@media (max-width: 568px) {
+	body {
+		font-size: 1.6em;
+	}
 }
 
 a {
@@ -20,7 +26,7 @@ img {
 	border-radius: 5px;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 568px) {
    .navbar .navbar-nav {
         display: inline-block;
         float: none;
@@ -65,9 +71,11 @@ img {
 	clear: both;
 }
 
+/*
 header.masthead {
 	border-bottom: 3px solid #333;
 }
+*/
 
 .masthead a {
 	text-decoration: none;
@@ -81,8 +89,19 @@ header.masthead {
 	color: #0061c9;
 }
 
+@media (max-width: 568px) {
+	.masthead-title {
+		font-size: 2.5em;
+	}
+}
+
+@media (min-width: 992px) {
+	.masthead-title {
+		font-size: 3.8em;
+	}
+}
+
 .masthead-title {
-	font-size: 4.5em;
 	text-align: center;
 }
 
@@ -134,8 +153,19 @@ header.masthead {
 	text-align: center;
 }
 
+@media (max-width: 568px) {
+	.entry-title {
+		font-size: 2em;
+	}
+}
+
+@media (min-width: 768px) {
+	.entry-title {
+		font-size: 2.5em;
+	}
+}
+
 .entry-title {
-	font-size: 47px;
 	letter-spacing: 3px;
 	line-height: 1.3em;
 }
@@ -180,6 +210,8 @@ header.masthead {
 
 .site-footer {
 	border-top: 2px solid #E6E6E6;
+	color: #a2a2a2;
+	font-size: 0.8em;
 	padding-top: 20px;
 }
 
