@@ -1,3 +1,4 @@
+{% assign page_url = site.baseurl | append: page.url %}
 <footer class="entry-footer">
 	<section class="entry-footer-author pull-left">
 		<h4>About {{ site.author.name }}</h4>
@@ -9,23 +10,18 @@
 		<h4>Share this post</h4>
 		<ul class="list-inline">
 			<li>
-				<a href="#">
+				<a target="_blank" href="http://twitter.com/share?url={{ page_url }}&text={{ page.title | uri_escape }}" title="Share on Twitter">
 					<i class="fa fa-twitter"></i>
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ page_url }}" title="Share on Facebook">
 					<i class="fa fa-facebook"></i>
 				</a>
 			</li>
 			<li>
-				<a href="#">
+				<a target="_blank" href="https://plus.google.com/share?url={{ page_url }}" title="Share on Google Plus">
 					<i class="fa fa-google-plus"></i>
-				</a>
-			</li>
-			<li>
-				<a href="#">
-					<i class="fa fa-envelope"></i>
 				</a>
 			</li>
 		</ul>
