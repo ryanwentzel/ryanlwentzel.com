@@ -22,13 +22,16 @@ assets_path:	  /public
 author:
   name:           'Ryan Wentzel'
   url:            https://twitter.com/ryanwentzel
+  twitter:        "http://twitter.com/ryanwentzel"
+  twitter_handle: "ryanwentzel"
+  github:         "https://github.com/ryanwentzel"
+  flickr:         "https://www.flickr.com/photos/rwentzel/"
+  
 
 keywords: 		  "Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"
   
 # social
-github: "https://github.com/ryanwentzel"
-flickr: "https://www.flickr.com/photos/rwentzel/"
-twitter: "http://twitter.com/ryanwentzel"
+
 
 # navbar
 

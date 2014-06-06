@@ -91,6 +91,10 @@ img {
 	float: right;
 }
 
+.aligncenter {
+	text-align: center;
+}
+
 .clear {
 	clear: both;
 }
@@ -184,6 +188,11 @@ header.masthead {
 	text-align: center;
 }
 
+.entry-page header {
+	margin-top: -2em;
+	margin-bottom: 2.5em;
+}
+
 @media (max-width: 568px) {
 	.entry-title {
 		font-size: 2em;
@@ -264,5 +273,15 @@ header.masthead {
 	padding-right: 1.3em;
 	overflow: hidden; /* clearfix */
 	width: 100%;
+}
+
+/* Pages */
+.about-page-author-photo img {
+	display: block;
+	margin: 0 auto;
+}
+
+.about-page-contact {
+	margin-top: 2em;
 }
 
