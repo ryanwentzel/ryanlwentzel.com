@@ -11,8 +11,8 @@ disqus_show_comment_count: true
 
 # Setup
 title:            Ryan Wentzel
-tagline:          "The Blog"
-description:      "Ryan Wentzel is a Christian, family man, software developer, pastor, and a student."
+tagline:          "The blog"
+description:      "Thoughts on the Gospel, the Church, and the Christian life"
 url:              http://ryanlwentzel.com
 baseurl:          http://ryanlwentzel.com
 paginate:         5
