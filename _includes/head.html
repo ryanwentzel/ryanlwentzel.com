@@ -12,7 +12,7 @@
 	<title>{{ page_title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	{% if is_home_page == true %}
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description | xml_escape }}">
 	{% elsif page.excerpt %}
 	<meta name="description" content="{{ page.excerpt | strip_html | xml_escape }}">
 	{% endif %}
