@@ -1,10 +1,16 @@
 ---
 layout: default
 title: "404: Page not found"
-permalink: 404.html
+permalink: /404.html
 ---
 
-<div class="page">
-  <h1 class="page-title">404: Page not found</h1>
-  <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ site.baseurl }}">Head back home</a> to try finding it again.</p>
-</div>
+<article class="entry entry-single">
+	<header>
+		<h1 class="entry-title">404: Page not found</h1>
+	</header>
+	
+	<section class="entry-content">
+	Sorry, we couldn't find the page that you're looking for.
+	</section>
+	{% include post-footer.html %}
+</article>

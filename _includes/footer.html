@@ -1,24 +1,35 @@
-<footer class="container" role="contentinfo">
-	{% if page.title != "About" %}
-	<div class="about-container">
-		<div id="about">
-			<h4>About Ryan Wentzel</h4>
-			<img class="alignleft about-photo" src="{{ site.baseurl }}/public/images/profile-color-125x125.jpg" alt="Ryan Wentzel" />
-			I’m a Christian, family man, software developer, and a pastor at <a href="http://www.grcbible.org/">Grace Bible Church</a> in Escondido, CA. I'm also a student at <a href="http://www.rbseminary.org/">Reformed Baptist Seminary</a>.
-			<a href="{{ site.baseurl }}/about/" title="About Ryan Wentzel">Keep reading &rarr;</a>
-		</div>
-	</div>
-	{% endif %}
-	<div class="social-container social-icons">
-		<h4>Connect With Me</h4>
-		<ul>
-			<li><a href="{{ site.rss_url }}" title="Subscribe to the RSS feed"><i class="fa fa-rss"></i></a></li>
-			<li><a href="{{ site.baseurl }}/contact/" title="Email Ryan Wentzel"><i class="fa fa-envelope"></i></a></li>
-			<li><a href="{{ site.twitter }}" title="Follow Ryan Wentzel on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
-			<li><a href="{{ site.flickr }}" title="Ryan Wentzel's photos at Flickr" target="_blank"><i class="fa fa-flickr"></i></a></li>
-			<li><a href="{{ site.github }}" title="Ryan Wentzel's code at Github"target="_blank"><i class="fa fa-github"></i></a></li>
+<footer class="site-footer container">
+	<section class="pull-left">
+		<ul class="list-inline">
+			<li>&copy; {{ site.author.name }}</li>
+			<li><a href="{{ site.baseurl }}/about/">About</a></li>
+			<li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
 		</ul>
-	</div>
-	
-	<div class="clear"></div>
+	</section>
+	<section id="connect" class="pull-right">
+		<div class="social-icons">
+			<ul class="list-inline">
+				<li>
+					<a href="{{ site.rss_url }}">
+						<i class="fa fa-rss"></i>
+					</a>
+				</li>
+				<li>
+					<a href="{{ site.baseurl }}/contact/">
+						<i class="fa fa-envelope"></i>
+					</a>
+				</li>
+				<li>
+					<a href="{{ site.author.twitter }}">
+						<i class="fa fa-twitter"></i>
+					</a>
+				</li>
+				<li>
+					<a href="{{ site.author.github }}">
+						<i class="fa fa-github"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</section>
 </footer>

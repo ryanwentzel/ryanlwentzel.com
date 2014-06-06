@@ -11,8 +11,8 @@ disqus_show_comment_count: true
 
 # Setup
 title:            Ryan Wentzel
-tagline:          "The Blog"
-description:      "Ryan Wentzel is a Christian, family man, software developer, pastor, and a student."
+tagline:          "The blog"
+description:      "Thoughts on the Gospel, the Church, and the Christian life"
 url:              http://ryanlwentzel.com
 baseurl:          http://ryanlwentzel.com
 paginate:         5
@@ -22,13 +22,16 @@ assets_path:	  /public
 author:
   name:           'Ryan Wentzel'
   url:            https://twitter.com/ryanwentzel
+  twitter:        "http://twitter.com/ryanwentzel"
+  twitter_handle: "ryanwentzel"
+  github:         "https://github.com/ryanwentzel"
+  flickr:         "https://www.flickr.com/photos/rwentzel/"
+  
 
 keywords: 		  "Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"
   
 # social
-github: "https://github.com/ryanwentzel"
-flickr: "https://www.flickr.com/photos/rwentzel/"
-twitter: "http://twitter.com/ryanwentzel"
+
 
 # navbar
 

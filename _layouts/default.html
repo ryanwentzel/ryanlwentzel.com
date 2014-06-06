@@ -1,65 +1,17 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-
+<html>
   {% include head.html %}
+    <body>
+		<div class="container">
+			{% include header.html %}
 
-  <body>
+		    <div id="main" class="container">
+		      {{ content }}
+		    </div>
+			
+			{% include footer.html %}
+		</div>
 
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-			<div class="alignleft">
-	            <h3 class="masthead-title">
-	              <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-	            </h3>
-			</div>
-			<div class="alignright">
-				<ul class="navbar fa-ul">
-					<li>
-						<a href="/about/" title="About Ryan Wentzel">
-							<i class="fa-li fa fa-lg fa-user"></i>
-							<span>About</span>
-						</a>
-					</li>
-					<li>
-						<a href="/contact/" title="Contact Ryan Wentzel">
-							<i class="fa-li fa fa-lg fa-envelope"></i>
-							<span>Contact</span>
-						</a>
-					</li>
-					<li>
-						<a href="{{ site.rss_url }}" title="Subscribe to the RSS feed">
-							<i class="fa-li fa fa-lg fa-rss"></i>
-							<span>Follow</span>
-						</a>
-					</li>
-				</ul>
-			</div>
-			<div class="clear"></div>
-        </div>
-      </div>
-
-      <div class="container content">
-        {{ content }}
-      </div>
-	  
-	  <div class="footer">
-	  	{% include footer.html %}
-	  </div>
-    </div>
-		
-    <script type="text/javascript">
-	    var disqus_shortname = '{{ site.disqus_short_name }}';
-
-	    /* * * DON'T EDIT BELOW THIS LINE * * */
-	    (function () {
-	        var s = document.createElement('script'); s.async = true;
-	        s.type = 'text/javascript';
-	        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-	        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-	    }());
-    </script>
-  </body>
+	{% include js.html %}
+    </body>
 </html>
