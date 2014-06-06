@@ -145,8 +145,19 @@ header.masthead {
 	text-decoration: none;
 }
 
+@media (max-width: 568px) {
+	.site-navbar {
+		font-size: 1.3em;
+	}
+}
+
+@media (min-width: 768px) {
+	.site-navbar {
+			font-size: 1.5em;
+	}
+}
+
 .site-navbar {
-	font-size: 1.5em;
 	margin-top: 1em;
 	margin-bottom: 1.5em;
 }
@@ -294,5 +305,18 @@ header.masthead {
 
 .about-page-contact {
 	margin-top: 2em;
+}
+
+ul.poem {
+	list-style: none;
+	
+}
+
+li.indent {
+	text-indent: 1em;
+}
+
+.italics {
+	font-style: italic;
 }
 
