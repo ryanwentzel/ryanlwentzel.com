@@ -1,11 +1,51 @@
 <head>
+	{% if page.title == "Home" %}
+	{% assign is_home_page = true %}
+	{% else %}
+	{% assign is_home_page = false %}
+	{% endif %}
+	
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+	{% if is_home_page == true %}
     <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	{% elsif page.excerpt %}
+	<meta name="description" content="{{ page.excerpt | strip_html | xml_escape }}">
+	{% endif %}
+	
+	{% if is_home_page == true %}
+    <link rel="canonical" href="{{ site.baseurl }}/">
+	{% else %}
+	<link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
+	{% endif %}
 
+	<meta property="og:site_name" content="{{ site.title }}">
+	<meta property="og:image" content="{{ site.baseurl }}/images/site/rwlogo.png">
+	<meta property="og:type" content="blog">
+	{% if is_home_page == true %}
+	<meta property="og:title" content="{{ site.title }}">
+	<meta name="og:url" href="{{ site.baseurl }}/">
+	{% else %}
+	<meta property="og:title" content="{{ page.title }} | {{ site.title }}">
+	<meta name="og:url" href="{{ site.baseurl }}{{ page.url }}">
+	{% endif %}
+	
+	{% if is_home_page == true % and site.keywords %}
+	<meta name="keywords" content="{{ site.keywords }}">
+	{% elsif page.keywords %}
+	<meta name="keywords" content="{{ page.keywords }}">
+	{% endif %}
+	
+	<title>{% if is_home_page %}{{ site.title }} | {{ site.tagline }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
+	
     <!-- Custom CSS -->
     {% include css.html %}
+	
+	<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+	
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.rss_url }}">
+    {% include ga.html %}
 </head>
