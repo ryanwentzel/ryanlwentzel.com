@@ -4,7 +4,7 @@ title: Home
 ---
 
 {% for post in paginator.posts %}
-<article class="entry">
+<article class="entry index-entry">
 	<header>
 		<h1 class="entry-title">
 			<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
@@ -45,8 +45,11 @@ title: Home
 			</ul>
 		</div>
 		{% endcomment %}
-		<div class="entry-more-container">
-			<a class="btn btn-primary" href="{{ site.baseurl }}{{ post.url }}#disqus_thread">View comments</a>
+		<div class="entry-more-container pull-right">
+			<a class="btn btn-default" href="{{ site.baseurl }}{{ post.url }}#disqus_thread">
+				<i class="fa fa-comment"></i>
+				<span>View comments</span>
+			</a>
 		</div>
 	</footer>
 </article>
