@@ -1,10 +1,14 @@
 <head>
 	{% if page.title == "Home" %}
 	{% assign is_home_page = true %}
+	{% assign og_title = site.title %}
 	{% assign page_title = site.title | append: ' | ' | append: site.tagline %}
+	{% assign page_url = site.baseurl | append: '/' %}
 	{% else %}
 	{% assign is_home_page = false %}
+	{% assign og_title = page.title %}
 	{% assign page_title = page.title | append: ' | ' | append: site.title %}
+	{% assign page_url = site.baseurl | append: page.url %}
 	{% endif %}
 	
     <meta charset="utf-8">
@@ -27,10 +31,8 @@
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="og:image" content="{{ site.baseurl }}/images/site/rwlogo.png">
 	<meta property="og:type" content="blog">
-	<meta property="og:title" content="{{ page_title }}">
-	<meta name="og:url" href="{{ site.baseurl }}/">
-	<meta name="og:url" href="{{ site.baseurl }}{{ page.url }}">
-	
+	<meta property="og:title" content="{{ og_title }}">
+	<meta name="og:url" href="{{ page_url }}">
 	{% if is_home_page == true % and site.keywords %}
 	<meta name="keywords" content="{{ site.keywords }}">
 	{% elsif page.keywords %}
