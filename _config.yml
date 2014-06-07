@@ -45,6 +45,7 @@ pages_list: { "About": "/about/", "Contact": "/contact/" }
 
 gems:
     - jekyll-sitemap
+    - jekyll-redirect-from
 
 # Defaults
 
