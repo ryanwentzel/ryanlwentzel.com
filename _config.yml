@@ -15,6 +15,7 @@ tagline:          "The blog"
 description:      "Thoughts on the Gospel, the Church, and the Christian life"
 url:              http://ryanlwentzel.com
 baseurl:          http://ryanlwentzel.com
+domain:           ryanlwentzel.com
 paginate:         5
 rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
 assets_path:	  /public
