@@ -24,7 +24,7 @@
 	{% else %}
 	<link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
 	{% endif %}
-
+	{% include twitter-card-summary.html %}
 	<meta name="author" content="{{ site.author.name }}">
 	<meta property="og:site_name" content="{{ site.title }}">
 	<meta property="og:image" content="{{ site.baseurl }}/images/site/rwlogo.png">
