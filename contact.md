@@ -3,6 +3,8 @@ layout: page
 title: Contact Me
 permalink: contact/
 excerpt: "Contact Ryan Wentzel"
+redirect_from:
+    - contact-2/
 ---
 
 If you'd like to contact me about something you've read here, please send me an email using the form below.
