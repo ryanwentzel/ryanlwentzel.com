@@ -1,5 +1,5 @@
 <head>
-	{% if page.title == "Home" %}
+	{% if page.is_home and page.is_home == true %}
 	{% assign is_home_page = true %}
 	{% assign page_title = site.title | append: ' - ' | append: site.tagline %}
 	{% assign page_url = site.baseurl | append: '/' %}
