@@ -1,13 +1,14 @@
 <head>
-	{% if page.is_home and page.is_home == true %}
+	{% if page.url == site.home_page_inc %}
 	{% assign is_home_page = true %}
 	{% assign page_title = site.title | append: ' - ' | append: site.tagline %}
 	{% assign page_url = site.baseurl | append: '/' %}
 	{% else %}
 	{% assign is_home_page = false %}
 	{% assign page_title = page.title | append: ' - ' | append: site.title %}
-	{% assign page_url = site.baseurl | append: page.url %}
+	{% assign page_url = site.baseurl | append: page.url | remove: "index.html" %}
 	{% endif %}
+	{% if page.url contains site.home_page %}{% assign is_archive = true %}{% else %}{% assign is_archive = false %}{% endif %}
 	
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,11 +19,13 @@
 	{% elsif page.excerpt %}
 	<meta name="description" content="{{ page.excerpt | strip_html | xml_escape }}">
 	{% endif %}
-	
-	{% if is_home_page == true %}
-    <link rel="canonical" href="{{ site.baseurl }}/">
-	{% else %}
-	<link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
+	<link rel="canonical" href="{{ page_url }}">
+	{% if is_home_page == true and site.keywords %}
+	<meta name="keywords" content="{{ site.keywords }}">
+	{% elsif is_archive == true %}
+	<meta name="keywords" content="{{ site.keywords }}">
+	{% elsif page.keywords %}
+	<meta name="keywords" content="{{ page.keywords }}">
 	{% endif %}
 	{% include twitter-card-summary.html %}
 	<meta name="author" content="{{ site.author.name }}">
@@ -31,11 +34,6 @@
 	<meta property="og:type" content="blog">
 	<meta property="og:title" content="{{ page_title }}">
 	<meta name="og:url" href="{{ page_url }}">
-	{% if is_home_page == true % and site.keywords %}
-	<meta name="keywords" content="{{ site.keywords }}">
-	{% elsif page.keywords %}
-	<meta name="keywords" content="{{ page.keywords }}">
-	{% endif %}
 	
     <!-- Custom CSS -->
     {% include css.html %}
