@@ -1,14 +1,17 @@
 <head>
+	{% assign is_archive = false %}
 	{% if page.url == site.home_page_inc %}
 	{% assign is_home_page = true %}
 	{% assign page_title = site.title | append: ' - ' | append: site.tagline %}
 	{% assign page_url = site.baseurl | append: '/' %}
+	{% elsif page.url contains site.home_page %}
+	{% assign is_archive = true %}{% else %}
+	{% assign page_title = site.title %}
 	{% else %}
 	{% assign is_home_page = false %}
 	{% assign page_title = page.title | append: ' - ' | append: site.title %}
 	{% assign page_url = site.baseurl | append: page.url | remove: "index.html" %}
 	{% endif %}
-	{% if page.url contains site.home_page %}{% assign is_archive = true %}{% else %}{% assign is_archive = false %}{% endif %}
 	
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
