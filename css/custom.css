@@ -278,6 +278,16 @@ header.masthead {
 	text-align: center;
 }
 
+.entry-footnotes {
+	border-top: 1px solid #E6E6E6;
+	font-size: 0.8em;
+	padding-top: 1em;
+}
+
+.entry-footnotes li {
+	margin-bottom: 0.8em;
+}
+
 .comments-container {
 	clear: both;
 	margin-top: 3em;
