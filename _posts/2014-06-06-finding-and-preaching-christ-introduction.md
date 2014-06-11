@@ -3,8 +3,11 @@ layout: post
 title: "Finding and Preaching Christ in the Old Testament: Introduction"
 published: true
 date: 2014-06-09 06:58:00 -0700
+keywords: "preaching, Old Testament, Christ in the Old Testament"
+series: "Finding and Preaching Christ in the Old Testament"
 category: articles
 tags: "preaching, Bible, Old Testament"
+excerpt: "Today I am beginning a new series of posts on finding and preaching Christ from the Old Testament. In this series we will consider the manner and extent to which the Old Testament bears witness to the person and work of Christ.  My aim is to help preachers and teachers of God's Word see that the Old Testmanet isn't merely a collection of ancient stories. Rather,  it is a rich, divinely inspired witness to our Lord and Savior."
 ---
 
 Today I am beginning a new series of posts on finding and preaching Christ from the Old Testament. In this series we will consider the manner and extent to which the Old Testament bears witness to the person and work of Christ.  My aim is to help preachers and teachers of God's Word see that the Old Testmanet isn't merely a collection of ancient stories. Rather,  it is a rich, divinely inspired witness to our Lord and Savior.
@@ -25,4 +28,4 @@ Perhaps the most challenging aspect of preaching from the OT is making Christ th
 
 ## Stay Tuned
 
-In the next post in this series we will consider the teaching of Jesus and the Apostles on the Old Testament's witness to Christ.
+In the [next post](/2014/06/11/finding-and-preaching-christ-in-ot-02/) in this series we will consider the teaching of Jesus and the Apostles on the Old Testament's witness to Christ.
