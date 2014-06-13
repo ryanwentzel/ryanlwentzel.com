@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding and Preaching Christ in the Old Testament: Typology"
-date: 2014-06-13 06:30:00 -0700
+date: 2014-06-13 07:11:00 -0700
 category: articles
 tags: "preaching, Bible, Old Testament"
 keywords: "preaching, Old Testament, Christ in the Old Testament, typology, typological interpretation"
