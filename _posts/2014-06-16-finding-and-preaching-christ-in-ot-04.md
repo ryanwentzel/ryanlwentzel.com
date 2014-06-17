@@ -4,7 +4,7 @@ title: "Finding and Preaching Christ in the Old Testament: Promise"
 date: 2014-06-16 06:30:00 -0700
 category: articles
 tags: "preaching, Bible, Old Testament"
-keywords: "preaching, Old Testament, Christ in the Old Testament, typology, typological interpretation"
+keywords: "preaching, Old Testament, Christ in the Old Testament, biblical promise"
 series: "Finding and Preaching Christ in the Old Testament"
 excerpt: "A second key way in which the OT bears witness to the person and work of Christ is through promises of a coming Savior and salvation. God's promises directed the hopes of his people toward a time when his redemptive purposes would be fulfilled (Heb. 10:39-40). Although there were immediate and partial fulfillments of many of the promises in OT times, the OT ends as an incomplete story. The promise of a glorious day of salvation had yet to be fulfilled. The good news proclaimed by the NT is that God's promises have been fulfilled in Jesus Christ (Rom. 15:8; 2 Cor. 1:20)."
 description: "A second key way in which the OT bears witness to the person and work of Christ is through promises of a coming Savior and salvation. God's promises directed the hopes of his people toward a time when his redemptive purposes would be fulfilled (Heb. 10:39-40). Although there were immediate and partial fulfillments of many of the promises in OT times, the OT ends as an incomplete story. The promise of a glorious day of salvation had yet to be fulfilled. The good news proclaimed by the NT is that God's promises have been fulfilled in Jesus Christ (Rom. 15:8; 2 Cor. 1:20)."
