@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preaching Christ from the Old Testament"
-date: 2014-06-18 06:30:00 -0700
+date: 2014-06-18 06:25:00 -0700
 category: articles
 tags: "preaching, Bible, Old Testament"
 keywords: "preaching, Old Testament, Christ in the Old Testament"
