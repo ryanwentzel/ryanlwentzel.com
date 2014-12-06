@@ -2,7 +2,7 @@
 layout: post  
 type: post  
 title: "The Wonderful Exchange"  
-date: 2014-12-05 19:55:00 -0800  
+date: 2014-12-05 17:55:00 -0800  
 category: reading  
 tags: Calvin, quotes, theology  
 ---
