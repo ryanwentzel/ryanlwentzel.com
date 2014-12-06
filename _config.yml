@@ -16,6 +16,7 @@ description:      "Thoughts on the Gospel, the Church, and the Christian life"
 url:              http://ryanlwentzel.com
 baseurl:          http://ryanlwentzel.com
 domain:           ryanlwentzel.com
+timezone:         America/Los_Angeles
 paginate:         5
 paginate_path:  page/:num
 rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
