@@ -13,7 +13,7 @@ keywords: "reading, Charles Hodge, theology, intellect, emotions"
 > human intellect for the sake of exalting the affections, as if the reason had fallen deeper than the will. 
 > It cannot be a pious act to underrate those powers which were given by him who made the soul in his image. We must speculate. 
 > ***The heart is famished by an idle intellect***.  
-> --- Charles Hodge, "The Theology of the Intellect and That of the Feelings," 654 (emphasis added). 
+> --- Charles Hodge, The Theology of the Intellect and That of the Feelings (emphasis added). 
 
 
 
