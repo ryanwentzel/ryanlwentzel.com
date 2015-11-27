@@ -21,7 +21,7 @@ paginate:         5
 paginate_path:  page/:num
 rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
 assets_path:	  /public
-cdn_url:          http://static.ryanlwentzel.com.s3-website-us-east-1.amazonaws.com
+cdn_url:          http://d1yo597syf8yny.cloudfront.net
 home_page:        index.html
 home_page_inc:    /index.html
 
