@@ -1,6 +1,7 @@
 _site
 vendor/
 .bundle/
+.jekyll-metadata
 
 # Windows image file caches
 Thumbs.db
