@@ -1,4 +1,6 @@
 _site
+vendor/
+.bundle/
 
 # Windows image file caches
 Thumbs.db
@@ -10,5 +12,5 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-# Mac crap
+# Mac OS X
 .DS_Store
