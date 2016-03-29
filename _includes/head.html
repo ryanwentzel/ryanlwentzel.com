@@ -3,14 +3,14 @@
 	{% if page.url == site.home_page_inc %}
 	{% assign is_home_page = true %}
 	{% assign page_title = site.title | append: ' - ' | append: site.tagline %}
-	{% assign page_url = site.baseurl | append: '/' %}
+	{% assign page_url = site.url | append: '/' %}
 	{% elsif page.url contains "/page" %}
 	{% assign is_archive = true %}
 	{% assign page_title = site.title %}
 	{% else %}
 	{% assign is_home_page = false %}
 	{% assign page_title = page.title | append: ' - ' | append: site.title %}
-	{% assign page_url = site.baseurl | append: page.url | remove: "index.html" %}
+	{% assign page_url = site.url | append: page.url | remove: "index.html" %}
 	{% endif %}
 	
     <meta charset="utf-8">
@@ -41,7 +41,7 @@
     <!-- Custom CSS -->
     {% include css.html %}
     {% include author-links.html %}
-	<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+	<link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
 	
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.rss_url }}">
