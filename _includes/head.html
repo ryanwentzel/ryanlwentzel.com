@@ -5,6 +5,7 @@
 	{% assign page_title = site.title | append: ' - ' | append: site.tagline %}
 	{% assign page_url = site.url | append: '/' %}
 	{% elsif page.url contains "/page" %}
+    {% assign is_home_page = false %}
 	{% assign is_archive = true %}
 	{% assign page_title = site.title %}
 	{% else %}

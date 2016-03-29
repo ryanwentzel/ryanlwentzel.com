@@ -22,7 +22,7 @@ rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
 assets_path:	  /public
 cdn_url:          https://d1yo597syf8yny.cloudfront.net
 home_page:        index.html
-home_page_inc:    /index.html
+home_page_inc:    /
 
 author:
   name:           'Ryan Wentzel'
