@@ -17,7 +17,7 @@ This summer I'm planning to continue or finish reading a few books I started ear
 <div class="clear"></div>
 <hr />
 
-*[Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became Theodore Roosevelt](http://www.amazon.com/gp/product/0671447548/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0671447548&linkCode=as2&tag=ryanwentze-20&linkId=LJRSQAEQ632V62IK)*, David McCullough</p>
+*[Mornings on Horseback: The Story of an Extraordinary Family, a Vanished Way of Life and the Unique Child Who Became Theodore Roosevelt](http://www.amazon.com/gp/product/0671447548/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0671447548&linkCode=as2&tag=ryanwentze-20&linkId=LJRSQAEQ632V62IK)*, David McCullough
 
 <img class="alignright" src="{{ site.cdn_url }}/images/mornings-on-horseback-cover.jpg" /> This is another one that I began to read earlier in the year. I've enjoyed everything I've read by David McCullough, and *Mornings on Horseback* is no exception. In this biography, McCullough takes a look at the young Theodore Roosevelt and the family that played such a big role in shaping his character and identity.  
 
