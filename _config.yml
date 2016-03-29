@@ -13,7 +13,7 @@ title:            Ryan Wentzel
 tagline:          "The blog"
 description:      "Thoughts on the Gospel, the Church, and the Christian life"
 url:              http://ryanlwentzel.com
-baseurl:          http://ryanlwentzel.com
+baseurl:          
 domain:           ryanlwentzel.com
 timezone:         America/Los_Angeles
 paginate:         5
