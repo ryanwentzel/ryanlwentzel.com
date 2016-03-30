@@ -1,13 +1,17 @@
+html {
+    font-size: 62.5%;
+}
+
 body {
 	font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
-	font-size: 2em;
+    font-size: 2em;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
 @media (max-width: 568px) {
 	body {
-		font-size: 1.6em;
+		font-size: 1.5em;
 	}
 }
 
@@ -21,6 +25,13 @@ p, blockquote, ul, ol {
 
 blockquote {
 	padding: 10px 20px;
+    font-size: 0.85em;
+}
+
+@media (max-width: 568px) {
+    blockquote {
+        font-size: 0.9em;
+    }
 }
 
 img {
@@ -41,7 +52,7 @@ img {
     }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
 	.container {
 		max-width: 730px;
 	}
@@ -49,13 +60,7 @@ img {
 
 @media (min-width: 992px) {
 	.container {
-		width: 970px;
-	}
-}
-
-@media (min-width: 1200px) {
-	.container {
-		width: 1170px;
+		width: 840px;
 	}
 }
 
@@ -196,8 +201,8 @@ header.masthead {
 }
 
 .entry {
-	padding-left: 1em;
-	padding-right: 1em;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 .entry header {
