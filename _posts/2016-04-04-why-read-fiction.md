@@ -8,7 +8,7 @@ tags: reading, fiction, books
 keywords: "reading, books, fiction, reading fiction, Wendell Berry, P.G. Wodehouse, Alan Paton, Andrew Peterson"
 ---
 
-On a [recent episode](http://www.desiringgod.org/interviews/how-do-you-use-your-iphone-and-ipad-in-christian-growth) of [*Ask Pastor John*](http://www.desiringgod.org/interviews/by-series/ask-pastor-john), John Piper discussed how he uses technology in his Bible reading, prayer, relationships, and entertainment. I appreciated Piper's explanation of why reading fiction is beneficial for us.  
+On a [recent episode](http://www.desiringgod.org/interviews/how-do-you-use-your-iphone-and-ipad-in-christian-growth) of [*Ask Pastor John*](http://www.desiringgod.org/interviews/by-series/ask-pastor-john), John Piper discussed how he uses technology in his Bible reading, prayer, relationships, and entertainment. While discussing the tools he uses for reading eBooks Piper provided a helpful explanation of why reading fiction is beneficial for us.  
 
 > I think one of the things that great literature does, fiction included, is that it touches us in places and ways through insights we haven’t had and emotions we haven’t experienced that make us wider, deeper persons when we come to the Word of God itself so that we are more useful in God’s hands and we are more capable of even knowing and experiencing more of him.
 
