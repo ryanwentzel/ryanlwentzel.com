@@ -1,7 +1,5 @@
 exclude:
     - vendor
-    
-future: false
 
 # Permalinks
 permalink:        /:year/:month/:day/:title/
