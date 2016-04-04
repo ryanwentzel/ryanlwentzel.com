@@ -12,7 +12,7 @@ On a [recent episode](http://www.desiringgod.org/interviews/how-do-you-use-your-
 
 > I think one of the things that great literature does, fiction included, is that it touches us in places and ways through insights we haven’t had and emotions we haven’t experienced that make us wider, deeper persons when we come to the Word of God itself so that we are more useful in God’s hands and we are more capable of even knowing and experiencing more of him.
 
-I've read several novels in recent months that have affected me in the ways described by Piper. I know that everyone's taste in books is different, but I encourage you to give one of the book's listed below a read.
+I've read several novels in recent months that have affected me in the ways described by Piper. I know that everyone's taste in books is different, but I encourage you to give one of the books listed below a read.
 
 [Cry, The Beloved Country](http://amzn.to/1Y5cSRx)  
 Alan Paton's 1948 novel about South Africa is one of the more powerful novels I've read. Both the prose and story are moving. The story follows Stephen Kumalo, an elderly Zulu Anglican priest, as he searches for his sister and his son Absolom in the crowded and dangerous city of Johannesburg. I especially enjoyed the spiritual friendship that develops between Kumalo and a fellow priest.  
