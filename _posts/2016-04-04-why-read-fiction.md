@@ -2,7 +2,7 @@
 layout: post  
 type: post  
 title: Why Read Fiction?
-date: 2016-04-04 10:00:00  
+date: 2016-04-04 08:00:00 -0700  
 category: reading  
 tags: reading, fiction, books
 keywords: "reading, books, fiction, reading fiction, Wendell Berry, P.G. Wodehouse, Alan Paton, Andrew Peterson"
