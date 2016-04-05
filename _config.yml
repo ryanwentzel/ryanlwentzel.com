@@ -11,7 +11,7 @@ disqus_show_comment_count: true
 # Setup
 title:            Ryan Wentzel
 tagline:          "The blog"
-description:      "Thoughts on the Gospel, the Church, and the Christian life"
+description:      "The online home of Ryan Wentzel"
 url:              http://ryanlwentzel.com
 baseurl:          
 domain:           ryanlwentzel.com
