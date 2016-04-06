@@ -1,8 +1,7 @@
 ---
 layout: post  
 type: post  
-title: The Hills in the Distance Are Always Blue
-date: 2016-04-06 03:00:00 -0700  
+title: The Hills in the Distance Are Always Blue 
 category: reading  
 tags: contentment, Wendell Berry, quotes, books
 keywords: "Wendell Berry, contentment"
