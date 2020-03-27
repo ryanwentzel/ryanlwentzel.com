@@ -5,7 +5,7 @@ exclude:
 permalink:        /:year/:month/:day/:title/
 
 # Setup
-title:            Ryan Wentzel
+title:            Ryan L. Wentzel
 tagline:          "The online home of Ryan Wentzel"
 description:      "The official website of Ryan Wentzel"
 url:              http://ryanlwentzel.com
