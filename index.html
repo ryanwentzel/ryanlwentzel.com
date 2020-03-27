@@ -13,11 +13,11 @@ is_home: true
 			<span class="entry-date">{{ post.date | date: '%B %d, %Y' }}</span>
 		</div>
 	</header>
-	
+
 	<div class="entry-content">
 	{{ post.content }}
 	</div>
-	
+
 	<footer class="entry-footer">
 		{% comment %}
 		<div class="entry-sharing">
@@ -45,9 +45,6 @@ is_home: true
 			</ul>
 		</div>
 		{% endcomment %}
-		<div class="entry-more-container pull-right">
-			<a class="entry-comment-link" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}#comments">Leave a comment</a>
-		</div>
 	</footer>
 </article>
 {% endfor %}
