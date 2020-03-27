@@ -75,6 +75,10 @@ img {
 	color: #333;
 }
 
+.navbar-light .navbar-nav .nav-link {
+  color: #000000;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color: #FFFFFF;
 }
