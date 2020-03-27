@@ -4,10 +4,6 @@ exclude:
 # Permalinks
 permalink:        /:year/:month/:day/:title/
 
-# Disqus
-disqus_short_name: ryanlwentzel
-disqus_show_comment_count: true
-
 # Setup
 title:            Ryan Wentzel
 tagline:          "The blog"

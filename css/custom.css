@@ -124,8 +124,8 @@ header.masthead {
 	text-decoration: none;
 }
 
-.masthead a, 
-.site-navbar a, 
+.masthead a,
+.site-navbar a,
 .entry-title a {
 	color: #333;
 }
@@ -196,7 +196,6 @@ header.masthead {
 
 #main article {
 	border-top: 2px solid #E6E6E6;
-	padding-bottom: 1.5em;
 	padding-top: 3em;
 }
 
@@ -251,7 +250,6 @@ header.masthead {
 .entry-footer {
 	margin-bottom: 1em;
 	padding-top: 1em;
-	padding-bottom: 1em;
 }
 
 .index-entry footer {
@@ -260,7 +258,6 @@ header.masthead {
 
 .entry-single .entry-footer {
 	border-top: 2px solid #E6E6E6;
-	border-bottom: 2px solid #E6E6E6;
 }
 
 .entry-footer h4 {
@@ -338,7 +335,7 @@ header.masthead {
 
 ul.poem {
 	list-style: none;
-	
+
 }
 
 li.indent {
@@ -348,4 +345,3 @@ li.indent {
 .italics {
 	font-style: italic;
 }
-
