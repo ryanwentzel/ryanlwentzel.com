@@ -23,8 +23,10 @@ p, blockquote, ul, ol {
 }
 
 blockquote {
+  background-color: #f9f9f9;
 	padding: 10px 20px;
-    font-size: 0.85em;
+  font-size: 0.85em;
+  border-left: 3px solid #E6E6E6;
 }
 
 @media (max-width: 568px) {
@@ -298,6 +300,11 @@ img {
 
 .archive-list-posts li {
 	margin-bottom: 0.5em;
+}
+
+ul.list-inline li {
+  display: inline;
+  padding-right: 1em;
 }
 
 ul.poem {
