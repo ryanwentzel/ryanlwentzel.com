@@ -6,15 +6,16 @@ permalink:        /:year/:month/:day/:title/
 
 # Setup
 title:            Ryan Wentzel
-tagline:          "The blog"
-description:      "The online home of Ryan Wentzel"
+tagline:          "The online home of Ryan Wentzel"
+description:      "The official website of Ryan Wentzel"
 url:              http://ryanlwentzel.com
 baseurl:
 domain:           ryanlwentzel.com
 timezone:         America/Los_Angeles
 paginate:         5
 paginate_path:  page/:num
-rss_url:		  "http://feeds.feedburner.com/ryanlwentzel/feed"
+feed_url:       "feed.xml"
+rss_url:        "http://feeds.feedburner.com/ryanlwentzel/feed"
 assets_path:	  /public
 cdn_url:          https://d1yo597syf8yny.cloudfront.net
 home_page:        index.html
