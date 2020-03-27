@@ -37,7 +37,7 @@ keywords: 		  "Christianity, gospel, church, Reformed Baptist, Escondido, Christ
 
 # navbar
 
-pages_list: { "About": "/about/", "Contact": "/contact/" }
+pages_list: { "About": "/about/" }
 
 plugins:
     - jekyll-sitemap
