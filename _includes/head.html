@@ -13,7 +13,7 @@
 	{% assign page_title = page.title | append: ' - ' | append: site.title %}
 	{% assign page_url = site.url | append: page.url | remove: "index.html" %}
 	{% endif %}
-	
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>{{ page_title }}</title>
@@ -38,13 +38,14 @@
 	<meta property="og:type" content="blog">
 	<meta property="og:title" content="{{ page_title }}">
 	<meta name="og:url" href="{{ page_url }}">
-	
+
     <!-- Custom CSS -->
     {% include css.html %}
     {% include author-links.html %}
 	<link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
-	
+
     <!-- RSS -->
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.rss_url }}">
     {% include ga.html %}
+		{% include js.html %}
 </head>

@@ -4,8 +4,7 @@ html {
 
 body {
 	font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
-    font-size: 2em;
-	padding-top: 20px;
+  font-size: 2em;
 	padding-bottom: 20px;
 }
 
@@ -74,12 +73,12 @@ img {
 	color: #333;
 }
 
-.navbar-custom .navbar-nav > li > a:hover {
-	color: #0061c9;
+.navbar-dark .navbar-nav .nav-link {
+  color: #FFFFFF;
 }
 
-.navbar-nav {
-	font-size: 22px;
+.navbar-custom .navbar-nav > li > a:hover {
+	color: #0061c9;
 }
 
 .navbar-custom .navbar-nav li a:hover {
@@ -108,14 +107,8 @@ img {
 	clear: both;
 }
 
-/*
-header.masthead {
-	border-bottom: 3px solid #333;
-}
-*/
-
-.masthead {
-	border-bottom: 2px solid #333;
+.site-title .navbar-brand {
+  font-size: 1em;
 }
 
 .entry-title a,
@@ -124,30 +117,12 @@ header.masthead {
 	text-decoration: none;
 }
 
-.masthead a,
-.site-navbar a,
 .entry-title a {
 	color: #333;
 }
 
 .masthead a:hover, .site-navbar a:hover, .entry-title a:hover {
 	color: #0061c9;
-}
-
-@media (max-width: 568px) {
-	.masthead-title {
-		font-size: 2.5em;
-	}
-}
-
-@media (min-width: 992px) {
-	.masthead-title {
-		font-size: 3.8em;
-	}
-}
-
-.masthead-title {
-	text-align: center;
 }
 
 .header-title a {
@@ -164,11 +139,6 @@ header.masthead {
 	.site-navbar {
 			font-size: 1.5em;
 	}
-}
-
-.site-navbar {
-	margin-top: 1em;
-	margin-bottom: 1.5em;
 }
 
 .site-nav-list {
@@ -191,7 +161,7 @@ header.masthead {
 
 #main article:first-child {
 	border-top: medium none;
-	padding-top: 1em;
+	padding-top: 3em;
 }
 
 #main article {
