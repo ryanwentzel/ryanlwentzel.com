@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	font-family: 'PT Serif', Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Noto Serif', 'PT Serif', serif;
   font-size: 2em;
 	padding-bottom: 20px;
 }
@@ -199,7 +199,8 @@ img {
 }
 
 .entry-title {
-	letter-spacing: 3px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	letter-spacing: 0.2px;
 	line-height: 1.3em;
 }
 
@@ -214,7 +215,6 @@ img {
 }
 
 .entry-more-container a {
-
     font-size: 0.8em;
     text-decoration: underline;
 }
