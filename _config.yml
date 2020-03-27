@@ -6,8 +6,8 @@ permalink:        /:year/:month/:day/:title/
 
 # Setup
 title:            Ryan L. Wentzel
-tagline:          "The online home of Ryan Wentzel"
-description:      "The official website of Ryan Wentzel"
+tagline:          "The online home of Ryan L. Wentzel"
+description:      "The official website of Ryan L. Wentzel"
 url:              http://ryanlwentzel.com
 baseurl:
 domain:           ryanlwentzel.com
