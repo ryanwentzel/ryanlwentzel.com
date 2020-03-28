@@ -5,12 +5,13 @@ html {
 body {
   font-family: 'Noto Serif', 'PT Serif', serif;
   font-size: 2em;
+  letter-spacing: 0.02em;
 	padding-bottom: 20px;
 }
 
-@media (max-width: 568px) {
+@media (max-width: 768px) {
 	body {
-		font-size: 1.5em;
+		font-size: 1.6em;
 	}
 }
 
@@ -25,14 +26,8 @@ p, blockquote, ul, ol {
 blockquote {
   background-color: #f9f9f9;
 	padding: 10px 20px;
-  font-size: 0.85em;
+  /* font-size: 0.9em; */
   border-left: 3px solid #E6E6E6;
-}
-
-@media (max-width: 568px) {
-    blockquote {
-        font-size: 0.9em;
-    }
 }
 
 img {
@@ -204,7 +199,6 @@ img {
 
 .entry-title {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	line-height: 1.3em;
 }
 
 .entry-meta {
