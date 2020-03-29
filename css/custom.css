@@ -278,10 +278,8 @@ img {
 }
 
 /* Pagination */
-.pagination {
-	padding-right: 1.3em;
+.pagination-custom {
 	overflow: hidden; /* clearfix */
-	width: 100%;
 }
 
 /* Pages */
