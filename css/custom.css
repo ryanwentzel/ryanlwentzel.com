@@ -232,8 +232,8 @@ img {
 	width: 60%;
 }
 
-.entry-about-author img {
-	margin: 5px 10px 5px 0px;
+.profile-img {
+  border-radius: 50%;
 }
 
 .entry-more-container {
@@ -248,11 +248,6 @@ img {
 
 .entry-footnotes li {
 	margin-bottom: 0.8em;
-}
-
-.comments-container {
-	clear: both;
-	margin-top: 3em;
 }
 
 .site-footer {
