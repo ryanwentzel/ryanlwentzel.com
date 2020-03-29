@@ -286,6 +286,9 @@ img {
 }
 
 /* Pages */
+.about-page-author-container {
+  margin-bottom: 7em;
+}
 .about-page-author-photo img {
 	display: block;
 	margin: 0 auto;
