@@ -5,9 +5,9 @@ exclude:
 permalink:        /:year/:month/:day/:title/
 
 # Setup
-title:            Ryan L. Wentzel
-tagline:          "The online home of Ryan L. Wentzel"
-description:      "The official website of Ryan L. Wentzel"
+title:            Ryan Wentzel
+tagline:          "The online home of Ryan Wentzel"
+description:      "The official website of Ryan Wentzel"
 url:              http://ryanlwentzel.com
 baseurl:
 domain:           ryanlwentzel.com
@@ -30,7 +30,7 @@ author:
   instagram_username: "@ryanwentzel"
 
 
-keywords: 		  "Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"
+keywords: 		  "Ryan Wentzel, Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"
 
 # social
 
