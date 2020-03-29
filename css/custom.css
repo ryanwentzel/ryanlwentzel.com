@@ -3,10 +3,13 @@ html {
 }
 
 body {
-  font-family: 'Domine', 'Noto Serif', 'PT Serif', 'Times New Roman', serif;
+  color: #231f20;
+  font-family: 'Merriweather', Georgia, 'Noto Serif', 'Times New Roman', serif;
   font-size: 1.6em;
+  font-weight: 300;
   letter-spacing: 0.02em;
 	padding-bottom: 20px;
+  -webkit-font-smoothing: antialiased;
 }
 
 @media (max-width: 768px) {
@@ -17,6 +20,10 @@ body {
 
 a {
 	color: #0061c9;
+}
+
+h1, h2, h3, h4, b, strong {
+  font-weight: bold;
 }
 
 p, blockquote, ul, ol {
@@ -35,29 +42,6 @@ img {
 	max-width: 100%;
 	margin: 0 10px;
 	border-radius: 5px;
-}
-
-@media (max-width: 568px) {
-   .navbar .navbar-nav {
-        display: inline-block;
-        float: none;
-    }
-
-    .navbar .navbar-collapse {
-        text-align: center;
-    }
-}
-
-@media (max-width: 768px) {
-	.container {
-		max-width: 730px;
-	}
-}
-
-@media (min-width: 992px) {
-	.container {
-		width: 840px;
-	}
 }
 
 /* Overide Bootstrap */
@@ -152,6 +136,7 @@ img {
 
 #main {
 	margin: 0 auto;
+  max-width: 700px;
 }
 
 #main > article:after, #main > div > article:after {
@@ -171,8 +156,8 @@ img {
 }
 
 .entry {
-	padding-left: 0;
-	padding-right: 0;
+	padding-left: 1.25em;
+	padding-right: 1.25em;
 }
 
 .entry header {
@@ -197,7 +182,7 @@ img {
 	}
 }
 
-.entry-title {
+.entry-title, .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
