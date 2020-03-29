@@ -4,7 +4,7 @@ html {
 
 body {
   font-family: 'Domine', 'Noto Serif', 'PT Serif', 'Times New Roman', serif;
-  font-size: 1.8em;
+  font-size: 1.6em;
   letter-spacing: 0.02em;
 	padding-bottom: 20px;
 }
@@ -206,7 +206,7 @@ img {
 }
 
 .entry-content p {
-	line-height: 1.6em;
+	line-height: 1.8em;
 	margin-top: 15px;
 }
 
