@@ -241,6 +241,10 @@ img {
 	text-align: center;
 }
 
+.entry-footer-sharing a {
+  text-decoration: none;
+}
+
 .site-footer .social-icons a,
 .entry-footer-sharing a {
 	color: #a2a2a2;
