@@ -75,6 +75,12 @@ img {
 
 /* End of Bootstrap overrides */
 
+/* Font Awesome overrides */
+.fa {
+  font-size: 25px;
+}
+/* End of Font Awesome overrides */
+
 .alignleft {
 	float: left;
 }
