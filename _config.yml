@@ -1,6 +1,8 @@
 exclude:
     - vendor
 
+show_drafts: false
+
 # Permalinks
 permalink:        /:year/:month/:day/:title/
 
