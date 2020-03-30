@@ -156,7 +156,8 @@ img {
 }
 
 #masthead h1 {
-  font-weight: 800;
+  font-weight: normal;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
 }
 
@@ -168,7 +169,6 @@ img {
 
   #masthead h1 {
     font-size: 1.5em;
-    letter-spacing: 0.3em;
     margin-top: 20px;
   }
 
@@ -184,8 +184,7 @@ img {
   }
 
   #masthead h1 {
-    font-size: 2.5em;
-    letter-spacing: 0.3em;
+    font-size: 2.5em;;
   }
 
   #masthead .lead {
@@ -201,7 +200,6 @@ img {
 
   #masthead h1 {
     font-size: 2.5em;
-    letter-spacing: 0.3em;
   }
 
   #masthead .lead {
@@ -217,11 +215,22 @@ img {
 
   #masthead h1 {
     font-size: 2.5em;
-    letter-spacing: 0.3em;
   }
 
   #masthead .lead {
     font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 775px) and (max-width: 999px) {
+  #masthead h1 {
+    letter-spacing: 0.5em;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  #masthead h1 {
+    letter-spacing: 1em;
   }
 }
 
@@ -233,7 +242,6 @@ img {
 
   #masthead h1 {
     font-size: 2.5em;
-    letter-spacing: 0.3em;
   }
 
   #masthead .lead {
@@ -249,7 +257,6 @@ img {
 
   #masthead h1 {
     font-size: 2.5em;
-    letter-spacing: 0.3em;
   }
 
   #masthead .lead {
@@ -264,7 +271,6 @@ img {
 
   #masthead h1 {
     font-size: 3.5em;
-    letter-spacing: 0.5em;
   }
 
   #masthead .lead {
@@ -280,7 +286,6 @@ img {
 
   #masthead h1 {
     font-size: 3.5em;
-    letter-spacing: 0.5em;
   }
 
   #masthead .lead {
