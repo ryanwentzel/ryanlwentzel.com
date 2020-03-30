@@ -241,9 +241,40 @@ img {
   }
 }
 
+@media only screen and (min-width: 1025px) and (max-width: 1199px) {
+  #masthead {
+    background: url("/public/images/masthead-w1199.jpg") no-repeat scroll top;
+    max-height: 365px;
+  }
+
+  #masthead h1 {
+    font-size: 2.5em;
+    letter-spacing: 0.3em;
+  }
+
+  #masthead .lead {
+    font-size: 1.5em;
+  }
+}
+
 @media only screen and (min-width: 1200px) {
   #masthead {
     background: url("/public/images/masthead-w1600.jpg") no-repeat scroll top;
+  }
+
+  #masthead h1 {
+    font-size: 3.5em;
+    letter-spacing: 0.5em;
+  }
+
+  #masthead .lead {
+    font-size: 2.5em;
+  }
+}
+
+@media only screen and (min-width: 1800px) {
+  #masthead {
+    background: url("/public/images/masthead-w1920.jpg") no-repeat scroll top;
   }
 
   #masthead h1 {
