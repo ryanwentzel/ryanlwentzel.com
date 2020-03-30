@@ -69,6 +69,8 @@ img {
 .navbar-light .navbar-nav .nav-link,
 .navbar-light .navbar-nav .nav-link {
   color: #333;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
 .btn {
@@ -101,6 +103,9 @@ img {
 
 .site-title .navbar-brand {
   font-size: 1em;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
 }
 
 .entry-title a,
