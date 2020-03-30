@@ -146,6 +146,116 @@ img {
   padding: 0 20px 0 20px;
 }
 
+#masthead {
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  max-height: 500px;
+  color: #FFFFFF;
+  height: 100vh;
+}
+
+#masthead h1 {
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 415px) {
+  #masthead {
+    background: url("/public/images/masthead-w415.jpg") no-repeat scroll top;
+    max-height: 100px;
+  }
+
+  #masthead h1 {
+    font-size: 1.5em;
+    letter-spacing: 0.3em;
+    margin-top: 20px;
+  }
+
+  #masthead .lead {
+    font-size: 1em;
+  }
+}
+
+@media only screen and (min-width: 416px) and (max-width: 667px) {
+  #masthead {
+    background: url("/public/images/masthead-w667.jpg") no-repeat scroll top;
+    max-height: 200px;
+  }
+
+  #masthead h1 {
+    font-size: 2.5em;
+    letter-spacing: 0.3em;
+  }
+
+  #masthead .lead {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 736px) {
+  #masthead {
+    background: url("/public/images/masthead-w736.jpg") no-repeat scroll top;
+    max-height: 230px;
+  }
+
+  #masthead h1 {
+    font-size: 2.5em;
+    letter-spacing: 0.3em;
+  }
+
+  #masthead .lead {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 737px) and (max-width: 768px) {
+  #masthead {
+    background: url("/public/images/masthead-w768.jpg") no-repeat scroll top;
+    max-height: 219px;
+  }
+
+  #masthead h1 {
+    font-size: 2.5em;
+    letter-spacing: 0.3em;
+  }
+
+  #masthead .lead {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+  #masthead {
+    background: url("/public/images/masthead-w1024.jpg") no-repeat scroll top;
+    max-height: 289px;
+  }
+
+  #masthead h1 {
+    font-size: 2.5em;
+    letter-spacing: 0.3em;
+  }
+
+  #masthead .lead {
+    font-size: 1.5em;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  #masthead {
+    background: url("/public/images/masthead-w1600.jpg") no-repeat scroll top;
+  }
+
+  #masthead h1 {
+    font-size: 3.5em;
+    letter-spacing: 0.5em;
+  }
+
+  #masthead .lead {
+    font-size: 2.5em;
+  }
+}
+
 #main {
 	margin: 0 auto;
   max-width: 700px;
