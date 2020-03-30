@@ -257,7 +257,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
   #masthead {
     background: url("/public/images/masthead-w1600.jpg") no-repeat scroll top;
   }
@@ -272,9 +272,10 @@ img {
   }
 }
 
-@media only screen and (min-width: 1800px) {
+@media only screen and (min-width: 1601px) {
   #masthead {
     background: url("/public/images/masthead-w1920.jpg") no-repeat scroll top;
+    max-height: 600px;
   }
 
   #masthead h1 {
