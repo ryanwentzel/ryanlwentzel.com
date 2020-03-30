@@ -142,7 +142,6 @@ img {
 }
 
 #site-navigation {
-  box-shadow: 0 0 3px 0 #E6E6E6;
   padding: 0 20px 0 20px;
 }
 
@@ -192,22 +191,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 414px) and (max-width: 736px) {
-  #masthead {
-    background: url("/public/images/masthead-w736.jpg") no-repeat scroll top;
-    max-height: 230px;
-  }
-
-  #masthead h1 {
-    font-size: 2.5em;
-  }
-
-  #masthead .lead {
-    font-size: 1.5em;
-  }
-}
-
-@media only screen and (min-width: 737px) and (max-width: 768px) {
+@media only screen and (min-width: 668px) and (max-width: 768px) {
   #masthead {
     background: url("/public/images/masthead-w768.jpg") no-repeat scroll top;
     max-height: 219px;
@@ -224,13 +208,13 @@ img {
 
 @media only screen and (min-width: 775px) and (max-width: 999px) {
   #masthead h1 {
-    letter-spacing: 0.5em;
+    letter-spacing: 0.4em;
   }
 }
 
 @media only screen and (min-width: 1000px) {
   #masthead h1 {
-    letter-spacing: 1em;
+    letter-spacing: 0.7em;
   }
 }
 
@@ -264,21 +248,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1600px) {
-  #masthead {
-    background: url("/public/images/masthead-w1600.jpg") no-repeat scroll top;
-  }
-
-  #masthead h1 {
-    font-size: 3.5em;
-  }
-
-  #masthead .lead {
-    font-size: 2.5em;
-  }
-}
-
-@media only screen and (min-width: 1601px) {
+@media only screen and (min-width: 1200px) {
   #masthead {
     background: url("/public/images/masthead-w1920.jpg") no-repeat scroll top;
     max-height: 600px;
