@@ -18,7 +18,6 @@ timezone:         America/Los_Angeles
 paginate:         5
 paginate_path:  page/:num
 feed_url:       "feed.xml"
-rss_url:        "http://feeds.feedburner.com/ryanlwentzel/feed"
 assets_path:	  /public
 cdn_url:          https://d1yo597syf8yny.cloudfront.net
 home_page:        index.html
