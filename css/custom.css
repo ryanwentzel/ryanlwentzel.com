@@ -151,12 +151,12 @@ img {
 }
 
 #masthead {
+  background: url("/public/images/background-books.jpg") no-repeat scroll top;
   background-color: #000;
   background-size: cover;
   background-position: center;
-  max-height: 500px;
+  height: 200px;
   color: #FFFFFF;
-  height: 100vh;
 }
 
 #masthead h1 {
@@ -166,11 +166,6 @@ img {
 }
 
 @media only screen and (min-width: 320px) and (max-width: 415px) {
-  #masthead {
-    background: url("/public/images/masthead-w415.jpg") no-repeat scroll top;
-    max-height: 100px;
-  }
-
   #masthead h1 {
     font-size: 1.5em;
     margin-top: 20px;
@@ -182,11 +177,6 @@ img {
 }
 
 @media only screen and (min-width: 416px) and (max-width: 667px) {
-  #masthead {
-    background: url("/public/images/masthead-w667.jpg") no-repeat scroll top;
-    max-height: 200px;
-  }
-
   #masthead h1 {
     font-size: 2.5em;;
   }
@@ -196,12 +186,7 @@ img {
   }
 }
 
-@media only screen and (min-width: 668px) and (max-width: 768px) {
-  #masthead {
-    background: url("/public/images/masthead-w768.jpg") no-repeat scroll top;
-    max-height: 219px;
-  }
-
+@media only screen (max-width: 767px) {
   #masthead h1 {
     font-size: 2.5em;
   }
@@ -223,25 +208,9 @@ img {
   }
 }
 
-@media only screen and (min-width: 769px) and (max-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
   #masthead {
-    background: url("/public/images/masthead-w1024.jpg") no-repeat scroll top;
-    max-height: 289px;
-  }
-
-  #masthead h1 {
-    font-size: 2.5em;
-  }
-
-  #masthead .lead {
-    font-size: 1.5em;
-  }
-}
-
-@media only screen and (min-width: 1025px) and (max-width: 1199px) {
-  #masthead {
-    background: url("/public/images/masthead-w1199.jpg") no-repeat scroll top;
-    max-height: 365px;
+    height: 350px;
   }
 
   #masthead h1 {
@@ -255,10 +224,9 @@ img {
 
 @media only screen and (min-width: 1200px) {
   #masthead {
-    background: url("/public/images/masthead-w1920.jpg") no-repeat scroll top;
-    max-height: 600px;
+    height: 575px;
   }
-
+  
   #masthead h1 {
     font-size: 3.5em;
   }
