@@ -120,10 +120,6 @@ img {
 	color: #333;
 }
 
-.masthead a:hover, .site-navbar a:hover, .entry-title a:hover {
-	color: #0061c9;
-}
-
 .header-title a {
 	text-decoration: none;
 }
