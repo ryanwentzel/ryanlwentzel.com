@@ -6,14 +6,12 @@ is_home: true
 {% for post in paginator.posts %}
 <article class="entry index-entry">
 	<header>
-		<div class="entry-meta">
-			<span class="entry-date">{{ post.date | date: '%B %d, %Y' }}</span>
-		</div>
 		<h1 class="entry-title">
 			<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 		</h1>
 		<div class="entry-meta">
-			<span>By {{ site.author.name }}</span>
+			<span>By {{ site.author.name }}</span>&nbsp;|&nbsp;
+			<span class="entry-date">{{ post.date | date: '%B %d, %Y' }}</span>
 		</div>
 	</header>
 
