@@ -1,5 +1,4 @@
 ---
-layout: post
 type: article
 title: 'Test Article'  
 date: 2020-03-30 07:05:00 -0700  
