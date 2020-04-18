@@ -3,20 +3,22 @@ layout: default
 is_home: true
 ---
 
-{% for post in paginator.posts %}
+{% for article in site.articles limit:5 %}
 <article class="entry index-entry">
 	<header>
 		<h1 class="entry-title">
-			<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+			<a href="{{ site.baseurl }}{{ post.url }}">{{ article.title }}</a>
 		</h1>
 		<div class="entry-meta">
 			<span>By {{ site.author.name }}</span>&nbsp;|&nbsp;
-			<span class="entry-date">{{ post.date | date: '%B %d, %Y' }}</span>
+			<span class="entry-date">{{ article.date | date: '%B %d, %Y' }}</span>
 		</div>
 	</header>
 
 	<div class="entry-content">
-	{{ post.content }}
+		<p>
+			{{ article.excerpt }}
+		</p>
 	</div>
 
 	<footer class="entry-footer">
@@ -50,6 +52,7 @@ is_home: true
 </article>
 {% endfor %}
 
+{% comment %}
 <div class="pagination-custom container">
 	<div class="alignleft pagination-item older">
 	    {% if paginator.next_page %}
@@ -66,3 +69,4 @@ is_home: true
 	    {% endif %}
 	</div>
 </div>
+{% endcomment %}

@@ -22,6 +22,7 @@ assets_path:	  /public
 cdn_url:          https://d1yo597syf8yny.cloudfront.net
 home_page:        index.html
 home_page_inc:    /
+excerpt_separator: <!--more--> 
 
 author:
   name:           'Ryan Wentzel'
@@ -32,7 +33,13 @@ author:
   instagram_handle: "ryanwentzel"
 
 
-keywords: 		  "Ryan Wentzel, Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"
+keywords: 		  "Ryan Wentzel, Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"  
+
+# collections
+
+collections:
+    articles:
+      output: true
 
 # social
 
