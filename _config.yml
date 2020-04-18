@@ -40,6 +40,7 @@ keywords: 		  "Ryan Wentzel, Christianity, gospel, church, Reformed Baptist, Esc
 collections:
     articles:
       output: true
+      permalink: /:collection/:title
 
 # social
 
@@ -56,9 +57,14 @@ plugins:
 # Defaults
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       comments: true
+      layout: "post"
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "post"
