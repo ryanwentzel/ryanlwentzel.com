@@ -2,9 +2,11 @@
 layout: default
 is_home: true
 ---
+<h2>Latest Articles</h2>
 
-{% for article in site.articles limit:5 %}
-<article class="entry index-entry">
+{% assign articles = site.articles | sort: 'date' | reverse %}
+{% for article in articles limit:5 %}
+<article class="entry entry-home">
 	<header>
 		<h1 class="entry-title">
 			<a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a>
