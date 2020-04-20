@@ -18,7 +18,7 @@ menu_settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: '/about/'
+      url: '/about'
     - title: 'Subscribe'
       url: '/feed.xml'
 
