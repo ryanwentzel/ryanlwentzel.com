@@ -1,28 +1,5 @@
-<footer class="site-footer">
-	<section class="pull-left">
-		<ul class="list-inline">
-			<li>&copy; {{ site.author.name }}</li>
-		</ul>
-	</section>
-	<section id="connect" class="pull-right">
-		<div class="social-icons">
-			<ul class="list-inline">
-				<li>
-					<a href="{{site.url }}/{{ site.feed_url }}">
-						<i class="fa fa-rss"></i>
-					</a>
-				</li>
-				<li>
-						<a href="{{ site.author.instagram }}">
-							<i class="fa fa-instagram"></i>
-						</a>
-				</li>
-				<li>
-					<a href="{{ site.author.twitter }}">
-						<i class="fa fa-twitter"></i>
-					</a>
-				</li>
-			</ul>
-		</div>
-	</section>
+<footer class="footer">
+	<div class="footer__copyright">
+		<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+	</div>
 </footer>

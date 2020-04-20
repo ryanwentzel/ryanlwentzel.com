@@ -1,68 +1,55 @@
 ---
 layout: default
-is_home: true
+title: Christian. Husband. Father. Pastor.
+description: The online home of Ryan Wentzel.
+featured_image: /images/featured/office-chair.jpg
 ---
 
-{% for post in paginator.posts %}
-<article class="entry index-entry">
-	<header>
-		<h1 class="entry-title">
-			<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-		</h1>
-		<div class="entry-meta">
-			<span>By {{ site.author.name }}</span>&nbsp;|&nbsp;
-			<span class="entry-date">{{ post.date | date: '%B %d, %Y' }}</span>
-		</div>
-	</header>
+<section class="blog single">
 
-	<div class="entry-content">
-	{{ post.content }}
+	<div class="wrap">
+
+		{% for post in paginator.posts %}
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+				<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
+			</div>
+
+			{% if post.featured_image %}
+			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
+			{% endif %}
+
+			<div class="blog-post__content">
+				<p>{{ post.excerpt }}</p>
+				<p><a href="{{ post.url | relative_url }}" class="button">Read More</a>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
 	</div>
 
-	<footer class="entry-footer">
-		{% comment %}
-		<div class="entry-sharing">
-			<ul class="list-inline">
-				<li>
-					<a href="#">
-						<i class="fa fa-twitter"></i>
-					</a>
-				</li>
-				<li>
-					<a href="#">
-						<i class="fa fa-facebook"></i>
-					</a>
-				</li>
-				<li>
-					<a href="#">
-						<i class="fa fa-google-plus"></i>
-					</a>
-				</li>
-				<li>
-					<a href="#">
-						<i class="fa fa-envelope"></i>
-					</a>
-				</li>
-			</ul>
-		</div>
-		{% endcomment %}
-	</footer>
-</article>
-{% endfor %}
+</section>
 
-<div class="pagination-custom container">
-	<div class="alignleft pagination-item older">
-	    {% if paginator.next_page %}
-		<a href="{{ site.baseurl }}/page/{{paginator.next_page }}">&larr; Older</a>
-		{% endif %}
+{% if paginator.total_pages > 1 %}
+
+<section class="pagination">
+
+	{% if paginator.previous_page %}
+	<div class="pagination__prev">
+		<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
 	</div>
-	<div class="alignright pagination-item newer">
-	    {% if paginator.previous_page %}
-	      {% if paginator.page == 2 %}
-	        <a href="{{ site.baseurl }}/">Newer &rarr;</a>
-	      {% else %}
-	        <a href="{{ site.baseurl }}/page/{{ paginator.previous_page }}">Newer &rarr;</a>
-	      {% endif %}
-	    {% endif %}
+	{% endif %}
+	{% if paginator.next_page %}
+	<div class="pagination__next">
+		<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 	</div>
-</div>
+	{% endif %}
+
+</section>
+
+{% endif %}
