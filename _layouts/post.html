@@ -2,19 +2,23 @@
 layout: default
 ---
 
-<article class="entry entry-single">
-	<header>
-		<div class="entry-meta">
-		</div>
-		<h1 class="entry-title">{{ page.title }}</h1>
-		<div class="entry-meta">
-			<span>By {{ site.author.name }}</span>&nbsp;|&nbsp;
-			<span class="entry-date">{{ page.date | date: '%B %d, %Y' }}</span>
-		</div>
-	</header>
+<section class="intro">
 
-	<section class="entry-content">
-	{{ content }}
-	</section>
-	{% include post-footer.html %}
-</article>
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.date | date: '%B %d, %Y' }}</p>
+
+	</div>
+
+</section>
+
+<section class="single">
+
+	<div class="wrap">
+
+		{{ page.content }}
+
+	</div>
+
+</section>

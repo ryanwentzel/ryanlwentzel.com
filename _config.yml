@@ -1,57 +1,62 @@
-exclude:
-    - vendor
+site: Ryan Wentzel
 
-show_drafts: false
-show_future: false
+url: http://ryanlwentzel.com
+baseurl: 
 
-# Permalinks
-permalink:        /:year/:month/:day/:title/
+excerpt_separator: <!--more-->
 
-# Setup
-title:            Ryan Wentzel
-tagline:          "δοῦλος Ἰησοῦ Χριστοῦ"
-description:      "The official website of Ryan Wentzel"
-url:              http://ryanlwentzel.com
-baseurl:
-domain:           ryanlwentzel.com
-timezone:         America/Los_Angeles
-paginate:         5
-paginate_path:  page/:num
-feed_url:       "feed.xml"
-assets_path:	  /public
-cdn_url:          https://d1yo597syf8yny.cloudfront.net
-home_page:        index.html
-home_page_inc:    /
-
-author:
-  name:           'Ryan Wentzel'
-  url:            https://twitter.com/ryanwentzel
-  twitter:        "http://twitter.com/ryanwentzel"
-  twitter_handle: "ryanwentzel"
-  instagram:      "https://www.instagram.com/ryanwentzel/"
-  instagram_handle: "ryanwentzel"
-
-
-keywords: 		  "Ryan Wentzel, Christianity, gospel, church, Reformed Baptist, Escondido, Christian books"
-
-# social
-
-
-# navbar
-
-pages_list: { "About": "/about/" }
-
-plugins:
-    - jekyll-sitemap
-    - jekyll-redirect-from
-    - github-pages, group: :jekyll_plugins
-
-# Defaults
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+  projects:
+    output: false
+    permalink: /project/:slug
 
 defaults:
   -
     scope:
       path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
       type: "posts"
     values:
-      comments: true
+      layout: "post"
+      category: "articles"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - github-pages, group: :jekyll_plugins
+
+paginate: 6
+paginate_path: "page/:num"
+  
