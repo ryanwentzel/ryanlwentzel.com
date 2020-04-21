@@ -3,8 +3,6 @@ site: Ryan Wentzel
 url: https://ryanlwentzel.com
 baseurl: 
 
-excerpt_separator: <!--more-->
-
 collections:
   pages:
     output: true
