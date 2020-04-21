@@ -4,7 +4,7 @@ layout:
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>{{ site.data.settings.basic_settings.site_title }}</title>
- <link href="{{ site.url }}/feed.xml" rel="self"/>
+ <link href="{{ site.url }}/feeds/feed.xml" rel="self"/>
  <link href="{{ site.url }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>

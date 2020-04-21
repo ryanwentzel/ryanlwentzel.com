@@ -20,7 +20,7 @@ menu_settings:
     - title: 'About'
       url: '/about'
     - title: 'Subscribe'
-      url: '/feed.xml'
+      url: '/feeds/feed.xml'
 
 grid_settings:
   grid_spacing: 10
