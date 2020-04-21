@@ -1,7 +1,7 @@
 ---
 title: About Me
 ---
-![](/images/featured/fam-2019.jpg)
+![](https://d1yo597syf8yny.cloudfront.net/images/featured/fam-2019.jpg)
 
 I am a husband, father of five, and a pastor at [Grace Bible Church](https://grcbible.org/ "A Reformed Baptist church in Escondido, CA") (GBC) in Escondido, CA.  
 
