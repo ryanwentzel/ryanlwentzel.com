@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: I am a husband, father of five, and a pastor at Grace Bible Church in Escondido, CA
 ---
 ![](https://d1yo597syf8yny.cloudfront.net/images/featured/fam-2019.jpg)
 
