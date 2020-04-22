@@ -1,0 +1,29 @@
+---
+layout: default
+title: Teach Us to Pray
+subtitle: "The Lord's Prayer: A Master Class on Prayer"
+description: A series of essays on The Lord's Prayer
+---
+<section class="intro">
+	<div class="wrap">
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+	</div>
+</section>
+<section class="portfolio">
+	<div class="wrap">
+		{% for essay in site.essays reversed %}
+		<div class="portfolio-item">
+			<a class="portfolio-item__link" href="{{ essay.url | relative_url }}">
+				<div class="portfolio-item__image" style="background-image: url({{ essay.featured_image | relative_url }});"></div>
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ essay.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ essay.subtitle }}</p>
+					</div>
+				</div>
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+</section>
