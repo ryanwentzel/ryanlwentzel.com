@@ -21,12 +21,11 @@
 	<title>{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}</title>
 	<meta name="description" content="{{ page_description }}">
 
+	{% assign featured_image = page.featured_image | default: site.data.settings.basic_settings.header_image %}
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}">
 	<meta name="twitter:description" content="{{ page_description }}">
-	{% assign featured_image = page.featured_image %}
-	{% unless featured_image %}{% assign featured_image = site.data.settings.basic_settings.featured_image %}{% endunless %}
 	<meta name="twitter:image:src" content="{{ featured_image | absolute_url }}">
 
 	<!-- Facebook OpenGraph -->
@@ -83,7 +82,7 @@
 	
 	<div class="page">
 
-		<div class="page__content" data-page-title="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" data-image="{{ page.featured_image | relative_url }}">
+		<div class="page__content" data-page-title="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" data-image="{{ featured_image | relative_url }}">
 
 			{{ content }}
 

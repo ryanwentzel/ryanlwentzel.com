@@ -3,7 +3,7 @@ basic_settings:
   site_tagline: Christian. Husband. Father. Pastor.
   site_author: Ryan Wentzel 
   favicon_image: /favicon.ico
-  featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-chair.jpg
+  header_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-chair.jpg
 
 cdn:
   url: https://d1yo597syf8yny.cloudfront.net
