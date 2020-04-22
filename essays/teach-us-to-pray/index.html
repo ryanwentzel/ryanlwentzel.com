@@ -3,6 +3,7 @@ layout: default
 title: Teach Us to Pray
 subtitle: "The Lord's Prayer: A Master Class on Prayer"
 description: A series of essays on The Lord's Prayer
+summary: "Prayer is essential but difficult. It's something that's caught more than taught. Yet, we need instruction if we're going to pray well. We need models of prayer that can shape our prayers. Where can we find such models? We need look no further than The Lord's Prayer. This prayer is a master class in prayer taught by the Master himself. In it Jesus teaches us how to pray. Do you want to learn to pray? Let Jesus teach you."
 ---
 <section class="intro">
 	<div class="wrap">
@@ -10,9 +11,27 @@ description: A series of essays on The Lord's Prayer
 		<p>{{ page.subtitle }}</p>
 	</div>
 </section>
+<section class="single">
+	<div class="wrap">
+		<p><i>{{ page.summary }}</i></p>
+		<ul>
+			<li>
+				<a href="{% link _essays/2020-04-21-part-1.md %}">On Prayer</a> – This is the subtitle
+			</li>
+		</ul>
+	</div>
+</section>
 <section class="portfolio">
 	<div class="wrap">
-		{% for essay in site.essays reversed %}
+		<div class="portfolio-item">
+			<div class="portfolio-item__content">
+				<div class="portfolio-item__info">
+					<h2 class="portfolio-item__title">On Prayer</h2>
+					<p class="portfolio-item__subtitle">This is the subtitle</p>
+				</div>
+			</div>
+		</div>
+		<!-- {% for essay in site.essays reversed %}
 		<div class="portfolio-item">
 			<a class="portfolio-item__link" href="{{ essay.url | relative_url }}">
 				<div class="portfolio-item__image" style="background-image: url({{ essay.featured_image | relative_url }});"></div>
@@ -24,6 +43,6 @@ description: A series of essays on The Lord's Prayer
 				</div>
 			</a>
 		</div>
-		{% endfor %}
+		{% endfor %} -->
 	</div>
 </section>

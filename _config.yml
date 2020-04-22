@@ -9,13 +9,16 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /:year/:month/:day/:title/
+    permalink: /:year/:month/:day/:title
   projects:
     output: false
     permalink: /project/:slug
   essays:
     output: true
-    permalink: /essays/:slug/
+    permalink: /essays/:slug
+  essayCollections:
+    output: true
+    permalink: /essays/collections/:slug
 
 defaults:
   -
@@ -46,6 +49,12 @@ defaults:
     scope:
       path: ""
       type: "essays"
+    values:
+      layout: "project"
+  - 
+    scope:
+      path: ""
+      type: "essayCollections"
     values:
       layout: "project"
 

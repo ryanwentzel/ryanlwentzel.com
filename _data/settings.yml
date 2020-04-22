@@ -19,6 +19,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
+    - title: 'Essays'
+      url: '/essays'
     - title: 'Subscribe'
       url: '/feeds/feed.xml'
 
