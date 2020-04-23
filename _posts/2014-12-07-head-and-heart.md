@@ -2,7 +2,7 @@
 title: "Head and Heart"  
 date: 2014-12-07 14:55:00  
 category: 'commonplace'
-permalink: /2014/12/07/head-and-heart/
+
 ---
 > The more extensive and accurate are our views of literal truth, so much the more numerous and salutary
 > are the forms which it may assume for enlisting the affections. It is a tendency of pietism to undervalue the
