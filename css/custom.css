@@ -23,6 +23,10 @@ h4 a:hover, h5 a:hover, h6 a:hover {
     color: #2F2F31;
 }
 
+.single p a {
+    font-weight: normal;
+}
+
 #site-header,
 .single p a.button,
 .button {
@@ -33,6 +37,7 @@ h4 a:hover, h5 a:hover, h6 a:hover {
 .button {
     background-color: #2F2F31;
     border: 2px solid #2F2F31;
+    font-weight: 600;
 }
 
 /* posts */
