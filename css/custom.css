@@ -11,6 +11,10 @@ ul, ol {
     letter-spacing: 0.02em;
 }
 
+p, ul, ol {
+    font-weight: 300;
+}
+
 .header__tagline {
     text-transform: lowercase;
 }
