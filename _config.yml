@@ -16,6 +16,9 @@ collections:
   prayers:
     output: true
     permalink: /prayers/:slug
+  scottishcollects:
+    output: true
+    permalink: /scottish-collects/:slug
 
 defaults:
   -
@@ -46,6 +49,12 @@ defaults:
     scope:
       path: ""
       type: "prayers"
+    values:
+      layout: "prayer"
+  -
+    scope:
+      path: ""
+      type: "scottishcollects"
     values:
       layout: "prayer"
 
