@@ -4,6 +4,13 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+/* typography */
+/* body,
+p,
+ul, ol {
+    letter-spacing: 0.02em;
+} */
+
 .single p, .single ul, .single ol {
     font-weight: 300;
     margin-bottom: 1.5em;
