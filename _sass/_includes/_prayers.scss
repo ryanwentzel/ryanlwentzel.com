@@ -1,0 +1,21 @@
+p, ul, ol {
+	@include mq(tabletp) {
+		font-size: $p-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $p-medium;
+	}
+}
+
+.single .prayer p {
+    line-height: 1.5em;
+}
+
+.single .prayer p:first-of-type::first-letter {
+    color: #be1e24;
+    float: left;
+    font-size: 5em;
+    margin: 0.059em auto;
+    padding-right: 0.05em;
+}
