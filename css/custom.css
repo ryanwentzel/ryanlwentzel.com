@@ -4,11 +4,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-.single p, .single ul, .single ol {
-    font-weight: 300;
-    margin-bottom: 1.5em;
-}
-
 .header__tagline {
     text-transform: lowercase;
 }
@@ -21,14 +16,29 @@ h4 a:hover, h5 a:hover, h6 a:hover {
     color: #2F2F31;
 }
 
-.single p a {
-    font-weight: normal;
-}
-
 #site-header,
 .single p a.button,
 .button {
     font-family: "Montserrat", Helvetica, Arial, sans-serif;
+}
+
+@media only screen and (min-width: 1600px) {
+    .header__tagline {
+        font-size: 18px;
+    }
+    
+    .page, .page__content {
+        width: 90%;
+    }
+}
+
+.single p, .single ul, .single ol {
+    font-weight: 300;
+    margin-bottom: 1.5em;
+}
+
+.single p a {
+    font-weight: normal;
 }
 
 .single p a.button,
@@ -45,7 +55,7 @@ h4 a:hover, h5 a:hover, h6 a:hover {
 }
 
 .single p {
-    line-height: 1.8;
+    line-height: 1.6;
 }
 
 .single blockquote p {
