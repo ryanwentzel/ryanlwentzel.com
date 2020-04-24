@@ -140,10 +140,10 @@ font_settings:
     line_height: 1.6
   p:
     small_size: 14
-    medium_size: 18
-    large_size: 18
+    medium_size: 20
+    large_size: 24
     weight: 400
-    letter_spacing: 0
+    letter_spacing: 0.02
     line_height: 1.6
   blockquote:
     small_size: 16
