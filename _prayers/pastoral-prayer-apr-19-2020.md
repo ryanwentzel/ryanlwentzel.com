@@ -28,11 +28,16 @@ for we come to you through him.
 He is our Great High Priest;  
 our intercessor and mediator.
 
-Enable us, by the power of your Holy Spirit,  
+Enable us,  
+by the power of your Holy Spirit,  
 to offer our prayers to you  
-with confidence that your ear is open to us,  
-with trust that you are willing and able to answer us,    
-for the glory of your name  and our everlasting good.
+with confidence  
+that your ear is open to us,  
+with trust  
+that you are willing  
+and able to answer us,    
+for the glory of your name  
+and our everlasting good.
 
 ## Hallowed Be Your Name  
 
@@ -77,9 +82,11 @@ in the world to come.
 
 We pray that your kingdom would advance  
 in this world through the preaching of the gospel.  
-Enable us as a church to faithfully proclaim  
+Enable us as a church  
+to faithfully proclaim  
 the good news here in Escondido.  
-Help us to be winsome and gracious witnesses to the gospel  
+Help us to be winsome  
+and gracious witnesses to the gospel  
 with our friends and families and neighbors.  
 Open their eyes and ears to the truth.  
 Grant them repentance and faith.
