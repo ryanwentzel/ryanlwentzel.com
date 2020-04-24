@@ -22,6 +22,12 @@ h4 a:hover, h5 a:hover, h6 a:hover {
     font-family: "Montserrat", Helvetica, Arial, sans-serif;
 }
 
+@media only screen and (min-width: 1600px) {
+    .page, .page__content {
+        width: 90%;
+    }
+}
+
 .single p, .single ul, .single ol {
     font-weight: 300;
     margin-bottom: 1.5em;
