@@ -97,22 +97,22 @@ font_settings:
     weight: 400
     letter_spacing: 0
   h1:
-    small_size: 25
-    medium_size: 35
+    small_size: 40
+    medium_size: 45
     large_size: 45
     weight: 400
     letter_spacing: -0.02
     line_height: 1.2
   h2:
-    small_size: 26
-    medium_size: 30
+    small_size: 35
+    medium_size: 38
     large_size: 38
     weight: 400
     letter_spacing: -0.02
     line_height: 1.2
   h3:
-    small_size: 22
-    medium_size: 25
+    small_size: 25
+    medium_size: 30
     large_size: 30
     weight: 400
     letter_spacing: -0.02
@@ -139,7 +139,7 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 14
+    small_size: 16
     medium_size: 20
     large_size: 22
     weight: 400
@@ -147,8 +147,8 @@ font_settings:
     line_height: 1.6
   blockquote:
     small_size: 16
-    medium_size: 18
-    large_size: 18
+    medium_size: 20
+    large_size: 22
     weight: 400
     letter_spacing: -0.02
     line_height: 1.6
