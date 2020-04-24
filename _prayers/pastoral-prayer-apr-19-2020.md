@@ -1,10 +1,9 @@
 ---
-title: "Pastoral Prayer"
+title: "A Pastoral Prayer Based on the Lord's Prayer"
 subtitle: "TBD"
-date: 2020-04-19 00:00:00
-church: "Grace Bible Church"
+date: 2020-04-19 00:00:00 -0700
+venue: "Grace Bible Church"
 location: "Escondido, CA"
-prayerType: "pastoral"
 summary: "A pastoral prayer that takes The Lord's Prayer as its structure and expands on each petition."
 ---
 ## Invocation
@@ -36,4 +35,4 @@ Enable us, by the power of your Holy Spirit,
 to offer our prayers to you  
 with confidence that your ear is open to us,  
 with trust that you are willing and able to answer us  
-for the glory of your name  and our everlasting good.
+for the glory of your name and our everlasting good.
