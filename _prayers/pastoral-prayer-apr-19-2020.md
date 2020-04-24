@@ -6,8 +6,6 @@ venue: "Grace Bible Church"
 location: "Escondido, CA"
 summary: "A pastoral prayer that takes The Lord's Prayer as its structure and expands on each petition."
 ---
-## Invocation
-
 Our Father in heaven,  
 majestic is your name!  
 From the rising of the sun to its setting  
