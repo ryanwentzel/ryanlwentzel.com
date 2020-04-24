@@ -3,7 +3,7 @@ title: "A Pastoral Prayer Based on the Lord's Prayer"
 date: 2020-04-19 00:00:00 -0700
 venue: "Grace Bible Church"
 location: "Escondido, CA"
-summary: "A pastoral prayer offered on April 19, 2020 at Grace Bible Church in Escondido, CA (via streaming video due to the COVID-19 pandemic). It takes The Lord's Prayer as its structure and expands on each petition. I composed this prayer using ideas from <cite>A Way to Pray</cite> by Matthew Henry and <cite>Leading in Prayer: A Workbook for Worship</cite> by Hughes Oliphant Old."
+summary: "A pastoral prayer offered on April 19, 2020 at Grace Bible Church in Escondido, CA (via streaming video due to the COVID-19 pandemic). It takes the Lord's Prayer as its structure and expands on each petition. I composed this prayer using ideas from <cite>A Way to Pray</cite> by Matthew Henry and <cite>Leading in Prayer: A Workbook for Worship</cite> by Hughes Oliphant Old."
 ---
 Our Father in heaven,  
 majestic is your name!  
