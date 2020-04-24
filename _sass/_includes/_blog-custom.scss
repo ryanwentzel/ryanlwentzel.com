@@ -1,0 +1,14 @@
+h3 a {
+    font-weight: 400;
+}
+
+/* foobar, yeah */
+@media 
+only screen and (min-width: 768px),
+only screen and (min-width: 1024px),
+only screen and (min-width: 1220px),
+only screen and (min-width: 1600px){
+    .blog-post {
+        margin-top: 40px;
+    }
+}

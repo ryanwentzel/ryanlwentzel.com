@@ -14,7 +14,7 @@ title: "Prayers"
 			<a href="{{ prayer.url | relative_url }}" class="blog-post__image" style="background-image: url({{ prayer.featured_image | relative_url }});"></a>
 			{% endif %}
 			<div class="blog-post__content">
-				<p>{{ prayer.summary | default:prayer.excerpt }}</p>
+				{% if prayer.summary %}<p>{{ prayer.summary }}</p>{% else %}{{ prayer.excerpt }}{% endif %}
 				<p><a href="{{ prayer.url | relative_url }}" class="button">Read More</a>
 			</div>
 		</article>
