@@ -8,11 +8,16 @@ p, ul, ol {
 	}
 }
 
-.single .prayer p {
+.single .prayer-summary p {
+    font-style: italic;
+    font-weight: light;
+}
+
+.single .prayer-content p {
     line-height: 1.5em;
 }
 
-.single .prayer p:first-of-type::first-letter {
+.single .prayer-content p:first-of-type::first-letter {
     color: #be1e24;
     float: left;
     font-size: 5em;

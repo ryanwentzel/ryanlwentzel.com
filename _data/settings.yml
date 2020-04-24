@@ -72,7 +72,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;1,300;1,700&family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">'
   title_font: '"Montserrat", Helvetica, Arial, sans-serif'
   body_font: '"Merriweather", Georgia, serif'
   regular_weight: 400
