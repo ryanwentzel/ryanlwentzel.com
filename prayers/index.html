@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Prayers"
+---
+<section class="blog single">
+	<div class="wrap">
+		{% for prayer in site.prayers reversed %}
+		<article class="blog-post">
+			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="{{ prayer.url | relative_url }}">{{ prayer.title }}</a></h2>
+				<p class="blog-post__subtitle">{{ prayer.date | date: '%B %d, %Y' }}</p>
+			</div>
+			{% if post.featured_image %}
+			<a href="{{ prayer.url | relative_url }}" class="blog-post__image" style="background-image: url({{ prayer.featured_image | relative_url }});"></a>
+			{% endif %}
+			<div class="blog-post__content .prayer-excerpt">
+				<p><span class="prayer-summary-label">Summary:</span> {{ prayer.summary | default: prayer.excerpt }}</p>
+				<p><a href="{{ prayer.url | relative_url }}" class="button">Read More</a>
+			</div>
+		</article>
+		{% endfor %}
+	</div>
+</section>

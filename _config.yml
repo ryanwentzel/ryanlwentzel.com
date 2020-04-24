@@ -13,6 +13,9 @@ collections:
   projects:
     output: false
     permalink: /project/:slug
+  prayers:
+    output: true
+    permalink: /prayers/:slug
 
 defaults:
   -
@@ -39,6 +42,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "prayers"
+    values:
+      layout: "prayer"
 
 markdown: kramdown
 

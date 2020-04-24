@@ -1,0 +1,55 @@
+$prayer-accent-color: #be1e24;
+
+p, ul, ol {
+	@include mq(tabletp) {
+		font-size: $p-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $p-medium;
+	}
+}
+
+.prayer-summary-label {
+    font-weight: bolder;
+}
+
+.single .prayer-summary {
+    font-style: italic;
+    font-weight: 300;
+}
+
+.single .prayer-summary cite {
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.single .prayer-summary hr {
+    background: none;
+    border: none;
+    color: $text-medium-color;
+    font-size: $p-large;
+    font-style: normal;
+    padding-bottom: 1.8em;
+    text-align: center;
+}
+
+.single .prayer-summary hr::after {
+    content: "\2722\2722\2722";
+}
+
+.single .prayer-content {
+    margin-top: 20px;
+}
+
+.single .prayer-content p {
+    line-height: 1.5em;
+}
+
+.single .prayer-content p:first-of-type::first-letter {
+    color: $prayer-accent-color;
+    float: left;
+    font-size: 5em;
+    margin: 0.059em auto;
+    padding-right: 0.05em;
+}
