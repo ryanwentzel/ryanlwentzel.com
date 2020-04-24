@@ -1,3 +1,5 @@
+$prayer-accent-color: #be1e24;
+
 p, ul, ol {
 	@include mq(tabletp) {
 		font-size: $p-medium;
@@ -6,6 +8,10 @@ p, ul, ol {
 	@include mq(laptop) {
 		font-size: $p-medium;
 	}
+}
+
+.prayer-summary-label {
+    font-weight: bolder;
 }
 
 .single .prayer-summary {
@@ -41,7 +47,7 @@ p, ul, ol {
 }
 
 .single .prayer-content p:first-of-type::first-letter {
-    color: #be1e24;
+    color: $prayer-accent-color;
     float: left;
     font-size: 5em;
     margin: 0.059em auto;
