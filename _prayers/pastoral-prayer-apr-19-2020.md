@@ -208,7 +208,7 @@ and the glory forever.
 
 You’ve promised to grant our requests  
 when we ask in Jesus’ name.  
-Fulfill now the desires of our hearts,  
+Fulfill now the desires of our heart,  
 for we pray through Jesus Christ, our Lord,  
 who with you and the Holy Spirit  
 is eternally praised. Amen.
