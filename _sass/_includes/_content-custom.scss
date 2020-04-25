@@ -1,10 +1,11 @@
 $text-red-color: #9a3135;
+$anchor-color: $text-medium-color;
 
 .single {
     p a {
-        color: $text-medium-color;
-        border-bottom: 1px solid $text-medium-color;
-        font-weight: normal;
+        color: $anchor-color;
+        border-bottom: 1px solid $anchor-color;
+        font-weight: bolder;
     }
     sup a.footnote {
         display: unset;
@@ -14,7 +15,7 @@ $text-red-color: #9a3135;
 hr.cross {
     background: none;
     border: none;
-    color: $text-red-color;
+    color: $anchor-color;
     font-size: $p-large;
     font-style: normal;
     padding-bottom: 1.8em;

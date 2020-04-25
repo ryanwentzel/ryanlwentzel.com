@@ -41,10 +41,6 @@ h4 a:hover, h5 a:hover, h6 a:hover {
     margin-bottom: 1.5em;
 }
 
-.single p a {
-    font-weight: normal;
-}
-
 .single p a.button,
 .button {
     background-color: #2F2F31;
