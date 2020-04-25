@@ -9,7 +9,7 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 		{% for post in paginator.posts %}
 		<article class="blog-post">
 			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+				<h1 class="blog-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
 				<p class="blog-post__subtitle">{{ post.date | date: '%B %d, %Y' }}</p>
 			</div>
 			{% if post.featured_image %}
