@@ -72,3 +72,9 @@ h4 a:hover, h5 a:hover, h6 a:hover {
     border-top: 1px solid #DDDDDD;
     padding-top: 20px;
 }
+
+// - - - - - - - - - - - Custom styles
+@import "_includes/_content-custom";
+@import "_includes/_collections";
+@import "_includes/_blog-custom";
+@import "_includes/_prayers";

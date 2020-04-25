@@ -1,4 +1,11 @@
+$text-red-color: #9a3135;
+
 .single {
+    p a {
+        color: $text-medium-color;
+        border-bottom: 1px solid $text-medium-color;
+        font-weight: normal;
+    }
     sup a.footnote {
         display: unset;
     }
@@ -7,7 +14,7 @@
 hr.cross {
     background: none;
     border: none;
-    color: #be1e24; /* create variable */
+    color: $text-red-color;
     font-size: $p-large;
     font-style: normal;
     padding-bottom: 1.8em;
