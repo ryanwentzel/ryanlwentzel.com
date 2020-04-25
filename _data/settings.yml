@@ -72,7 +72,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;1,300;1,700&family=Montserrat:wght@300;400;700&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;1,300;1,700&family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">'
   title_font: '"Montserrat", Helvetica, Arial, sans-serif'
   body_font: '"Merriweather", Georgia, serif'
   regular_weight: 400
@@ -100,14 +100,14 @@ font_settings:
     small_size: 40
     medium_size: 45
     large_size: 45
-    weight: 400
+    weight: 600
     letter_spacing: -0.02
     line_height: 1.2
   h2:
     small_size: 35
     medium_size: 38
     large_size: 38
-    weight: 400
+    weight: 600
     letter_spacing: -0.02
     line_height: 1.2
   h3:
