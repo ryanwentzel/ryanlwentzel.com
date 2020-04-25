@@ -15,3 +15,9 @@ only screen and (min-width: $break-desktop) {
         margin-top: 40px;
     }
 }
+
+.single-blog-post {
+    p {
+        margin-bottom: 1.5em;
+    }
+}

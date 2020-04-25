@@ -34,6 +34,10 @@ h4 a:hover, h5 a:hover, h6 a:hover {
 
 .single p, .single ul, .single ol {
     font-weight: 300;
+
+}
+
+.single ul, .single ol {
     margin-bottom: 1.5em;
 }
 
