@@ -56,7 +56,7 @@ defaults:
       path: ""
       type: "scottishcollects"
     values:
-      layout: "prayer"
+      layout: "collect"
 
 markdown: kramdown
 

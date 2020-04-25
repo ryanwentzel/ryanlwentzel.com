@@ -42,20 +42,31 @@ p, ul, ol {
     margin-top: 20px;
 }
 
+.single .collect-content p,
 .single .prayer-content p {
     line-height: 1.5em;
 }
 
-.single .prayer-content p:first-of-type::first-letter {
-    color: $prayer-accent-color;
-    float: left;
-    font-size: 5em;
-    margin: 0.295em auto;
-    padding-right: 0.05em;
+.single {
+    .collect-content,
+    .prayer-content {
+        p:first-of-type::first-letter {
+            color: $prayer-accent-color;
+            float: left;
+            font-size: 5em;
+            margin: 0.295em auto;
+            padding-right: 0.05em;
+        }
+    }
 }
 
 @-moz-document url-prefix() {
-    .single .prayer-content p:first-of-type::first-letter {
-        margin: 0.059em auto;
+    .single {
+        .collect-content,
+        .prayer-content {
+            p:first-of-type::first-letter {
+                margin: 0.059em auto;
+            }
+        }
     }
 }
