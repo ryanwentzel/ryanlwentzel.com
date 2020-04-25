@@ -3,17 +3,21 @@ layout: default
 title: "Scottish Collects from The Scottish Psalter of 1595"
 ---
 <section class="blog single">
-	<div class="wrap">
-		{% for collect in site.scottishcollects %}
-		<article class="blog-post">
+	<div class="wrap wrap-collection">
+		<header class="collection-header">
+			<h1 class="collection-title">Collects from <cite>The Scottish Psalter of 1595</cite></cite></h1>
+		</header>
+		<section class="collection-intro">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse non augue sapien. Vivamus in viverra metus. Etiam porta ipsum nec magna aliquam dapibus nec sed est. Donec dictum iaculis viverra. Donec fringilla tristique orci id sollicitudin. Cras condimentum mauris nec iaculis convallis. Duis eros dui, varius eget dictum eget, accumsan ac mi. Morbi sed nisi nisi.</p>
+			<hr class="cross">
+		</section>
+		{% for item in site.scottishcollects %}
+		<article class="blog-post collection-item">
 			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="{{ collect.url | relative_url }}">{{ collect.title }}</a></h2>
+				<h2 class="blog-post__title"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
 			</div>
-			{% if post.featured_image %}
-			<a href="{{ collect.url | relative_url }}" class="blog-post__image" style="background-image: url({{ collect.featured_image | relative_url }});"></a>
-			{% endif %}
-			<div class="blog-post__content">
-                {{ collect.content }}
+			<div class="blog-post__content collection-item">
+                <p class="item-content-preview">“{{ item.preview }}...”</p>
 			</div>
 		</article>
 		{% endfor %}

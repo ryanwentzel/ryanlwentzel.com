@@ -1,0 +1,16 @@
+.wrap-collection {
+    .collection-intro {
+        font-style: italic;
+        margin-top: 2em;
+    }
+
+    .collection-item:not(:first-child) {
+        .blog-post__content {
+            margin-top: 1.8em;
+        }
+    }
+
+    .item-content-preview {
+        font-style: italic;
+    }
+}
