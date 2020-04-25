@@ -15,7 +15,7 @@ title: "Prayers"
 			{% endif %}
 			<div class="blog-post__content .prayer-excerpt">
 				<p><span class="prayer-summary-label">Summary:</span> {{ prayer.summary | default: prayer.excerpt }}</p>
-				<p><a href="{{ prayer.url | relative_url }}" class="button">Read More</a>
+				<p><a class="more-permalink" href="{{ prayer.url | relative_url }}">Read more...</a></p>
 			</div>
 		</article>
 		{% endfor %}
