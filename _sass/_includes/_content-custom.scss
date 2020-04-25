@@ -1,0 +1,19 @@
+.single {
+    sup a.footnote {
+        display: unset;
+    }
+}
+
+hr.cross {
+    background: none;
+    border: none;
+    color: #be1e24; /* create variable */
+    font-size: $p-large;
+    font-style: normal;
+    padding-bottom: 1.8em;
+    text-align: center;
+}
+
+hr.cross::after {
+    content: "\2722\2722\2722";
+}
