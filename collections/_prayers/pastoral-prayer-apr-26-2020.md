@@ -1,7 +1,6 @@
 ---
 title: "A Pastoral Prayer Based on the ACTS Model"
-date: 2020-04-26 06:41:00 -0700
-published: false
+date: 2020-04-26 14:07:00 -0700
 summary: "A pastoral prayer offered on April 26, 2020 at Grace Bible Church in Escondido, CA. We were unable to meet together as a church because of the COVID-19 pandemic. The prayer, Scripture reading, and sermon were recorded in an empty chapel, and the video was made available online."
 notes: "I crafted the prayer using the A.C.T.S. acrostic adopted by many Christians as a guide to prayer. Each letter in the acrostic stands for an important element of prayer: <b>A</b>doration, <b>C</b>onfession, <b>T</b>hanksgiving, <b>S</b>upplication."
 ---
