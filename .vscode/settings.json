@@ -1,5 +1,4 @@
 {
-    "explorer.sortOrder": "modified",
     "workbench.editor.enablePreview": false,
     "[markdown]": {
         "files.trimTrailingWhitespace": false,
