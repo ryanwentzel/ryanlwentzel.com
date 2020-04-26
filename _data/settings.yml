@@ -17,8 +17,6 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Prayers'
-      url: '/prayers'
     - title: 'About'
       url: '/about'
     - title: 'Subscribe'
