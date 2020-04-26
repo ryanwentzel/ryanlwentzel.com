@@ -6,10 +6,13 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 ---
 <section class="blog single">
 	<div class="wrap">
-		{%- unless paginator.page > 1 -%}{%- include recent-prayers.html -%}{%- endunless -%}
+		{%- if paginator.page > 1 -%}
 		{%- for post in paginator.posts -%}
 		{%- include blog-post.html post=post -%}
 		{%- endfor -%}
+		{%- else -%}
+		{%- include latest-content.html -%}
+		{%- endif -%}
 	</div>
 </section>
 {% if paginator.total_pages > 1 %}

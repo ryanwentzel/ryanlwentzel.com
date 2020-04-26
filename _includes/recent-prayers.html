@@ -1,6 +1,5 @@
-{%- assign published = site.prayers | where: "published", true -%}
-{%- assign sorted = published | sort: "date" -%}
-{%- for prayer in sorted reversed -%}
+{%- assign sorted = site.prayers | sort: "date" | reverse -%}
+{%- for prayer in sorted -%}
 <article class="blog-post">
     <div class="blog-post__header">
         <h2 class="blog-post__title"><a href="{{ prayer.url | relative_url }}">{{- prayer.title -}}</a></h2>
