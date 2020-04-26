@@ -1,4 +1,22 @@
 $anchor-color: $text-dark-color;
+$font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
+
+.button {
+    font-family: $font-family-sans;
+}
+
+.header__tagline {
+    text-transform: lowercase;
+    @media only screen and (min-width: 1600px) {
+        font-size: 18px;
+    }
+}
+
+.page, .page__content {
+    @media only screen and (min-width: 1600px) {
+        width: 90%;
+    }
+}
 
 .single {
     blockquote {
@@ -14,6 +32,10 @@ $anchor-color: $text-dark-color;
         color: $anchor-color;
         border-bottom: 1px solid $anchor-color;
         font-weight: normal;
+
+        .button {
+            font-family: $font-family-sans;
+        }
     }
     sup a.footnote {
         display: unset;
@@ -21,6 +43,10 @@ $anchor-color: $text-dark-color;
     ul, ol {
         margin-bottom: 1.5em;
     }
+}
+
+#site-header {
+    font-family: $font-family-sans;
 }
 
 .button, .single p a.button {

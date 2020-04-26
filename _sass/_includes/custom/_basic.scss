@@ -1,4 +1,19 @@
 $text-red-color: #9a3135;
+body {
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* headings */
+h1, h2, h3, h4, h5, h6 {
+    &,
+    a {
+        &, &:hover {
+            color: #2F2F31;
+        }
+    }
+}
 
 hr.cross {
     background: none;
