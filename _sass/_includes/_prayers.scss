@@ -26,9 +26,16 @@ p, ul, ol {
     margin-top: 20px;
 }
 
-.single .collect-content p,
-.single .prayer-content p {
-    line-height: 1.5em;
+.single .collect-content {
+    p {
+        line-height: 1.7em;
+    }
+}
+
+.single .prayer-content {
+    p {
+        line-height: 1.5em;
+    }
 }
 
 .single {

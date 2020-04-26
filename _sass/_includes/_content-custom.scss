@@ -2,10 +2,15 @@ $text-red-color: #9a3135;
 $anchor-color: $text-dark-color;
 
 .single {
+    blockquote {
+        p {
+            line-height: 1.5em;
+        }
+    }
     p a {
         color: $anchor-color;
         border-bottom: 1px solid $anchor-color;
-        font-weight: bolder;
+        font-weight: normal;
     }
     sup a.footnote {
         display: unset;

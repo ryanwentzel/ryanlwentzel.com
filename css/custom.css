@@ -32,11 +32,6 @@ h4 a:hover, h5 a:hover, h6 a:hover {
     }
 }
 
-.single p, .single ul, .single ol {
-    font-weight: 300;
-
-}
-
 .single ul, .single ol {
     margin-bottom: 1.5em;
 }
@@ -48,14 +43,8 @@ h4 a:hover, h5 a:hover, h6 a:hover {
     font-weight: 600;
 }
 
-/* posts */
-
-.blog-post__content {
-    font-weight: 300;
-}
-
 .single p {
-    line-height: 1.6;
+    line-height: 1.8;
 }
 
 .single blockquote p {
