@@ -1,10 +1,7 @@
 <header id="site-header" class="header">
 
-	{% if page.featured_image %}
-	<div class="header-image header-image--on" style="background-image: url({{ page.featured_image | relative_url }});"></div>
-	{% else %}
-	<div class="header-image header-image--on" style="background-image: url({{ site.data.settings.basic_settings.header_image | relative_url }});"></div>
-	{% endif %}
+	{% assign header_image = page.featured_image | default: page.header_image | default: site.data.settings.basic_settings.header_image %}
+	<div class="header-image header-image--on" style="background-image: url({{ header_image | relative_url }});"></div>
 	<div class="header-image"></div>
 
 	<div class="header-overlay"></div>

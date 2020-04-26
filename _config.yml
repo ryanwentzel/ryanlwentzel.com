@@ -57,7 +57,7 @@ defaults:
     values:
       layout: "prayer"
       published: true
-      featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02.jpg"
+      header_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02.jpg"
   -
     scope:
       path: ""
