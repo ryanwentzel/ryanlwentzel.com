@@ -4,6 +4,8 @@ $anchor-color: $text-dark-color;
     blockquote {
         p {
             border-left: 3px solid #CCCCCC;
+            font-family: $body-font;
+            font-weight: 300;
             line-height: 1.8em;
             padding: 10px 20px;
         }
