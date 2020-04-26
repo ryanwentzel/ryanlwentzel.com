@@ -1,6 +1,9 @@
 ---
+layout: prayer
 title: "A Pastoral Prayer Based on the Lord's Prayer"
 date: 2020-04-19 00:00:00 -0700
+category: prayers
+permalink: /prayers/pastoral-prayer-apr-19-2020
 venue: "Grace Bible Church"
 location: "Escondido, CA"
 summary: "A pastoral prayer offered on April 19, 2020 at Grace Bible Church in Escondido, CA (via streaming video due to the COVID-19 pandemic)."
