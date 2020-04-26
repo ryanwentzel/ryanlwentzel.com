@@ -1,0 +1,8 @@
+<p>{{- include.prayer.summary | default: include.prayer.excerpt -}}</p>
+{%- if include.prayer.notes -%}<p>{{- include.prayer.notes -}}</p>{%- endif -%}
+{%- if include.absolute_url -%}
+{% assign permalink = include.prayer.url | absolute_url -%}
+{%- else -%}
+{%- assign permalink = include.prayer.url | relative_url _%}
+{%- endif -%}
+<p><a class="more-permalink" href="{{ permalink }}">Read more...</a></p>
