@@ -148,8 +148,8 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_blog";
 
 // - - - - - - - - - - - Custom styles
-@import "_includes/custom/_basic-custom";
-@import "_includes/custom/_content-custom";
+@import "_includes/custom/_basic";
+@import "_includes/custom/_content";
 @import "_includes/custom/_collections";
-@import "_includes/custom/_blog-custom";
+@import "_includes/custom/_blog";
 @import "_includes/custom/_prayers";
