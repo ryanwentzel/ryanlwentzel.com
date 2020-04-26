@@ -15,11 +15,10 @@ p, ul, ol {
 .single .prayer-summary {
     font-style: italic;
     font-weight: 300;
-}
 
-.single .prayer-summary cite {
-    font-style: normal;
-    font-weight: bolder;
+    cite {
+        font-style: normal;
+    }
 }
 
 .single .prayer-content {
