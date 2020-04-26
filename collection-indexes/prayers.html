@@ -6,8 +6,8 @@ featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02
 ---
 <section class="blog single">
 	<div class="wrap">
-		{% assign published = site.prayers | where: "published", true %}
-		{% assign sorted = published | sort: "date" %}
+		{% assign prayers = site.posts | where: "category", "prayers" %}
+		{% assign sorted = prayers | sort: "date" %}
 		{% for prayer in sorted reversed %}
 		<article class="blog-post">
 			<div class="blog-post__header">

@@ -18,9 +18,6 @@ collections:
   projects:
     output: false
     permalink: /project/:slug
-  prayers:
-    output: true
-    permalink: /prayers/:slug
   scottishcollects:
     output: true
     permalink: /scottish-collects/:slug
@@ -46,18 +43,17 @@ defaults:
       category: "articles"
   -
     scope:
+      category: "prayers"
+      type: "posts"
+    values:
+      layout: prayer
+      permalink: /prayers/:slug
+  -
+    scope:
       path: ""
       type: "projects"
     values:
       layout: "project"
-  -
-    scope:
-      path: ""
-      type: "prayers"
-    values:
-      layout: "prayer"
-      published: true
-      featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02.jpg"
   -
     scope:
       path: ""
