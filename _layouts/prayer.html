@@ -11,6 +11,7 @@ layout: default
 	<div class="wrap">
 		<div class="prayer-summary">
 			<p>{{ page.summary }}</p>
+			{% if page.notes %}<p>{{ page.notes }}</p>{% endif %}
 			<hr class="cross">
 		</div>
 		<div class="prayer-content">

@@ -3,6 +3,9 @@ site: Ryan Wentzel
 url: https://ryanlwentzel.com
 baseurl: 
 
+future: false
+timezone: America/Los_Angeles
+
 collections_dir: collections
 
 collections:
@@ -53,6 +56,8 @@ defaults:
       type: "prayers"
     values:
       layout: "prayer"
+      published: true
+      featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02.jpg"
   -
     scope:
       path: ""
