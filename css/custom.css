@@ -31,27 +31,6 @@ h4 a:hover, h5 a:hover, h6 a:hover {
         width: 90%;
     }
 }
-
-.single ul, .single ol {
-    margin-bottom: 1.5em;
-}
-
-.single p a.button,
-.button {
-    background-color: #2F2F31;
-    border: 2px solid #2F2F31;
-    font-weight: 600;
-}
-
-.single p {
-    line-height: 1.8;
-}
-
-.single blockquote p {
-    border-left: 3px solid #CCCCCC;
-    padding: 10px 20px;
-}
-
 /* footnotes */
 .footnotes ol {
     border-top: 1px solid #DDDDDD;

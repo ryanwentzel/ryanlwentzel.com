@@ -1,5 +1,22 @@
+$text-red-color: #9a3135;
+
+hr.cross {
+    background: none;
+    border: none;
+    color: $text-red-color;
+    font-size: $p-large;
+    font-style: normal;
+    padding-bottom: 1.8em;
+    text-align: center;
+}
+
+hr.cross::after {
+    content: "\2722\2722\2722";
+}
+
 p {
     cite {
         border-bottom: 1px dotted;
     }
 }
+
