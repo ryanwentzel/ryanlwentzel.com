@@ -6,22 +6,6 @@ featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02
 ---
 <section class="blog single">
 	<div class="wrap">
-		{% assign published = site.prayers | where: "published", true %}
-		{% assign sorted = published | sort: "date" %}
-		{% for prayer in sorted reversed %}
-		<article class="blog-post">
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="{{ prayer.url | relative_url }}">{{ prayer.title }}</a></h2>
-				<p class="blog-post__subtitle">{{ prayer.date | date: '%B %d, %Y' }}</p>
-			</div>
-			{%- include featured-image.html item=post -%}
-			<div class="blog-post__content .prayer-excerpt">
-				<p>{{ prayer.summary | default: prayer.excerpt }}</p>
-				{% if prayer.notes %}<p>{{ prayer.notes }}</p>{% endif %}
-				<p><a class="more-permalink" href="{{ prayer.url | relative_url }}">Read more...</a></p>
-			</div>
-			<hr class="cross">
-		</article>
-		{% endfor %}
+		{%- include recent-prayers.html -%}
 	</div>
 </section>
