@@ -1,0 +1,27 @@
+---
+layout:
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Prayers – {{- site.data.settings.basic_settings.site_title -}}</title>
+ <link href="{{- site.url -}}{{- page.url -}}" rel="self"/>
+ <link href="{{- site.url -}}/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{- site.url -}}</id>
+ <author>
+   <name>{{- site.data.settings.basic_settings.site_author -}}</name>
+   <email>{{- site.author.email -}}</email>
+ </author>
+ <icon>{{ site.baseurl }}/favicon.ico</icon>
+
+ {%- for prayer in site.prayers limit:10 -%}
+ <entry>
+   <title>{{- prayer.title -}}</title>
+   <link href="{{- site.url -}}{{- prayer.url -}}"/>
+   <updated>{{- prayer.date | date_to_xmlschema -}}</updated>
+   <id>{{- site.url -}}{{- prayer.id -}}</id>   
+   {%- capture prayer_content -%}{% include prayer-content.html prayer=prayer absolute_url=true -%}{%- endcapture -%}
+   <content type="html">{{- prayer_content | xml_escape -}}</content>
+ </entry>
+ {%- endfor -%}
+</feed>
