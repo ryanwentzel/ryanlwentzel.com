@@ -41,12 +41,13 @@ defaults:
     values:
       layout: "post"
       category: "articles"
-  -
+  - 
     scope:
-      category: "prayers"
+      path: "_posts/prayers/*.md"
       type: "posts"
     values:
       layout: prayer
+      category: prayers
       permalink: /prayers/:slug
   -
     scope:
