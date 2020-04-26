@@ -13,7 +13,19 @@ layout:
    <email>{{ site.author.email }}</email>
  </author>
  <icon>{{ site.baseurl }}/favicon.ico</icon>
-
+{%- comment -%}hack for now to get prayers in the main feed{%- endcomment -%}
+{%- assign sorted = site.prayers | sort: "date" -%}
+{%- assign prayers = sorted | reverse -%}
+ {%- for prayer in prayers limit:10 -%}
+ <entry>
+   <title>{{- prayer.title -}}</title>
+   <link href="{{- site.url -}}{{- prayer.url -}}"/>
+   <updated>{{- prayer.date | date_to_xmlschema -}}</updated>
+   <id>{{- site.url -}}{{- prayer.id -}}</id>   
+   {%- capture prayer_content -%}{% include prayer-content.html prayer=prayer absolute_url=true -%}{%- endcapture -%}
+   <content type="html">{{- prayer_content | xml_escape -}}</content>
+ </entry>
+ {%- endfor -%}
  {% for post in site.posts limit:10 %}
  <entry>
    <title>{{ post.title }}</title>

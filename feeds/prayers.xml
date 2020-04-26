@@ -13,8 +13,9 @@ layout:
    <email>{{- site.author.email -}}</email>
  </author>
  <icon>{{ site.baseurl }}/favicon.ico</icon>
-
- {%- for prayer in site.prayers limit:10 -%}
+{%- assign sorted = site.prayers | sort: "date" -%}
+{%- assign prayers = sorted | reverse -%}
+ {%- for prayer in prayers limit:10 -%}
  <entry>
    <title>{{- prayer.title -}}</title>
    <link href="{{- site.url -}}{{- prayer.url -}}"/>
