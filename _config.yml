@@ -3,6 +3,8 @@ site: Ryan Wentzel
 url: https://ryanlwentzel.com
 baseurl: 
 
+collections_dir: collections
+
 collections:
   pages:
     output: true
