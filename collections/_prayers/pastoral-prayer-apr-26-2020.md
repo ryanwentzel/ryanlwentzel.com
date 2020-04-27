@@ -2,8 +2,8 @@
 title: "A Pastoral Prayer Based on the ACTS Model"
 date: 2020-04-26 14:07:00 -0700
 excerpt: "Great are you, O Lord, and greatly to be praised. Your greatness is unsearchable."
-summary: "A pastoral prayer using the ACTS model. Offered on April 26, 2020 at Grace Bible Church in Escondido, CA."
-notes: "I crafted the prayer using the A.C.T.S. acrostic adopted by many Christians as a guide to prayer. Each letter in the acrostic stands for an important element of prayer: <b>A</b>doration, <b>C</b>onfession, <b>T</b>hanksgiving, <b>S</b>upplication. We were unable to meet together as a church because of the COVID-19 pandemic. The prayer, Scripture reading, and sermon were recorded in an empty chapel, and the video was made available online."
+summary: "A pastoral prayer using the ACTS model. Offered on April 26, 2020 at Grace Bible Church in Escondido, CA. Due to the COVID-19 pandemic, a video of the prayer, Scripture reading, and sermon was made available online for the congregation."
+notes: "I crafted the prayer using the A.C.T.S. acrostic adopted by many Christians as a guide to prayer. Each letter in the acrostic stands for an important element of prayer: <b>A</b>doration, <b>C</b>onfession, <b>T</b>hanksgiving, <b>S</b>upplication."
 ---
 Great are you, O Lord,  
 and greatly to be praised.  
