@@ -22,6 +22,11 @@
 
 	.wrap {
 
+		max-width: 60%;
+		@include mq(tabletp) {
+			max-width: 80%;
+		}
+
 		@include mq(tabletl) {
 			max-width: 80%;
 		}
@@ -69,13 +74,7 @@
 		margin-left: auto;
 		margin-right: auto;
 
-		@include mq(tabletp) {
-		}
-
-		@include mq(tabletl) {
-			max-width: 80%;
-		}
-
+		max-width: 80%;
 		@include mq(laptop) {
 			max-width: 75%;
 		}

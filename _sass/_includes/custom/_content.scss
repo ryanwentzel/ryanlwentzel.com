@@ -54,6 +54,7 @@ ul.archive-items {
     $multiplier: 0.8;
     .blog-post__title {
         font-size: $h2-small * $multiplier;
+        font-weight: 700;
 
         @include mq(tabletp){
             font-size: $h2-medium * $multiplier;
