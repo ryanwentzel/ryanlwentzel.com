@@ -1,6 +1,38 @@
 $anchor-color: $text-dark-color;
 $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
 
+.archive-group {
+    margin-top: 0;
+    margin-bottom: 2em;
+
+    .archive-year {
+        border-bottom: 3px solid;
+    }
+}
+
+ul.archive-items {
+    list-style-type: none;
+    margin-top: 1.5em;
+
+    li {
+        margin-top: 1.5em;
+
+        p {
+            line-height: 1.3em;
+            margin: 0;
+        }
+    }
+}
+
+.archive-item {
+        margin-top: 0;
+
+        .archive-item__date {
+            color: $text-light-color;
+            font-size: $p-small;
+        }
+}
+
 .button {
     font-family: $font-family-sans;
 }
