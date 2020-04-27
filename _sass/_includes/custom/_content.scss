@@ -46,12 +46,8 @@ ul.archive-items {
 
 .latest-section {
     margin-bottom: 4em;
-    
-    p {
-        font-size: $p-small;
-    }
 
-    $multiplier: 0.8;
+    $multiplier: 1;
     .blog-post__title {
         font-size: $h2-small * $multiplier;
         font-weight: 700;
@@ -104,8 +100,7 @@ ul.archive-items {
     border-bottom: 3px solid $text-medium-color;
     color: $text-medium-color;
     font-weight: 700;
-    letter-spacing: 0.01em;
-    padding-bottom: 0.2em;
+    padding-bottom: 0.3em;
     text-transform: uppercase;
 
     $multiplier: 0.5;
