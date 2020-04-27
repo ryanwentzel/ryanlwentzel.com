@@ -3,7 +3,13 @@
     margin-bottom: 2em;
 
     .archive-year {
-        border-bottom: 3px solid;
+        &:after {
+            content: ""; /* This is necessary for the pseudo element to work. */ 
+            display: block; /* This will put the pseudo element on its own line. */
+            width: 8%; /* Change this to whatever width you want. */
+            padding-top: 10px; /* This creates some space between the element and the border. */
+            border-bottom: 3px solid $text-medium-color;
+        }
     }
 }
 
