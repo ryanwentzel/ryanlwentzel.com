@@ -21,7 +21,7 @@ layout:
    <link href="{{- site.url -}}{{- prayer.url -}}"/>
    <updated>{{- prayer.date | date_to_xmlschema -}}</updated>
    <id>{{- site.url -}}{{- prayer.id -}}</id>   
-   {%- capture prayer_content -%}{% include prayer-content.html prayer=prayer absolute_url=true -%}{%- endcapture -%}
+   {%- capture prayer_content -%}{% include prayer-preview.html prayer=prayer absolute_url=true -%}{%- endcapture -%}
    <content type="html">{{- prayer_content | xml_escape -}}</content>
  </entry>
  {%- endfor -%}
