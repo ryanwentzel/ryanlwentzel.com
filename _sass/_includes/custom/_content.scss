@@ -1,6 +1,38 @@
 $anchor-color: $text-dark-color;
 $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
 
+.archive-group {
+    margin-top: 0;
+    margin-bottom: 2em;
+
+    .archive-year {
+        border-bottom: 3px solid;
+    }
+}
+
+ul.archive-items {
+    list-style-type: none;
+    margin-top: 1.5em;
+
+    li {
+        margin-top: 1.5em;
+
+        p {
+            line-height: 1.3em;
+            margin: 0;
+        }
+    }
+}
+
+.archive-item {
+        margin-top: 0;
+
+        .archive-item__date {
+            color: $text-light-color;
+            font-size: $p-small;
+        }
+}
+
 .button {
     font-family: $font-family-sans;
 }
@@ -9,6 +41,84 @@ $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
     text-transform: lowercase;
     @media only screen and (min-width: 1600px) {
         font-size: 18px;
+    }
+}
+
+.latest-section {
+    margin-bottom: 4em;
+    
+    p {
+        font-size: $p-small;
+    }
+
+    $multiplier: 0.8;
+    .blog-post__title {
+        font-size: $h2-small * $multiplier;
+
+        @include mq(tabletp){
+            font-size: $h2-medium * $multiplier;
+        }
+        @include mq(tabletl) {
+            font-size: $h2-medium * $multiplier;
+        }
+        @include mq(laptop) {
+            font-size: $h2-large * $multiplier;
+        }
+        @include mq(desktop) {
+            font-size: $h2-large * $multiplier;
+        }
+    }
+
+    .blog-post__subtitle {
+        font-family: $title-font;
+
+        $multiplier: 0.7;
+        font-size: $p-small * $multiplier;
+        @include mq(tabletp){
+            font-size: $p-medium * $multiplier;
+        }
+        @include mq(tabletl) {
+            font-size: $p-medium * $multiplier;
+        }
+        @include mq(laptop) {
+            font-size: $p-large * $multiplier;
+        }
+        @include mq(desktop) {
+            font-size: $p-large * $multiplier;
+        }
+
+        text-transform: uppercase;
+    }
+
+    .blog-post__content {
+         margin-top: 0.8em;
+
+         p {
+            font-weight: 300;
+         }
+    }
+}
+
+.latest-section__header {
+    border-bottom: 2px solid $text-medium-color;
+    color: $text-medium-color;
+    letter-spacing: 0.01em;
+    padding-bottom: 0.2em;
+    text-transform: uppercase;
+
+    $multiplier: 0.5;
+    font-size: $h1-small * $multiplier;
+    @include mq(tabletp){
+        font-size: $h1-medium * $multiplier;
+    }
+    @include mq(tabletl) {
+        font-size: $h1-medium * $multiplier;
+    }
+    @include mq(laptop) {
+        font-size: $h1-large * $multiplier;
+    }
+    @include mq(desktop) {
+        font-size: $h1-large * $multiplier;
     }
 }
 

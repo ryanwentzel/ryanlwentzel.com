@@ -1,8 +1,4 @@
-{%- if include.prayer.notes -%}
-<p>{{- include.prayer.notes -}}</p>
-{%- else -%}
-<p>{{- include.prayer.summary | default: include.prayer.excerpt -}}</p>
-{%- endif -%}
+<p><i>{{- include.prayer.excerpt -}}</i></p>
 {%- if include.absolute_url -%}
 {% assign permalink = include.prayer.url | absolute_url -%}
 {%- else -%}
