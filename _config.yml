@@ -9,6 +9,9 @@ timezone: America/Los_Angeles
 collections_dir: collections
 
 collections:
+  microposts:
+    output: true
+    permalink: /microposts/:year:month:day:hour:minute
   pages:
     output: true
     permalink: /:name
@@ -31,6 +34,12 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "microposts"
+    values:
+      layout: "micropost"
   -
     scope:
       path: ""
