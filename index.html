@@ -19,6 +19,7 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 				{%- include featured-image.html item=entry -%}
 				<div class="blog-post__content">
 					<p>{{- entry.excerpt -}}</p>
+					<p><a class="more-permalink" href="{{ entry.url | relative_url }}">Read more...</a></p>
 				</div>
 			</article>
 			{%- endfor -%}
