@@ -21,7 +21,7 @@ ul.archive-items {
         margin-top: 1.5em;
 
         p {
-            line-height: 1.3em;
+            line-height: 1.6em;
             margin: 0;
         }
     }
@@ -32,6 +32,30 @@ ul.archive-items {
 
         .archive-item__date {
             color: $text-light-color;
-            font-size: $p-small;
+            font-size: $p-small * 0.85;
+            $multiplier: 0.7;
+            @include mq(tabletp) {
+                font-size: $p-medium * $multiplier;
+            }
+            @include mq(tabletl) {
+                font-size: $p-medium * $multiplier;
+            }
+            @include mq(laptop) {
+                font-size: $p-large * $multiplier;
+            }
         }
+
+        .archive-item__title {
+        font-size: $p-small;
+        $multiplier: 0.8;
+        @include mq(tabletp) {
+            font-size: $p-medium * $multiplier;
+        }
+        @include mq(tabletl) {
+            font-size: $p-medium * $multiplier;
+        }
+        @include mq(laptop) {
+            font-size: $p-large * $multiplier;
+        }
+    }
 }
