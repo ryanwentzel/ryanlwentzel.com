@@ -16,6 +16,24 @@ only screen and (min-width: $break-desktop) {
     }
 }
 
+.entry-list {
+    .blog-post__content {
+        p {
+            &:last-of-type {
+                &:after {
+                    border-bottom: 1px solid $border-color;
+                    content: ""; /* This is necessary for the pseudo element to work. */ 
+                    display: block; /* This will put the pseudo element on its own line. */
+                    // margin-top: 4em; /* This creates some space between the element and the border. */
+                    margin: 4em auto 0 auto;
+                    width: 100%; /* Change this to whatever width you want. */
+                }
+            }
+        }
+    }
+}
+
+
 .blog-post__image {
     margin-top: 1.3em;
 }

@@ -1,4 +1,4 @@
-<div class="latest-section">
+<div class="latest-section entry-list">
     <h1 class="latest-section__header">Featured</h1>
     {%- assign sorted = site.prayers | sort: "date" | reverse -%}
     {%- for item in sorted limit: 5 -%}
