@@ -1,6 +1,6 @@
 <div class="latest-section">
     <h1 class="latest-section__header">Latest Posts</h1>
-    {%- for item in site.posts limit: 5 -%}
+    {%- for item in site.posts limit: 3 -%}
     {%- include blog-post.html post=item -%}
     {%- endfor -%}
 </div>

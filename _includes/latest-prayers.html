@@ -8,8 +8,8 @@
             <p class="blog-post__subtitle">{{- item.date | date: '%B %d, %Y' -}}</p>
         </div>
         {%- include featured-image.html item=item -%}
-        <div class="blog-post__content .prayer-excerpt">
-            {%- include prayer-content.html prayer=item -%}
+        <div class="blog-post__content">
+            {%- include prayer-preview.html prayer=item -%}
         </div>
     </article>
     {%- endfor -%}

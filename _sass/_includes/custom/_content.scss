@@ -51,48 +51,74 @@ ul.archive-items {
         font-size: $p-small;
     }
 
-    $h2-size-multiplier: 0.8;
-    @media only screen and (min-width: $break-tabletp)
-    {
-        h2 {
-            font-size: $h2-small * $h2-size-multiplier;
+    $multiplier: 0.8;
+    .blog-post__title {
+        font-size: $h2-small * $multiplier;
+
+        @include mq(tabletp){
+            font-size: $h2-medium * $multiplier;
+        }
+        @include mq(tabletl) {
+            font-size: $h2-medium * $multiplier;
+        }
+        @include mq(laptop) {
+            font-size: $h2-large * $multiplier;
+        }
+        @include mq(desktop) {
+            font-size: $h2-large * $multiplier;
         }
     }
 
-    @media only screen and (min-width: $break-tabletl){
-        h2 {
-            font-size: $h2-medium * $h2-size-multiplier;
+    .blog-post__subtitle {
+        font-family: $title-font;
+
+        $multiplier: 0.7;
+        font-size: $p-small * $multiplier;
+        @include mq(tabletp){
+            font-size: $p-medium * $multiplier;
         }
+        @include mq(tabletl) {
+            font-size: $p-medium * $multiplier;
+        }
+        @include mq(laptop) {
+            font-size: $p-large * $multiplier;
+        }
+        @include mq(desktop) {
+            font-size: $p-large * $multiplier;
+        }
+
+        text-transform: uppercase;
     }
 
-    @media 
-    only screen and (min-width: $break-laptop),
-    only screen and (min-width: $break-desktop)
-    {
-        h2 {
-            font-size: $h2-large * $h2-size-multiplier;
-        }
+    .blog-post__content {
+         margin-top: 0.8em;
+
+         p {
+            font-weight: 300;
+         }
     }
 }
 
 .latest-section__header {
-    border-bottom: 3px solid;
+    border-bottom: 2px solid $text-medium-color;
+    color: $text-medium-color;
+    letter-spacing: 0.01em;
+    padding-bottom: 0.2em;
     text-transform: uppercase;
 
-    @media only screen and (min-width: $break-tabletp)
-    {
-        font-size: $h1-small * 0.5;
+    $multiplier: 0.5;
+    font-size: $h1-small * $multiplier;
+    @include mq(tabletp){
+        font-size: $h1-medium * $multiplier;
     }
-
-    @media only screen and (min-width: $break-tabletl){
-        font-size: $h1-medium * 0.5;
+    @include mq(tabletl) {
+        font-size: $h1-medium * $multiplier;
     }
-
-    @media 
-    only screen and (min-width: $break-laptop),
-    only screen and (min-width: $break-desktop)
-    {
-        font-size: $h1-large * 0.5;
+    @include mq(laptop) {
+        font-size: $h1-large * $multiplier;
+    }
+    @include mq(desktop) {
+        font-size: $h1-large * $multiplier;
     }
 }
 
