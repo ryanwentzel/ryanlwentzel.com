@@ -6,7 +6,23 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 ---
 <section class="blog single">
 	<div class="wrap">
-		{%- include latest-prayers.html -%}
-		{%- include latest-posts.html -%}
+		{%- assign sorted = site.data.featured | sort: "sortOrder" -%}
+		{% for section in sorted %}
+		<div class="latest-section entry-list">
+			<h1 class="latest-section__header">{{- section.displayName -}}</h1>
+			{%- for item in section.items -%}
+			{%- assign entry = site.documents | where: "relative_path", item | first -%}
+			<article class="blog-post">
+				<div class="blog-post__header">
+					<h2 class="blog-post__title"><a href="{{ entry.url | relative_url }}">{{- entry.title -}}</a></h2>
+				</div>
+				{%- include featured-image.html item=entry -%}
+				<div class="blog-post__content">
+					<p>{{- entry.excerpt -}}</p>
+				</div>
+			</article>
+			{%- endfor -%}
+		</div>
+		{%- endfor -%}
 	</div>
 </section>
