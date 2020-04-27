@@ -47,6 +47,10 @@ ul.archive-items {
 .latest-section {
     margin-bottom: 4.5em;
 
+    &:first-of-type {
+        margin-top: 2em;
+    }
+
     &:not(:last-of-type) {
         .blog-post {
             &:last-child {
