@@ -45,7 +45,29 @@ ul.archive-items {
 }
 
 .latest-section {
-    margin-bottom: 4em;
+    margin-bottom: 4.5em;
+
+    &:not(:last-of-type) {
+        .blog-post {
+            &:last-child {
+                p {
+                    &:last-of-type {
+                        &:after {
+                            border-bottom: 1px solid $border-color;
+                            content: ""; /* This is necessary for the pseudo element to work. */ 
+                            display: block; /* This will put the pseudo element on its own line. */
+                            margin-top: 4em; /* This creates some space between the element and the border. */
+                            width: 100%; /* Change this to whatever width you want. */
+                        }
+                    }
+                }
+            } 
+        } 
+    } 
+
+    .blog-post {
+        margin-bottom: 4.5em;
+    }
 
     $multiplier: 1;
     .blog-post__title {
@@ -97,11 +119,17 @@ ul.archive-items {
 }
 
 .latest-section__header {
-    border-bottom: 3px solid $text-medium-color;
     color: $text-medium-color;
     font-weight: 700;
-    padding-bottom: 0.3em;
     text-transform: uppercase;
+
+    &:after {
+        content: ""; /* This is necessary for the pseudo element to work. */ 
+        display: block; /* This will put the pseudo element on its own line. */
+        width: 8%; /* Change this to whatever width you want. */
+        padding-top: 10px; /* This creates some space between the element and the border. */
+        border-bottom: 3px solid $text-medium-color;
+    }
 
     $multiplier: 0.5;
     font-size: $h1-small * $multiplier;
