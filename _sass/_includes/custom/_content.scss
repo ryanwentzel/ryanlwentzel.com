@@ -44,6 +44,58 @@ ul.archive-items {
     }
 }
 
+.latest-section {
+    margin-bottom: 4em;
+    
+    p {
+        font-size: $p-small;
+    }
+
+    $h2-size-multiplier: 0.8;
+    @media only screen and (min-width: $break-tabletp)
+    {
+        h2 {
+            font-size: $h2-small * $h2-size-multiplier;
+        }
+    }
+
+    @media only screen and (min-width: $break-tabletl){
+        h2 {
+            font-size: $h2-medium * $h2-size-multiplier;
+        }
+    }
+
+    @media 
+    only screen and (min-width: $break-laptop),
+    only screen and (min-width: $break-desktop)
+    {
+        h2 {
+            font-size: $h2-large * $h2-size-multiplier;
+        }
+    }
+}
+
+.latest-section__header {
+    border-bottom: 3px solid;
+    text-transform: uppercase;
+
+    @media only screen and (min-width: $break-tabletp)
+    {
+        font-size: $h1-small * 0.5;
+    }
+
+    @media only screen and (min-width: $break-tabletl){
+        font-size: $h1-medium * 0.5;
+    }
+
+    @media 
+    only screen and (min-width: $break-laptop),
+    only screen and (min-width: $break-desktop)
+    {
+        font-size: $h1-large * 0.5;
+    }
+}
+
 .page, .page__content {
     @media only screen and (min-width: 1600px) {
         width: 90%;
