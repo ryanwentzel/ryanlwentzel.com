@@ -3,13 +3,24 @@
     "displayName": "Featured",
     "sortOrder": 1,
     "items": [
-        "_prayers/pastoral-prayer-apr-26-2020.md",
-        "_prayers/pastoral-prayer-apr-19-2020.md"
+        {
+            "path": "_prayers/pastoral-prayer-apr-26-2020.md",
+            "template": "blog-post.html"
+        },
+        {
+            "path": "_prayers/pastoral-prayer-apr-19-2020.md",
+            "template": "blog-post.html"
+        }
     ]
 },
 {
     "name": "latest",
     "displayName": "The Latest",
     "sortOrder": 2,
-    "items": ["_posts/2020-03-30-prayer-global-pandemic.md"]
+    "items": [
+        {
+            "path": "_posts/2020-03-30-prayer-global-pandemic.md",
+            "template": "blog-post.html"
+        }
+    ]
 }]

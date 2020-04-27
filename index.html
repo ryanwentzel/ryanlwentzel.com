@@ -11,17 +11,8 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 		<div class="latest-section entry-list">
 			<h1 class="latest-section__header">{{- section.displayName -}}</h1>
 			{%- for item in section.items -%}
-			{%- assign entry = site.documents | where: "relative_path", item | first -%}
-			<article class="blog-post">
-				<div class="blog-post__header">
-					<h2 class="blog-post__title"><a href="{{ entry.url | relative_url }}">{{- entry.title -}}</a></h2>
-				</div>
-				{%- include featured-image.html item=entry -%}
-				<div class="blog-post__content">
-					<p>{{- entry.excerpt -}}</p>
-					<p><a class="more-permalink" href="{{ entry.url | relative_url }}">Read more...</a></p>
-				</div>
-			</article>
+			{%- assign entry = site.documents | where: "relative_path", item.path | first -%}
+			{%- include {{ item.template }} entry=entry  -%}
 			{%- endfor -%}
 		</div>
 		{%- endfor -%}
