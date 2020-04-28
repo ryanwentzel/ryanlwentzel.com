@@ -11,6 +11,24 @@
             border-bottom: 3px solid $text-medium-color;
         }
     }
+
+    .archive-group-footer {
+        &:after {
+            content: "";
+            display: block;
+            border-bottom: 1px solid $border-color;
+            margin: 3.5em 0 1em 0;
+        }
+    }
+
+}
+
+.single {
+    p {
+        a.archive-group-link {
+            color: #FFFFFF;
+        }
+    }
 }
 
 .single ul.archive-items {

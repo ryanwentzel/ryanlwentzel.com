@@ -1,0 +1,33 @@
+---
+layout: default
+title: "New Archive"
+permalink: "/archive-2"
+featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/aerial-island.jpg"
+---
+<section class="blog single">
+	<div class="wrap">
+        {%- for collection in site.data.archive.collections -%}
+        {%- assign items = site.documents | where: "collection", collection.name | sort: "date" | reverse -%}
+        {%- unless items.size == 0 -%}
+        <section class="archive-group">
+            <h1 class="archive-year">{{- collection.display -}}</h1>
+            <ul class="archive-items">
+                {%- for post in items limit:collection.maxItems -%}
+                <li class="archive-item">
+                    <div class="archive-item__header">
+                        <p class="archive-item__date">{{- post.date | date: '%B %d, %Y' -}}</p>
+                        <p><a class="archive-item__title" href="{{- post.url | relative_url -}}">{{- post.title -}}</a></p>
+                    </div>
+                </li>
+                {%- endfor -%}
+            </ul>
+            <p class="archive-group-footer">
+                {%- if items.size > collection.maxItems -%}
+                <a class="archive-group-link button" href="{{- collection.url | relative_url -}}">More {{ collection.display }}</a>
+                {%- endif _%}
+            </p>
+        </section>
+        {%- endunless -%}
+        {%- endfor -%}
+	</div>
+</section>

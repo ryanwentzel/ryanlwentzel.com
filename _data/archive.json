@@ -1,0 +1,28 @@
+{
+    "collections": [
+        {
+            "name": "articles",
+            "display": "Articles",
+            "url": "/articles",
+            "maxItems": 5
+        },
+        {
+            "name": "posts",
+            "display": "Posts",
+            "url": "/posts",
+            "maxItems": 5
+        },
+        {
+            "name": "prayers",
+            "display": "Prayers",
+            "url": "/prayers",
+            "maxItems": 5
+        },
+        {
+            "name": "notes",
+            "display": "Notes",
+            "url": "/notes",
+            "maxItems": 5
+        }
+    ]
+}
