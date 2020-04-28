@@ -12,6 +12,41 @@ $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
     }
 }
 
+.intro {
+	margin-top: 0;
+	padding: 20px 0 0;
+
+	@include mq(tabletp) {
+		padding: 35px 0 0;
+	}
+
+	@include mq(tabletl) {
+		padding: 35px 40px 0;
+	}
+
+	@include mq(laptop) {
+		padding: 53px 60px 0;
+	}
+
+	.wrap {
+		@include mq(laptop) {
+			max-width: 65%;
+		}
+	}
+	
+	h1 {
+		
+		@include mq(tabletp) {
+			white-space: pre-line;
+		}
+	}
+
+	p {
+		margin-top: 5px;
+		color: $text-light-color;
+	}
+}
+
 .latest-section {
     margin-bottom: 4.5em;
 
@@ -128,6 +163,16 @@ $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
             padding: 10px 20px;
         }
     }
+
+    h1, h2, h3, h4, h5, h6, p, ul, ol {
+		margin-left: auto;
+        margin-right: auto;
+        
+		@include mq(laptop) {
+			max-width: 65%;
+		}
+    }
+    
     p a {
         color: $anchor-color;
         border-bottom: 1px solid $anchor-color;

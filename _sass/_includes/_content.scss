@@ -4,43 +4,6 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-.intro {
-	margin-top: 0;
-	padding: 20px 0 0;
-
-	@include mq(tabletp) {
-		padding: 35px 0 0;
-	}
-
-	@include mq(tabletl) {
-		padding: 35px 40px 0;
-	}
-
-	@include mq(laptop) {
-		padding: 53px 60px 0;
-	}
-
-	.wrap {
-
-		max-width: 70%;
-		@include mq(laptop) {
-			max-width: 65%;
-		}
-	}
-	
-	h1 {
-		
-		@include mq(tabletp) {
-			white-space: pre-line;
-		}
-	}
-
-	p {
-		margin-top: 5px;
-		color: $text-light-color;
-	}
-}
-
 .single {
 	margin-top: 0;
 	padding: 20px 0;
@@ -56,16 +19,6 @@
 
 	@include mq(laptop) {
 		padding: 40px 60px 60px;
-	}
-
-	h1, h2, h3, h4, h5, h6, p, ul, ol {
-		margin-left: auto;
-		margin-right: auto;
-
-		max-width: 70%;
-		@include mq(laptop) {
-			max-width: 65%;
-		}
 	}
 
 	hr {
