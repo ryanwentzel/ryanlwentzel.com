@@ -35,7 +35,31 @@ p {
     }
 }
 
-ul{
+p, ul, ol {
+	margin-top: 15px;
+	font-size: $p-small;
+	font-weight: $p-weight;
+	line-height: $p-lineheight;
+	letter-spacing: $p-spacing;
+
+	@include mq(tabletp) {
+		font-size: $p-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $p-large;
+	}
+
+	strong {
+		font-weight: $bold-weight;
+	}
+
+	&:first-child {
+		margin-top: 0;
+	}
+}
+
+ul, ol {
     list-style-position: outside;
 
     li {
