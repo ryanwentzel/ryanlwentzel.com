@@ -103,6 +103,10 @@ $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
 
 .menu__list {
     line-height: 1.35em;
+
+    .menu__list__item {
+        margin-bottom: 5px;
+    }
 }
 
 .page, .page__content {
