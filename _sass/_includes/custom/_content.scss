@@ -53,14 +53,18 @@ $max-width-desktop: 70%;
 }
 
 .latest-section {
-    margin-bottom: 4.5em;
+    margin-bottom: 2em;
+    @include mq(tabletp) {
+        margin-bottom: 4.5em;
+    }
 
     &:first-of-type {
         margin-top: 2em;
     }
 
     .blog-post {
-        margin-bottom: 4.5em;
+        margin-bottom: 2.5em;
+        margin-top: 1.5em;
     }
 
     $multiplier: 1;
