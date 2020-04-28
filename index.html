@@ -6,7 +6,8 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 ---
 <section class="blog single">
 	<div class="wrap">
-		{%- include latest-prayers.html -%}
-		{%- include latest-posts.html -%}
+		{%- for section in site.data.sections -%}
+		{% include {{ section.template }} -%}
+		{%- endfor -%}
 	</div>
 </section>

@@ -1,0 +1,11 @@
+{
+    "name": "featured",
+    "displayName": "Featured",
+    "collections":[
+        "posts",
+        "prayers"
+    ],
+    "template": "featured.html",
+    "entryTemplate": "blog-post.html",
+    "maxItems": 5
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "featured",
+        "template": "featured.html"
+    },
+    {
+        "name": "latest",
+        "template": "latest.html"
+    }
+]
