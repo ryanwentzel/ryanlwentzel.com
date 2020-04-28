@@ -66,26 +66,6 @@
 			margin-top: 10px;
 		}
 	}
-
-	.more-permalink {
-		$multiplier: 0.75;
-		font-size: $p-small * $multiplier;
-		@include mq(tabletp) {
-			font-size: $p-medium * $multiplier;
-		}
-	
-		@include mq(tabletl) {
-			font-size: $p-medium * $multiplier;
-		}
-	
-		@include mq(laptop) {
-			font-size: $p-large * $multiplier;
-		}
-	}
-}
-
-.blog-post__title {
-	
 }
 
 .blog-post__subtitle {
