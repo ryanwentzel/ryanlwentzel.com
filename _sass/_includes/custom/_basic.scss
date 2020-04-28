@@ -35,3 +35,15 @@ p {
     }
 }
 
+ul{
+    list-style-position: outside;
+
+    li {
+        margin-bottom: 0.8em;
+
+        a {
+            font-weight: $regular-weight;
+        }
+    }
+}
+
