@@ -15,6 +15,9 @@ collections:
   microposts:
     output: true
     permalink: /microposts/:year:month:day:hour:minute
+  notes:
+    output: true
+    permalink: /notes/:slug
   pages:
     output: true
     permalink: /:name
@@ -49,6 +52,12 @@ defaults:
       type: "microposts"
     values:
       layout: "micropost"
+  -
+    scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "note"
   -
     scope:
       path: ""
