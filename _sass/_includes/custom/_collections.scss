@@ -1,4 +1,7 @@
 .wrap-collection {
+    .collection-header {
+        margin-bottom: 4em;
+    }
     .collection-intro {
         font-style: italic;
         margin-top: 2em;
@@ -11,6 +14,8 @@
     }
 
     .item-content-preview {
-        font-style: italic;
+        .collect-content-preview & {
+            font-style: italic;
+        }
     }
 }
