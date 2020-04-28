@@ -1,26 +1,11 @@
-[{
+{
     "name": "featured",
     "displayName": "Featured",
-    "sortOrder": 1,
-    "items": [
-        {
-            "path": "_prayers/pastoral-prayer-apr-26-2020.md",
-            "template": "blog-post.html"
-        },
-        {
-            "path": "_prayers/pastoral-prayer-apr-19-2020.md",
-            "template": "blog-post.html"
-        }
-    ]
-},
-{
-    "name": "latest",
-    "displayName": "The Latest",
-    "sortOrder": 2,
-    "items": [
-        {
-            "path": "_posts/2020-03-30-prayer-global-pandemic.md",
-            "template": "blog-post.html"
-        }
-    ]
-}]
+    "collections":[
+        "posts",
+        "prayers"
+    ],
+    "template": "featured.html",
+    "entryTemplate": "blog-post.html",
+    "maxItems": 5
+}

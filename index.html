@@ -6,15 +6,8 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 ---
 <section class="blog single">
 	<div class="wrap">
-		{%- assign sorted = site.data.featured | sort: "sortOrder" -%}
-		{% for section in sorted %}
-		<div class="latest-section entry-list">
-			<h1 class="latest-section__header">{{- section.displayName -}}</h1>
-			{%- for item in section.items -%}
-			{%- assign entry = site.documents | where: "relative_path", item.path | first -%}
-			{%- include {{ item.template }} entry=entry  -%}
-			{%- endfor -%}
-		</div>
+		{%- for section in site.data.sections -%}
+		{% include {{ section.template }} -%}
 		{%- endfor -%}
 	</div>
 </section>
