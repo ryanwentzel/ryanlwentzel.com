@@ -1,0 +1,11 @@
+{
+    "name": "latest",
+    "displayName": "The Latest",
+    "collections":[
+        "posts",
+        "prayers"
+    ],
+    "template": "latest.html",
+    "entryTemplate": "blog-post.html",
+    "maxItems": 3
+}
