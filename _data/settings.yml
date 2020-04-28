@@ -19,8 +19,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Archive'
-      url: '/archive'
+    - title: 'Resources'
+      url: '/resources'
     - title: 'Subscribe'
       url: '/feeds/feed.xml'
 
