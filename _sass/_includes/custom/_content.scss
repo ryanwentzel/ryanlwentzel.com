@@ -151,7 +151,7 @@ $max-width-desktop: 70%;
     .menu__list__item {
         padding-bottom: 1.5em;
         @include mq(tabletl) {
-            padding-bottom: 0.2em;
+            padding-bottom: 0.5em;
         }
     }
 }
