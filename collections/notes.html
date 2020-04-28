@@ -1,0 +1,23 @@
+---
+layout: default
+title: "Notes"
+permalink: /Notes
+---
+<section class="blog single">
+	<div class="wrap wrap-collection entry-list">
+		<header class="collection-header">
+			<h1 class="collection-title">Notes</h1>
+		</header>
+		{% for item in site.notes %}
+		<article class="blog-post collection-item">
+			<div class="blog-post__header">
+                <h2 class="blog-post__title"><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
+                <p class="blog-post__subtitle">{{- prayer.date | date: '%B %d, %Y' -}}</p>
+			</div>
+			<div class="blog-post__content">
+                <p class="item-content-preview">{{ item.excerpt }}</p>
+			</div>
+		</article>
+		{% endfor %}
+	</div>
+</section>

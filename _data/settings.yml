@@ -19,8 +19,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'Archive'
-      url: '/archive'
+    - title: 'Resources'
+      url: '/resources'
     - title: 'Subscribe'
       url: '/feeds/feed.xml'
 
@@ -142,16 +142,16 @@ font_settings:
     line_height: 1.6
   p:
     small_size: 16
-    medium_size: 20
-    large_size: 22
-    weight: 400
+    medium_size: 18
+    large_size: 18
+    weight: 300
     letter_spacing: 0
     line_height: 1.6
   blockquote:
     small_size: 16
     medium_size: 16
     large_size: 18
-    weight: 400
+    weight: 300
     letter_spacing: -0.02
     line_height: 1.6
   buttons:

@@ -2,7 +2,7 @@
     margin-top: 0;
     margin-bottom: 2em;
     max-width: 100%;
-    .archive-year {
+    .archive-name {
         &:after {
             content: ""; /* This is necessary for the pseudo element to work. */ 
             display: block; /* This will put the pseudo element on its own line. */
@@ -11,14 +11,34 @@
             border-bottom: 3px solid $text-medium-color;
         }
     }
+
+    .archive-group-footer {
+        &:after {
+            content: "";
+            display: block;
+            border-bottom: 1px solid $border-color;
+            margin: 3.5em 0 1em 0;
+        }
+    }
+
 }
 
-ul.archive-items {
+.single {
+    p {
+        a.archive-group-link {
+            color: #FFFFFF;
+        }
+    }
+}
+
+.single ul.archive-items {
     list-style-type: none;
     margin-top: 1.5em;
+    padding-left: 0;
 
     li {
         margin-top: 1.5em;
+        padding-left: 0;
 
         p {
             line-height: 1.6em;
@@ -28,34 +48,9 @@ ul.archive-items {
 }
 
 .archive-item {
-        margin-top: 0;
+    margin-top: 0;
 
-        .archive-item__date {
-            color: $text-light-color;
-            font-size: $p-small * 0.85;
-            $multiplier: 0.7;
-            @include mq(tabletp) {
-                font-size: $p-medium * $multiplier;
-            }
-            @include mq(tabletl) {
-                font-size: $p-medium * $multiplier;
-            }
-            @include mq(laptop) {
-                font-size: $p-large * $multiplier;
-            }
-        }
-
-        .archive-item__title {
-        font-size: $p-small;
-        $multiplier: 0.8;
-        @include mq(tabletp) {
-            font-size: $p-medium * $multiplier;
-        }
-        @include mq(tabletl) {
-            font-size: $p-medium * $multiplier;
-        }
-        @include mq(laptop) {
-            font-size: $p-large * $multiplier;
-        }
+    .archive-item__date {
+        color: $text-light-color;
     }
 }

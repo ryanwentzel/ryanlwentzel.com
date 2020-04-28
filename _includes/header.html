@@ -1,6 +1,6 @@
 <header id="site-header" class="header">
 
-	{% assign header_image = page.featured_image | default: page.header_image | default: site.data.settings.basic_settings.header_image %}
+	{% assign header_image = page.header_image | default: site.data.settings.basic_settings.header_image %}
 	<div class="header-image header-image--on" style="background-image: url({{ header_image | relative_url }});"></div>
 	<div class="header-image"></div>
 

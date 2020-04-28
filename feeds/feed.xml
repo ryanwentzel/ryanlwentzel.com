@@ -13,26 +13,15 @@ layout:
    <email>{{ site.author.email }}</email>
  </author>
  <icon>{{ site.baseurl }}/favicon.ico</icon>
-{%- comment -%}hack for now to get prayers in the main feed{%- endcomment -%}
-{%- assign sorted = site.prayers | sort: "date" -%}
-{%- assign prayers = sorted | reverse -%}
- {%- for prayer in prayers limit:10 -%}
- <entry>
-   <title>{{- prayer.title -}}</title>
-   <link href="{{- site.url -}}{{- prayer.url -}}"/>
-   <updated>{{- prayer.date | date_to_xmlschema -}}</updated>
-   <id>{{- site.url -}}{{- prayer.id -}}</id>   
-   {%- capture prayer_content -%}{% include prayer-preview.html prayer=prayer absolute_url=true -%}{%- endcapture -%}
-   <content type="html">{{- prayer_content | xml_escape -}}</content>
- </entry>
- {%- endfor -%}
- {% for post in site.posts limit:10 %}
- <entry>
-   <title>{{ post.title }}</title>
+{%- assign docs = site.documents | where_exp: "doc", "site.data.syndication.collections contains doc.collection" -%}
+{%- assign sorted = docs | sort: "date" | reverse -%}
+{%- for entry in sorted limit:site.data.syndication.maxItems -%}
+<entry>
+   <title>{{ entry.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <updated>{{ entry.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ entry.id }}</id>
+   <content type="html">{{ entry.content | xml_escape }}</content>
  </entry>
- {% endfor %}
+{%- endfor -%}
 </feed>
