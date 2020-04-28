@@ -13,12 +13,14 @@
     }
 }
 
-ul.archive-items {
+.single ul.archive-items {
     list-style-type: none;
     margin-top: 1.5em;
+    padding-left: 0;
 
     li {
         margin-top: 1.5em;
+        padding-left: 0;
 
         p {
             line-height: 1.6em;
@@ -28,34 +30,9 @@ ul.archive-items {
 }
 
 .archive-item {
-        margin-top: 0;
+    margin-top: 0;
 
-        .archive-item__date {
-            color: $text-light-color;
-            font-size: $p-small * 0.85;
-            $multiplier: 0.7;
-            @include mq(tabletp) {
-                font-size: $p-medium * $multiplier;
-            }
-            @include mq(tabletl) {
-                font-size: $p-medium * $multiplier;
-            }
-            @include mq(laptop) {
-                font-size: $p-large * $multiplier;
-            }
-        }
-
-        .archive-item__title {
-        font-size: $p-small;
-        $multiplier: 0.8;
-        @include mq(tabletp) {
-            font-size: $p-medium * $multiplier;
-        }
-        @include mq(tabletl) {
-            font-size: $p-medium * $multiplier;
-        }
-        @include mq(laptop) {
-            font-size: $p-large * $multiplier;
-        }
+    .archive-item__date {
+        color: $text-light-color;
     }
 }
