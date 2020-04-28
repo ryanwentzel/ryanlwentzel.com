@@ -105,7 +105,10 @@ $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
     line-height: 1.35em;
 
     .menu__list__item {
-        margin-bottom: 5px;
+        padding-bottom: 1.5em;
+        @include mq(tabletl) {
+            padding-bottom: 0.2em;
+        }
     }
 }
 
