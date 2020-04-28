@@ -39,7 +39,8 @@ ul{
     list-style-position: outside;
 
     li {
-        margin-bottom: 0.8em;
+        padding-bottom: 0.8em;
+        padding-left: 5px;
 
         a {
             font-weight: $regular-weight;
