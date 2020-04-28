@@ -12,6 +12,7 @@ $break-phonel: 480px;
 $break-tabletp: 768px;
 $break-tabletl: 1024px;
 $break-laptop: 1220px;
+$break-laptop-retina: 1400px;
 $break-desktop: 1600px;
 
 @mixin mq($media) {
@@ -26,7 +27,10 @@ $break-desktop: 1600px;
 	}
 	@else if $media == laptop {
 		@media only screen and (min-width: $break-laptop) { @content; }
-	}
+  }
+  @else if $media == laptop-retina {
+    @media only screen and (min-width: $break-laptop-retina) { @content; }
+  }
 	@else if $media == desktop {
 		@media only screen and (min-width: $break-desktop) { @content; }
 	}

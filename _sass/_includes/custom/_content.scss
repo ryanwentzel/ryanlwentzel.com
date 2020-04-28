@@ -1,6 +1,7 @@
 $anchor-color: $text-dark-color;
 $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
 $max-width-laptop: 90%;
+$max-width-retina: 78%;
 $max-width-desktop: 70%;
 
 .button {
@@ -33,6 +34,9 @@ $max-width-desktop: 70%;
 	.wrap {
         @include mq(laptop) {
             max-width: $max-width-laptop;
+        }
+        @include mq(laptop-retina) {
+            max-width: $max-width-retina;
         }
 		@include mq(desktop) {
 			max-width: $max-width-desktop;
@@ -175,6 +179,9 @@ $max-width-desktop: 70%;
         
         @include mq(laptop) {
             max-width: $max-width-laptop;
+        }
+        @include mq(laptop-retina) {
+            max-width: $max-width-retina;
         }
 		@include mq(desktop) {
 			max-width: $max-width-desktop;
