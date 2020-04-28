@@ -1,0 +1,9 @@
+{
+    "collections": [
+        "posts",
+        "prayers",
+        "articles",
+        "notes"
+    ],
+    "maxItems": 25
+}
