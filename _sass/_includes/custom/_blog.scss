@@ -6,13 +6,9 @@ h3 a {
     font-weight: 400;
 }
 
-@media 
-only screen and (min-width: $break-tabletp),
-only screen and (min-width: $break-tabletl),
-only screen and (min-width: $break-laptop),
-only screen and (min-width: $break-desktop) {
-    .blog-post {
-        margin-top: 40px;
+.blog-post {
+    @include mq(tabletp) {
+        margin-top: 40px; 
     }
 }
 
