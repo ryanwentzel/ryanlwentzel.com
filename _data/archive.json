@@ -8,8 +8,8 @@
         },
         {
             "name": "posts",
-            "display": "Posts",
-            "url": "/posts",
+            "display": "Commonplace",
+            "url": "/commonplace",
             "maxItems": 5
         },
         {
