@@ -3,9 +3,11 @@
     "displayName": "The Latest",
     "collections":[
         "posts",
-        "prayers"
+        "prayers",
+        "articles",
+        "notes"
     ],
     "template": "latest.html",
     "entryTemplate": "blog-post.html",
-    "maxItems": 3
+    "maxItems": 5
 }
