@@ -2,7 +2,7 @@
     margin-top: 0;
     margin-bottom: 2em;
     max-width: 100%;
-    .archive-year {
+    .archive-name {
         &:after {
             content: ""; /* This is necessary for the pseudo element to work. */ 
             display: block; /* This will put the pseudo element on its own line. */
