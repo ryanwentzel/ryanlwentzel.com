@@ -29,7 +29,7 @@
 	}
 }
 
-.footer__copyright {
+.footer__copyright, .footer__vocation {
 	display: block;
 	font-size: 13px;
 	color: $text-light-color;
@@ -51,4 +51,12 @@
 			color: $text-medium-color;
 		}
 	}
+}
+
+.footer__copyright {
+	float: left;
+}
+
+.footer__vocation {
+	float: right;
 }
