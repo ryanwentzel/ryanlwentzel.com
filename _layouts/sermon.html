@@ -9,10 +9,9 @@ layout: default
 </section>
 <section class="single">
 	<div class="wrap">
-        {%- if page.video_embed -%}{{- page.video_embed -}}{%- endif -%}
         <p class="sermon-meta">
             A sermon on {{ page.text }}. Preached {{ page.date_preached | date: '%B %d, %Y' }} at {{ page.venue }} in {{ page.location }}.
-        </p>
+		</p>
 		{{ page.content }}
 	</div>
 </section>
