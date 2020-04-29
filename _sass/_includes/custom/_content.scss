@@ -169,6 +169,11 @@ $max-width-desktop: 70%;
     }
 }
 
+.post-byline {
+    font-family: $title-font;
+    font-weight: 400;
+}
+
 .single {
     blockquote {
         p {

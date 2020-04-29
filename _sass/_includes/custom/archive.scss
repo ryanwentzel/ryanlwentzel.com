@@ -52,5 +52,7 @@
 
     .archive-item__date {
         color: $text-light-color;
+        font-family: $title-font;
+        font-weight: 400;
     }
 }
