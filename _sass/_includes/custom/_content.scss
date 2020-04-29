@@ -94,8 +94,6 @@ $max-width-desktop: 70%;
     }
 
     .blog-post__subtitle {
-        font-family: $title-font;
-
         $multiplier: 0.7;
         font-size: $p-small * $multiplier;
         @include mq(tabletp){
@@ -110,8 +108,6 @@ $max-width-desktop: 70%;
         @include mq(desktop) {
             font-size: $p-large * $multiplier;
         }
-
-        text-transform: uppercase;
     }
 
     .blog-post__content {

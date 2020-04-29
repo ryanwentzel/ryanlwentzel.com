@@ -69,8 +69,11 @@
 }
 
 .blog-post__subtitle {
-	margin-top: 5px;
 	color: $text-light-color;
+	font-family: $title-font;
+	font-weight: 400;
+	margin-top: 5px;
+	text-transform: uppercase;
 }
 
 .pagination {
