@@ -206,6 +206,3 @@ History is headed toward an outburst of resurrection glory. Because Christ was r
 The perishable will put on the imperishable. The mortal will put on immortality. "[T]hen shall come to pass the saying that is written: 'Death is swallowed up in victory.' 'O death, where is your victory? O death, where is your sting?' The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ" (vv. 54–57).
 
 So, brothers and sisters, because of the sure and certain hope of the resurrection, "be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain" (v. 58).
-
-
-
