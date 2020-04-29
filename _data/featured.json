@@ -4,7 +4,8 @@
     "collections":[
         "posts",
         "prayers",
-        "articles"
+        "articles",
+        "sermons"
     ],
     "template": "featured.html",
     "entryTemplate": "blog-post.html",

@@ -5,7 +5,8 @@
         "posts",
         "prayers",
         "articles",
-        "notes"
+        "notes",
+        "sermons"
     ],
     "template": "latest.html",
     "entryTemplate": "blog-post.html",

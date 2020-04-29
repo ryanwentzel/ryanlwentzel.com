@@ -13,6 +13,12 @@
             "maxItems": 5
         },
         {
+            "name": "sermons",
+            "display": "Sermons",
+            "url": "/sermons",
+            "maxItems": 5
+        },
+        {
             "name": "prayers",
             "display": "Prayers",
             "url": "/prayers",

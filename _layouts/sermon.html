@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<section class="intro">
+	<div class="wrap">
+		<h1>{{ page.title }}</h1>
+        <p class="post-byline">{{ page.subtitle }}</p>
+	</div>
+</section>
+<section class="single">
+	<div class="wrap">
+        {%- if page.video_embed -%}{{- page.video_embed -}}{%- endif -%}
+        <p class="sermon-meta">
+            A sermon on {{ page.text }}. Preached {{ page.date_preached | date: '%B %d, %Y' }} at {{ page.venue }} in {{ page.location }}.
+        </p>
+		{{ page.content }}
+	</div>
+</section>

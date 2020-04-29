@@ -3,7 +3,8 @@
         "posts",
         "prayers",
         "articles",
-        "notes"
+        "notes",
+        "sermons"
     ],
     "maxItems": 25
 }
