@@ -6,9 +6,15 @@ featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/office-cha
 ---
 <section class="blog single">
 	<div class="wrap">
-		{%- for section in site.data.sections -%}
-		{% include {{ section.template }} -%}
-		{%- endfor -%}
-		<p><a class="button" href="{%- link collections/resources.html -%}">More resources</a></p>
+		<div class="sections">
+			{%- for section in site.data.sections -%}
+			{% include {{ section.template }} -%}
+			{%- endfor -%}
+		</div>
+		<div class="more-resources">
+			<p>
+				<a class="button" href="{%- link collections/resources.html -%}">More resources</a>
+			</p>
+		</div>
 	</div>
 </section>

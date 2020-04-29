@@ -58,8 +58,11 @@ $max-width-desktop: 70%;
 
 .latest-section {
     margin-bottom: 2em;
+
     @include mq(tabletp) {
-        margin-bottom: 4.5em;
+        &:not(:last-child) {
+            margin-bottom: 4.5em;
+        }
     }
 
     &:first-of-type {
@@ -154,6 +157,10 @@ $max-width-desktop: 70%;
             padding-bottom: 0.5em;
         }
     }
+}
+
+.more-resources {
+    margin-bottom: 4.5em;
 }
 
 .page, .page__content {
