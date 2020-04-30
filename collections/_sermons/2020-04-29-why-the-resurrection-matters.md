@@ -53,7 +53,7 @@ Thing aren't that much different in our day, are they? Many, inside and outside 
 
 **The resurrection is a gospel issue.** Paul begins by saying, "Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, and by which you are being saved." And then in verse 3, he says the gospel, at the center of which is the resurrection of Christ, is "of first importance." Did you hear that? It's of first importance. The resurrection of Christ isn't a minor detail that has no bearing on the truth claims of Christianity. It's an essential doctrine.
 
-Maybe you've played the game Jenga. There's a tower of wooden blocks stacked on top of each other. Each player has to remove a single block and place it on top without causing the tower to fall over. Some blocks can be safely moved without a problem. But others are crucial. Move them and the game is over. 
+Maybe you've played the game Jenga. There's a tower of wooden blocks stacked on top of each other. Each player has to remove a single block and place it on top without causing the tower to fall over. Some blocks can be safely moved without a problem. But others are crucial. Move them and the game is over.[^jenga] 
 
 The same is true of Christ's resurrection. Remove it from the gospel and the whole Christian faith collapses.
 
@@ -63,7 +63,7 @@ Belief in the resurrection of Christ is necessary for salvation. Look at verse 2
 
 **Not only is the resurrection a gospel issue, it's the common and universal confession of the Apostles and the Christian church.** Christ's Apostles taught that he was raised from the dead. True churches, that is, churches that hold to the doctrine taught by the Apostles, have always confessed the resurrection.
 
-Paul says in verse 3, "For I delivered to you as of first importance what I also received.</p> In other words, Paul didn't make it up. The doctrine of the resurrection didn't originate with him. He "received it"  and "delivered it" to the Corinthians. That's technical language for transmission of traditional material. The summary of the gospel in verses 3 to 5 is something that existed before Paul was on the scene as an Apostle.
+Paul says in verse 3, "For I delivered to you as of first importance what I also received. In other words, Paul didn't make it up. The doctrine of the resurrection didn't originate with him. He "received it" and "delivered it" to the Corinthians. That's technical language for transmission of traditional material. The summary of the gospel in verses 3 to 5 is something that existed before Paul was on the scene as an Apostle.
 
 Most scholars believe this summary was from an early Christian creed, something formulated within the first few years after the resurrection event. That means Christian churches were confessing their belief in the resurrection with this language 20 plus years before Paul wrote 1 Corinthians.
 
@@ -206,3 +206,5 @@ History is headed toward an outburst of resurrection glory. Because Christ was r
 The perishable will put on the imperishable. The mortal will put on immortality. "[T]hen shall come to pass the saying that is written: 'Death is swallowed up in victory.' 'O death, where is your victory? O death, where is your sting?' The sting of death is sin, and the power of sin is the law. But thanks be to God, who gives us the victory through our Lord Jesus Christ" (vv. 54–57).
 
 So, brothers and sisters, because of the sure and certain hope of the resurrection, "be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain" (v. 58).
+
+[^jenga]: David Strain, "Christ Has Been Raised," *First Presbyterian Church of Jackson, Mississippi*, March 18, 2018, [https://www.fpcjackson.org/resource-library/sermons/christ-has-been-raised](https://www.fpcjackson.org/resource-library/sermons/christ-has-been-raised) (accessed April 7, 2020). I often listen to other preachers to see how they explain and illustrate the text. I gladly give credit where credit is due.
