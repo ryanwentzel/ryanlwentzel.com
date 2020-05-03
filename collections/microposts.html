@@ -5,11 +5,13 @@ permalink: /microposts
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02.jpg"
 ---
 <section class="blog single">
-	<div class="wrap entry-list-micro">
-        <article class="blog-post">
-            <div class="blog-post__content .micropost-content">
-                <p>Hello world!</p>
-            </div>
-        </article>
+	<div class="wrap wrap-collection entry-list">
+        <header class="collection-header">
+			<h1 class="collection-title">{{ site.data.microposts.displayName }}</h1>
+        </header>
+        {%- assign micro_docs = site.microposts | sort: "date" | reverse -%}
+        {%- for entry in micro_docs limit: site.data.featured.maxItems -%}
+        {%- include {{ site.data.microposts.entryTemplate }} entry=entry -%}
+        {%- endfor -%}
 	</div>
 </section>

@@ -160,6 +160,10 @@ $max-width-desktop: 70%;
         color: $text-light-color;
         margin-bottom: 1.1em;
     }
+
+    .blog-post__content {
+        margin-top: 0;
+    }
 }
 
 .more-resources {
