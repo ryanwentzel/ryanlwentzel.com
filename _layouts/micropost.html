@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-<section class="single">
+<section class="single micropost">
 	<div class="wrap">
+		<p class="post-byline" title="Posted on {{ page.date | date: '%B %d, %Y %H:%M' }}">{{- page.date | date: '%B %d, %Y' -}}</p>
 		<div class="micropost-content">
-			{{ page.content }}
+			{{- page.content -}}
 		</div>
 	</div>
 </section>
