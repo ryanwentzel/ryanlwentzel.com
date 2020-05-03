@@ -10,7 +10,7 @@ featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02
 			<h1 class="collection-title">{{ site.data.microposts.displayName }}</h1>
         </header>
         {%- assign micro_docs = site.microposts | sort: "date" | reverse -%}
-        {%- for entry in micro_docs limit: site.data.featured.maxItems -%}
+        {%- for entry in micro_docs limit: site.data.microposts.maxItems -%}
         {%- include {{ site.data.microposts.entryTemplate }} entry=entry -%}
         {%- endfor -%}
 	</div>

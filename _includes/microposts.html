@@ -1,7 +1,7 @@
 <div class="latest-section entry-list">
     <h1 class="latest-section__header">{{- site.data.microposts.displayName -}}</h1>
     {%- assign micro_docs = site.microposts | sort: "date" | reverse -%}
-    {%- for entry in micro_docs limit: site.data.featured.maxItems -%}
+    {%- for entry in micro_docs limit: site.data.microposts.maxItems -%}
     {%- include {{ site.data.microposts.entryTemplate }} entry=entry -%}
     {%- endfor -%}
 </div>
