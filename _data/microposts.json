@@ -1,0 +1,6 @@
+{
+    "name": "microposts",
+    "displayName": "Microposts",
+    "entryTemplate": "micropost.html",
+    "maxItems": 10
+}

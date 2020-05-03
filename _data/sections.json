@@ -6,5 +6,9 @@
     {
         "name": "latest",
         "template": "latest.html"
+    },
+    {
+        "name": "microposts",
+        "template": "microposts.html"
     }
 ]
