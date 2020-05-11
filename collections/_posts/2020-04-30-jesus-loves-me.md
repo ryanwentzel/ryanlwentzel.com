@@ -3,7 +3,6 @@ title: Jesus Loves Me, This I Know
 date: 2020-04-30 08:10:55 -0700
 excerpt: "<q>Jesus loves me, this I know, for the Bible tells me so.</q> This line from a classic children's hymn is familiar to many of us, especially if you grew up going to Sunday school. You likely know the rest of the words by heart. My sense is that as adult believers we think the hymn is memorable but rather simplistic; helpful to children but too elementary for the mature. But is it? Do you <em>really</em> know that Jesus loves you?"
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/boy-bible.jpg"
-featured: true
 ---
 ![](https://d1yo597syf8yny.cloudfront.net/images/featured/boy-bible.jpg)
 
