@@ -10,7 +10,7 @@ layout: default
 <section class="single">
 	<div class="wrap">
         <p class="sermon-meta">
-            A sermon on {{ page.text }}. Preached {{ page.date_preached | date: '%B %d, %Y' }} at {{ page.venue }} in {{ page.location }}.
+            A {{ page.talk_type }} on {{ page.text }}. Preached {{ page.date_preached | date: '%B %d, %Y' }} at {{ page.venue }} in {{ page.location }}.
 		</p>
 		{{ page.content }}
 	</div>
