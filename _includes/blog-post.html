@@ -7,5 +7,6 @@
     {%- endif -%}
     <div class="blog-post__content">
         <p>{{ include.entry.excerpt }}</p>
+        <p><a href="{{ include.entry.url | relative_url }}">Continue reading</a></p>
     </div>
 </article>
