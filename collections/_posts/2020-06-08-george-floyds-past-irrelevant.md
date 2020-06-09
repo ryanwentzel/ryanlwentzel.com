@@ -4,6 +4,7 @@ subtitle: Sympathy and justice do not depend on a hu
 date: 2020-06-08 18:16:45 -0700
 excerpt: "Should we even care about justice when the murder victim had a criminal past? If George Floyd wasn’t a “good person,” does that mean black lives don’t matter?"
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/george-floyd-mural.jpg" 
+published: false
 ---
 ![George Floyd Mural](https://d1yo597syf8yny.cloudfront.net/images/featured/george-floyd-mural.jpg)
 
