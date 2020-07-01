@@ -6,6 +6,7 @@ featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/ocean-sun
 published: true
 ---  
 ![Ocean at sunset](https://d1yo597syf8yny.cloudfront.net/images/featured/ocean-sunset-01.jpg)
+
 Christ's heart overflows with sympathy for his people as they experience weakness, grief, trials, and temptations. Hebrews 4:15 reminds us:
 
 > [W]e do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.
