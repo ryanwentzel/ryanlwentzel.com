@@ -3,7 +3,6 @@ title: "It's a Marathon, Not a Sprint"
 date: 2020-08-17 10:13:58 -0700
 excerpt: "How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand. I'm not trying to figure out how to avoid dying from covid-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck?"
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/marathon.jpg"
-featured: true
 ---
 How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand. I'm not trying to figure out how to avoid dying from covid-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck? I don't need to tell you how challenging life has been since March. We're all struggling in one way or another. 
 
