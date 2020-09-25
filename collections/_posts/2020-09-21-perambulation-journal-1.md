@@ -7,10 +7,9 @@ published: true
 ---
 A mild, late-September morning. Fog. The lake. A little bit of "wilderness." Just what I needed.
 
-<div class="gallery" data-columns="2">
-    <img src="https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200921-01-1080x1080.jpg">
-    <img src="https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200921-02-1080x1080.jpg">
-</div>
+![Foggy day](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200921-01-1080x1080.jpg)
+
+![Lake](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200921-02-1080x1080.jpg)
 
 To sit and look at light-filled leaves  
 May let us see, or seem to see,  

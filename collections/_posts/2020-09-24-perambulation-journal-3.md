@@ -7,11 +7,11 @@ published: true
 ---
 Very warm. No clouds.
 
-<div class="gallery" data-columns="3" title="Click to enlarge">
-    <img src="https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-01a-1080x1080.jpg">
-    <img src="https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-02-1080x1080.jpg">
-    <img src="https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-03-1080x1080.jpg">
-</div>
+![Avenida del Diablo](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-01a-1080x1080.jpg)
+
+![Path](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-02-1080x1080.jpg)
+
+![Hillside](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-03-1080x1080.jpg)
 
 Why make so much of fragmentary blue  
 In here and there a bird, or butterfly,  
