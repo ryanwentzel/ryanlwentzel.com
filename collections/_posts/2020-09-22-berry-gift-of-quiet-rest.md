@@ -1,7 +1,7 @@
 ---
 title: "Wendell Berry on the Gift of Quiet Rest"
 date: 2020-09-22 20:11:33 -0700
-excerpt: "Moments of stillness and silence, especially in the tumultuous days in which we live, are gifts not to be taken for granted."
+excerpt: "Moments of stillness and silence are gifts not to be taken for granted, especially in the tumultuous days in which we live."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/ranger-spring-woods.jpg" 
 published: true
 ---
