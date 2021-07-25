@@ -83,6 +83,17 @@ For yours is the kingdom
 &nbsp;&nbsp;&nbsp;&nbsp;and the glory,  
 &nbsp;&nbsp;&nbsp;&nbsp;forever. Amen.
 
+## Prayers
+
+*The following can be prayed by the dying.*
+
+Gracious God,  
+you have created me in your image,  
+and claimed me as your own through baptism.  
+Comfort me with the promise of eternal life,  
+made sure in the death and resurrection of your Son,  
+Jesus Christ our Lord.  
+Amen.
 
 ## Hymns & Songs
 
