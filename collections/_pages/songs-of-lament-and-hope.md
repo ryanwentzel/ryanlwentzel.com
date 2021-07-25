@@ -24,7 +24,7 @@ Listen via Spotify
 Listen via YouTube
 
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ky33Cr0YtaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL1F_aSEQ-Vlh1cOTl0rqwZQmZ-1XJVMHe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
