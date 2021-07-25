@@ -5,7 +5,8 @@
         "posts",
         "prayers",
         "articles",
-        "sermons"
+        "sermons",
+        "pages"
     ],
     "template": "featured.html",
     "entryTemplate": "blog-post.html",
