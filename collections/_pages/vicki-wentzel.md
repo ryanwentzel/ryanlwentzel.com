@@ -1,7 +1,7 @@
 ---
 title: Vicki L. Wentzel
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/edelfelt-sorrow.jpg"
-sitemap.exclude: true
+sitemap: false
 ---
 ![](https://d1yo597syf8yny.cloudfront.net/images/featured/vicki.jpg)
 
