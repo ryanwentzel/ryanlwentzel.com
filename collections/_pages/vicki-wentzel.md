@@ -10,7 +10,7 @@ Vicki L. Wentzel, beloved wife, mother, grandmother, sister, friend, died July 2
 
 Family and friends will gather for a memorial service at 11:00 A.M. on Saturday, July 31<sup>st</sup>, 2021, at Grace Bible Church, in Escondido, California, to give God thanks for Vicki's life, mourn our loss, and celebrate our hope in our risen Savior, Jesus Christ.
 
-[Download the Memorial Service program](https://d1yo597syf8yny.cloudfront.net/docs/Vicki_Wentzel_Memorial_Program_final.pdf)
+<a href="https://d1yo597syf8yny.cloudfront.net/docs/Vicki_Wentzel_Memorial_Program_final.pdf" class="button" title="Vicki Wentzel Memorial Service program">Download the Memorial Service program</a>
 
 ## Memorial Service Livestream
 
