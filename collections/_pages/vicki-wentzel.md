@@ -1,6 +1,7 @@
 ---
-title: Vicki L. Wentzel
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/edelfelt-sorrow.jpg"
+title: Vicki Wentzel
+featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/vicki-square.jpg"
+excerpt: "Vicki L. Wentzel, beloved wife, mother, grandmother, sister, friend, died July 22, 2021. She was 65. Vicki will be missed greatly by her family and all who knew her." 
 sitemap: false
 ---
 ![](https://d1yo597syf8yny.cloudfront.net/images/featured/vicki.jpg)
