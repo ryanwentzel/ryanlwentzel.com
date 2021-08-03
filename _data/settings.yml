@@ -23,7 +23,7 @@ menu_settings:
     - title: 'Resources'
       url: '/resources'
     - title: 'Subscribe'
-      url: '/feeds/feed.xml'
+      url: '/subscribe'
 
 grid_settings:
   grid_spacing: 10
