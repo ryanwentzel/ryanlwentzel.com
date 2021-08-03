@@ -18,7 +18,7 @@ layout:
 {%- for entry in sorted limit:site.data.syndication.maxItems -%}
 <entry>
    <title>{{ entry.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
+   <link href="{{ site.url }}{{ entry.url }}"/>
    <updated>{{ entry.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ entry.id }}</id>
    <content type="html">{{ entry.content | xml_escape }}</content>
