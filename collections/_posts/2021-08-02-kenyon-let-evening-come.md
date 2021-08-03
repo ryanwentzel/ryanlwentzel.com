@@ -7,6 +7,8 @@ published: true
 ---
 ![George Inness, The Lonely Farm, Nantucket, 1892](https://d1yo597syf8yny.cloudfront.net/images/featured/inness-lonely-farm-1892.jpg "George Inness, The Lonely Farm, Nantucket, 1892")
 
+Jane Kenyon's poem "Let Evening Come" evokes—for me, at least—thoughts about loss, the inevitability of death, and hope.
+
 **Let Evening Come**  
 By Jane Kenyon
 
