@@ -4,7 +4,7 @@ date: 2021-08-04 11:13:09 -0700
 excerpt: "I reread Wendell Berry's <i>Jayber Crow</i> last April. The story of Jayber's life is told from his own perspective as an old man looking back. This time through the book I was struck by his reflections on aging."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/old-man-profile-rembrandt-2.jpg"
 ---
-![](https://d1yo597syf8yny.cloudfront.net/images/featured/old-man-profile-rembrandt-2.jpg)
+![Study of an Old Man in Profile, Rembrandt van Rijn, 1606–1669](https://d1yo597syf8yny.cloudfront.net/images/featured/old-man-profile-rembrandt-2.jpg "Study of an Old Man in Profile, Rembrandt van Rijn, 1606–1669")
 
 I reread Wendell Berry's *Jayber Crow* last April. The story of Jayber's life is told from his own perspective as an old man looking back. This time through the book I was struck by his reflections on aging.
 
