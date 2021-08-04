@@ -14,6 +14,4 @@ Family and friends gathered for a memorial service on Saturday, July 31<sup>st</
 
 <a href="{{ site.url }}/vicki-wentzel-eulogy" class="button" title="A eulogy of Vicki Wentzel">Read the eulogy</a>
 
-## Memorial Service Livestream
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5L-0ih5ipLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
