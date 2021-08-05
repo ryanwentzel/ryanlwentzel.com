@@ -8,6 +8,7 @@ featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/vikas-for
 
 Wendell Berry's Sabbath poems create in me a longing to find a quiet spot in the woods where I can take a nap.
 
+**1979, I**  
 I go among trees and sit still.  
 All my stirring becomes quiet  
 around me like circles on water.  
