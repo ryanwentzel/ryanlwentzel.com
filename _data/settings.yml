@@ -25,7 +25,7 @@ menu_settings:
     - title: 'Subscribe'
       url: '/subscribe'
     - title: 'Contact'
-      url: 'mailto:hi@ryanlwentzel.com'
+      url: 'mailto:&#104;&#105;&#064;&#114;&#121;&#097;&#110;&#108;&#119;&#101;&#110;&#116;&#122;&#101;&#108;&#046;&#099;&#111;&#109;'
 
 grid_settings:
   grid_spacing: 10
