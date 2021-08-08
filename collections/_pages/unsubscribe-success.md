@@ -5,4 +5,6 @@ sitemap: false
 ---
 You've unsubscribed successfully from **ryanlwentzel.com**. 
 
-Didn't mean to unsubscribe? You can resubscribe [here](/subscribe). Think there's been some kind of mistake? Please email [me](mailto:hi@ryanlwentzel.com?subject=Problem%20with%20email%20subscription) and I'll get it sorted out for you.
+![Unsubscribed successfully](https://d1yo597syf8yny.cloudfront.net/images/posts/unsubscribed.gif)
+
+Didn't mean to unsubscribe? You can resubscribe [here]({{ "/subscribe" | absolute_url }}).
