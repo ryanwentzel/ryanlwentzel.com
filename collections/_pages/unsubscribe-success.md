@@ -1,5 +1,5 @@
 ---
-title: You're No Longer Subscribed
+title: Unsubscribe
 permalink: /unsubscribe/success
 sitemap: false
 ---
