@@ -11,7 +11,7 @@ layout:
  <author>
    <name>{{- site.data.settings.basic_settings.site_author -}}</name>
  </author>
- <icon>{{ site.baseurl }}/favicon.ico</icon>
+ <icon>{{ "favicon.ico" | absolute_url }}</icon>
 {%- assign sorted = site.microposts | sort: "date" -%}
 {%- assign posts = sorted | reverse -%}
  {%- for post in posts limit:10 -%}

@@ -12,7 +12,7 @@ layout:
    <name>{{- site.data.settings.basic_settings.site_author -}}</name>
    <email>{{- site.author.email -}}</email>
  </author>
- <icon>{{ site.baseurl }}/favicon.ico</icon>
+ <icon>{{ "favicon.ico" | absolute_url }}</icon>
 {%- assign sorted = site.prayers | sort: "date" -%}
 {%- assign prayers = sorted | reverse -%}
  {%- for prayer in prayers limit:10 -%}
