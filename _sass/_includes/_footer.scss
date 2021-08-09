@@ -54,9 +54,16 @@
 }
 
 .footer__copyright {
-	float: left;
+	@include mq(phonel) {
+		float: left;
+	}
 }
 
 .footer__vocation {
-	float: right;
+	padding-top: 5px;
+
+	@include mq(phonel) {
+		float: right;
+		padding-top: 0;
+	}
 }
