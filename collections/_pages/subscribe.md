@@ -1,8 +1,8 @@
 ---
-title: Get the Latest Content
-description: "Subscribe to ryanlwentzel.com to get the latest content."
+title: Subscribe
+description: "Get the latest content in your inbox."
 ---
-Sign up to receive the latest content from ryanlwentzel.com in your inbox.
+Sign up to receive the latest content from ryanlwentzel.com in your inbox. Unsubscribe at any time.
 
 <div class="form">
   <form action="https://buttondown.email/api/emails/embed-subscribe/ryanlwentzel.com" method="post" class="embeddable-buttondown-form">
