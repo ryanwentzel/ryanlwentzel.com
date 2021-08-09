@@ -54,7 +54,7 @@
 }
 
 .footer__copyright {
-	@include mq(phonel) {
+	@include mq(tabletp) {
 		float: left;
 	}
 }
@@ -62,7 +62,7 @@
 .footer__vocation {
 	padding-top: 5px;
 
-	@include mq(phonel) {
+	@include mq(tabletp) {
 		float: right;
 		padding-top: 0;
 	}
