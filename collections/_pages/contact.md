@@ -9,7 +9,7 @@ description: Send me a message.
    method="POST">
     <div class="form__item">
         <label for="full-name" class="form__label">Your Name</label>
-        <input type="text" class="form__input" name="name" id="full-name" placeholder="Wendell Berry" required="">
+        <input type="text" class="form__input" name="name" id="full-name" placeholder="Firstname Lastname" required="">
     </div>
     <div class="form__item">
         <label for="email-address" class="form__label">Your Email Address</label>
@@ -17,7 +17,7 @@ description: Send me a message.
     </div>
     <div class="form__item">
         <label for="message" class="form__label">Your Message</label>
-        <textarea rows="5" class="form__input" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+        <textarea rows="8" class="form__input" name="message" id="message" placeholder="When despair for the world grows in me and I wake in the night at the least sound in fear of what my life and my children’s lives may be, I go and lie down where the wood drake rests in his beauty on the water, and the great heron feeds. I come into the peace of wild things who do not tax their lives with forethought of grief. I come into the presence of still water. And I feel above me the day-blind stars waiting with their light. For a time I rest in the grace of the world, and am free." required=""></textarea>
     </div>
     <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
     <div class="form__item">
