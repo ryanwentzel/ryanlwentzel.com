@@ -10,7 +10,7 @@ This was my first outing since checking out Ramona Grasslands Preserve in late J
 
 The weather was just right at 7:43 AM—68°F with clear, blue skies. I began by spending a few moments at the duck pond (A marker)—also known as Sand Lake or Eagle Scout Lake—watching a man feed a large group of mallards. As always, several domestic types were in the mix. The pond was active. Fifteen Snowy Egrets dotted the shore, along with two Great Egrets. I also spotted a few Pied-billed Grebes and a solitary Northern Rough-Winged Swallow. Later, at the end of the outing, a number of turtles—large and small—were sunning themselves.
 
-From Eagle Scout Lake, I headed in a south-westerly direction along Kit Carson Park Loop Trail (B marker). I spotted several Song Sparrows and two Common Yellowthroats in the wooded area where the Loop Trail connects to the Upper Valley Trail (C marker). I took the Upper Valley Trail to the Main Valley Trail (D marker), where I spent much of my time. I saw a California Thrasher, several Anna's Hummingbirds, a Northern Mockingbird, along with other species.
+From Sand Lake I headed in a south-westerly direction along Kit Carson Park Loop Trail (B marker). I spotted several Song Sparrows and two Common Yellowthroats in the wooded area where the Loop Trail connects to the Upper Valley Trail (C marker). I took the Upper Valley Trail to the Main Valley Trail (D marker), where I spent much of my time. I saw a California Thrasher, several Anna's Hummingbirds, and a Northern Mockingbird, along with other species.
 
 ![Main Valley Trail](https://d1yo597syf8yny.cloudfront.net/images/content/IMG_3327-opt.jpg "Main Valley Trail")
 
