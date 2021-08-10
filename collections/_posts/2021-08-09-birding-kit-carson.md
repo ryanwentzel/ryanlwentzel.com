@@ -20,6 +20,6 @@ After rejoining the Upper Valley Trail (E marker), I saw a large Red-tailed Hawk
 
 ![View from the top of Upper Valley Trail](https://d1yo597syf8yny.cloudfront.net/images/content/IMG_3332.jpg "View from the top of Upper Valley Trail")
 
-I proceed along a short section of the Kit Carson Park Loop Trail before connecting to the Iris Sankey Magical Garden Trail (F marker), which took me past [Queen Califa's Magical Circle](https://en.wikipedia.org/wiki/Queen_Califia%27s_Magical_Circle) (a sculpture garden). Just beyond the Magical Circle, I spotted a Mourning Dove, a Nuttal's Woodpecker, and four House Finches all perched in the same tree. After a few more moments at Sand Lake, I called it a day.
+I proceed along a short section of the Kit Carson Park Loop Trail before connecting to the Iris Sankey Magical Garden Trail (F marker), which took me past [Queen Califia's Magical Circle](https://en.wikipedia.org/wiki/Queen_Califia%27s_Magical_Circle) (a sculpture garden). Just beyond the Magical Circle, I spotted a Mourning Dove, a Nuttal's Woodpecker, and four House Finches all perched in the same tree. After a few more moments at Sand Lake, I called it a day.
 
 After all was said and done, I observed 29 different species (131 individual birds) while covering 1.69 miles in 1 hour and 46 minutes. You can see the complete checklist [here](https://ebird.org/checklist/S93012550).
