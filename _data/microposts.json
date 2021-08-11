@@ -2,5 +2,5 @@
     "name": "microposts",
     "displayName": "Microposts",
     "entryTemplate": "micropost.html",
-    "maxItems": 15
+    "maxItems": 3
 }

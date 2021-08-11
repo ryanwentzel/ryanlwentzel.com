@@ -10,5 +10,5 @@
     ],
     "template": "latest.html",
     "entryTemplate": "blog-post.html",
-    "maxItems": 5
+    "maxItems": 3
 }
