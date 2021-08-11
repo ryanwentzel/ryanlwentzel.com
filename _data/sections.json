@@ -8,6 +8,10 @@
         "template": "latest.html"
     },
     {
+        "name": "subscribe",
+        "template": "subscribe.html"
+    },
+    {
         "name": "microposts",
         "template": "microposts.html"
     }

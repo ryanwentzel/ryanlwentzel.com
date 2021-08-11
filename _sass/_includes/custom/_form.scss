@@ -3,8 +3,7 @@
 // Form
 
 // - - - - - - - - - - - - - - - - - -
-
-.form {
+.form__content {
 	background: $background-alt-color;
 	font-family: $title-font;
 	margin: 20px auto;
@@ -33,6 +32,12 @@
 
 	&:first-child {
 		margin-top: 0;
+	}
+
+	p {
+		font-weight: bold;
+		margin: 0 0 20px 0;
+		max-width: 100%;
 	}
 
 	.powered-by {
