@@ -4,7 +4,7 @@ description: Send me a message.
 ---
 <form action="https://getform.io/f/97d14b61-f191-44e9-9e2f-518d5726f2af"
    accept-charset="UTF-8"
-   class="form"
+   class="form__content"
    enctype="multipart/form-data"
    method="POST">
     <div class="form__item">
