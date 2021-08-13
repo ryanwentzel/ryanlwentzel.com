@@ -59,6 +59,13 @@
 }
 
 .form__description {
+	font-size: $p-small * 0.90;
+	@include mq(tabletp) {
+		font-size: $p-medium;
+	}
+	@include mq(laptop) {
+		font-size: $p-large;
+	}
 	margin: 0 auto;
 	text-align: center;
 
