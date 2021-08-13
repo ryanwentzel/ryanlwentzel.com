@@ -35,6 +35,29 @@
 	}
 }
 
+.form__section {
+	&:after {
+		border-bottom: 1px solid $border-color;
+		content: ""; /* This is necessary for the pseudo element to work. */ 
+		display: block; /* This will put the pseudo element on its own line. */
+		margin: 2.5em auto 0 auto;
+		width: 100%; /* Change this to whatever width you want. */
+
+		@include mq(tabletp) {
+			margin: 4.5em auto 0 auto;
+		}
+		@include mq(laptop) {
+            max-width: $max-width-laptop;
+        }
+        @include mq(laptop-retina) {
+            max-width: $max-width-retina;
+        }
+		@include mq(desktop) {
+			max-width: $max-width-desktop;
+		}
+	}
+}
+
 .form__description {
 	margin: 0 auto;
 	text-align: center;
