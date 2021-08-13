@@ -10,5 +10,9 @@ layout: default
 <section class="single single-blog-post">
 	<div class="wrap">
 		{{ page.content }}
+		<div class="single-blog-post__subscribe">
+			<hr />
+			{%- include subscribe-form.html -%}
+		</div>
 	</div>
 </section>
