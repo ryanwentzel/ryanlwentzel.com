@@ -9,7 +9,7 @@
     },
     {
         "name": "subscribe",
-        "template": "subscribe.html"
+        "template": "subscribe-section.html"
     },
     {
         "name": "microposts",

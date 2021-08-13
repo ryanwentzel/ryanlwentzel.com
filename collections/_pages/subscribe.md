@@ -1,6 +1,7 @@
 ---
 title: Subscribe
 description: "Get the latest content in your inbox."
+display_title: false
 ---
 {%- include subscribe-form.html -%}
 

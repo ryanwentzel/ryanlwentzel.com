@@ -1,30 +1,24 @@
-<div class="contact-form">
-
-	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="contact-form">
-
-		<div class="contact-form__item">
-			<label class="contact-form__label">Email Address *</label>
-			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
-		</div>
-
-		<div class="contact-form__item">
-			<label class="contact-form__label">Name *</label>
-			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
-		</div>
-
-		<div class="contact-form__item">
-			<label class="contact-form__label">Message *</label>
-			<textarea name="message" placeholder="Your message..." class="contact-form__textarea"></textarea>
-		</div>
-
-		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
-		<input type="hidden" name="_subject" value="{{ site.data.settings.contact_settings.email_subject }}" />
-		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
-
-		<div class="contact-form__item">
-			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
-		</div>
-
-	</form>
-
+<div class="form__wrapper">
+    <form action="https://getform.io/f/97d14b61-f191-44e9-9e2f-518d5726f2af"
+    accept-charset="UTF-8"
+    class="form__content"
+    enctype="multipart/form-data"
+    method="POST">
+        <div class="form__item">
+            <label for="full-name" class="form__label">Your Name</label>
+            <input type="text" class="form__input" name="name" id="full-name" placeholder="Firstname Lastname" required="">
+        </div>
+        <div class="form__item">
+            <label for="email-address" class="form__label">Your Email Address</label>
+            <input type="email" class="form__input" name="email_address" id="email-address" placeholder="you@example.com" required="">
+        </div>
+        <div class="form__item">
+            <label for="message" class="form__label">Your Message</label>
+            <textarea rows="8" class="form__input" name="message" id="message" placeholder="When despair for the world grows in me and I wake in the night at the least sound in fear of what my life and my children’s lives may be, I go and lie down where the wood drake rests in his beauty on the water, and the great heron feeds. I come into the peace of wild things who do not tax their lives with forethought of grief. I come into the presence of still water. And I feel above me the day-blind stars waiting with their light. For a time I rest in the grace of the world, and am free." required=""></textarea>
+        </div>
+        <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+        <div class="form__item">
+            <input class="button button--large" type="submit" value="Submit">
+        </div>
+    </form>
 </div>
