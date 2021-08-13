@@ -139,6 +139,12 @@
 	}
 }
 
+.subscribe__form {
+	& {
+		text-align: center;
+	}
+}
+
 ::-webkit-input-placeholder {
 	color: lighten($text-light-color,3%);
 }
