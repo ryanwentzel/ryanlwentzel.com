@@ -6,7 +6,7 @@ featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/carpeaux-
 ---
 ![Jean-Baptiste, Solitude, la forêt, 1850-1875](https://d1yo597syf8yny.cloudfront.net/images/featured/carpeaux-solitude.jpg "Jean-Baptiste, Solitude, la forêt, 1850-1875")
 
-Fanny J. Crosby's hymn "O Heart Bereaved and Lonely" speaks words of empathy, comfort, and hope to those who journey along grief's twisting path. Our churches would be more emotionally healthy if we regularly sang hymns like this one our worship services.
+Fanny J. Crosby's hymn "O Heart Bereaved and Lonely" speaks words of empathy, comfort, and hope to those who journey along grief's twisting path. Our churches would be more emotionally healthy if we regularly sang hymns like this one in our worship services.
 
 > O heart bereaved and lonely, Whose brightest dreams have fled*  
 > Whose hopes like summer roses, Are withered crushed and dead  
