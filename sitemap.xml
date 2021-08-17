@@ -6,6 +6,12 @@ sitemap:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.url | absolute_url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
   {% for post in site.posts %}
     {% unless post.published == false %}
     <url>
@@ -57,7 +63,7 @@ sitemap:
 	  {% elsif page.url contains site.home_page %}
 		<priority>0.1</priority>
       {% else %}
-        <priority>0.3</priority>
+        <priority>0.75</priority>
       {% endif %}
     </url>
     {% endunless %}
