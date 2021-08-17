@@ -6,13 +6,13 @@ featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/birding-j
 ---
 ![Map of route](https://d1yo597syf8yny.cloudfront.net/images/content/birding-route-20210816.jpg "Map of route") 
 
-Beginning at Del Dios Community Park, just before 7:30 AM, I picked up the Coast to Crest Trail and headed south alongside Lake Drive. Within a few moments I spotted several different species, including California Quail, American Crow, California Towhee, Spotted Towhee, Nuttal's Woodpecker, Cooper's Hawk, and Bewick's Wren (several of which were quite vocal at different points on the trail throughout the morning).
+Shortly before 7:30 AM, I set out from Del Dios Community Park on the Coast to Crest Trail, heading south alongside Lake Drive. Within a few moments I spotted several different species, including California Quail, American Crow, California Towhee, Spotted Towhee, Nuttal's Woodpecker, Cooper's Hawk, and Bewick's Wren (several of which were quite vocal at different points on the trail throughout the morning).
 
 ![Lake Hodges](https://d1yo597syf8yny.cloudfront.net/images/content/IMG_3373.jpg "Lake Hodges") 
 
-Coming around a bend in the trail, I encountered a Red-shouldered Hawk, no more than 30 feet away, perched on a tree limb, with his back to me. I quietly took my phone from my pocket, opened the camera app, and snapped a quick photo. Unfortunately, I forgot to switch the phone to silent mode; the sound of the shutter scared away the bird.
+Just around a bend in the trail, I came upon a Red-shouldered Hawk—no more than 30 feet away—perched on a tree limb with its back to me. I quietly took my phone from my pocket, opened the camera app, and snapped a quick photo. Unfortunately, I forgot to switch the phone to silent mode; the sound of the shutter scared away the bird.
 
-A little further on, I took a spur down to the shore of the lake. Along the way I came across several Lesser Goldfinches and Song Sparrows in the bushes next to the trail. In the shallows, at the water's edge, a Great Egret searched for prey. A Double-crested Cormorant was sunning itself atop a buoy further out in the lake. In nearby trees, several Great-tailed Grackles made their voices heard. A Forster's Tern circled above the water, looking for a snack.
+A little further on, I took a spur down to the shore of the lake. Along the way I came across several Lesser Goldfinches and Song Sparrows in the bushes next to the trail. At the water's edge, a Great Egret searched for prey in the shallows. A Double-crested Cormorant was sunning itself atop a buoy further out in the lake. In nearby trees, several Great-tailed Grackles made their voices heard. A Forster's Tern circled above the water, looking for a snack.
 
 ![Lake Hodges](https://d1yo597syf8yny.cloudfront.net/images/content/IMG_3378.jpg "Lake Hodges") 
 
@@ -30,7 +30,7 @@ Returning to the main trail, I continued hiking south, toward the dam. More Bewi
 
 After turning around and heading back toward where I started, I caught sight of a White-breasted Nuthatch looking for food in the tree limbs above my head. Just off the trail, atop the remains of a fire-damaged tree trunk, a California Scrub-jay issued a series of scratchy calls.
 
-By 9:00 AM or so, the day was beginning to get quite warm. I decided to make my way quickly over to a few spots to the east of Del Dios Community Park before heading home. Several Mourning Doves and Acorn Woodpeckers were camped out in trees along the way. Three Turkey Vultures circled high up in the sky. Just when I decided to head back to the parking lot, I spotted two Lesser Goldfinches, perched on a limb, next to an American Kestrel.
+By 9:00 AM or so, the day was beginning to get quite warm. I decided to make my way quickly over to a few spots to the east of Del Dios Community Park before heading home. Several Mourning Doves and Acorn Woodpeckers were camped out in trees along the way. Three Turkey Vultures circled high up in the sky. Just when I decided to head back to the parking lot, I spotted two Lesser Goldfinches perched on a limb, playing neighbor to an American Kestrel.
 
 ![Coast to Crest Trail sign](https://d1yo597syf8yny.cloudfront.net/images/content/IMG_3394.jpg "Coast to Crest Trail sign")
 
