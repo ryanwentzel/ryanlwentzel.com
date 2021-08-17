@@ -1,6 +1,7 @@
 ---
 title: Eulogy of Vicki Wentzel
 description: "A eulogy of Vicki Wentzel, delivered at her memorial service on July 31, 2021, by her oldest son, Ryan Wentzel."
+sitemap: false
 ---
 *I delivered the following eulogy at my mother's memorial service on July 31, 2021, at Grace Bible Church in Escondido, CA.*
 
