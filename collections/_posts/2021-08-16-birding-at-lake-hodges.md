@@ -4,6 +4,11 @@ date: 2021-08-16 14:05:10 -0700
 excerpt: "Beginning at Del Dios Community Park, just before 7:30 AM, I picked up the Coast to Crest Trail and headed south alongside Lake Drive."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/birding-journal.jpg"
 ---
+
+*Lake Hodges is [located](https://goo.gl/maps/g36hGyEJnfZtRsKt7) just south of Escondido, California, about 30 miles north of downtown San Diego.*
+
+---
+
 ![Map of route](https://d1yo597syf8yny.cloudfront.net/images/content/birding-route-20210816.jpg "Map of route") 
 
 Beginning at Del Dios Community Park, just before 7:30 AM, I picked up the Coast to Crest Trail and headed south alongside Lake Drive. Within a few moments I spotted several different species, including California Quail, American Crow, California Towhee, Spotted Towhee, Nuttal's Woodpecker, Cooper's Hawk, and Bewick's Wren (several of which were quite vocal at different points on the trail throughout the morning).
