@@ -4,13 +4,14 @@ layout:
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>{{ site.data.settings.basic_settings.site_title }}</title>
- <link href="{{ site.url }}/feeds/feed.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
+ <link href="{{ '/feeds/feed.xml' | absolute_url }}" rel="self"/>
+ <link href="{{ site.url | absolute_url }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <id>{{ site.url | absolute_url }}</id>
  <author>
    <name>{{ site.data.settings.basic_settings.site_author }}</name>
-   <email>{{ site.author.email }}</email>
+   <email>{{ site.data.settings.basic_settings.site_email }}</email>
+   <uri>{{ site.url | absolute_url }}</uri>
  </author>
  <icon>{{ "favicon.ico" | absolute_url }}</icon>
 {%- assign docs = site.documents | where_exp: "doc", "site.data.syndication.collections contains doc.collection" -%}
@@ -18,10 +19,15 @@ layout:
 {%- for entry in sorted limit:site.data.syndication.maxItems -%}
 <entry>
    <title>{{ entry.title | xml_escape }}</title>
-   <link href="{{ site.url }}{{ entry.url }}"/>
+   <link href="{{ entry.url | absolute_url }}"/>
    <updated>{{ entry.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ entry.id }}</id>
-   <content type="html">{{ entry.content | xml_escape }}</content>
+   <id>{{ entry.url | absolute_url }}</id>
+   <content type="html"><![CDATA[{{ entry.content }}]]></content>
+   <author>
+    <name>{{ site.data.settings.basic_settings.site_author }}</name>
+    <email>{{ site.data.settings.basic_settings.site_email }}</email>
+    <uri>{{ site.url | absolute_url }}</uri>
+   </author>
  </entry>
 {%- endfor -%}
 </feed>
