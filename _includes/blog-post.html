@@ -1,12 +1,12 @@
 <article class="blog-post">
     <div class="blog-post__header">
-        <h2 class="blog-post__title"><a href="{{ include.entry.url | relative_url }}">{{ include.entry.title }}</a></h2>
+        <h2 class="blog-post__title"><a href="{{ include.entry.url | absolute_url }}">{{ include.entry.title }}</a></h2>
     </div>
     {%- if include.entry.featured_image -%}
     {%- include featured-image.html item=include.entry -%}
     {%- endif -%}
     <div class="blog-post__content">
         <p>{{ include.entry.excerpt }}</p>
-        <p><a class="button" href="{{ include.entry.url | relative_url }}">Read More</a></p>
+        <p><a class="button" href="{{ include.entry.url | absolute_url }}">Read More</a></p>
     </div>
 </article>
