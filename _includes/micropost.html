@@ -2,7 +2,5 @@
     <div class="blog-post__header">
 		<p class="post-byline" title="Posted on {{ include.entry.date | date: '%B %d, %Y %H:%M' }}">{{- include.entry.date | date: '%B %d, %Y @ %I:%M %P' -}}</p>
     </div>
-    <div class="blog-post__content">
-        <p>{{ include.entry.content }}</p>
-    </div>
+    <div class="blog-post__content">{{ include.entry.content }}</div>
 </article>
