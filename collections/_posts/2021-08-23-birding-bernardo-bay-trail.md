@@ -1,6 +1,6 @@
 ---  
 title: Birding Along Bernardo Bay Trail  
-date: 2021-08-23 12:45:24 -0700  
+date: 2021-08-23 18:01:36 -0700  
 excerpt: "I set out on the Bernardo Bay Trail at 7:00 A.M. with overcast skies above me. After nearly three hours of meandering along the trail, I arrived back at the parking lot, having covered 2.63 miles."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/birding-journal.jpg"
 ---
