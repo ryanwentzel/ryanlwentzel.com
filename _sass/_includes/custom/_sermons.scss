@@ -2,4 +2,15 @@
     .sermon-meta {
         font-style: italic;
     }
+
+    .sermon-content-sep {
+        @include mq(tabletp) {
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+    }
+
+    .sermon-audio-embed {
+        margin-top: 40px;
+    }
 }

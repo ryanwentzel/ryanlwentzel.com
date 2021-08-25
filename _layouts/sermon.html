@@ -9,9 +9,18 @@ layout: default
 </section>
 <section class="single">
 	<div class="wrap">
+		{%- if page.video_embed -%}
+		{{- page.video_embed -}}
+		{%- endif -%}
         <p class="sermon-meta">
             A {{ page.talk_type }} on {{ page.text }}. Preached {{ page.date_preached | date: '%B %d, %Y' }} at {{ page.venue }} in {{ page.location }}.
 		</p>
+		<hr class="sermon-content-sep" />
 		{{ page.content }}
+		{%- if page.audio_embed -%}
+		<div class="embeddable sermon-audio-embed">
+		{{- page.audio_embed -}}
+		</div>
+		{%- endif -%}
 	</div>
 </section>
