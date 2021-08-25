@@ -101,6 +101,7 @@ defaults:
     values:
       layout: "sermon"
       talk_type: "sermon"
+      featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/bible-psalm-62.jpg
 
 markdown: kramdown
 
