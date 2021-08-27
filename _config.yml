@@ -103,6 +103,7 @@ defaults:
       talk_type: "sermon"
       title_prefix: "New Sermon:"
       featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/bible-psalm-62.jpg
+      header_image: https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg
 
 markdown: kramdown
 
