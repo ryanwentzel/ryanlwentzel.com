@@ -1,6 +1,6 @@
 <article class="blog-post">
     <div class="blog-post__header">
-        <h2 class="blog-post__title"><a href="{{ include.entry.url | absolute_url }}" title="Read the full article">{{ include.entry.title }}</a></h2>
+        <h2 class="blog-post__title"><a href="{{ include.entry.url | absolute_url }}" title="Read the full article">{%- if include.entry.title_prefix -%}{{ include.entry.title_prefix }}&nbsp;{%- endif -%}{{ include.entry.title }}</a></h2>
     </div>
     {%- if include.entry.featured_image -%}
     {%- include featured-image.html item=include.entry -%}
