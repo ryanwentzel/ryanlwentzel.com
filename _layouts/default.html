@@ -12,6 +12,8 @@
 	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
 	<meta charset="utf-8">
+	<link rel="preconnect" href="{{ site.data.settings.cdn.url}}">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<!-- Page Info -->
@@ -35,9 +37,6 @@
 	<!-- Styles -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="{{ '/css/style.css' | absolute_url }}">
-
-	<link rel="preconnect" href="{{ site.data.settings.cdn.url}}">
-	<link rel="preconnect" href="https://fonts.googleapis.com">
 
 	<!-- RSS -->
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="{{- '/feeds/feed.xml' | absolute_url -}}">
