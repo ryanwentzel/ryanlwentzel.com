@@ -10,6 +10,7 @@ basic_settings:
 cdn:
   url: https://d1yo597syf8yny.cloudfront.net
   journal_js_url: https://d1yo597syf8yny.cloudfront.net/js/journal-min.js
+  jquery_url: https://d1yo597syf8yny.cloudfront.net/js/libs/jquery/3.2.1/jquery.min.js
 
 header_settings:
   logo_image: 

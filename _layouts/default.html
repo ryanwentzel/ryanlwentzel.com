@@ -33,6 +33,7 @@
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{{ page_description }}" />
 	<meta property="og:image" content="{{ featured_image | absolute_url }}" />
+	<meta property="og:url" content="{{ page.url | absolute_url }}" />
 
 	<!-- Styles -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -90,7 +91,7 @@
 
 
 	<!-- Javascript Assets -->
-	<script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script defer src="{{ site.data.settings.cdn.jquery_url }}"></script>
 	<script defer src="{{ site.data.settings.cdn.journal_js_url }}"></script>
 
 	{% if site.data.settings.advanced_settings.footer_js %}
