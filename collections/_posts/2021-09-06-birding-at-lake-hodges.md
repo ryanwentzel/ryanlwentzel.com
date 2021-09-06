@@ -10,7 +10,7 @@ My route took me south along the Coast to Crest Trail toward the dam. The Labor 
 
 After wandering just over a mile, I turned around and retraced my steps, covering 2.35 miles total in slightly less than three hours. The highlight for me was seeing Western/Clark's Grebe chicks riding across the lake on their parent's back. 
 
-As always, you see the [full checklist of birds I sighted](https://ebird.org/checklist/S94289605) at eBird.
+As always, you can see the [full checklist of birds I sighted](https://ebird.org/checklist/S94289605) at eBird.
 
 <div class="gallery" data-columns="2">
     <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210906-lake-hodges-00001.jpg" alt="San Dieguito River Park Coast to Crest Trail sign" title="San Dieguito River Park Coast to Crest Trail sign" />
