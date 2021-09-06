@@ -119,4 +119,6 @@ plugins:
 
 paginate: 6
 paginate_path: "page/:num"
+
+exclude: ['Rakefile']
   
