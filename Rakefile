@@ -23,3 +23,13 @@ task :post do
 
   system ("code #{file}")
 end
+
+desc 'serve up site locally'
+task :serve do
+    jekyll('serve')
+end
+
+# launch jekyll
+def jekyll(directives = '')
+    sh 'bundle exec jekyll ' + directives
+  end
