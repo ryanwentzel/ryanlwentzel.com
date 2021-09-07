@@ -22,7 +22,12 @@ layout:
    <link href="{{ entry.url | absolute_url }}"/>
    <updated>{{ entry.date | date_to_xmlschema }}</updated>
    <id>{{ entry.url | absolute_url }}</id>
-   <content type="html"><![CDATA[{{ entry.content }}]]></content>
+   <content type="html"><![CDATA[
+    {%- if entry.featured_image -%}
+    <img src="{{ entry.featured_image }}" />
+    {%- endif -%}
+    <p>{{ entry.excerpt }}</p>
+    <p><a href="{{ entry.url | absolute_url }}">Continue reading this article at ryanlwentzel.com.</a></p>]]></content>
    <author>
     <name>{{ site.data.settings.basic_settings.site_author }}</name>
     <email>{{ site.data.settings.basic_settings.site_email }}</email>
