@@ -3,10 +3,9 @@ title: "Writing My Own Collects"
 date: 2020-10-03 12:01:00 -0700
 excerpt: "A <i>collect</i> is a short prayer named for its function:“collecting up” the prayers of the individuals in a congregation into one prayer. Collects have been used for centuries in the liturgies of the Western church. I’ve begun trying to write some collects of my own."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/eakins-writing-master.jpg" 
+featured_image_caption: Thomas Eakins, <i>The Writing Master</i>
 published: true
 ---
-![The Writing Master by Thomas Eakins](https://d1yo597syf8yny.cloudfront.net/images/featured/eakins-writing-master.jpg)
-
 A *collect* is a short prayer named for its function: "collecting up" the prayers of the individuals in a congregation into one prayer. The liturgies developed by John Calvin for the churches he served in Strasbourg and Geneva included a collect for illumination prior to the Scripture reading and sermon. The 1595 Scottish Metrical Psalter included collects for each of the 150 psalms. The best known collects in the English language were developed in the 16th century by Thomas Cranmer for the Book of Common Prayer. Many of these are adaptations of ancient prayers used since the 5th and 6th centuries in the Western church's liturgies.
 
 C. Frederick Barbee and Paul F.M. Zahl [note](https://www.google.com/books/edition/The_Collects_of_Thomas_Cranmer/sGb8nsBw0OYC?hl=en&gbpv=1&dq=collects%20of%20thomas%20cranmer&pg=PR10&printsec=frontcover) that the collect is a literary form of sorts, "comparable to the sonnet." It usually consists of five parts.

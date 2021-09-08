@@ -3,13 +3,12 @@ title: Songs of Lament & Hope
 date: 2021-07-24 21:22:00 -0700
 description: A playlist for those who are grieving, hurting, or suffering that makes space for both lament and hope in our faithful Savior, Jesus Christ.
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/edelfelt-sorrow.jpg"
+featured_image_caption: Albert Edelfelt (1854–1905), <i>Sorrow</i>
 featured: true
 excerpt: "A playlist for those who are grieving, hurting, or suffering that makes space for both lament and hope in our faithful Savior, Jesus Christ."
 redirect_from:
     - /songs-of-lament-and-hope
 ---
-![](https://d1yo597syf8yny.cloudfront.net/images/featured/edelfelt-sorrow.jpg "Albert Edelfelt (1854–1905), Sorrow")
-
 Songs of Lament & Hope is a playlist for those who are grieving, hurting, or suffering that makes space for both lament and hope in our faithful Savior, Jesus Christ.
 
 Stream via [Apple Music](https://music.apple.com/library/playlist/p.mmRl7poHGM9vE)

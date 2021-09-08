@@ -3,10 +3,9 @@ title: "Pray for the Persecuted Church"
 date: 2020-08-18 15:24:11 -0700
 excerpt: "Hundreds of millions of Christians around the world experience high levels of persecution. On average, eight Christians are killed each day for their faith. Let's remember to pray for them." 
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/rose-matthew.jpg" 
+featured_image_alt: Nigerian Christian woman
 published: true
 ---
-![Nigerian Christian woman](https://d1yo597syf8yny.cloudfront.net/images/featured/rose-matthew.jpg)
-
 Hundreds of millions of Christians around the world experience high levels of persecution. On average, eight Christians are killed each day for their faith.
 
 Peter, an Eritrean Christian living in Ireland, [talks](https://youtu.be/N8SYt5etHkw) about the persecution Christians face in his home country.

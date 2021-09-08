@@ -3,6 +3,7 @@ title: Birding at Lake Hodges – August 16, 2021
 date: 2021-08-16 14:05:10 -0700  
 excerpt: "Shortly before 7:30 AM, I set out from Del Dios Community Park on the Coast to Crest Trail, heading south alongside Lake Drive."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/birding-journal.jpg"
+display_featured_image: false
 ---
 ![Map of route](https://d1yo597syf8yny.cloudfront.net/images/content/birding-route-20210816.jpg "Map of route") 
 

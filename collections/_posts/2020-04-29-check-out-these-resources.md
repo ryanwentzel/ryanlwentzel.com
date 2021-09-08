@@ -3,9 +3,8 @@ title: "Check Out These Resources (April 29)"
 date: 2020-04-29 18:06:02 -0700
 excerpt: "I’m keeping today’s list intentionally short. We’re bombarded with so much information each day. I don’t want to add to the noise. However, I do think the resources listed below are worth exploring."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/beach-01.jpg"
+featured_image_alt: Wave crashing on the beach
 ---
-![The beach](https://d1yo597syf8yny.cloudfront.net/images/featured/beach-01.jpg)
-
 I’m keeping today’s list intentionally short. We’re bombarded with so much information each day. I don’t want to add to the noise. However, I do think the resources listed below are worth exploring.
 
 [The Book of Job](https://www.ligonier.org/learn/series/the-book-of-job/). A video teaching series from Ligonier Ministries. It’s free to stream right now. <q>Why does God permit suffering? It’s a question all of us have asked, and the life of Job points us toward the answer. In The Book of Job, Derek Thomas walks us through the book of Job and considers what the Bible says about our darkest moments and how we can learn to trust God in every trial.</q>

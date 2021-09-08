@@ -4,9 +4,8 @@ subtitle: Preaching the Ten Commandments
 date: 2020-05-19 11:56:29 -0700
 excerpt: "I’m getting ready to preach on the Ten Commandments at my church as we work our way through the book of Exodus on Sunday mornings. I’m excited to use Kevin DeYoung’s book, <cite>The 10 Commandments: What They Mean, Why They Matter, and Why We Should Obey Them</cite>, as an aid in my sermon prep. From what I can tell so far, it's thoroughly biblical, rooted in the Reformed tradition (that's a good thing in my opinion), informative, accessible, and practical."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/deyoung-10-commandments-02.jpg" 
+featured_image_alt: Cover of Kevin DeYoung's book The Ten Commandments
 ---
-![The Ten Commandments by Kevin DeYoung](https://d1yo597syf8yny.cloudfront.net/images/featured/deyoung-10-commandments-02.jpg)
-
 I’m getting ready to preach on the Ten Commandments at my church as we work our way through the book of Exodus on Sunday mornings. I’m excited to use Kevin DeYoung’s book, *The 10 Commandments: What They Mean, Why They Matter, and Why We Should Obey Them*, as an aid in my sermon prep. From what I can tell so far, it's thoroughly biblical, rooted in the Reformed tradition (that's a good thing in my opinion), informative, accessible, and practical. 
 
 I’ve been a Christian for over twenty years, but I’ve never heard a series of sermons on the Decalogue, at least not at any of the churches I’ve been part of. I suspect the same is true for many believers my age.

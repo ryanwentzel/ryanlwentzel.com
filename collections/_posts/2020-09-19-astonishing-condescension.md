@@ -3,10 +3,9 @@ title: "Psalm 113 and the Astonishing Condescension of God the Son"
 date: 2020-09-19 10:41:16 -0700
 excerpt: "Psalm 113 praises the Triune God for the astonishing condescension of God the Son through whom poor and needy sinners are raised up “to sit as sons and daughters with Him in His Father’s house.”"
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/landscape-inness.jpg" 
+featured_image_alt: Painting by George Inness
 published: true
 ---
-![](https://d1yo597syf8yny.cloudfront.net/images/featured/landscape-inness.jpg)
-
 Christopher Ash does a fine job in volume 2 of his *Teaching Psalms* series summarizing Psalm 113 and connecting it to the flow of redemptive history as it moves toward the incarnation, life, death, and resurrection of Jesus Christ.
 
 After noting the near verbatim use in verses 7–8a of a line from Hannah's prayer in 1 Samuel 2:8, he comments:

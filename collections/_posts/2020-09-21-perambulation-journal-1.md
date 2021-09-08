@@ -3,6 +3,7 @@ title: "Perambulation Journal 1"
 date: 2020-09-21 11:19:34 -0700
 excerpt: "Perambulating alongside a lake on a foggy morning."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg" 
+featured_image_alt: Path through the forest
 published: true
 ---
 A mild, late-September morning. Fog. The lake. A little bit of "wilderness." Just what I needed.

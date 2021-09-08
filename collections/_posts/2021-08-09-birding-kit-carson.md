@@ -3,6 +3,7 @@ title: "Birding at Kit Carson Park – August 9, 2021"
 date: 2021-08-09 17:26:00 -0700
 excerpt: "This was my first outing since checking out Ramona Grasslands Preserve in late June. I’ve missed wandering along the trails—watching, listening, not speaking. It’s good for my soul."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/birding-journal.jpg"
+featured_image_alt: Binoculars and birding field guide
 ---
 This was my first outing since checking out Ramona Grasslands Preserve in late June. I've missed wandering along the trails—watching, listening, not speaking. It's good for my soul.
 

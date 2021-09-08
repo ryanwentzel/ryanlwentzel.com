@@ -3,6 +3,7 @@ title: Birding at San Elijo Lagoon Ecological Reserve
 date: 2021-09-01 14:58:33 -0700  
 excerpt: "This week I headed over to the San Elijo Lagoon Ecological Reserve. I planned to check out sections of the East Basin beginning at La Orilla Trailhead. I didn’t see any as many birds as I had hoped—and mosquito trouble made for a less enjoyable morning than it otherwise would have been—but I’m always grateful for the opportunity to spend time outdoors."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/birding-journal.jpg"
+display_featured_image: false
 ---
 This week I headed over to the [San Elijo Lagoon Ecological Reserve](https://www.sdparks.org/content/sdparks/en/park-pages/SanElijo.html "Information about San Elijo Lagoon Ecological Reserve at the County of San Diego Parks and Recreation website"), a 979-acre coastal wetland in Encinitas. I planned to check out sections of the East Basin beginning at La Orilla Trailhead.
 

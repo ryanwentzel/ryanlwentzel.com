@@ -3,6 +3,7 @@ title: "Check Out These Resources (March 25)"
 date: 2020-03-25 00:00:00 -0700
 excerpt: "Looking for resources to feed your mind and soul? I have some for you today."
 featured_image: https://d1yo597syf8yny.cloudfront.net/images/featured/bible-01.jpg
+featured_image_alt: Bible
 ---
 Looking for resources to feed your mind and soul? I have some for you today.
 

@@ -3,10 +3,9 @@ title: "Resources on Penal Substitutionary Atonement and Christus Victor"
 date: 2020-08-17 12:47:11 -0700
 excerpt: "A friend asked me for a list of resources on penal substitutionary atonement and the <i>Christus Victor</i> [Latin: “Christ the Victor”] view of the atonement. Here’s what I sent her."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/bible-1-timothy.jpg" 
+featured_image_alt: Page of the Bible
 published: true
 ---  
-![Bible](https://d1yo597syf8yny.cloudfront.net/images/featured/bible-1-timothy.jpg)
-
 A friend asked me for a list of resources on penal substitutionary atonement and the *Christus Victor* [Latin: "Christ the Victor"] view of the atonement. Here's what I sent her.
 
 ## Summary

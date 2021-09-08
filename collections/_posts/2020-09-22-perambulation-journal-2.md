@@ -2,7 +2,8 @@
 title: "Perambulation Journal 2"
 date: 2020-09-22 12:05:06 -0700
 excerpt: "Perambulating amid change and decay."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg" 
+featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg"
+featured_image_alt: Path through the forest 
 published: true
 ---
 Another foggy morning.

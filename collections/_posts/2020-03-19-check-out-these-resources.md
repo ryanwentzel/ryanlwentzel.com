@@ -4,8 +4,6 @@ date: 2020-03-19 08:00:00 -0700
 excerpt: "Many of us now find ourselves a bit more housebound than usual. Maybe you’re wondering what to do with your time. If so, here’s a round up of articles, sermons, audiobooks, and videos that are worth checking out."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/coffee-01.jpg"
 ---
-![](https://d1yo597syf8yny.cloudfront.net/images/featured/coffee-01.jpg)
-
 Many of us now find ourselves a bit more housebound than usual. Maybe you’re wondering what to do with your time. Below you’ll find links to articles, sermons, audiobooks, and videos that are worth checking out.
 
 ## Daily News Podcasts

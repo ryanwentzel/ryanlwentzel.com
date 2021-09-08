@@ -3,6 +3,7 @@ title: "Perambulation Journal 4"
 date: 2020-10-09 20:57:58 -0700
 excerpt: "Photos from several recent perambulations."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg" 
+featured_image_alt: Path through the woods
 published: true
 ---
 It's been warm around here lately, so I've mostly been walking in the mornings before the temperature rises uncomfortably high. The photos were taken during several different perambulations.

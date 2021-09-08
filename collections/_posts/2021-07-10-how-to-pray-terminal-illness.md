@@ -3,10 +3,9 @@ title: "How to Pray for Someone with a Terminal Illness"
 date: 2021-07-10 18:42:00 -0700
 excerpt: "Praying for someone with a terminal illness requires empathy and wisdom."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/sonne-sick-people.jpg" 
+featured_image_caption: Jørgen V. Sonne, <i>Midsummer's Eve. Sick People Asleep upon the Grave of St. Helena at Tisvilde</i>, 1846–1847
 published: true
 ---
-![Jørgen V. Sonne, Midsummer's Eve. Sick People Asleep upon the Grave of St. Helena at Tisvilde, 1846–1847](https://d1yo597syf8yny.cloudfront.net/images/featured/sonne-sick-people.jpg)
-
 J. Todd Billings [offers](https://www.christianitytoday.com/pastors/2015/spring/my-incurable-condition.html) the following suggestions for praying for someone who has been diagnosed with an incurable disease.
 
 > **Listen. Ask.** Listen carefully to the concerns of the ones you are praying for. If possible, ask them how they would like you to pray for them. They may not have an answer. Or the answer may surprise you. But starting by listening and asking is a way to honor and support those in need.

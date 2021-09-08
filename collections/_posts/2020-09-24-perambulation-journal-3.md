@@ -3,6 +3,7 @@ title: "Perambulation Journal 3"
 date: 2020-09-24 14:19:34 -0700
 excerpt: "Perambulating in the late morning."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg" 
+featured_image_alt: Path through the forest
 published: true
 ---
 Very warm. No clouds.

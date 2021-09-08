@@ -3,10 +3,9 @@ title: "Octavius Winslow on the Sympathy of Christ"
 date: 2020-06-30 19:24:56 -0700
 excerpt: "Christ’s heart overflows with sympathy for his people as they experience weakness, grief, trials, and temptations. Octavius Winslow’s book <cite>The Sympathy of Christ</cite> can help us better appreciate the sympathetic heart of our Savior."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/ocean-sunset-01.jpg" 
+featured_image_alt: Sunset at the ocean
 published: true
 ---  
-![Ocean at sunset](https://d1yo597syf8yny.cloudfront.net/images/featured/ocean-sunset-01.jpg)
-
 Christ's heart overflows with sympathy for his people as they experience weakness, grief, trials, and temptations. Hebrews 4:15 reminds us:
 
 > [W]e do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin.
