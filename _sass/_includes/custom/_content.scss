@@ -231,17 +231,13 @@ $max-width-desktop: 70%;
     }
 
     figure.article-graphic {
-        margin: 5px auto;
+        margin: 5px auto 50px auto;
         .article-graphic-caption {
             font-size: $p-small * 0.9;
             margin-top: 10px;
-            margin-bottom: 50px;
             text-align: left;
             @include mq(tabletp) {
                 font-size: $p-small;
-            }
-            @include mq(laptop) {
-                text-align: right;
             }
         }
     }
