@@ -239,6 +239,9 @@ $max-width-desktop: 70%;
             @include mq(tabletp) {
                 font-size: $p-small;
             }
+            @include mq(laptop) {
+                text-align: right;
+            }
         }
     }
 }
