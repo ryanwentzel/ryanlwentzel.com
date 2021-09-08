@@ -229,6 +229,22 @@ $max-width-desktop: 70%;
         margin-bottom: 1.5em;
         padding-left: 1.6em;
     }
+
+    figure.article-graphic {
+        margin: 5px auto;
+        .article-graphic-caption {
+            font-size: $p-small * 0.9;
+            margin-top: 10px;
+            margin-bottom: 50px;
+            text-align: left;
+            @include mq(tabletp) {
+                font-size: $p-small;
+            }
+            @include mq(laptop) {
+                text-align: right;
+            }
+        }
+    }
 }
 
 #site-header {

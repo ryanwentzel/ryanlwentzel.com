@@ -74,6 +74,7 @@ defaults:
     values:
       layout: "post"
       category: "articles"
+      display_featured_image: true
   -
     scope:
       path: ""

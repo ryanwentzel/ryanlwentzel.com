@@ -3,6 +3,7 @@ title: Birding at Lake Hodges
 date: 2021-09-06 13:05:41 -07:00
 excerpt: A beautiful morning at the lake, even though the Labor Day holiday made for busy trails.
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/20210906-lake-hodges.jpg"
+display_featured_image: false
 ---
 I hit up the west end of Lake Hodges again since the lake is so close to my home. My weather app said the temperature was in the mid-60s when I set out shortly after 7:00 A.M. from the staging area off Lake Drive (across the street from Hernandez Hideaway). The skies were gray initially but turned a rich azure as the morning progressed and the sun made its appearance.
 

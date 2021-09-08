@@ -3,9 +3,8 @@ title: A Prayer of Lament and Hope
 date: 2021-09-06 10:50:07 -0700  
 excerpt: "A prayer of lament and hope based on the Psalms."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/wyant-peaceful-valley-1872.jpg"
+featured_image_caption: Alexander Helwig Wyant, <i>Peaceful Valley</i>, 1872
 ---
-![Alexander Helwig Wyant, Peaceful Valley, 1872](https://d1yo597syf8yny.cloudfront.net/images/featured/wyant-peaceful-valley-1872.jpg "Alexander Helwig Wyant, Peaceful Valley, 1872")  
-
 *The following prayer is a compilation of different passages from the Psalms.*
 
 ---

@@ -29,6 +29,13 @@ hr.cross::after {
     content: "\2722\2722\2722";
 }
 
+hr {
+    background-color: $border-color;
+    border: 0 none;
+    color: $border-color;
+    height: 1px;
+}
+
 p {
     cite {
         border-bottom: 1px dotted;
