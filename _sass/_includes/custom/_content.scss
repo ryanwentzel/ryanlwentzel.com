@@ -238,6 +238,7 @@ $max-width-desktop: 70%;
     figure.article-graphic {
         margin: 5px auto 50px auto;
         .article-graphic-caption {
+            font-family: $font-family-sans;
             font-size: $p-small * 0.9;
             margin-top: 10px;
             text-align: left;
