@@ -1,6 +1,7 @@
 ---
 title: Art
 description: Paintings that I enjoy.
+sitemap: false
 ---
 ## William Wendt (1865–1946)
 
