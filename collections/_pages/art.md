@@ -11,7 +11,7 @@ sitemap: false
 </figure>
 
 <figure class="article-graphic">
-    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/wendt-where-god-hath-wrought.jpg" alt="Where Nature's God Hath Wrought, 1925" />
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/wendt-where-god-hath-wrought-1000w.jpg" alt="Where Nature's God Hath Wrought, 1925" />
     <figcaption class="article-graphic-caption"><i>Where Nature's God Hath Wrought</i>, 1925</figcaption>
 </figure>
 
