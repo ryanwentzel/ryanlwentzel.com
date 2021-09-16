@@ -2,7 +2,7 @@
     "workbench.editor.enablePreview": false,
     "[markdown]": {
         "files.trimTrailingWhitespace": false,
-        "editor.fontFamily": "\"IA Writer Duo S\", monospace",
+        "editor.fontFamily": "\"IA Writer Mono S\", monospace",
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 72,
         "editor.fontLigatures": true,
@@ -12,7 +12,7 @@
         "editor.quickSuggestions": false
       },
       "[html]": {
-        "editor.fontFamily": "\"IA Writer Duo S\", monospace",
+        "editor.fontFamily": "\"IA Writer Mono S\", monospace",
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 72,
         "editor.fontLigatures": true,
