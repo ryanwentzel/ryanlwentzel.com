@@ -1,11 +1,11 @@
 ---
 title: Birding at Palomar Mountain State Park
 date: 2021-09-20 16:54:21 -07:00
-excerpt: "Palomar Mountain State Park is one of my favorite places in the world. A day spent on its trails is a balm for my soul. The park is located at the northern edge of San Diego County and is one of the few places in Southern California that resembles the Sierra Nevada, further north."
+excerpt: "Palomar Mountain State Park is one of my favorite outdoorsy spots in San Diego County. A day spent on its trails is a balm for my soul. The park is located at the northern edge of San Diego County and is one of the few places in Southern California that resembles the Sierra Nevada, further north."
 featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/20210920-palomar-mtn-lower-doane-trail-resize.jpg"
 featured_image_caption: "Lower Doane Trail"
 ---
-Palomar Mountain State Park is one of my favorite places in the world. A day spent on its trails is a balm for my soul. The park is located at the northern edge of San Diego County and is one of the few places in Southern California that resembles the Sierra Nevada, further north.
+[Palomar Mountain State Park](http://www.friendsofpalomarsp.org/) is one of my favorite outdoorsy spots in San Diego County. A day spent on its trails is a balm for my soul. The park is located at the northern edge of San Diego County and is one of the few places in Southern California that resembles the Sierra Nevada, further north.
 
 ---
 
@@ -48,7 +48,7 @@ The Weir Trail winds its way through a mixed conifer forest. I heard and saw man
 ---
 ## Lower Doane Trail/French Valley Trail
 
-Instead of continuing on to the stone weir, I crossed over the dry streambed to the Lower Doane Trail and passed the remains of an old ponderosa pine. Several Western Bluebirds flitted back and forth between a trail marker post and a copse of pine trees bordering the meadow in Lower Doane Valley.
+Instead of continuing on to the stone weir, I crossed over the dry creekbed to the Lower Doane Trail and passed the gnarled remains of an old ponderosa pine. Several Western Bluebirds flitted back and forth between a trail marker post and a copse of pine trees bordering the meadow in Lower Doane Valley.
 
 <!-- Lower Doane Trail to French Valley Trail -->
 <div class="gallery" data-columns="2">
@@ -56,9 +56,11 @@ Instead of continuing on to the stone weir, I crossed over the dry streambed to 
     <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00011.jpg" alt="Lower Doane Trail" />
 </div>
 
-I veered left on the French Valley Trail, which took me into Lower French Valley, an area of rolling grasslands dotted with pine trees. I didn't see many birds along this stretch of the trail—just a few California Scrub-Jays (one of my favorites)—but, honestly, I didn't mind. Stunning natural beauty, the warm sun overhead, a breeze sweeping over the meadow. It doesn't get much better than this.
+Veering left on to the French Valley Trail, I came into Lower French Valley and its expansive meadow rimmed by Ponderosa pines. I didn't see many birds along this stretch of the trail—just a few California Scrub-Jays (one of my favorites)—but, honestly, I didn't mind. Stunning natural beauty, the warm sun overhead, a breeze sweeping over the meadow. It doesn't get much better than this.
 
 By this time, I had been out on the trails for three hours and hadn't seen another soul since the parking lot (it was a weekday). The silence and solitude were refreshing. The quiet afforded me time to give uninterrupted thought to some issues that were weighing on me.
+
+Birding and hiking are hobbies for me but also so much more. They're part of a set of regular practices I engage in to cultivate mental, emotional, and physical health.
 
 <div class="gallery" data-columns="2">
     <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00015.jpg" alt="French Valley Trail" />
