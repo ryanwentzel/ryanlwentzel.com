@@ -19,7 +19,7 @@ The temperature was a brisk 58º F, and sunlight was just beginning to peak out 
 
 Setting out on the Doane Valley Nature Trail, I was struck immediately by what I *didn't* hear: a freeway. Much of the birding I do takes place in urban/suburban locations where the constant hum of freeway traffic is rarely out of earshot. Instead of road noise, I heard a gentle breeze and rustling leaves, Mountain Chickadees singing in the trees, the owl-like coo of Band-tailed Pigeons (a new life bird), and a cacophony of Steller's Jays. I spent 15 minutes or so soaking it in before continuing further along the trail.
 
-This section of the Doane Valley Nature Trail is, in my opinion, the highlight of the park. The trail follows Doane Creek through a thick forest of cedars and pines, which provides ample shade. A variety of  plants and shrubs line both sides of the trail, including mountain currant, western raspberry, wild strawberry, and wild rose. During the cooler, wetter times of the year, several moss covered boulders can be observed.
+This section of the Doane Valley Nature Trail is, in my opinion, the highlight of the park. The trail follows Doane Creek through a thick forest of cedars and pines, which provides ample shade. A variety of  plants and shrubs line both sides of the trail, including mountain currant, western raspberry, wild strawberry, and wild rose. During the cooler, wetter times of the year, several moss-covered boulders can be observed.
 
 <div class="gallery" data-columns="2">
     <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00002.jpg" alt="Steps leading down to Doane Creek" />
@@ -32,7 +32,7 @@ This section of the Doane Valley Nature Trail is, in my opinion, the highlight o
 
 ## Weir Trail
 
-After about 0.3 mile, the trail forks. The Nature Trail continues to the right, but I took the left fork for the Weir Trail, which continues to follow the creek downstream.
+After about 0.3 miles, the trail forks. The Nature Trail continues to the right, but I took the left fork for the Weir Trail, which continues to follow the creek downstream.
 
 ![Trail sign](https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00006.jpg)
 
@@ -56,7 +56,7 @@ Instead of continuing on to the stone weir, I crossed over the dry creekbed to t
     <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00011.jpg" alt="Lower Doane Trail" />
 </div>
 
-Veering left on to the French Valley Trail, I came into Lower French Valley and its expansive meadow dotted with Ponderosa pines. I didn't see many birds along this stretch of the trail—just a few California Scrub-Jays (one of my favorites)—but, honestly, I didn't mind. Stunning natural beauty, the warm sun overhead, a breeze sweeping over the meadow. It doesn't get much better than this.
+As I veered left on the French Valley Trail, I came into Lower French Valley and its expansive meadow dotted with Ponderosa pines. I didn't see many birds along this stretch of the trail—just a few California Scrub-Jays (one of my favorites)—but, honestly, I didn't mind. Stunning natural beauty, the warm sun overhead, a breeze sweeping over the meadow. It doesn't get much better than this.
 
 By this time, I had been out on the trails for three hours and hadn't seen another soul since the parking lot (it was a weekday). The silence and solitude were refreshing. The quiet afforded me time to give uninterrupted thought to some issues that were weighing on me.
 
@@ -73,7 +73,7 @@ After rejoining the Lower Doane Trail, I decided to head back to my car for lunc
 
 ## Thunder Spring/Upper Doane Valley Loop
 
-Even though I had spent nearly four hours looking for birds, I wasn't finished yet. After lunch I set out on the Thunder Spring Trail, which hugs the western edge of Upper Doane Valley. A number of swallows were zigzagging across the meadow. I continued to hear Steller's Jays and Acorn Woodpeckers in the trees. Several Dark-eyed Juncos were perched on a bush next to the trail.
+Even though I had spent nearly four hours looking for birds, I wasn't finished yet. After lunch, I set out on the Thunder Spring Trail, which hugs the western edge of Upper Doane Valley. A number of swallows were zigzagging across the meadow. I continued to hear Steller's Jays and Acorn Woodpeckers in the trees. Several Dark-eyed Juncos were perched on a bush next to the trail.
 
 The trail loops around to the eastern side of the valley and becomes Upper Doane Valley Trail. It was close to one o'clock now, and the temperature had risen to the low-80s. A stronger breeze had kicked up. Several California Scrub-Jays were hiding in the trees but making themselves heard. Three Turkey Vultures circled high above the meadow. Just before reaching the parking lot, I came across a couple more Dark-eyed Juncos in the trees.
 
