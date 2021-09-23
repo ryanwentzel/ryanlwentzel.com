@@ -13,12 +13,11 @@ I woke early, hitting the road shortly after 6:00 A.M. Seventy minutes later, an
 
 The temperature was a brisk 58º F, and sunlight was just beginning to peak out over the tops of the mountains surrounding Upper Doane Valley.
 
-<figure class="image">
-    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00001.jpg" alt="View of Upper Doane Valley from Doane Pond Parking Lot" />
-    <figcaption>View of Upper Doane Valley from Doane Pond Parking Lot</figcaption>
-</figure>
+![View of Upper Doane Valley from Doane Pond Parking Lot](https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00001.jpg "View of Upper Doane Valley from Doane Pond Parking Lot")
 
-Setting out on the Doane Valley Nature Trail, I was struck immediately by what I *didn't* hear: a freeway. Much of the birding I do takes place in urban/suburban locations where the constant hum of freeway traffic is rarely out of earshot. Instead of road noise, I heard a gentle breeze and rustling leaves, Mountain Chickadees singing in the trees, the owl-like coo of Band-tailed Pigeons, and a cacophony of Steller's Jays. I spent 15 minutes or so soaking it in before continuing further along the trail.
+## Doane Valley Nature Trail
+
+Setting out on the Doane Valley Nature Trail, I was struck immediately by what I *didn't* hear: a freeway. Much of the birding I do takes place in urban/suburban locations where the constant hum of freeway traffic is rarely out of earshot. Instead of road noise, I heard a gentle breeze and rustling leaves, Mountain Chickadees singing in the trees, the owl-like coo of Band-tailed Pigeons (a new life bird), and a cacophony of Steller's Jays. I spent 15 minutes or so soaking it in before continuing further along the trail.
 
 This section of the Doane Valley Nature Trail is, in my opinion, the highlight of the park. The trail follows Doane Creek through a thick forest of cedars and pines, which provides ample shade. A variety of  plants and shrubs line both sides of the trail, including mountain currant, western raspberry, wild strawberry, and wild rose. During the cooler, wetter times of the year, several moss covered boulders can be observed.
 
@@ -31,6 +30,40 @@ This section of the Doane Valley Nature Trail is, in my opinion, the highlight o
 
 ---
 
+## Weir Trail
+
 After about 0.3 mile, the trail forks. The Nature Trail continues to the right, but I took the left fork for the Weir Trail, which continues to follow the creek downstream.
 
 ![Trail sign](https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00006.jpg)
+
+The Weir Trail winds its way through a mixed conifer forest. I heard and saw many, many Acorn Woodpeckers, as well as Mountain Chickadees, Nuttall's Woodpeckers, and White-breasted Nuthatches. In addition, I spotted several [Brown Creepers](https://ebird.org/species/brncre), a new life bird.
+
+<div class="gallery" data-columns="2">
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00007.jpg" alt="Weir Trail" />
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00008.jpg" alt="Weir Trail" />
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00009.jpg" alt="Weir Trail" />
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00010.jpg" alt="Weir Trail" />
+</div>
+
+---
+## Lower Doane Trail/French Valley Trail
+
+Instead of continuing on to the stone weir, I crossed over the dry streambed to the Lower Doane Trail and passed the remains of an old ponderosa pine. Several Western Bluebirds flitted back and forth between a trail marker post and a copse of pine trees bordering the meadow in Lower Doane Valley.
+
+<!-- Lower Doane Trail to French Valley Trail -->
+<div class="gallery" data-columns="2">
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00012.jpg" alt="Lower Doane Trail" />
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00011.jpg" alt="Lower Doane Trail" />
+</div>
+
+I veered left on the French Valley Trail, which took me into Lower French Valley, an area of rolling grasslands dotted with pine trees. I didn't see many birds along this stretch of the trail—just a few California Scrub-Jays (one of my favorites)—but, honestly, I didn't mind. Stunning natural beauty, the warm sun overhead, a breeze sweeping over the meadow. It doesn't get much better than this.
+
+By this time, I had been out on the trails for three hours and hadn't seen another soul since the parking lot (it was a weekday). The silence and solitude were refreshing. The quiet afforded me time to give uninterrupted thought to some issues that were weighing on me.
+
+<div class="gallery" data-columns="2">
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00015.jpg" alt="French Valley Trail" />
+    <img src="https://d1yo597syf8yny.cloudfront.net/images/content/20210920-palomar-mtn-00016.jpg" alt="French Valley Trail" />
+</div>
+
+https://modernhiker.com/hike/hiking-lower-doane-valley-and-french-valley/
+<!-- Rejoin Lower Doane Trail -->
