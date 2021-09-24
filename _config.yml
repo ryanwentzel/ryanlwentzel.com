@@ -36,6 +36,9 @@ collections:
   sermons:
     output: true
     permalink: /sermons/:slug
+  sounds:
+    output: true
+    permalink: /sounds/:year/:month/:day/:title
 
 defaults:
   -
@@ -102,6 +105,12 @@ defaults:
     values:
       layout: "sermon"
       talk_type: "sermon"
+  -
+    scope:
+      path: ""
+      type: "sounds"
+    values:
+      layout: "sound"
 
 markdown: kramdown
 

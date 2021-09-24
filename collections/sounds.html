@@ -1,0 +1,22 @@
+---
+layout: default
+title: "Sounds"
+permalink: /sounds
+---
+<section class="blog single">
+	<div class="wrap wrap-collection entry-list">
+		<header class="collection-header">
+			<h1 class="collection-title">{{- page.title -}}</h1>
+		</header>
+        <ul class="archive-items">
+            {%- for item in site.sounds -%}
+            <li class="archive-item">
+                <div class="archive-item__header">
+                    <p class="archive-item__date">{{- item.date | date: '%B %d, %Y' -}}</p>
+                    <p><a class="archive-item__title" href="{{- item.url | absolute_url -}}">{{- item.title -}}</a></p>
+                </div>
+            </li>
+            {%- endfor -%}
+        </ul>
+	</div>
+</section>
