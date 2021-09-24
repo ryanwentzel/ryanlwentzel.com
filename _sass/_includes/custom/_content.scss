@@ -242,12 +242,9 @@ $max-width-desktop: 70%;
             font-family: $font-family-sans;
             font-size: $p-small * 0.9;
             margin-top: 10px;
-            text-align: left;
+            text-align: right;
             @include mq(tabletp) {
                 font-size: $p-small;
-            }
-            @include mq(laptop) {
-                text-align: right;
             }
         }
     }
