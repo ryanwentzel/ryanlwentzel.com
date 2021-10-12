@@ -7,6 +7,8 @@ featured_image_caption: San Elijo Lagoon, Encinitas, CA
 ---
 I spent a beautiful October morning birding at San Elijo Lagoon in Encinitas, California. I explored the lagoon for nearly five hours and sighted eight new life birds! 
 
+----
+
 I hit the trail next to the Nature Center as the sun was rising. The temperature was a brisk 57° F, but warmed to the low 60s as the morning progressed.
 
 ![](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00001.jpg)
