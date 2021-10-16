@@ -13,9 +13,13 @@ I hit the trail next to the Nature Center as the sun was rising. The temperature
 
 ![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00001.jpg)
 
+![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00011.jpg)
+
 ![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00002.jpg)
 
 ![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00003.jpg)
+
+![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00012.jpg)
 
 I didn't go far for the first hour and a half. I simply stayed close to the estuary channels outside the Nature Center. Highlights included a pair of Belted Kingfishers zipping around, a White-tailed Kite hunting above the marsh, and an Osprey enjoying breakfast (see the [full checklist](https://ebird.org/checklist/S95998798)).
 
@@ -23,6 +27,8 @@ I didn't go far for the first hour and a half. I simply stayed close to the estu
 Around 8:00 A.M., I headed south on the Pole Road Trail. I saw many different types of shorebirds on the mudflats east of the trail, including Long-billed Curlews, Greater Yellowlegs, Least Sandpipers, Western Sandpipers, and Willets. In the lagoon area west of the railroad tracks, I found more Least Sandpipers, Western Sandpipers, and Willets. In addition, I spotted several Killdeers, Semipalmated Plovers, Black-bellied Plovers, and Royal Terns. Songbirds were active in the area south of the pump station.
 
 ![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00005.jpg)
+
+![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00013.jpg)
 
 ![San Elijo Lagoon](https://d1yo597syf8yny.cloudfront.net/images/content/20211011-san-elijo-lagoon-00006.jpg)
 
