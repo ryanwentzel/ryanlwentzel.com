@@ -9,7 +9,11 @@
         "editor.fontSize": 18,
         "editor.lineHeight": 28,
         "editor.lineNumbers": "off",
-        "editor.quickSuggestions": false
+        "editor.quickSuggestions": {
+          "comments": "off",
+          "strings": "off",
+          "other": "off"
+        }
       },
       "[html]": {
         "editor.fontFamily": "\"IA Writer Mono S\", monospace",
@@ -19,7 +23,11 @@
         "editor.fontSize": 18,
         "editor.lineHeight": 28,
         "editor.lineNumbers": "on",
-        "editor.quickSuggestions": true
+        "editor.quickSuggestions": {
+          "comments": "on",
+          "strings": "on",
+          "other": "on"
+        }
       },
       "cSpell.words": [
         "hymnic"
