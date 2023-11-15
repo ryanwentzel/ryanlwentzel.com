@@ -247,6 +247,9 @@ $max-width-desktop: 70%;
             @include mq(tabletp) {
                 font-size: $p-small;
             }
+            @include mq(desktop) {
+                padding-right: 25px;
+            }
         }
     }
 
