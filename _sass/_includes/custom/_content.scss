@@ -1,7 +1,7 @@
 $anchor-color: $text-dark-color;
 $blockquote-color: #585858;
 $font-family-sans: "Montserrat", Helvetica, Arial, sans-serif;
-$max-width-laptop: 90%;
+$max-width-laptop: 100%;
 $max-width-retina: 78%;
 $max-width-desktop: 70%;
 
@@ -172,7 +172,7 @@ $max-width-desktop: 70%;
 
 .page, .page__content {
     @media only screen and (min-width: 1600px) {
-        width: 90%;
+        width: 100%;
     }
 }
 
