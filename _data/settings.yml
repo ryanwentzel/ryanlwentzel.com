@@ -27,8 +27,6 @@ menu_settings:
       url: '/resources'
     - title: 'Subscribe'
       url: '/subscribe'
-    - title: 'Newsletter'
-      url: '/newsletter'
     - title: 'Contact'
       url: '/contact'
 
