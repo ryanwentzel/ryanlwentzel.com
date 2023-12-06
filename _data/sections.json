@@ -10,9 +10,5 @@
     {
         "name": "subscribe",
         "template": "subscribe-section.html"
-    },
-    {
-        "name": "microposts",
-        "template": "microposts.html"
     }
 ]
