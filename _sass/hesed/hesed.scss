@@ -1,0 +1,23 @@
+// import parts of bootstrap to make available for customization
+// see: https://stackoverflow.com/a/76993430
+@import "../vendors/bootstrap-5.3.2/scss/mixins";
+@import "../vendors/bootstrap-5.3.2/scss/functions";
+@import "../vendors/bootstrap-5.3.2/scss/variables";
+@import "../vendors/bootstrap-5.3.2/scss/variables-dark";
+@import "../vendors/bootstrap-5.3.2/scss/maps";
+@import "../vendors/bootstrap-5.3.2/scss/utilities";
+
+// import custom vars
+@import "variables";
+
+// import bootstrap
+@import "../vendors/bootstrap-5.3.2/scss/bootstrap.scss";
+
+// import primer
+@import "primer";
+
+// import custom styles
+@import "basic";
+@import "resource";
+@import "liturgy";
+@import "resource-card";

@@ -1,134 +1,213 @@
-site: Ryan Wentzel
-
-url: https://ryanlwentzel.com
-baseurl: 
-
+name: ryanlwentzel.com
+title: Ryan Wentzel
+description: >- # this means to ignore newlines until "baseurl:"
+  Ryan Wentzel is a pastor. His ministry ranges from preaching, teaching, and writing, to listening, being present, and walking with others through some of life's most difficult experiences.
+subtitle:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ryanlwentzel.com" # the base hostname & protocol for your site, e.g. http://example.com
 future: false
 timezone: America/Los_Angeles
+# google_analytics: G-71MQMP8TL9
+author:
+  name: Ryan Wentzel
+  email: hi@ryanlwentzel.com
 
+sass:
+  load_paths:
+    - _sass
+  style: compressed
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Collections settings
 collections_dir: collections
-
 collections:
-  articles:
-    output: true
-    permalink: /articles/:slug
-  microposts:
-    output: true
-    permalink: /microposts/:year:month:day:hour:minute
-  notes:
-    output: true
-    permalink: /notes/:slug
   pages:
     output: true
     permalink: /:name
   posts:
     output: true
     permalink: /:year/:month/:day/:title
-  projects:
-    output: false
-    permalink: /project/:slug
+  articles:
+    output: true
+    permalink: /articles/:title
+  bombadil:
+    output: true
+    permalink: /bombadil/:title
+  feeds:
+    output: true
+  newsletter:
+    output: true
+    permalink: /newsletter/:title
+  playlists:
+    output: true
+    permalink: /playlists/:title
   prayers:
     output: true
-    permalink: /prayers/:slug
-  scottishcollects:
+    permalink: /prayers/:title
+  liturgies:
     output: true
-    permalink: /scottish-collects/:slug
+    permalink: /liturgies/:title
+  legacy:
+    output: true
+    permalink: /:year/:month/:day/:title
   sermons:
     output: true
-    permalink: /sermons/:slug
-  sounds:
-    output: true
-    permalink: /sounds/:year/:month/:day/:title
+    permalink: /podcasts/sermons/:title
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
+      type: feeds
     values:
-      layout: "default"
-  -
-    scope:
+      syndicate: false
+      sitemap:
+        exclude: true
+  - scope:
       path: ""
-      type: "articles"
+      type: newsletter
     values:
-      layout: "article"
-  -
-    scope:
+      layout: resource
+      masthead:
+        full_bleed: true
+      feature: false
+      syndicate: false
+  - scope:
       path: ""
-      type: "microposts"
+      type: posts
     values:
-      layout: "micropost"
-  -
-    scope:
+      layout: resource
+      permalink: /:year/:month/:day/:title
+      category: journal
+      img:
+        display: true
+        url: https://dummyimage.com/1920x1200/e1e4e8/fff.png 
+      feature: false
+      syndicate: true
+      masthead:
+        full_bleed: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: page
+      permalink: /:name
+      feature: false
+    masthead:
+      text_only: true
+  - scope:
       path: ""
-      type: "notes"
+      type: articles
     values:
-      layout: "note"
-  -
-    scope:
+      layout: resource
+      category: article
+      img:
+        display: true
+        url: ""
+      feature: true
+      syndicate: true
+      masthead:
+        full_bleed: true
+  - scope:
       path: ""
-      type: "pages"
+      type: bombadil
     values:
-      layout: "page"
-  -
-    scope:
+      layout: resource
+      category: bombadil
+      img:
+        display: false
+      feature: false
+      syndicate: false
+  - scope:
       path: ""
-      type: "posts"
+      type: playlists
     values:
-      layout: "post"
-      category: "articles"
-      display_featured_image: true
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-  -
-    scope:
-      path: ""
-      type: "prayers"
-    values:
-      layout: "prayer"
-      published: true
-      header_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/window-02.jpg"
-  -
-    scope:
-      path: ""
-      type: "scottishcollects"
-    values:
-      layout: "collect"
-  -
-    scope:
+      layout: resource
+      category: playlist
+      feature: false
+      img:
+        display: false
+        url: https://source.unsplash.com/FZWivbri0Xk
+      masthead:
+        full_bleed: true
+  - scope:
       path: ""
       type: "sermons"
     values:
-      layout: "sermon"
-      talk_type: "sermon"
-  -
-    scope:
+      layout: podcast-episode
+      feature: false
+      syndicate: true
+      img:
+        display: true
+      masthead:
+        full_bleed: true
+  - scope:
       path: ""
-      type: "sounds"
+      type: prayers
     values:
-      layout: "sound"
+      layout: resource
+      feature: true
+      syndicate: true
+      img:
+        display: true
+      masthead:
+        full_bleed: true
+  - scope:
+      path: ""
+      type: liturgies
+    values:
+      layout: resource
+      category: liturgy
+      feature: false
+      img:
+        display: true
+        url: https://source.unsplash.com/FZWivbri0Xk
+      masthead:
+        full_bleed: true
+  - scope:
+      path: ""
+      type: legacy
+    values:
+      layout: resource
+      feature: false
+      syndicate: false
+      sitemap:
+        exclude: true
+      masthead:
+        full_bleed: false
+        text_only: true
 
-markdown: kramdown
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  
-sass:
-  style: compressed
-
+# Build settings
+# theme: minima
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-redirect-from
-  - github-pages, group: :jekyll_plugins
 
-paginate: 6
-paginate_path: "page/:num"
-
-exclude: ['Rakefile']
-  
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - node_modules/
+  - script/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -1,0 +1,5 @@
+{% assign resources = site.sermons | sort | reverse %}
+<section class="homepage-section">
+    <h2 class="h4 section-heading">Podcast</h2>
+    {% include layout-5-7.html resources=resources link_text="Listen" limit=2 %}
+</section>

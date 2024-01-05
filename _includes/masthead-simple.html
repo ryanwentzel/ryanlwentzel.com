@@ -1,0 +1,16 @@
+<header class="masthead pt-5 pb-4">
+    <div class="container h-50">
+        <div class="row h-100">
+            <div class="col my-auto text-center">
+                {% if page.masthead.crop_img != empty and page.masthead.crop_img == true and page.img.crop_url != empty %}
+                <img class="d-block mx-auto img-fluid w-100 mw-lg-75 rounded-2 mb-3" src="{{ page.img.crop_url }}">
+                {% else %}
+                <h1 class="display-3 fw-bold">{{ page.title }}</h1>
+                {% endif %}
+                {% if page.subtitle %}
+                <h2 class="fs-5 fw-light">{{ page.subtitle | smartify }}</h2>
+                {% endif %}
+            </div>
+        </di>
+    </div>
+</header>

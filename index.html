@@ -1,20 +1,14 @@
 ---
-layout: default
-title: "δοῦλος Ἰησοῦ Χριστοῦ"
-description: "The online home of Ryan Wentzel — a Christian, husband, father, and pastor at Grace Bible Church in Escondido, CA."
-featured_image: https://d1yo597syf8yny.cloudfront.net/images/theme/pissarro-hampton-court-header-crop.jpg
+layout: home
+title: ryan wentzel
+img: 
+    display: true
+#    url: https://source.unsplash.com/4VgatlFyUpQ
+#    url: https://source.unsplash.com/hgThOxNqQq0
+#    url: https://source.unsplash.com/oS97v02HN2I
+    url: https://source.unsplash.com/tb4wis6XoQk
+masthead:
+    display: false
+    full_bleed: true
+    height: h-100
 ---
-<section class="blog single">
-	<div class="wrap">
-		<div class="sections">
-			{%- for section in site.data.sections -%}
-			{% include {{ section.template }} -%}
-			{%- endfor -%}
-		</div>
-		<div class="more-resources">
-			<p>
-				<a class="button" href="{%- link collections/resources.html -%}">More resources</a>
-			</p>
-		</div>
-	</div>
-</section>

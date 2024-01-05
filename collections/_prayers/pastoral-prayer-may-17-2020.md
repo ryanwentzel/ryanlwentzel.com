@@ -1,12 +1,15 @@
 ---
 title: Our Great God, Your Steadfast Love Endures Forever
+subtitle: A pastoral prayer
 date: 2020-05-17 20:23:38 -0700
 excerpt: "Our great God, we come before you this morning in the name of Jesus Christ, our Savior and Lord. We praise you because your steadfast love endures forever. You are the God of gods and the Lord of lords.  
 There is no one in heaven or on earth who compares to you."
-summary: "A pastoral prayer offered on May 17, 2020 at Grace Bible Church in Escondido, CA."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/woman-praying.jpg"
+description: "A pastoral prayer offered on May 17, 2020 at Grace Bible Church in Escondido, California."
+img: 
+    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/woman-praying.jpg"
 ---
-![woman praying](https://d1yo597syf8yny.cloudfront.net/images/featured/woman-praying.jpg)
+
+*A pastoral prayer offered on May 17, 2020 at Grace Bible Church in Escondido, California.*
 
 Our great God,  
 we come before you this morning  

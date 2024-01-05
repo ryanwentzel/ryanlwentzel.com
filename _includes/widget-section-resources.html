@@ -1,0 +1,9 @@
+{% assign playlist = site.playlists | where_exp: "item", "item.highlight != empty and item.highlight == true" | first %}
+<section class="widget-section wide py-5 px-0 mb-3 border-top container-fluid">
+    {% include layout-wide.html resource=playlist link_text="Listen" %}
+</section>
+<section class="widget-section">
+    <h2 class="h4 section-heading">Recent Podcast Episodes</h2>
+    {% assign resources = site.sermons | sort | reverse %}
+    {% include layout-3x.html resources=resources %}
+</section>

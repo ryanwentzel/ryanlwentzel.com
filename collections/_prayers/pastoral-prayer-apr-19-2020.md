@@ -1,12 +1,14 @@
 ---
 title: "Our Father in Heaven, Majestic is Your Name!"
+subtitle: A pastoral prayer
 date: 2020-04-19 00:00:00 -0700
+description: A pastoral prayer that expands on each element of the Lord's Prayer. Offered on April 19, 2020 for Grace Bible Church in Escondido, California via a pre-recorded video due to the COVID-19 pandemic.
 excerpt: "A pastoral prayer that uses the Lord's Prayer as its structure and expands on each petition. I composed it using ideas from <cite>A Way to Pray</cite> by Matthew Henry and <cite>Leading in Prayer: A Workbook for Worship</cite> by Hughes Oliphant Old."
-summary: "A pastoral prayer that expands on each element of the Lord's Prayer. Offered on April 19, 2020 at Grace Bible Church in Escondido, CA. Due to the COVID-19 pandemic, a video of the prayer, Scripture reading, and sermon was made available online for the congregation."
-notes: "I composed the prayer using ideas from <cite>A Way to Pray</cite> by Matthew Henry and <cite>Leading in Prayer: A Workbook for Worship</cite> by Hughes Oliphant Old."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/norway-camping.jpg"
+img: 
+    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/norway-camping.jpg"
 ---
-![](https://d1yo597syf8yny.cloudfront.net/images/featured/norway-camping.jpg)
+
+*A pastoral prayer that expands on each element of the Lord's Prayer. Offered on April 19, 2020 for Grace Bible Church in Escondido, California via a pre-recorded video due to the COVID-19 pandemic.*
 
 Our Father in heaven,  
 majestic is your name!  

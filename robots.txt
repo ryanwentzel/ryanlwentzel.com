@@ -1,4 +1,11 @@
+---
+---
+{%- if jekyll.environment != "production" -%}
 User-agent: *
-Disallow: 
+Disallow: /
+{% else %}
+User-agent: * Disallow: /vicki-wentzel
+User-agent: * Disallow: /archives
 
 Sitemap: http://ryanlwentzel.com/sitemap.xml
+{% endif %}

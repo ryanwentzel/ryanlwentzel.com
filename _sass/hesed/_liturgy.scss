@@ -1,0 +1,11 @@
+.liturgy.resource-body {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    h2 {
+        margin-bottom: 1rem;
+    }
+
+    h2:not(:first-child) {
+        margin-top: 4rem;
+    }
+}

@@ -1,0 +1,46 @@
+/* Typography */
+$font-family-sans-serif:            InterVariable, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-serif:                 Georgia, Cambria, "Times New Roman", Times, serif;
+$inter-font-feature-settings:       'liga' 1, 'calt' 1; /* fix for Chrome */ 
+$font-family-base:                  $font-family-sans-serif;      
+
+/* Font sizes */
+$font-weight-black:             900;
+
+/* Colors */
+$colors-hesed-midnight:           #23303d;
+$colors-hesed-tide:               #2c4047;
+$colors-hesed-mist:               #7e9296;
+$colors-hesed-fog:                #ebebeb;
+$colors-hesed-sunset:             #7f4224;
+$colors-hesed-dark:               #162d3c;
+$colors-hesed-black:              #000000;
+
+$colors-brand-primary:          $colors-hesed-mist;
+$colors-brand-secondary:        $colors-hesed-tide;
+$colors-brand-dark:             #24292F;
+$colors-brand-muted:            #656d76;
+$colors-brand-subtle:           #d8dee4;
+$colors-brand-accent:           $colors-hesed-mist;
+$colors-brand-accent-secondary: $colors-hesed-sunset;
+
+// $primary:                       $colors-brand-primary;
+// $secondary:                     $colors-brand-secondary;
+$dark:                          $colors-brand-dark;
+
+$body-color:                    $dark;
+$color-fg-muted:                $colors-brand-muted;
+$color-fg-subtle:               $colors-brand-subtle;
+
+/* Anchors */
+// $link-color:                    $colors-brand-accent;
+
+/* Buttons */
+$btn-border-radius:           0.25em;
+
+/* Borders */
+$color-border-muted:          $colors-brand-muted;
+$color-border-subtle:         $colors-brand-subtle;
+
+/* Navbar */
+$btn-border-radius:           0.25em;

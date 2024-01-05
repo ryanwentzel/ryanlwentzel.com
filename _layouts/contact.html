@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<main id="start-of-content" class="min-vh-100 mt-3 mb-8">
+    <div class="container-xl mx-auto pt-5 px-3 px-lg-0">
+        <div class="row px-sm-3 mt-3 mx-lg-5 flex-wrap">
+            <div class="col">
+                <h1 class="display-3 fw-bold mb-3">{{ page.title | smartify }}</h1>
+                <div class="d-block fs-5">
+                {{ content }}
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 mx-lg-5">
+            <div class="col-12 mt-5">
+                {% include widget-section-resources.html %}
+                <a class="btn btn-dark rounded-1" href="{{ site.data.nav.sermons | relative_url }}">
+                    More episodes
+                    <i class="bi bi-arrow-up-right"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</main>

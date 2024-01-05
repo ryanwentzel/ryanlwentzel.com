@@ -1,0 +1,15 @@
+<div class="dropdown">
+    <button class="btn btn-dark rounded-1 dropdown-toggle podcast-sub-btn" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Subscribe
+    </button>
+    <ul class="dropdown-menu">
+    {% for platform in site.data.podcast.platforms %}
+        <li>
+            <a class="dropdown-item" href="{{ platform.show_url }}">
+                <img class="d-inline-block pe-2" src="{{ platform.icon_url }}" height="30">
+                {{ platform.name }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+</div>

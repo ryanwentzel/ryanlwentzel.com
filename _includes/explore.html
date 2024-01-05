@@ -1,0 +1,64 @@
+{%- assign items = site.documents | where_exp: "item", "item.published != false and item.feature != empty and item.feature == true" -%}
+{%- assign resources = items | sort: "date" | reverse -%}
+<section class="homepage-section overflow-hidden">
+    <h2 class="h4 section-heading fw-bold">Explore</h2>
+    <div class="d-flex flex-wrap gutter-spacious">
+        <div class="col-lg-3 d-sm-flex d-lg-block gutter-spacious gutter-lg-0 resource-col">
+        {% for resource in resources limit:2 %}
+            <article class="d-flex flex-column col-sm-6 col-lg-12 tease-border">
+                <div class="py-4 tease-border-alt-inner">
+                    <div class="tease-text">
+                        <h3 class="fw-black mb-2">
+                            <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
+                        </h3>
+                        <div class="resource-text rw-color-fg-muted">{{ resource.description | default: resource.excerpt | markdownify }}</div>    
+                    </div>
+                </div>
+            </article>
+        {% endfor %}
+        </div>
+        <div class="col-md-6 col-lg-3 resource-col">
+        {% for resource in resources offset:2 limit:3 %}
+            <article class="py-4 d-flex flex-column tease-border">
+                <div class="col-12 tease-text">
+                    <h3 class="fw-black">
+                        <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
+                    </h3>
+                    <div class="resource-text rw-color-fg-muted">
+                        {{ resource.description | default: resource.excerpt | markdownify }}
+                    </div>
+                    <div class="mt-3">
+                        <div class="d-flex align-items-center">
+                            <a class="d-inline-block fw-bold text-reset text-decoration-none" href="{{ resource.url | relative_url }}">
+                                Read
+                                <i class="bi bi-arrow-right-circle"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        {% endfor %}
+        </div>
+        <div class="col-md-6 resource-col">
+            {% assign resource = resources[5] %}
+            <article class="py-4 d-flex flex-column border-bottom border-md-0">
+                <div class="col-12 tease-text">
+                    <h3 class="fw-black">
+                        <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
+                    </h3>
+                    <div class="resource-text rw-color-fg-muted">
+                        {{ resource.description | default: resource.excerpt | markdownify }}
+                    </div>
+                    <div class="mt-3">
+                        <div class="d-flex align-items-center">
+                            <a class="d-inline-block fw-bold text-reset text-decoration-none" href="{{ resource.url | relative_url }}">
+                                Read
+                                <i class="bi bi-arrow-right-circle"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </div>
+    </div>
+</section>

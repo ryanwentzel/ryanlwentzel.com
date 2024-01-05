@@ -1,0 +1,31 @@
+.resource-body,
+.page-body {
+    // font-family: $font-family-serif;
+    
+    p,ol,ul {
+        font-size: $font-size-lg;
+    }
+
+    p {
+        // line-height: $line-height-base * 1.2;
+        margin-bottom: 1.75rem;
+    }
+    
+    h2 {
+        font-weight: $font-weight-bold;
+        margin-top: 3rem;
+        margin-bottom: 1.5rem;
+    }
+}
+
+.resource-body {
+    h2 {
+        font-size: $font-size-lg * 1.6;
+        font-weight: $font-weight-black;
+    }
+}
+.resource-footer {
+    .author-bio {
+        font-size: 1rem;
+    }
+}

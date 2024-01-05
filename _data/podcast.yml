@@ -1,0 +1,17 @@
+name: The Ryan Wentzel Sermon Podcast
+description: The Ryan Wentzel Sermon Podcast features sermons and talks from my weekly teaching and preaching ministry.
+covert_art: https://d1yo597syf8yny.cloudfront.net/assets/img/podcast/sermon-podcast-cover-art.png
+rss_url: https://anchor.fm/s/680d18e0/podcast/rss
+platforms:
+  - name: "Apple Podcasts"
+    icon_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/podcast/apple-podcasts-black.png"
+    show_url: "https://apple.co/3RWD9GQ"
+  - name: "Spotify"
+    icon_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/podcast/spotify-black.png"
+    show_url: "https://open.spotify.com/show/3W9GekiNd2p5anv3aZfWtt?si=3d928c4a6c304095"
+  - name: "Amazon Music"
+    icon_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/podcast/amazon-music-charcoal.png"
+    show_url: "https://music.amazon.com/podcasts/74ad2e6a-8237-487a-8f32-40eb25223a8f/the-ryan-wentzel-sermon-podcast"
+  - name: "RSS"
+    icon_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/podcast/rss-fill.png"
+    show_url: "https://anchor.fm/s/680d18e0/podcast/rss"

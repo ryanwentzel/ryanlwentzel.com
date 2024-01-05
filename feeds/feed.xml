@@ -3,34 +3,34 @@ layout:
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <title>{{ site.data.settings.basic_settings.site_title }}</title>
- <link href="{{ '/feeds/feed.xml' | absolute_url }}" rel="self"/>
+ <title>{{ site.title }}</title>
+ <link href="{{ site.data.feeds.main | absolute_url }}" rel="self"/>
  <link href="{{ site.url | absolute_url }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url | absolute_url }}</id>
  <author>
-   <name>{{ site.data.settings.basic_settings.site_author }}</name>
-   <email>{{ site.data.settings.basic_settings.site_email }}</email>
+   <name>{{ site.data.profile.name }}</name>
+   <email>{{ site.data.profile.email }}</email>
    <uri>{{ site.url | absolute_url }}</uri>
  </author>
- <icon>{{ "favicon.ico" | absolute_url }}</icon>
-{%- assign docs = site.documents | where_exp: "doc", "site.data.syndication.collections contains doc.collection" -%}
-{%- assign sorted = docs | sort: "date" | reverse -%}
-{%- for entry in sorted limit:site.data.syndication.maxItems -%}
+ <icon>{{ "favicon-32x32.png" | absolute_url }}</icon>
+{%- assign items = site.documents | where_exp: "item", "item.syndicate != empty and item.syndicate == true and item.published != false" -%}
+{%- assign sorted = items | sort: "date" | reverse -%}
+{%- for item in sorted limit:25 -%}
 <entry>
-   <title>{{ entry.title | xml_escape }}</title>
-   <link href="{{ entry.url | absolute_url }}"/>
-   <updated>{{ entry.date | date_to_xmlschema }}</updated>
-   <id>{{ entry.url | absolute_url }}</id>
+   <title>{{ item.title | xml_escape }}</title>
+   <link href="{{ item.url | absolute_url }}"/>
+   <updated>{{ item.date | date_to_xmlschema }}</updated>
+   <id>{{ item.url | absolute_url }}</id>
    <content type="html"><![CDATA[
-    {%- if entry.featured_image -%}
-    <img src="{{ entry.featured_image }}" />
+    {%- if item.img -%}
+    <img src="{{ item.img.url }}">
     {%- endif -%}
-    <p>{{ entry.excerpt }}</p>
-    <p><a href="{{ entry.url | absolute_url }}">Continue reading this article at ryanlwentzel.com.</a></p>]]></content>
+    <p>{{ item.excerpt }}</p>
+    <p><a href="{{ item.url | absolute_url }}">Continue reading this article at ryanlwentzel.com.</a></p>]]></content>
    <author>
-    <name>{{ site.data.settings.basic_settings.site_author }}</name>
-    <email>{{ site.data.settings.basic_settings.site_email }}</email>
+    <name>{{ site.data.profile.name }}</name>
+    <email>{{ site.data.profile.email }}</email>
     <uri>{{ site.url | absolute_url }}</uri>
    </author>
  </entry>

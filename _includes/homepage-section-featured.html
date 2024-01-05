@@ -1,0 +1,5 @@
+{% assign featured_resources = site.documents | where_exp: "item", "item.published != false and item.feature != empty and item.feature == true" | sort | reverse %}
+<section class="homepage-section">
+    <h2 class="h4 section-heading">Recent</h2>
+    {% include layout-7-5-col.html resources=featured_resources %}
+</section>

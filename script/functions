@@ -1,0 +1,33 @@
+#!/bin/bash
+
+collections_dir="$project_dir/collections"
+podcasts_dir="$collections_dir/_sermons"
+
+# Create a new podcast episode
+function podcast () {
+    local title="${1}"
+    local subtitle="${2}"
+    local title_lower=$(echo $title | tr '[:upper:]' '[:lower:]')
+    local suffix="${title_lower// /-}"
+    local date=$(date +"%Y-%m-%d")
+    local slug="$date-$suffix"
+    local filename="$podcasts_dir/$slug.md"
+    echo "Creating $filename"
+    cat << DELIMIT > "$filename"
+---
+layout: podcast-episode
+title: $title
+subtitle: $subtitle
+description: 
+date: $(date +'%Y-%m-%d %H:%M:%S %z')
+published: false
+img:
+    url: 
+audio_embed: 
+---
+
+DELIMIT
+
+code "$filename"
+
+}

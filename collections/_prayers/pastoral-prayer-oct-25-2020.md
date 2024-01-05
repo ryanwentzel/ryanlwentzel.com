@@ -1,11 +1,15 @@
 ---
 title: We Extol You, Our God and King
+subtitle: A pastoral prayer
 date: 2020-10-26 9:01:58 -0700
+description: A pastoral prayer offered on October 25, 2020 at Grace Bible Church in Escondido, California.
 excerpt: "We extol you, our God and King, and we will bless your name forever and ever. Everyday we will bless you and praise your name forever and ever. Great are you, O God, the God and Father of our Lord Jesus Christ. You are greatly to be praised, and your greatness is unsearchable."
-summary: "A pastoral prayer offered on October 25, 2020 at Grace Bible Church in Escondido, CA."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg"
+img: 
+#    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg"
+    url: https://source.unsplash.com/uuNCR2NpiNE
 ---
-![](https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg)
+
+*A pastoral prayer offered on October 25, 2020 at Grace Bible Church in Escondido, CA.*
 
 We extol you, our God and King, and we will bless your name forever and ever. Everyday we will bless you and praise your name forever and ever. Great are you, O God, the God and Father of our Lord Jesus Christ. You are greatly to be praised, and your greatness is unsearchable.
 

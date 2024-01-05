@@ -1,0 +1,107 @@
+/*!
+ * http://primer.style/css
+ *
+ * Released under MIT license. Copyright (c) 2019 GitHub Inc.
+ */
+
+ .tease-thumbnail:hover .tease-thumbnail__img, .tease-thumbnail:focus .tease-thumbnail__img {
+    transform: scale(1.02) translate3d(0, 0, 0);
+}
+
+.tease-thumbnail__img {
+    transform-style: preserve-3d;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transform: scale(1) translate3d(0, 0, 0);
+    transition: transform .6s cubic-bezier(.165, .84, .44, 1);
+}
+
+.cover-image {
+    position: absolute !important;
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: cover;
+    left: 0 !important;
+    top: 0 !important;
+}
+
+@include media-breakpoint-up(md) {
+    .tease-thumbnail--square-reverse {
+        padding-bottom: 25%;
+    }
+}
+ 
+.tease-border:not(:last-child) {
+    border-bottom: 1px solid $color-border-subtle;
+}
+
+.tease-border--lg:not(:last-child) {
+    border-bottom: 1px solid  $color-border-subtle;
+}
+
+@include media-breakpoint-up(xl) {
+    .tease-border--lg {
+        border-bottom: 0 !important;
+    }
+}
+
+.tease-border--md:not(:last-child) {
+    border-bottom: 1px solid $color-border-subtle;
+}
+
+@include media-breakpoint-up(lg) {
+    .tease-border--md {
+        border-bottom: 0 !important;
+    }
+}
+
+.tease-border--sm:not(:last-child) {
+    border-bottom: 1px solid $color-border-subtle;
+}
+
+@include media-breakpoint-up(md) {
+    .tease-border--sm {
+        border-bottom: 0 !important;
+    }
+}
+
+.tease-border--xs:not(:last-child) {
+    border-bottom: 1px solid $color-border-subtle;
+}
+
+@include media-breakpoint-up(sm) {
+    .tease-border--xs {
+        border-bottom: 0 !important;
+    }
+}
+
+.tease-border-alt .tease-border-alt-inner {
+    border-top: 1px solid $color-border-subtle;
+}
+
+@include media-breakpoint-up(lg) {
+    .tease-border-alt:first-child .tease-border-alt-inner {
+        border-top: none;
+    }
+}
+
+.tease-border-alt--md .tease-border-alt-inner {
+    border-top: 1px solid $color-border-subtle;
+}
+
+.tease-border-alt--md:first-child .tease-border-alt-inner {
+    border-top: none;
+}
+
+@include media-breakpoint-up(md) {
+    .tease-border-alt--md .tease-border-alt-inner {
+        border: none;
+    }   
+}
+
+@include media-breakpoint-up(md) {
+    .square-thumb-wrap {
+        box-sizing: content-box;
+        max-width: 168px;
+    }
+}

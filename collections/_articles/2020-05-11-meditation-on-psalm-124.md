@@ -1,11 +1,11 @@
 ---
 title: "Our Help is in the Name of the LORD: A Meditation on Psalm 124"
 date: 2020-05-11 10:17:58 -0700
-excerpt: "The Christian life is less like a pleasant stroll through the park and more like hand-to-hand combat on a battlefield. We face enemies both within and without. Fear or discouragement paralyzes us when we forget that the Divine Warrior is on our side to protect and defend us."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/isle-skye.jpg"
+description: "The Christian life is less like a pleasant stroll through the park and more like hand-to-hand combat on a battlefield. We face enemies both within and without. Fear or discouragement paralyzes us when we forget that the Divine Warrior is on our side to protect and defend us."
+img: 
+    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/isle-skye.jpg"
 featured: true
 ---
-![Isle of Skye](https://d1yo597syf8yny.cloudfront.net/images/featured/isle-skye.jpg)
 
 The Christian life is less like a pleasant stroll through the park and more like hand-to-hand combat on a battlefield. We face enemies both within and without. Fear or discouragement paralyzes us when we forget that the Divine Warrior is on our side to protect and defend us.
 

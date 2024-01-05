@@ -1,0 +1,14 @@
+{% assign resource = include.resource %}
+{% assign link_text = include.link_text | default: "Read more" %}
+<div class="p-2 py-xl-5 px-xl-3 text-white rw-background-img rounded-2" style="background-image: url('{{ resource.img.url }}');">
+    <div class="container py-2 py-lg-5 my-5 my-lg-6">
+        <h1 class="display-5 fw-bold">{{ resource.title }}</h1>
+        <div class="col-md-8 resource-description">
+            {{ resource.description | markdownify }}
+        </div>
+        <a class="d-inline-block fw-bold text-reset text-decoration-none fs-4" href="{{ resource.url | relative_url }}">
+            {{ link_text }}
+            <i class="bi bi-arrow-right-circle"></i>
+        </a>        
+    </div>
+</div>

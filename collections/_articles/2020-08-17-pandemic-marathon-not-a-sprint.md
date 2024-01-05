@@ -1,14 +1,16 @@
 ---
 title: "It's a Marathon, Not a Sprint"
+subtitle: Thoughts on Avoiding Burnout During a Global Pandemic
 date: 2020-08-17 10:13:58 -0700
-excerpt: "How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand. I'm not trying to figure out how to avoid dying from covid-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck?"
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/marathon.jpg"
+description: "How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand. I'm not trying to figure out how to avoid dying from COVID-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck?"
+img: 
+    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/marathon.jpg"
 ---
-How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand. I'm not trying to figure out how to avoid dying from covid-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck? I don't need to tell you how challenging life has been since March. We're all struggling in one way or another. 
+How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand me. I'm not trying to figure out how to avoid dying from COVID-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck? I don't need to tell you how challenging life has been since March. We're all struggling in one way or another. 
 
 How do we avoid ending up like this on the other side of the pandemic?
 
-![](https://d1yo597syf8yny.cloudfront.net/images/newsletter/plan-crash.jpg)
+![Wreckage of an airplane](https://d1yo597syf8yny.cloudfront.net/images/newsletter/plan-crash.jpg){:.img-fluid}
 
 ## Adjust Your Expectations
 
@@ -26,7 +28,7 @@ I want to run this marathon---living through a pandemic---differently. I want to
 
 So how do we pace ourselves? Here are some suggestions.
 
-**Embrace the circumstances in which God has providentially placed you.** It's easy to begin dwelling on the way things used to be. Many of the things we depended on for stability and a sense of normalcy have disappeared. It's not wrong to [lament](https://www.amazon.com/Dark-Clouds-Deep-Mercy-Discovering/dp/1433561484/) what we've lost. But I find that, if I'm not careful, thinking about life before COVID-19 can tempt me to become angry, frustrated, or discontent.
+**1. Embrace the circumstances in which God has providentially placed you.** It's easy to begin dwelling on the way things used to be. Many of the things we depended on for stability and a sense of normalcy have disappeared. It's not wrong to [lament](https://www.amazon.com/Dark-Clouds-Deep-Mercy-Discovering/dp/1433561484/) what we've lost. But I find that, if I'm not careful, thinking about life before COVID-19 can tempt me to become angry, frustrated, or discontent.
 
 I've been thinking about God's instructions to the Jewish exiles in Babylon. I'm sure they spent time thinking about all that had been lost---the Promised Land, the Temple, the Davidic monarchy, their freedom. Here's what the LORD says to them through the prophet Jeremiah:
 
@@ -42,7 +44,7 @@ I've lost track of how many times in the past five months I've read and quoted t
 >   
 > A. We can be patient in adversity, thankful in prosperity, and for the future we can have good confidence in our faithful God and Father that no creature will separate us from his love. For all creatures are so completely in his hand that without his will they can neither move nor be moved.
 
-**Reestablish healthy routines**. I like routines. My personal philosophy is: *routine is the spice of life*. Routines reduce the number of decisions I need to make each day. Routines keep me from simply reacting to whatever's going on. They help me focus on what's important.
+**2. Reestablish healthy routines**. I like routines. My personal philosophy is: *routine is the spice of life*. Routines reduce the number of decisions I need to make each day. Routines keep me from simply reacting to whatever's going on. They help me focus on what's important.
 
 Stay-at-home orders upended many of my daily and weekly routines. It was OK for a few weeks, but at some point I realized I needed a bit of  order back in my life. The lockdown gave me an opportunity to revamp my morning routine. Honestly, I think it's been one of a handful of things keeping me sane. Nothing fancy. Hot coffee, Bible reading, prayer, other reading. If it's not too hot outside, I take a brief walk around the neighborhood. This simple routine sets me up well for the rest of the day.
 
@@ -50,7 +52,7 @@ Evening routines, pre-bed routines, Saturday routines can all help inject a sens
 
 Routines can be difficult to develop and stick with. I've found James Clear's book [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://jamesclear.com/atomic-habits) to be a practical, common-sense approach to building (and breaking) habits and routines.
 
-**Consume less news and social media.** Most of what's covered in the daily news cycle is relatively unimportant. Cable news, in particular, dwells on the trivial. Moreover, cable news is much too dramatic. The programming is designed to induce fear and anger in viewers. Much of the messaging has a the-sky-is-falling quality.
+**3. Consume less news and social media.** Most of what's covered in the daily news cycle is relatively unimportant. Cable news, in particular, dwells on the trivial. Moreover, cable news is much too dramatic. The programming is designed to induce fear and anger in viewers. Much of the messaging has a the-sky-is-falling quality.
 
 I've begun focusing on more long-form journalism and essays and weekly or monthly publications. I find the content to be more thoughtful, well-researched, and informative than the entertainment-esque material produced by cable news networks.
 
@@ -58,7 +60,7 @@ Social media can be a great way to connect with friends. But, depending on the p
 
 Consider taking a break for a day or two, maybe a week. Delete the apps from your phone. At the end of the break evaluate whether keeping up with the latest on your social media platform of choice is as important as you once thought. You might decide to extend your social media Sabbath, give up social media altogether, or reengage in a healthier way.
 
-**Sleep.** I probably don't need to remind you about the dangerous consequences of reduced sleep: weight gain, depression, heart disease, inability to focus, and too many more to list. If you feel frazzled, lethargic, unproductive, or purposeless these days, evaluate whether you getting a sufficient amount of sleep each night.
+**4. Sleep.** I probably don't need to remind you about the dangerous consequences of reduced sleep: weight gain, depression, heart disease, inability to focus, and too many more to list. If you feel frazzled, lethargic, unproductive, or purposeless these days, evaluate whether you getting a sufficient amount of sleep each night.
 
 David Murray considers the theological component of sleep in his book *Reset*. Here's an extended excerpt:
 
@@ -78,6 +80,6 @@ David Murray considers the theological component of sleep in his book *Reset*. H
 
 Do yourself a favor and get enough rest each night.
 
-**Rejuvenate.** Do things that give you life, things that refresh you, things that restore your joy and give you energy. Get outside. Enjoy God's creation. Garden. Take up painting. Play boardgames with your family. Build something with your hands. Exercise. Read a book. Read poetry. Watch a movie. Laugh.
+**5. Rejuvenate.** Do things that give you life, things that refresh you, things that restore your joy and give you energy. Get outside. Enjoy God's creation. Garden. Take up painting. Play boardgames with your family. Build something with your hands. Exercise. Read a book. Read poetry. Watch a movie. Laugh.
 
 You can only sprint for so long. Remember, this is a marathon.

@@ -1,0 +1,5 @@
+{% assign articles = site.articles | sort | reverse %}
+<section class="homepage-section">
+    <h2 class="h4 section-heading">Articles</h2>
+    {% include layout-6-6.html resources=articles %}
+</section>

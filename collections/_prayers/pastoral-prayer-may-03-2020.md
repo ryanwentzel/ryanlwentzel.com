@@ -2,10 +2,12 @@
 title: Our Gracious God and Heavenly Father
 date: 2020-05-11 10:57:04 -0700
 excerpt: "Our gracious God and heavenly Father, we come before you this morning to give you praise. We praise you as the God of all grace. You are merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin."
-summary: "A pastoral prayer offered on May 3, 2020 at Grace Bible Church in Escondido, CA."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg"
+description: "A pastoral prayer offered on May 3, 2020 at Grace Bible Church in Escondido, California."
+img:
+    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg"
 ---
-![empty pews](https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg)
+
+*A pastoral prayer offered on May 3, 2020 at Grace Bible Church in Escondido, California.*
 
 Our gracious God and heavenly Father,  
 we come before you this morning to give you praise.  
@@ -59,7 +61,7 @@ reassuring us of your love and care.
 Yet we complain because we don’t like the situation.
 
 Forgive us, O Lord.  
-Purge us from the guilt and stain of our sin  
+Purge us from the guiltand stain of our sin  
 and we shall be clean.  
 Enable us to entrust ourselves to your wise providence,  
 so that we may be patient in adversity.

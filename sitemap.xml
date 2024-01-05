@@ -1,5 +1,4 @@
 ---
-layout:
 sitemap:
     exclude: true
 ---
@@ -14,6 +13,7 @@ sitemap:
   </url>
   {% for post in site.posts %}
     {% unless post.published == false %}
+    {% unless post.sitemap.exclude == true %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
@@ -37,11 +37,12 @@ sitemap:
       {% endif %}
     </url>
     {% endunless %}
+    {% endunless %}
   {% endfor %}
   {% for page in site.pages %}
-    {% unless page.sitemap == false %}
+    {% unless page.sitemap.exclude == true %}
     <url>
-      <loc>{{ site.url }}{{ page.url | remove: "index.html" }}</loc>
+      <loc>{{ page.url | absolute_url }}</loc>
       {% if page.sitemap.lastmod %}
         <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
       {% elsif page.date %}
@@ -49,7 +50,7 @@ sitemap:
       {% else %}
         <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
       {% endif %}
-	  {% if page.url == site.home_page_inc %}
+	  {% if page.url == "/" %}
 	  <changefreq>daily</changefreq>
       {% elsif page.sitemap.changefreq %}
         <changefreq>{{ page.sitemap.changefreq }}</changefreq>
@@ -58,7 +59,7 @@ sitemap:
       {% endif %}
       {% if page.sitemap.priority %}
         <priority>{{ page.sitemap.priority }}</priority>
-	  {% elsif page.url == site.home_page_inc %}
+	  {% elsif page.url == "/" %}
 		<priority>1.0</priority>
 	  {% elsif page.url contains site.home_page %}
 		<priority>0.1</priority>
@@ -67,5 +68,87 @@ sitemap:
       {% endif %}
     </url>
     {% endunless %}
+  {% endfor %}
+  <url>
+    <loc>{{ '/podcasts/sermons' | absolute_url }}</loc>
+    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.75</priority>
+  </url>
+  {% for episode in site.sermons %}
+  {% unless episode.published == false %}
+  <url>
+      <loc>{{ episode.url | absolute_url }}</loc>
+      {% if episode.sitemap.lastmod %}
+      <lastmod>{{ episode.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif episode.date %}
+      <lastmod>{{ episode.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+   {% for prayer in site.prayers %}
+  {% unless prayer.published == false %}
+  <url>
+      <loc>{{ prayer.url | absolute_url }}</loc>
+      {% if prayer.sitemap.lastmod %}
+      <lastmod>{{ prayer.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif prayer.date %}
+      <lastmod>{{ prayer.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+  {% for article in site.articles %}
+  {% unless article.published == false %}
+  <url>
+      <loc>{{ article.url | absolute_url }}</loc>
+      {% if article.sitemap.lastmod %}
+      <lastmod>{{ article.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif article.date %}
+      <lastmod>{{ article.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+  {% for playlist in site.playlists %}
+  <url>
+      <loc>{{ playlist.url | absolute_url }}</loc>
+      {% if playlist.sitemap.lastmod %}
+      <lastmod>{{ playlist.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif playlist.date %}
+      <lastmod>{{ playlist.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endfor %}
+  {% for liturgy in site.liturgies %}
+  <url>
+      <loc>{{ liturgy.url | absolute_url }}</loc>
+      {% if liturgy.sitemap.lastmod %}
+      <lastmod>{{ liturgy.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif liturgy.date %}
+      <lastmod>{{ liturgy.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
   {% endfor %}
 </urlset>
