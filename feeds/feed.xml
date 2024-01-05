@@ -1,0 +1,38 @@
+---
+layout:
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>{{ site.title }}</title>
+ <link href="{{ site.data.feeds.main | absolute_url }}" rel="self"/>
+ <link href="{{ site.url | absolute_url }}"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url | absolute_url }}</id>
+ <author>
+   <name>{{ site.data.profile.name }}</name>
+   <email>{{ site.data.profile.email }}</email>
+   <uri>{{ site.url | absolute_url }}</uri>
+ </author>
+ <icon>{{ "favicon-32x32.png" | absolute_url }}</icon>
+{%- assign items = site.documents | where_exp: "item", "item.syndicate != empty and item.syndicate == true and item.published != false" -%}
+{%- assign sorted = items | sort: "date" | reverse -%}
+{%- for item in sorted limit:25 -%}
+<entry>
+   <title>{{ item.title | xml_escape }}</title>
+   <link href="{{ item.url | absolute_url }}"/>
+   <updated>{{ item.date | date_to_xmlschema }}</updated>
+   <id>{{ item.url | absolute_url }}</id>
+   <content type="html"><![CDATA[
+    {%- if item.img -%}
+    <img src="{{ item.img.url }}">
+    {%- endif -%}
+    <p>{{ item.excerpt }}</p>
+    <p><a href="{{ item.url | absolute_url }}">Continue reading this article at ryanlwentzel.com.</a></p>]]></content>
+   <author>
+    <name>{{ site.data.profile.name }}</name>
+    <email>{{ site.data.profile.email }}</email>
+    <uri>{{ site.url | absolute_url }}</uri>
+   </author>
+ </entry>
+{%- endfor -%}
+</feed>

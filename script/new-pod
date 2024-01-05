@@ -1,0 +1,10 @@
+#!/bin/sh
+# create things
+
+set -e
+
+project_dir=$(git rev-parse --show-toplevel)
+script_dir="$project_dir/script"
+source "$script_dir/functions"
+
+podcast "$@"

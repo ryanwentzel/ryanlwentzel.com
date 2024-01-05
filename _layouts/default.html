@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body{% if page.url == '/' %} class="homepage"{% endif %}>
+  {% include nav.html %}
+  {% unless page.masthead.display != empty and page.masthead.display == false %}
+  {% assign template_name = page.masthead.template | default: 'masthead.html' %}
+  {% include {{ template_name }} %}
+  {% endunless %}
+  {{ content }}
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>

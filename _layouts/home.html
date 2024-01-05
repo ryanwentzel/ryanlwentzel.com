@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<main id="start-of-content" class="mb-8">
+    <div class="container-xl mx-auto">
+        <div class="row px-lg-3 mt-8 mb-5">
+            <div id="homepage-intro" class="col-12 col-md-8 px-lg-5 pb-5">
+                <h1 class="display-1 fw-black mb-5">Hi, I’m Ryan.<br>I’m a pastor.</h1>
+                <div class="display-6">
+                    {{ site.data.profile.bio_short | markdownify }}
+                </div>
+            </div>
+        </div>
+        {% include homepage-section-featured.html %}
+        {% include homepage-section-sermons.html %}
+        {% include homepage-section-playlist.html %}
+    </div>
+</main>

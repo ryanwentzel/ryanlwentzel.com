@@ -1,0 +1,51 @@
+{% assign resources = include.resources %}
+{% assign limit = include.limit | default: 3 %}
+{% assign first = resources | first %}
+{% assign link_text = include.link_text | default: "Read" %}
+<div class="d-flex flex-wrap gutter-spacious">
+    <div class="col-md-5 col-xl-3 resource-col">
+        {% for resource in resources offset:1 limit:limit %}
+        <article class="py-4 d-flex flex-column border-bottom">
+            <div class="col-12">
+                <h3 class="h4 fw-bold">
+                    <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
+                </h3>
+                <div class="resource-text rw-color-fg-muted">
+                    {{ resource.description | default: resource.excerpt | markdownify }}
+                </div>
+                <div class="mt-3">
+                    <div class="d-flex align-items-center">
+                        <a class="d-inline-block fw-bold text-reset text-decoration-none" href="{{ resource.url | relative_url }}">
+                            {{ link_text }}
+                            <i class="bi bi-arrow-right-circle"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+    <div class="col-md-7 col-xl-9 resource-col">
+        <article class="highlighted-resource py-4 d-flex flex-column border-bottom">
+            <a class="d-block col-12 rounded-2 overflow-hidden mb-4" href="{{ first.url | relative_url }}">
+                <img class="d-block w-100 h-auto rounded-2" src="{{ first.img.url }}">
+            </a>
+            <div class="col-12">
+                <h3 class="display-5 fw-black">
+                    <a class="resource-link text-reset" href="{{ first.url | relative_url }}">{{ first.title }}</a>
+                </h3>
+                <div class="resource-text rw-color-fg-muted">
+                    {{ first.description | default: first.excerpt | markdownify }}
+                </div>
+                <div class="mt-3">
+                    <div class="d-flex align-items-center">
+                        <a class="d-inline-block fw-bold text-reset text-decoration-none" href="{{ first.url | relative_url }}">
+                            {{ link_text }}
+                            <i class="bi bi-arrow-right-circle"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </div>
+</div>

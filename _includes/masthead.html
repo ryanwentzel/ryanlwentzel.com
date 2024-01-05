@@ -1,0 +1,16 @@
+{% if page.masthead.full_bleed != empty and page.masthead.full_bleed == true and page.img.url != empty %}
+<header class="masthead rw-background-img {{ page.masthead.height | default: 'h-70' }}" data-bs-theme="dark" style="background-image: url('{{ page.img.url }}')">
+    <div class="container py-5 h-100">
+        <div class="row h-100 align-items-center">
+            <div class="col text-white text-center">
+                <h1 class="display-3 fw-bold">{{ page.title | smartify }}</h1>
+                {% if page.subtitle %}
+                <h2 class="fs-4 fst-italic">{{ page.subtitle | smartify }}</h2>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</header>
+{% else %}
+{% include masthead-simple.html %}
+{% endif %}

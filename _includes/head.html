@@ -1,0 +1,39 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ page.description |  default: page.subtitle | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}">
+    <meta name="author" content="{{ site.data.profile.name }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.data.feeds.main | relative_url }}">
+    <link rel="alternate" type="application/rss+xml" title="Subscribe to {{ site.data.podcast.name }}" href="{{ site.data.podcast.rss_url }}">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
+    <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
+    <link rel="mask-icon" href="{{ '/safari-pinned-tab.svg' | relative_url }}" color="#7e9296">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <!-- open graph -->
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="{{ page.description |  default: page.subtitle | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}">
+    <meta property="og:site_name" content="{{ site.name }}">
+{%- assign url = page.url | remove:'index.html' | absolute_url -%}
+    <meta property="og:url" content="{{ url }}">
+{%- if page.background_img -%}
+    <meta property="og:image" content="{{ page.background_img }}">
+{%- endif -%}
+
+
+    <link rel="canonical" href="{{ url }}">
+    <link rel="preconnect" href="{{ site.data.cdn.base_url }}">
+    <link rel="preconnect" href="https://rsms.me/">
+
+    <title>
+      {% if page.title %}{{ page.title | escape }} — {{ site.title}}{% else %}{{ site.title | escape }}{% endif %}
+    </title>
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    {% include analytics.html %}
+    {% include clarity.html %}
+  </head>

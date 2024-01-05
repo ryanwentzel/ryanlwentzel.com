@@ -1,0 +1,4 @@
+{% assign playlist = site.playlists | where_exp: "item", "item.highlight != empty and item.highlight == true" | first %}
+<section class="homepage-section wide px-0 my-6 container-fluid">
+    {% include layout-wide.html resource=playlist link_text="Listen" %}
+</section>

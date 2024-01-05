@@ -1,0 +1,7 @@
+{% assign prayers = site.prayers | sort | reverse %}
+{% unless prayers == nil or prayers.size == 0 %}
+<section class="homepage-section">
+    <h2 class="h4 section-heading">Prayers</h2>
+    {% include layout-3x.html resources=prayers %}
+</section>
+{% endunless %}
