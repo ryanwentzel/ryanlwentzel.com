@@ -1,6 +1,8 @@
 ---
 layout: contact
 title: Contact Me
+sitemap:
+    exclude: true
 masthead:
     display: false
 ---
