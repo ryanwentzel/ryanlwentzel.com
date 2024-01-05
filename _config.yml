@@ -3,7 +3,7 @@ title: Ryan Wentzel
 description: >- # this means to ignore newlines until "baseurl:"
   Ryan Wentzel is a pastor. His ministry ranges from preaching, teaching, and writing, to listening, being present, and walking with others through some of life's most difficult experiences.
 subtitle:
-baseurl: "hesed-clean" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ryanlwentzel.com" # the base hostname & protocol for your site, e.g. http://example.com
 future: false
 timezone: America/Los_Angeles
