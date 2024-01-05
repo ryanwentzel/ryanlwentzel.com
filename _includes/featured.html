@@ -1,9 +1,0 @@
-<div class="latest-section entry-list">
-    <h1 class="latest-section__header">{{- site.data.featured.displayName -}}</h1>
-    {%- assign featured_docs = site.documents | where: "featured", "true" -%}
-    {% assign entries = featured_docs | where_exp: "doc", "site.data.featured.collections contains doc.collection" -%}
-    {% assign sorted = entries | sort: "date" | reverse -%}
-    {%- for entry in sorted limit: site.data.featured.maxItems -%}
-    {%- include {{ site.data.featured.entryTemplate }} entry=entry -%}
-    {%- endfor -%}
-</div>

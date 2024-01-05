@@ -1,8 +1,0 @@
-source 'https://rubygems.org'
-
-group :jekyll_plugins do
-  gem "webrick"
-  gem 'jekyll-paginate'
-  gem 'jekyll-sitemap'
-  gem 'github-pages'
-end

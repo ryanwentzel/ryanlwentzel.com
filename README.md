@@ -1,3 +1,0 @@
-# ryanlwentzel.com
-
-My blog.
