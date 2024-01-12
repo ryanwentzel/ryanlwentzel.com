@@ -58,6 +58,9 @@ collections:
   legacy:
     output: true
     permalink: /:year/:month/:day/:title
+  resources:
+    output: true
+    permalink: /resources/:title
   sermons:
     output: true
     permalink: /podcasts/sermons/:title
@@ -183,6 +186,15 @@ defaults:
       masthead:
         full_bleed: false
         text_only: true
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: resource
+      feature: false
+      syndicate: true
+      masthead:
+        full_bleed: true
 
 # Build settings
 # theme: minima

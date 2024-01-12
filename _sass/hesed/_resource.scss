@@ -23,6 +23,10 @@
         font-size: $font-size-lg * 1.6;
         font-weight: $font-weight-black;
     }
+
+    h3 {
+        font-weight: $font-weight-bold;
+    }
 }
 .resource-footer {
     .author-bio {
