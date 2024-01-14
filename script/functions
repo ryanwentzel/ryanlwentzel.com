@@ -31,3 +31,30 @@ DELIMIT
 code "$filename"
 
 }
+
+# create commonplace entry
+function commonplace () {
+    local title="${1}"
+    local subtitle="${2}"
+    local title_lower=$(echo $title | tr '[:upper:]' '[:lower:]')
+    local suffix="${title_lower// /-}"
+    local date=$(date +"%Y-%m-%d")
+    local slug="$date-$suffix"
+    local commonplace_dir="$collections_dir/_commonplace"
+    local filename="$commonplace_dir/$slug.md"
+    echo "Creating $filename"
+    cat << DELIMIT > "$filename"
+---
+layout: commonplace
+title: $title
+subtitle: $subtitle
+description: 
+date: $(date +'%Y-%m-%d %H:%M:%S %z')
+published: false 
+---
+
+DELIMIT
+
+code "$filename"
+
+}
