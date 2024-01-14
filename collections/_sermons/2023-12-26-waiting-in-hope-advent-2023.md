@@ -1,5 +1,5 @@
 ---
-title: Waiting in Hope | Advent 2023
+title: Waiting in Hope
 subtitle: An Advent sermon on Isaiah 64:1–12
 date: 2023-12-26 00:00:00 -08:00
 description: If you could summarize the season of Advent with one word, it would be the word “waiting.” Advent is a season of waiting and longing for Jesus Christ to come again. It’s a microcosm of the Christian life. Christians are waiting people—people who yearn for and anticipate the day when Christ returns to make all things new.
