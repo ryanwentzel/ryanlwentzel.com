@@ -26,7 +26,7 @@ layout:
     {%- if item.img -%}
     <img src="{{ item.img.url }}">
     {%- endif -%}
-    <p>{{ item.excerpt }}</p>
+    <p>{{ item.description | default: item.excerpt }}</p>
     <p><a href="{{ item.url | absolute_url }}">Continue reading this article at ryanlwentzel.com.</a></p>]]></content>
    <author>
     <name>{{ site.data.profile.name }}</name>
