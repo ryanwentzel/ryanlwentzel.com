@@ -76,8 +76,10 @@ defaults:
       layout: commonplace
       feature: false
       syndicate: false
+      img:
+        url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash.jpg
       masthead:
-        text_only: true
+        full_bleed: true
   - scope:
       path: ""
       type: feeds
