@@ -6,5 +6,6 @@ description: John Stott said, "in every well-constructed worship service the pen
 ---
 
 > [I]n every well-constructed worship service the pendulum should swing rhythmically between God addressing his people through Scripture and his people responding to him in confession, faith, adoration, or prayer.
+{: .pull-quote }
 
 — John R.W. Stott, *The Message of 1 and 2 Thessalonians: Preparing for the Coming King* (Downer's Grove, IL: InterVarsity Press, 2021), 131
