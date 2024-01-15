@@ -45,7 +45,10 @@
         padding-left: 0;
         p {
             color: $dark;
-            font-size: $font-size-lg * 2;
+            font-size: $font-size-lg * 1.25;
+            @include media-breakpoint-up(xl) {
+                font-size: $font-size-lg * 2;
+            }
             font-weight: $font-weight-bold;
             line-height: 1.2;
     
