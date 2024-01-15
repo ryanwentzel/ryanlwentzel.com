@@ -16,6 +16,10 @@ html, body {
     min-height: 100vh;
 }
 
+a {
+    text-underline-offset: 2px;
+}
+
 a:hover {
     color: $colors-brand-accent-secondary;
 }
