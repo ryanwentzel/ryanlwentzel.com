@@ -1,0 +1,32 @@
+---
+layout:
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Commonplace — {{ site.title }}</title>
+ <link href="{{ site.data.feeds.commonplace | absolute_url }}" rel="self"/>
+ <link href="{{ site.url | absolute_url }}"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url | absolute_url }}</id>
+ <author>
+   <name>{{ site.data.profile.name }}</name>
+   <email>{{ site.data.profile.email }}</email>
+   <uri>{{ site.url | absolute_url }}</uri>
+ </author>
+ <icon>{{ "favicon-32x32.png" | absolute_url }}</icon>
+{%- assign items = site.commonplace | sort: "date" | reverse -%}
+{%- for item in items limit:25 -%}
+<entry>
+   <title>{{ item.title | xml_escape }}</title>
+   <link href="{{ item.url | absolute_url }}"/>
+   <updated>{{ item.date | date_to_xmlschema }}</updated>
+   <id>{{ item.url | absolute_url }}</id>
+   <content type="html"><![CDATA[ {{ item.content }} ]]></content>
+   <author>
+    <name>{{ site.data.profile.name }}</name>
+    <email>{{ site.data.profile.email }}</email>
+    <uri>{{ site.url | absolute_url }}</uri>
+   </author>
+ </entry>
+{%- endfor -%}
+</feed>
