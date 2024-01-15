@@ -1,0 +1,5 @@
+{% assign articles = site.commonplace | sort | reverse %}
+<section class="homepage-section">
+    <h2 class="h4 section-heading">Commonplace</h2>
+    {% include layout-7-5-col.html resources=articles %}
+</section>
