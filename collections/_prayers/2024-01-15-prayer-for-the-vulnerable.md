@@ -2,7 +2,7 @@
 title: A Prayer for the Vulnerable
 subtitle: A collect inspired by the biblical story of Ruth
 date: 2024-01-15 13:06:25 -0800
-description: A collect for the vulnerable inspired by the biblical story of Ruth.
+description: A collect inspired by the biblical story of Ruth.
 img:
     url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/koch-ruth-boaz-1823-1825.jpg
 ---
