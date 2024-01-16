@@ -58,3 +58,30 @@ DELIMIT
 code "$filename"
 
 }
+
+# create resource entry
+function resource () {
+    local title="${1}"
+    local subtitle="${2}"
+    local title_lower=$(echo $title | tr '[:upper:]' '[:lower:]')
+    local suffix="${title_lower// /-}"
+    local date=$(date +"%Y-%m-%d")
+    local slug="$date-$suffix"
+    local resource_dir="$collections_dir/_resources"
+    local filename="$resource_dir/$slug.md"
+    echo "Creating $filename"
+    cat << DELIMIT > "$filename"
+---
+layout: resource
+title: $title
+subtitle: $subtitle
+description: 
+date: $(date +'%Y-%m-%d %H:%M:%S %z')
+published: false 
+---
+
+DELIMIT
+
+code "$filename"
+
+}
