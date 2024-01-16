@@ -2,7 +2,7 @@
 layout: resource
 title: Death and Dying
 subtitle: Resources for cultivating a Christian perspective
-description: 
+description: Resources for cultivating a Christian perspective on death and dying.
 date: 2024-01-15 14:12:02 -0800
 img:
     url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/jonathan-stout-Pa-kKr31C7o-unsplash.jpg
@@ -15,6 +15,16 @@ img:
 - [*On Death*](https://www.amazon.com/Death-How-Find-God/dp/0143135376/), Timothy Keller (Penguin Books)
 - [*Every Moment Holy, Volume 2: Death, Grief, & Hope*](https://www.amazon.com/Every-Moment-Holy-II-Hardcover/dp/1951872053/), Douglas McKelvey (Rabbit Room Press)
 - [*My Father's Wake: How the Irish Teach Us to Live, Love, and Die*](https://www.amazon.com/My-Fathers-Wake-Irish-Teach/dp/0306921464/), Kevin Toolis (Da Capo Press)
+
+## Reflections on Mortality
+
+- [*The Year of Magical Thinking*](https://www.amazon.com/Year-Magical-Thinking-Joan-Didion/dp/1400078431/), Joan Didion (Vintage)
+- [*When Breath Becomes Air*](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/), Paul Kalanithi (Random House)
+
+## Grief & Lament
+
+- Lament for a Son
+- A Grace Disguised, Sittser
 
 ## Watch & Listen
 
