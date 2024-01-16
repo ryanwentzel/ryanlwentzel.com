@@ -226,6 +226,7 @@ plugins:
 exclude:
   - node_modules/
   - script/
+  - .aws/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
