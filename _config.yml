@@ -29,6 +29,9 @@ pagination:
 # Collections settings
 collections_dir: collections
 collections:
+  art:
+    output: true
+    permalink: /art/:title
   commonplace:
     output: true
     permalink: /commonplace/:title
@@ -69,6 +72,15 @@ collections:
     permalink: /podcasts/sermons/:title
 
 defaults:
+  - scope:
+      path: ""
+      type: art
+    values:
+      layout: art
+      feature: false
+      syndicate: false
+      masthead:
+        display: false
   - scope:
       path: ""
       type: commonplace

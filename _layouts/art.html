@@ -1,0 +1,21 @@
+---
+layout: default
+pagination:
+    enabled: true
+---
+<main id="start-of-content">
+    <div class="container mx-auto my-5 px-4">
+        <div class="row justify-content-center">
+            <div class="col-md-10 col-lg-7 my-5">
+                <div class="art-img text-center mb-5">
+                    <img class="img-fluid" src="{{ page.img.url }}" alt="{{ page.img.caption | strip_html }}" title="{{ page.img.caption | strip_html }}">
+                    <span class="d-inline-block mt-2">{{ page.img.caption }}</span>
+                </div>
+            <div class="resource-body art-description">
+                {{ content }}
+                </div>
+            </div>
+        </div>
+    {% include paginator-single.html %}
+    </div>
+</main>

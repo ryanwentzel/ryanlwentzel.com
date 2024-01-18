@@ -1,0 +1,36 @@
+{% if paginator.total_pages > 1 %}
+<!-- Pagination links -->
+<div class="d-flex justify-content-center mt-5">
+  <div class="col-6">
+      <nav aria-label="Archives navigation">
+          <ul class="pagination justify-content-center">
+              {% if paginator.first_page %}
+              <li class="page-item">
+                  <a href="{{ paginator.first_page_path | relative_url }}" class="page-link" aria-label="First">First</a>
+              </li>
+              {% endif %}
+              {% if paginator.previous_page %}
+              <li class="page-item">
+                  <a href="{{ paginator.previous_page_path | relative_url }}" class="page-link" aria-label="Previous">&larr;</a>
+              </li>
+              {% endif %}
+              {% for trail in paginator.page_trail %}
+              <li class="page-item{% if page.url == trail.path %} active{%endif %}">
+                  <a class="page-link" href="{{ trail.path | relative_url | replace: 'index.html', '' }}" title="{{trail.title}}">{{ trail.num }}</a>
+              </li>
+              {% endfor %}
+              {% if paginator.next_page %}
+              <li class="page-item">
+                  <a href="{{ paginator.next_page_path | relative_url }}" class="page-link" aria-label="Next">&rarr;</a>
+              </li>
+              {% endif %}
+              {% if paginator.last_page %}
+              <li class="page-item">
+                  <a href="{{ paginator.last_page_path | relative_url }}" class="page-link" aria-labe="Last">Last</a>
+              </li>
+              {% endif %}
+          </ul>
+      </nav>
+  </div>
+</div>
+{% endif %}
