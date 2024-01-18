@@ -6,6 +6,7 @@ description: Resources for cultivating a Christian perspective on death and dyin
 date: 2024-01-15 14:12:02 -0800
 img:
     url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/jonathan-stout-Pa-kKr31C7o-unsplash.jpg
+published: false
 ---
 
 ## Books
