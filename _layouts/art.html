@@ -6,10 +6,10 @@ pagination:
 <main id="start-of-content">
     <div class="container mx-auto my-5 px-4">
         <div class="row justify-content-center">
-            <div class="col-md-10 col-lg-7 my-5">
+            <div class="col-12 col-xl-9 art-col">
                 <div class="art-img text-center mb-5">
-                    <img class="img-fluid" src="{{ page.img.url }}" alt="{{ page.img.caption | strip_html }}" title="{{ page.img.caption | strip_html }}">
-                    <span class="d-inline-block mt-2">{{ page.img.caption }}</span>
+                    <img class="img-fluid rounded-2" src="{{ page.img.url }}" alt="{{ page.img.caption | strip_html }}" title="{{ page.img.caption | strip_html }}">
+                    <span class="d-block mt-2">{{ page.img.caption }}</span>
                 </div>
             <div class="resource-body art-description">
                 {{ content }}
@@ -18,28 +18,28 @@ pagination:
         </div>
         {% if page.previous.url or page.next.url %}
          <!-- Pagination links -->
-        <div class="d-flex justify-content-center mt-5">
-            <div class="col-6">
+        <div class="d-flex justify-content-center">
+            <div class="col-12 mt-5">
                 <nav aria-label="archives navigation">
-                    <ul class="pagination justify-content-center">
+                    <ul class="pagination justify-content-center px-4">
                         <li>
                             {% if page.previous.url %}
-                            <a href="{{ page.previous.url | relative_url }}" class="display-1 border rounded-2 me-5 px-5" aria-label="Previous">
+                            <a href="{{ page.previous.url | relative_url }}" class="display-1 border rounded-2 me-5 p-1" aria-label="Previous">
                                 <i class="bi bi-chevron-left"></i>
                             </a>
                             {% else %}
-                            <span class="text-secondary display-1 border rounded-2 me-5 px-5">
+                            <span class="text-secondary display-1 border rounded-2 me-5 p-1">
                                 <i class="bi bi-chevron-left"></i>
                             </span>
                             {% endif %}
                         </li>
                         <li>
                             {% if page.next.url %}
-                            <a href="{{ page.next.url | relative_url }}" class="display-1 border rounded-2 ms-5 px-5" aria-label="Next">
+                            <a href="{{ page.next.url | relative_url }}" class="display-1 border rounded-2 ms-5 p-1" aria-label="Next">
                                 <i class="bi bi-chevron-right"></i>
                             </a>
                             {% else %}
-                            <span class="text-secondary display-1 border rounded-2 ms-5 px-5">
+                            <span class="text-secondary display-1 border rounded-2 ms-5 p-1">
                                 <i class="bi bi-chevron-right"></i>                              
                             </span>
                             {% endif %}
