@@ -1,6 +1,6 @@
 ---
 date: 2024-01-18 13:37:06 -0800
-title: van Gogh – Congregation Leaving the Reformed Church in Nuenen
+title: Van Gogh – Congregation Leaving the Reformed Church in Nuenen
 description:
 img:
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/van-gogh-congregation-leaving-1884-1885-v2.jpg"

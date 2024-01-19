@@ -16,6 +16,38 @@ pagination:
                 </div>
             </div>
         </div>
-    {% include paginator-single.html %}
+        {% if page.previous.url or page.next.url %}
+         <!-- Pagination links -->
+        <div class="d-flex justify-content-center mt-5">
+            <div class="col-6">
+                <nav aria-label="archives navigation">
+                    <ul class="pagination justify-content-center">
+                        <li>
+                            {% if page.previous.url %}
+                            <a href="{{ page.previous.url | relative_url }}" class="display-1 border rounded-2 me-5 px-5" aria-label="Previous">
+                                <i class="bi bi-chevron-left"></i>
+                            </a>
+                            {% else %}
+                            <span class="text-secondary display-1 border rounded-2 me-5 px-5">
+                                <i class="bi bi-chevron-left"></i>
+                            </span>
+                            {% endif %}
+                        </li>
+                        <li>
+                            {% if page.next.url %}
+                            <a href="{{ page.next.url | relative_url }}" class="display-1 border rounded-2 ms-5 px-5" aria-label="Next">
+                                <i class="bi bi-chevron-right"></i>
+                            </a>
+                            {% else %}
+                            <span class="text-secondary display-1 border rounded-2 ms-5 px-5">
+                                <i class="bi bi-chevron-right"></i>                              
+                            </span>
+                            {% endif %}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        {% endif %}
     </div>
 </main>
