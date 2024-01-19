@@ -4,6 +4,7 @@
     <meta name="description" content="{% if page.url == '/' %}{{ site.description | strip_html | normalize_whitespace | escape }}{% else %}{{ page.description |  default: page.subtitle | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}">
     <meta name="author" content="{{ site.data.profile.name }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.data.feeds.main | relative_url }}">
+    <link rel="alternate" type="application/rss+xml" title="Commonplace — {{ site.title | escape }}" href="{{ site.data.feeds.commonplace | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="Subscribe to {{ site.data.podcast.name }}" href="{{ site.data.podcast.rss_url }}">
 
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
