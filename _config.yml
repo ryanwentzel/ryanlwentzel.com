@@ -49,6 +49,7 @@ collections:
     permalink: /bombadil/:title
   feeds:
     output: true
+    permalink: /feeds/:title
   newsletter:
     output: true
     permalink: /newsletter/:title
