@@ -2,7 +2,7 @@
 layout: podcast-episode
 title: Getting Along Despite Our Differences
 subtitle: "A sermon on Romans 14:1–12"
-description: 
+description: "How do we get along with fellow Christians despite our differences? Ryan seeks to answer that question in this sermon on Romans 14:1–12."
 date: 2024-01-29 17:17:18 -0800
 img:
     url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/cole-view-of-the-mountain-pass-1839.jpg
