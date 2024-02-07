@@ -11,7 +11,7 @@
                 <h3 class="display-5 fw-black">
                     <a class="resource-link text-reset" href="{{ first.url | relative_url }}">{{ first.title | smartify }}</a>
                 </h3>
-                <div class="resource-text rw-color-fg-muted">
+                <div class="resource-text">
                     {{ first.description | default: first.excerpt | markdownify }}
                 </div>
                 <div class="mt-3">
@@ -32,7 +32,7 @@
                 <h3 class="h4 fw-bold">
                     <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
                 </h3>
-                <div class="resource-text rw-color-fg-muted">
+                <div class="resource-text">
                     {{ resource.description | default: resource.excerpt | markdownify }}
                 </div>
                 <div class="mt-3">

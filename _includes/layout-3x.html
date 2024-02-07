@@ -10,7 +10,7 @@
             <h3 class="h4 fw-black mb-2">
                 <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
             </h3>
-            <div class="resource-text rw-color-fg-muted">
+            <div class="resource-text">
                 {{ resource.description | default: excerpt | markdownify }}
             </div>
             <div class="mt-3">
