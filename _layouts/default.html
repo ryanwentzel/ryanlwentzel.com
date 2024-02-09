@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body{% if page.url == '/' %} class="homepage"{% endif %}>
+<body class="bg-light{% if page.url == '/' %} homepage{% endif %}">
   {% include nav.html %}
   {% unless page.masthead.display != empty and page.masthead.display == false %}
   {% assign template_name = page.masthead.template | default: 'masthead.html' %}
