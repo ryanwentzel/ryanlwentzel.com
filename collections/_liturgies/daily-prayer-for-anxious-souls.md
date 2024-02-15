@@ -1,6 +1,6 @@
 ---
 title: Daily Prayer for Anxious Souls
-subtitle: A simple pattern for daily prayer that avoids excessive introspection
+subtitle: A simple pattern for daily prayer that removes the guess work and avoids excessive introspection
 date: 2024-01-04
 img: 
     url: https://source.unsplash.com/Qy387jzL4hQ
@@ -40,6 +40,27 @@ As it was in the beginning,
 &emsp;is now, and ever shall be,  
 &emsp;world without end. Amen.  
 **— Gloria Patri**
+
+## The Apostles' Creed
+I believe in God, the Father almighty,  
+&emsp;creator of heaven and earth.  
+I believe in Jesus Christ, his only Son, our Lord.  
+&emsp;He was conceived by the Holy Spirit  
+&emsp;and born of the Virgin Mary.  
+&emsp;He suffered under Pontius Pilate,  
+&emsp;was crucified, died, and was buried.  
+&emsp;He descended to the dead.  
+&emsp;On the third day he rose again.  
+&emsp;He ascended into heaven,  
+&emsp;and is seated at the right hand of the Father.  
+&emsp;He will come again to judge the living and the dead.  
+I believe in the Holy Spirit,  
+&emsp;the holy catholic Church,  
+&emsp;the communion of saints,  
+&emsp;the forgiveness of sins,  
+&emsp;the resurrection of the body,  
+&emsp;and the life everlasting. Amen.  
+**— Book of Common Prayer (2019)**
 
 ## The Lord's Prayer
 
