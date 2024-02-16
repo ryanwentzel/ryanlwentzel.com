@@ -20,10 +20,7 @@ for you have been my refuge,
 
 ## Adoration
 
-Praise God from whom all blessings flow;  
-Praise him all creatures here below;  
-Praise him above you heavenly host;  
-Praise Father, Son, and Holy Ghost. Amen.  
+Praise God from whom all blessings flow; Praise him all creatures here below; Praise him above you heavenly host; Praise Father, Son, and Holy Ghost. Amen.   
 **— Doxology**
 
 
@@ -33,7 +30,7 @@ Praise Father, Son, and Holy Ghost. Amen.
 
 ## Praise
 
-Glory to the Father,  
+Glory be to the Father,  
 &emsp;and to the Son,  
 &emsp;and to the Holy Spirit:    
 As it was in the beginning,  
@@ -43,23 +40,25 @@ As it was in the beginning,
 
 ## The Apostles' Creed
 I believe in God, the Father almighty,  
-&emsp;creator of heaven and earth.  
+creator of heaven and earth. 
+
 I believe in Jesus Christ, his only Son, our Lord.  
-&emsp;He was conceived by the Holy Spirit  
-&emsp;and born of the Virgin Mary.  
-&emsp;He suffered under Pontius Pilate,  
-&emsp;was crucified, died, and was buried.  
-&emsp;He descended to the dead.  
-&emsp;On the third day he rose again.  
-&emsp;He ascended into heaven,  
-&emsp;and is seated at the right hand of the Father.  
-&emsp;He will come again to judge the living and the dead.  
+He was conceived by the Holy Spirit  
+and born of the Virgin Mary.  
+He suffered under Pontius Pilate,  
+was crucified, died, and was buried.  
+He descended to the dead.  
+On the third day he rose again.  
+He ascended into heaven,  
+and is seated at the right hand of the Father.  
+He will come again to judge the living and the dead.
+
 I believe in the Holy Spirit,  
-&emsp;the holy catholic Church,  
-&emsp;the communion of saints,  
-&emsp;the forgiveness of sins,  
-&emsp;the resurrection of the body,  
-&emsp;and the life everlasting. Amen.  
+the holy catholic Church,  
+the communion of saints,  
+the forgiveness of sins,  
+the resurrection of the body,  
+and the life everlasting. Amen.  
 **— Book of Common Prayer (2019)**
 
 ## The Lord's Prayer
@@ -74,8 +73,9 @@ And forgive us our debts,
 &emsp;as we forgive our debtors.  
 And lead us not into temptation  
 &emsp;but deliver us from evil.  
-For yours is the kingdom, and the power,  
-and the glory, forever. Amen.
+For yours is the kingdom,  
+&emsp;and the power,  
+&emsp;and the glory, forever. Amen.
 
 ## Personal Prayer
 
