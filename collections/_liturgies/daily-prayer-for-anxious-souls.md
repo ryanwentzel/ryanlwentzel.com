@@ -20,7 +20,12 @@ for you have been my refuge,
 
 ## Adoration
 
-Praise God from whom all blessings flow; Praise him all creatures here below; Praise him above you heavenly host; Praise Father, Son, and Holy Ghost. Amen.   
+Praise God from whom  
+&emsp;all blessings flow;  
+Praise him all creatures here below;  
+Praise him above you heavenly host;  
+Praise Father, Son, and Holy Ghost.  
+Amen.   
 **— Doxology**
 
 
@@ -42,7 +47,8 @@ As it was in the beginning,
 I believe in God, the Father almighty,  
 creator of heaven and earth. 
 
-I believe in Jesus Christ, his only Son, our Lord.  
+I believe in Jesus Christ,  
+&emsp;his only Son, our Lord.  
 He was conceived by the Holy Spirit  
 and born of the Virgin Mary.  
 He suffered under Pontius Pilate,  
@@ -50,8 +56,10 @@ was crucified, died, and was buried.
 He descended to the dead.  
 On the third day he rose again.  
 He ascended into heaven,  
-and is seated at the right hand of the Father.  
-He will come again to judge the living and the dead.
+and is seated at the right hand  
+&emsp;of the Father.  
+He will come again to judge  
+&emsp;the living and the dead.
 
 I believe in the Holy Spirit,  
 the holy catholic Church,  
