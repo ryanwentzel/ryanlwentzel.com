@@ -1,7 +1,36 @@
 #!/bin/bash
 
+cdn="https://d1yo597syf8yny.cloudfront.net/assets/img/"
 collections_dir="$project_dir/collections"
 podcasts_dir="$collections_dir/_sermons"
+
+# create newsletter
+function newsletter () {
+    local title="${1}"
+    local subtitle="${2}"
+    local title_lower=$(echo $title | tr '[:upper:]' '[:lower:]')
+    local suffix="${title_lower// /-}"
+    local date=$(date +"%Y-%m-%d")
+    local slug="$date-$suffix"
+    local newsletter_dir="$collections_dir/_newsletter"
+    local filename="$newsletter_dir/$slug.md"
+    echo "Creating $filename"
+    cat << DELIMIT > "$filename"
+---
+title: $title
+subtitle: $subtitle
+description: 
+date: $(date +'%Y-%m-%d %H:%M:%S %z')
+img: 
+    url: $cdn
+published: false 
+---
+
+DELIMIT
+
+code "$filename"
+
+}
 
 # Create a new podcast episode
 function podcast () {
