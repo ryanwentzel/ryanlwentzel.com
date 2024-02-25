@@ -4,7 +4,7 @@ subtitle: The Weary Pilgrim | Issue 1
 description: 
 date: 2024-02-23 20:24:05 -0800
 img: 
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-SawCLzAiew8-unsplash.jpg
+    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-lzrdwLfLQ9A-unsplash.jpg
 published: false 
 ---
 Off the coast of the Italian Riviera near Genoa, fifty-six feet below the surface of the Mediterranean Sea, stands an eight-foot-tall bronze statue of Jesus Christ with its hands raised and face directed upward, as if pronouncing a benediction. 
