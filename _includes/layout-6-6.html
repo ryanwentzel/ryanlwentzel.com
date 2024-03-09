@@ -7,8 +7,12 @@
     <article class="d-flex flex-column col-md-6 tease-border-alt--md">
         <div class="py-4 tease-border-alt-inner">
             {% if display_img == true %}
-                <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}">
-                    <img class="d-block w-100 height-auto cover-img rounded-2" src="{{ resource.img.url }}" loading="lazy">
+                <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}"
+                title="{{ resource.title }}">
+                    <img class="d-block w-100 height-auto cover-img rounded-2" src="{{ resource.img.url }}"
+                    {% unless resource.img.alt == empty %}
+                    alt="{{ resource.img.alt }}"
+                    {% endunless %} loading="lazy">
                 </a>
             {% endif %}
             <h3 class="h4 fw-black mb-2">

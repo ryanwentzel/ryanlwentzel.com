@@ -4,8 +4,12 @@
 {% for resource in resources limit:limit %}
     <article class="d-flex flex-column col-md-3 tease-border-alt--md">
         <div class="py-4 tease-border-alt-inner">
-            <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}">
-                <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url }}">
+            <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}"
+            title="{{ resource.title }}">
+                <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url }}"
+                {% unless resource.img.alt == empty %}
+                alt="{{ resource.img.alt }}"
+                {% endunless %}>
             </a>
             <h3 class="h4 fw-black mb-2">
                 <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>

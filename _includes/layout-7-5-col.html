@@ -4,8 +4,12 @@
 <div class="d-flex flex-wrap gutter-spacious">
     <div class="col-md-7 col-xl-9 resource-col">
         <article class="highlighted-resource py-4 d-flex flex-column border-bottom">
-            <a class="d-block col-12 rounded-2 overflow-hidden mb-4" href="{{ first.url | relative_url }}">
-                <img class="d-block w-100 h-auto rounded-2" src="{{ first.img.url }}">
+            <a class="d-block col-12 rounded-2 overflow-hidden mb-4" href="{{ first.url | relative_url }}"
+            title="{{ first.title }}">
+                <img class="d-block w-100 h-auto rounded-2" src="{{ first.img.url }}"
+                {% unless resource.img.alt == empty %}
+                alt="{{ first.img.alt }}"
+                {% endunless %}>
             </a>
             <div class="col-12">
                 <h3 class="display-5 fw-black">
