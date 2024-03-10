@@ -61,6 +61,34 @@ code "$filename"
 
 }
 
+# Create a new prayer
+function prayer () {
+    local title="${1}"
+    local subtitle="${2}"
+    local title_lower=$(echo $title | tr '[:upper:]' '[:lower:]')
+    local name="${title_lower// /-}"
+    local prayers_dir="$collections_dir/_prayers"
+    local filename="$prayers_dir/$name.md"
+    echo "Creating $filename"
+    cat << DELIMIT > "$filename"
+---
+title: $title
+subtitle: $subtitle
+description: 
+date: $(date +'%Y-%m-%d %H:%M:%S %z')
+published: false
+img:
+    url: 
+    alt:
+series:
+---
+
+DELIMIT
+
+code "$filename"
+
+}
+
 # create commonplace entry
 function commonplace () {
     local title="${1}"
