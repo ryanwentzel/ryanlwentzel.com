@@ -20,6 +20,7 @@ In this talk, Ryan discusses:
 ## Additional Resources
 
 - [Presentation slides](https://d1yo597syf8yny.cloudfront.net/assets/docs/20240310-taking-our-meds-faithfully-for-web-v2.pdf)
+- [My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind](https://www.amazon.com/My-Age-Anxiety-Dread-Search/dp/0307390608/) by Scott Stossel
+- [Finding Jesus in the Storm: The Spiritual Lives of Christians with Mental Health Challenges](https://www.amazon.com/Finding-Jesus-Storm-Christians-Challenges/dp/0802873723/) by John Swinton
 
 *This talk was given on March 10, 2024, to a mental health support group at Grace Bible Church in Escondido, California.*
-
