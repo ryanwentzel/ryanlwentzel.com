@@ -17,7 +17,9 @@ In this talk, Ryan discusses:
 - Using medication to alleviate suffering
 - Viewing medication as a means, not an end
 
-<a href="https://d1yo597syf8yny.cloudfront.net/assets/docs/20240310-taking-our-meds-faithfully-for-web-v2.pdf">View Slides</a>
+## Additional Resources
+
+- [Presentation slides](https://d1yo597syf8yny.cloudfront.net/assets/docs/20240310-taking-our-meds-faithfully-for-web-v2.pdf)
 
 *This talk was given on March 10, 2024, to a mental health support group at Grace Bible Church in Escondido, California.*
 
