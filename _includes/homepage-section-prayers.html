@@ -1,7 +1,13 @@
 {% assign prayers = site.prayers | sort | reverse %}
 {% unless prayers == nil or prayers.size == 0 %}
 <section class="homepage-section">
-    <h2 class="h4 section-heading">Prayers</h2>
+    <div class="d-flex section-heading">
+        <h2 class="h4 fw-bold col-6">Prayers</h2>
+        <a class="col-6 ms-auto text-end text-reset text-decoration-none fw-normal" href="{{ '/prayers' | relative_url }}">
+            View all
+            <i class="bi bi-arrow-right"></i>
+        </a>
+    </div>
     {% include layout-7-5-col.html resources=prayers %}
 </section>
 {% endunless %}
