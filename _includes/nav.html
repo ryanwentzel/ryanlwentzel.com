@@ -14,19 +14,19 @@
         <div class="offcanvas-body">
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 fw-bold">
             <li class="nav-item">
-              <a class="nav-link fw-black{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+              <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-black{% if page.url == '/podcasts/sermons/index.html' %} active{% endif %}" href="{{ '/podcasts/sermons' | relative_url }}">Podcast</a>
+              <a class="nav-link{% if page.url == '/podcasts/sermons/index.html' %} active{% endif %}" href="{{ '/podcasts/sermons' | relative_url }}">Podcast</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-black{% if page.url == '/commonplace/index.html' %} active{% endif %}" href="{{ '/commonplace' | relative_url }}">Commonplace</a>
+              <a class="nav-link{% if page.url == '/commonplace/index.html' %} active{% endif %}" href="{{ '/commonplace' | relative_url }}">Commonplace</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-black{% if page.url == '/about' %} active{% endif %}" href="{% link _pages/about.md %}">About</a>
+              <a class="nav-link{% if page.url == '/about' %} active{% endif %}" href="{% link _pages/about.md %}">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link fw-black" href="mailto:{{ site.author.email | encode_email }}">Contact</a>
+              <a class="nav-link" href="mailto:{{ site.author.email | encode_email }}">Contact</a>
             </li>
           </ul>
         </div>
