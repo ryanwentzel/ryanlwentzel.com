@@ -1,0 +1,18 @@
+<div class="bg-light border rounded-2 p-4">
+  <span class="d-block fw-bold mb-3">Sign up to receive <em>{{ site.data.newsletter.title }}</em> in your inbox</span>
+  <form
+    action="https://buttondown.email/api/emails/embed-subscribe/ryanwentzel"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.email/ryanwentzel', 'popupwindow')"
+    class="embeddable-buttondown-form">
+    <div class="mb-3">
+      <label class="form-label" for="bd-email">Enter your email</label>
+      <input class="form-control" type="email" name="email" id="bd-email" placeholder="you@example.com" />
+    </div>
+    <div class="mb-3">
+      <button type="submit" class="btn btn-dark rounded-1 fw-bold">Sign up</button>
+    </div>
+    <a href="https://buttondown.email/refer/ryanwentzel" target="_blank">Powered by Buttondown</a>
+  </form>
+</div>

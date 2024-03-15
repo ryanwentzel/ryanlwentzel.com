@@ -5,7 +5,7 @@ layout: null
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ site.data.newsletter.title }}</title>
   <subtitle>{{ site.data.newsletter.subtitle }}</subtitle>
-  <rights>{{ site.data.newsletter.rights.statement }} {{ site.data.newsletter.rights.start_year }}–{{ "now" | date: "%Y" }}. All rights reserved.</rights>
+  <rights>{{ site.data.newsletter.rights.statement }} {{ "now" | date: "%Y" }}. All rights reserved.</rights>
   <id>{{ '/' | absolute_url }}</id>
   <link href="{{ page.permalink | absolute_url }}" rel="self"/>
   <link href="{{ '/' | absolute_url }}"/>
