@@ -1,22 +1,21 @@
 ---
 layout: default
-published: false
 ---
 
-<main id="start-of-content" class="min-vh-100 mt-3 mb-8">
+<main id="start-of-content" class="min-vh-100 ">
     <div class="container-xl mx-auto pt-5">
-        <div class="row px-lg-5 justify-content-between flex-wrap">
-            <div class="col-12 col-md-7">
+        <div class="row px-lg-5 justify-content-between flex-wrap mb-5">
+            <div class="col-md-7">
                 <h1 class="display-3 fw-bold mb-3">{{ page.title | smartify }}</h1>
                 <div class="d-none d-md-block fs-4 mb-4">
                     {{ page.content }}
                 </div>
-                <div class="d-none d-md-block">
+                <div class="d-none d-md-block mb-4">
                     {% include subscribe-form-prayers.html %}
                 </div>
             </div>
             <div class="col-md d-flex justify-content-end align-self-center">
-                <img class="mw-sm-500px mw-lg-400px d-block rounded-2 img-fluid" src="{{ page.logo.url }}"
+                <img class="mw-lg-300px d-block rounded-2 img-fluid" src="{{ page.logo.url }}"
                 alt="weary pilgrim logo">
             </div>
             <div class="col-12">
