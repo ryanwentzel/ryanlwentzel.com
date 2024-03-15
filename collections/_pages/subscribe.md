@@ -1,6 +1,8 @@
 ---
 layout: subscribe
 title: Subscribe
+sitemap:
+    exclude: true
 masthead:
     display: false
 logo:
