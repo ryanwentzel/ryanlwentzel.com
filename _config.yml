@@ -38,6 +38,9 @@ collections:
   pages:
     output: true
     permalink: /:name
+  photos:
+    output: true
+    permalink: /photos/:year-:month-:day-:title
   posts:
     output: true
     permalink: /:year/:month/:day/:title
@@ -109,6 +112,15 @@ defaults:
         full_bleed: true
       feature: false
       syndicate: false
+  - scope:
+      path: ""
+      type: photos
+    values:
+      layout: resource
+      feature: false
+      syndicate: false
+      masthead:
+        display: false
   - scope:
       path: ""
       type: posts
