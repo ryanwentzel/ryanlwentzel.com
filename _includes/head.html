@@ -40,9 +40,9 @@
     <link rel="preconnect" href="https://rsms.me/">
 
     <title>
-    {% if page.url == '/' %}{{ page.title | escape }}
-    {% elsif page.title %}{{ page.title | escape }} — {{ site.title}}
-    {% else %}{{ site.title | escape }}{% endif %}
+    {%- if page.url == '/' %}{{ page.title | escape }}
+    {%- elsif page.title -%}{{ page.title | escape }} — {{ site.title}}
+    {%- else -%}{{ site.title | escape }}{% endif -%}
     </title>
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
