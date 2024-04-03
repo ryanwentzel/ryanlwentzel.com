@@ -3,7 +3,8 @@ title: Daily Prayer for Anxious Souls
 subtitle: A simple pattern for daily prayer that removes the guess work and avoids excessive introspection
 date: 2024-01-04
 img: 
-    url: https://source.unsplash.com/Qy387jzL4hQ
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash.jpg"
+    alt: "green wall paint photo"
 ---
 
 ## Opening Sentence
