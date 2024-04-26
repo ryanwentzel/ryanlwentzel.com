@@ -55,7 +55,7 @@ collections:
     permalink: /feeds/:title
   newsletter:
     output: true
-    permalink: /newsletter/:title
+    permalink: /newsletter/archive/:title
   playlists:
     output: true
     permalink: /playlists/:title
