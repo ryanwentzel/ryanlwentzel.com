@@ -26,7 +26,7 @@ layout: null
     <id>{{ item.url | absolute_url }}</id>
     <content type="html"><![CDATA[
     {%- if item.img -%}
-    <p><img src="{{ item.img.url }}"></p>
+    <div><img src="{{ item.img.url }}" alt=""{{ item.img.alt }}></div>
     {%- endif -%}
     {{ item.content | markdownify }}]]></content>
     <author>
