@@ -91,14 +91,11 @@ you very much.
 
 ## Quote of the Moment
 
-<figure>
-  <blockquote class="blockquote">
-    <p>Material matters because it reflects the originating glory of its Creator and housed the flesh of God himself in the incarnation.</p>
-  </blockquote>
-  <figcaption class="blockquote-footer">
-    Sarah Clarkson in <cite title="This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness">This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness</cite>
-  </figcaption>
-</figure>
+> Material matters because it reflects the originating glory of its Creator and housed the flesh of God himself in the incarnation.
+{: .newsletter-pull-quote }
+
+— Sarah Clarkson in <cite title="This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness">This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness</cite>
+{: .quote-citation }
 
 ---
 

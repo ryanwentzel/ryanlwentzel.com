@@ -39,6 +39,13 @@
     ul {
         margin-bottom: 2rem;
     }
+
+    .quote-citation {
+        font-size: inherit;
+        color: $color-fg-muted;
+        margin-top: -1rem;
+        margin-bottom: 2rem;
+    }
 }
 .resource-footer {
     .author-bio {
