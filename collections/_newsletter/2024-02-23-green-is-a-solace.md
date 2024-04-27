@@ -90,7 +90,14 @@ you very much.
 
 ## Quote of the Moment
 
-![](https://d1yo597syf8yny.cloudfront.net/assets/img/content/clarkson-material-matters.png){: .img-fluid .rounded-2 }
+<figure>
+  <blockquote class="blockquote">
+    <p>Material matters because it reflects the originating glory of its Creator and housed the flesh of God himself in the incarnation.</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+    Sarah Clarkson in <cite title="This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness">This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness</cite>
+  </figcaption>
+</figure>
 
 ---
 
