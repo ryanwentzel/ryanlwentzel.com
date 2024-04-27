@@ -40,6 +40,12 @@
         margin-bottom: 2rem;
     }
 
+    img {
+        border-radius: var(--bs-border-radius) !important;
+        height: auto;
+        max-width: 100%;
+    }
+
     .quote-citation {
         font-size: inherit;
         color: $color-fg-muted;
