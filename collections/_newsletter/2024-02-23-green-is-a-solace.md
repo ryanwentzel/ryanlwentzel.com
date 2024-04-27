@@ -1,6 +1,7 @@
 ---
 title: Green Is a Solace
 subtitle: May 2024 issue of The Weary Pilgrim
+summary: Listening to William Carlos Williams
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum odio eu feugiat pretium nibh ipsum. Sit amet porttitor eget dolor morbi non arcu risus quis.
 date: 2024-02-23 20:24:05 -0800
 issue: 1

@@ -24,6 +24,7 @@ layout: null
     <published>{{ item.date | date_to_xmlschema }}</published>
     <updated>{{ item.date | date_to_xmlschema }}</updated>
     <id>{{ item.url | absolute_url }}</id>
+    <summary>{{ item.summary }}</summary>
     <content type="html"><![CDATA[
     {%- if item.img -%}
     <div><img src="{{ item.img.url }}" alt="{{ item.img.alt }}" title="{{ item.img.title }}"></div>
