@@ -1,16 +1,27 @@
 ---
-title: Green Is a Solace
-subtitle: May 2024 issue of The Weary Pilgrim
-summary: Listening to William Carlos Williams
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Fermentum odio eu feugiat pretium nibh ipsum. Sit amet porttitor eget dolor morbi non arcu risus quis.
+title: Christ of the Abyss
+subtitle: Finding Jesus in the Depths
+description: Off the Ligurian coast in Italy, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
 date: 2024-02-23 20:24:05 -0800
 issue: 1
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/jens-lindner-cQ1BNRYjVJo-unsplash.jpg"
-    alt: "window view of green leafed plants"
-    title: "Photo by Jens Lindner on Unsplash"
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-XaiP_NLrtoM-unsplash.jpg"
+    alt: "black and green abstract painting with bubbles"
+    title: "Photo by Pawel Czerwinski on Unsplash"
 ---
-Welcome to the February 2024 issue of the newsletter.
+Off of Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
+
+The statue, known as *Il Christo Degli Abissi* (Christ of the Abyss), is the work of Italian artist Guido Galletti. He created it to memorialize all who have died in the sea.
+
+This submarine work of art, with its hands and head raised toward the surface—as if pronouncing a benediction on anyone who descends into the depths of the sea—is rich in symbolism. "The only way to see [the statue]," explains Isaac Wardell, director of The Porter's Gate Worship Project, "is to swim down, down, down; and the further you go down, the closer you'll be to seeing Jesus looking up and reaching upward to us." Wardell notes the Bible "tells us that when we go down to the depths, that [Jesus] is already there."
+
+Wardell—along with fellow musicians Matt Maher, Kate Bluett, and Doe Jones—wrote a song reflecting this reality. It's called "Christ is Lower Still." 
+
+Give it a listen. I think you'll enjoy it. 
+
+[![YouTube video for the song Christ is Lower Still by The Porter's Gate](https://d1yo597syf8yny.cloudfront.net/assets/img/newsletter/video-christ-is-lower-still.jpg "Christ Is Lower Still by The Porter's Gate")](https://youtu.be/_G5U0NDxdxU?si=SplOO1BFa0scIcIg)
+
+---
 
 ## Prayers
 
