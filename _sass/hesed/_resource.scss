@@ -16,6 +16,10 @@
         margin-top: 3rem;
         margin-bottom: 1.5rem;
     }
+
+    hr {
+        border-top-color: $color-border-muted;
+    }
 }
 
 .resource-body {
