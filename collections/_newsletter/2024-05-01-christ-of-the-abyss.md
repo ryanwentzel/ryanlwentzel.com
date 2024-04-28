@@ -2,15 +2,15 @@
 title: Christ of the Abyss
 subtitle: Finding Jesus in the Depths
 description: Off of Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
-date: 2024-05-01 15:02:00 -0700
-published: false
+date: 2024-04-01 15:02:00 -0700
+published: true
 issue: 1
 img: 
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-XaiP_NLrtoM-unsplash.jpg"
     alt: "black and green abstract painting with bubbles"
     title: "Photo by Pawel Czerwinski on Unsplash"
 ---
-Off of Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
+Just off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
 
 The statue, known as *Il Christo Degli Abissi* (Christ of the Abyss), is the work of Italian artist Guido Galletti. He created it to memorialize all who have died in the sea.
 
@@ -18,9 +18,9 @@ This submarine work of art, with its hands and head raised toward the surface—
 
 Wardell—along with fellow musicians Matt Maher, Kate Bluett, and Doe Jones—wrote a song reflecting this reality. It's called "Christ is Lower Still." 
 
-Give it a listen. I think you'll enjoy it. 
-
 [![YouTube video for the song Christ is Lower Still by The Porter's Gate](https://d1yo597syf8yny.cloudfront.net/assets/img/newsletter/video-christ-is-lower-still.jpg "Christ Is Lower Still by The Porter's Gate")](https://youtu.be/_G5U0NDxdxU?si=SplOO1BFa0scIcIg)
+
+Give it a listen. I think you'll enjoy it. 
 
 ---
 
@@ -111,7 +111,7 @@ you very much.
 
 ---
 
-*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe](https://ryanlwentzel.com/newsletter/subscribe). It's free!*
+*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe](https://ryanlwentzel.com/newsletter). It's free!*
 
 
 
