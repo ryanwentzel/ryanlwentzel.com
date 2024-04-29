@@ -2,7 +2,7 @@
 title: Christ of the Abyss
 subtitle: Finding Jesus in the Depths
 description: "Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954."
-date: 2024-04-01 15:02:00 -0700
+date: 2024-05-06 00:00:00 -0700
 published: false
 issue: 1
 img: 
@@ -26,25 +26,21 @@ Give it a listen. I think you'll enjoy it.
 
 ---
 
-{% include newsletter/sections/recent-prayers.html start="2024-04-01" end="2024-04-30" %}
+## A Prayer Based on Psalm 126
 
-## Commonplace
+![photo of a vineyard](https://d1yo597syf8yny.cloudfront.net/assets/img/content/dan-meyers-0AgtPoAARtE-unsplash.jpg)
 
-*Quotes, excerpts, and notes from my reading*
+> God of all comfort, we have sowed the fields with our sorrows and watered them with our tears. Cause the seeds we buried in the darkness of the earth to grow into something beautiful...
 
-- [Attention is the Beginning of Devotion](https://ryanlwentzel.com/commonplace/attention-is-the-beginning-of-devotion) (Mary Oliver)
-- [A Profound and Perplexing Confrontation with Pain](https://ryanlwentzel.com/commonplace/a-profound-and-perplexing-confrontation-with-pain) (Barry E. Wolfe)
-- [Anxiety Feels Like a Thorn in the Gut](https://ryanlwentzel.com/commonplace/anxiety-feels-like-a-thorn-in-the-gut) (Hippocrates)
-- [The Danger of Sacralizing Politics](https://ryanlwentzel.com/commonplace/the-danger-of-sacralizing-politics) (Lesslie Newbigin)
-- [Green Is a Solace](https://ryanlwentzel.com/commonplace/green-is-a-solace) (William Carlos Williams)
-
-*Find more commonplace entries [here]({{ site.data.nav.commonplace | absolute_url }}).*
+[Read it all!]({% link _prayers/sowing-our-sorrows.md %})
 
 ---
 
 ## Talks
 
-*Talks and sermons from my weekly teaching and preaching ministry.*
+![abstract art by Pawel Czerwinski](https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash.jpg)
+
+*Recent talks and sermons from my weekly teaching and preaching ministry.*
 
 - [The Doctrine of God’s Omnipotence](https://ryanlwentzel.com/podcasts/sermons/the-doctrine-of-gods-omnipotence)
 - [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication](https://ryanlwentzel.com/podcasts/sermons/taking-our-meds-faithfully)
@@ -52,11 +48,12 @@ Give it a listen. I think you'll enjoy it.
 - [The Cosmic Scope of Salvation](https://ryanlwentzel.com/podcasts/sermons/the-cosmic-scope-of-salvation)
 - [Unbelievable?](https://ryanlwentzel.com/podcasts/sermons/unbelievable-easter-2024)
 
-*Find more talks [here]({{ site.data.nav.sermons | absolute_url }}).*
+*Listen to more talks [here]({{ site.data.nav.sermons | absolute_url }}).*
 
 ---
 
 ## Art I'm Enjoying
+
 <figure>
     <img class="img-fluid rounded-2" src="https://d1yo597syf8yny.cloudfront.net/assets/img/content/doughty-two-fishermen-1828.jpg" alt="Painting of two fishermen by Thomas Doughty" />
     <figcaption>
@@ -64,9 +61,15 @@ Give it a listen. I think you'll enjoy it.
     </figcaption>
 </figure>
 
+From [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Doughty_(artist) "Read about Thomas Doughty at Wikipedia"):
+
+> Born in Philadelphia, Thomas Doughty was the first American artist to work exclusively as a landscapist and was successful both for his skill and the fact that Americans were turning their interest to landscape. He was known for his quiet, often atmospheric landscapes of the rivers and mountains of Pennsylvania, New York, New England, and especially the Hudson River Valley. He taught himself how to paint while apprenticing for a leather manufacturer. In 1827 he was elected into the National Academy of Design as an Honorary Academician.
+
 ---
 
 ## Poetry I'm Enjoying
+
+![photo of secluded forest](https://d1yo597syf8yny.cloudfront.net/assets/img/content/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg)
 
 **How I Go To The Woods**  
 By Mary Oliver
@@ -87,17 +90,21 @@ unbearable sound of the roses singing.
 If you have ever gone to the woods with me, I must love  
 you very much.
 
-<small>Mary Oliver, *Devotions: The Selected Poems of Mary Oliver* (New York: Penguin Books, 2017).</small>
+— Mary Oliver in <cite>Devotions: The Selected Poems of Mary Oliver</cite> (New York: Penguin Books, 2017)
 
 ---
 
 ## Quote of the Moment
 
-> Material matters because it reflects the originating glory of its Creator and housed the flesh of God himself in the incarnation.
-{: .newsletter-pull-quote }
+![close up photo of a hummingbird](https://d1yo597syf8yny.cloudfront.net/assets/img/content/robert-zunikoff-ko7Tp_LyAt4-unsplash.jpg)
 
-— Sarah Clarkson in <cite title="This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness">This Beautiful Truth: How God’s Goodness Breaks Into Our Darkness</cite>
-{: .quote-citation }
+> Teach the children. We don’t matter so much, but the children do. Show them daisies and the pale hepatica. Teach them the taste of sassafras and wintergreen. The lives of the blue sailors, mallow, sunbursts, the moccasin flowers. And the frisky ones—inkberry, lamb’s-quarters, blueberries. And the aromatic ones—rosemary, oregano. Give them peppermint to put in their pockets as they go to school. Give them the fields and the woods and the possibility of the world salvaged from the lords of profit. Stand them in the stream, head them upstream, rejoice as they learn to love this green space they live in, its sticks and leaves and then the silent, beautiful blossoms.
+>  
+> Attention is the beginning of devotion.
+
+— Mary Oliver in <cite>Upstream: Selected Essays</cite> (New York, Penguin Books, 2019)
+
+*Find more quotes from my reading [here]({{ site.data.nav.commonplace | absolute_url }}).*
 
 ---
 
