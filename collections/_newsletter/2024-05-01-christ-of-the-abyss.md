@@ -36,7 +36,7 @@ Give it a listen. I think you'll enjoy it.
 - [All Good Things Come to Us From Your Hand](https://ryanlwentzel.com/prayers/all-good-things-come-to-us-from-your-hand)
 - [How You Have Loved Us!](https://ryanlwentzel.com/prayers/how-you-have-loved-us)
 
-*Find more written prayers [here](https://ryanlwentzel.com/prayers/).*
+*Find more written prayers [here]({{ site.data.nav.prayers | absolute_url }}).*
 
 ---
 
@@ -50,7 +50,7 @@ Give it a listen. I think you'll enjoy it.
 - [The Danger of Sacralizing Politics](https://ryanlwentzel.com/commonplace/the-danger-of-sacralizing-politics) (Lesslie Newbigin)
 - [Green Is a Solace](https://ryanlwentzel.com/commonplace/green-is-a-solace) (William Carlos Williams)
 
-*Find more commonplace entries [here](https://ryanlwentzel.com/commonplace/).*
+*Find more commonplace entries [here]({{ site.data.nav.commonplace | absolute_url }}).*
 
 ---
 
@@ -64,7 +64,7 @@ Give it a listen. I think you'll enjoy it.
 - [The Cosmic Scope of Salvation](https://ryanlwentzel.com/podcasts/sermons/the-cosmic-scope-of-salvation)
 - [Unbelievable?](https://ryanlwentzel.com/podcasts/sermons/unbelievable-easter-2024)
 
-*Find more talks [here](https://ryanlwentzel.com/podcasts/sermons/).*
+*Find more talks [here]({{ site.data.nav.sermons | absolute_url }}).*
 
 ---
 
@@ -113,7 +113,7 @@ you very much.
 
 ---
 
-*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe](https://ryanlwentzel.com/newsletter). It's free!*
+*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe]({% link _pages/newsletter.md %}). It's free!*
 
 
 
