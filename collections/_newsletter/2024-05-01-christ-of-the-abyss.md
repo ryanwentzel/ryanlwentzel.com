@@ -1,22 +1,24 @@
 ---
 title: Christ of the Abyss
 subtitle: Finding Jesus in the Depths
-description: Off of Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
+description: "Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954."
 date: 2024-04-01 15:02:00 -0700
 published: false
 issue: 1
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-XaiP_NLrtoM-unsplash.jpg"
-    alt: "black and green abstract painting with bubbles"
-    title: "Photo by Pawel Czerwinski on Unsplash"
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/christ-of-the-abyss-2560x1440.jpg"
+    alt: "underwater photo of a statue of Jesus Christ"
+    title: "Christ of the Abyss"
 ---
-Just off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
+Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
 
 The statue, known as *Il Christo Degli Abissi* (Christ of the Abyss), is the work of Italian artist Guido Galletti. He created it to memorialize all who have died in the sea.
 
-This submarine work of art, with its hands and head raised toward the surface—as if pronouncing a benediction on anyone who descends into the depths of the sea—is rich in symbolism. "The only way to see [the statue]," explains Isaac Wardell, director of The Porter's Gate Worship Project, "is to swim down, down, down; and the further you go down, the closer you'll be to seeing Jesus looking up and reaching upward to us." Wardell notes the Bible "tells us that when we go down to the depths, that [Jesus] is already there."
+The submerged Christ's head is raised, and its hands are outstretched toward the surface as if pronouncing a benediction on anyone who descends the watery depths. "The only way to see [the statue]," explains Isaac Wardell, director of The Porter's Gate Worship Project, "is to swim down, down, down; and the further you go down, the closer you'll be to seeing Jesus looking up and reaching upward to us."
 
-Wardell—along with fellow musicians Matt Maher, Kate Bluett, and Doe Jones—wrote a song reflecting this reality. It's called "Christ is Lower Still." 
+The metaphor is rich. Wardell notes that, according to the Bible, "when we go down to the depths, [Jesus] is already there."
+
+Wardell and fellow musicians Matt Maher, Kate Bluett, and Doe Jones wrote a song reflecting this precious biblical truth. It's called "Christ is Lower Still." 
 
 [![YouTube video for the song Christ is Lower Still by The Porter's Gate](https://d1yo597syf8yny.cloudfront.net/assets/img/newsletter/video-christ-is-lower-still.jpg "Christ Is Lower Still by The Porter's Gate")](https://youtu.be/_G5U0NDxdxU?si=SplOO1BFa0scIcIg)
 
