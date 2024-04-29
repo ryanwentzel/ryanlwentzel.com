@@ -10,13 +10,13 @@ img:
     alt: "underwater photo of a statue of Jesus Christ"
     title: "Christ of the Abyss"
 ---
-Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954.
+Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954. 
 
-The statue, known as *Il Christo Degli Abissi* (Christ of the Abyss), is the work of Italian artist Guido Galletti. He created it to memorialize all who have died in the sea.
+The statue, known as *Il Christo Degli Abissi* (Christ of the Abyss), is the work of Italian artist Guido Galletti. He created it to memorialize all who have died in the sea. 
 
-The submerged Christ's head is raised, and its hands are outstretched toward the surface as if pronouncing a benediction on anyone who descends the watery depths. "The only way to see [the statue]," explains Isaac Wardell, director of The Porter's Gate Worship Project, "is to swim down, down, down; and the further you go down, the closer you'll be to seeing Jesus looking up and reaching upward to us."
+"The only way to see [the statue] is to swim down, down, down; and the further you go down, the closer you'll be to seeing Jesus looking up and reaching upward to us," explains Isaac Wardell, director of The Porter's Gate Worship Project. "When we go down to the depths, [Jesus] is already there."
 
-The metaphor is rich. Wardell notes that, according to the Bible, "when we go down to the depths, [Jesus] is already there."
+The symbolism is powerful.
 
 Wardell and fellow musicians Matt Maher, Kate Bluett, and Doe Jones wrote a song reflecting this precious biblical truth. It's called "Christ is Lower Still." 
 
@@ -38,15 +38,16 @@ Give it a listen. I think you'll enjoy it.
 
 ## Talks
 
-![abstract art by Pawel Czerwinski](https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash.jpg)
+![flatlay photo of open Bible](https://d1yo597syf8yny.cloudfront.net/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash.jpg)
 
 *Recent talks and sermons from my weekly teaching and preaching ministry.*
 
-- [The Doctrine of God’s Omnipotence](https://ryanlwentzel.com/podcasts/sermons/the-doctrine-of-gods-omnipotence)
-- [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication](https://ryanlwentzel.com/podcasts/sermons/taking-our-meds-faithfully)
-- [It All Ends in Praise](https://ryanlwentzel.com/podcasts/sermons/it-all-ends-in-praise)
-- [The Cosmic Scope of Salvation](https://ryanlwentzel.com/podcasts/sermons/the-cosmic-scope-of-salvation)
-- [Unbelievable?](https://ryanlwentzel.com/podcasts/sermons/unbelievable-easter-2024)
+- [The Doctrine of God's Omnipotence]({% link _sermons/2024-03-05-the-doctrine-of-gods-omnipotence.md %}) – A class about how the doctrine of God's omnipotence intersects with everyday life
+- [Unity in Diversity]({% link _sermons/2024-03-05-unity-in-diversity.md %}) – A sermon on Romans 16:1–16
+- [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication]({% link _sermons/2024-03-11-taking-our-meds-faithfully.md %}) – a talk I gave to a church-based mental health support group
+- [It All Ends in Praise]({% link _sermons/2024-03-19-it-all-ends-in-praise.md %}) – a sermon on the conclusion of the Book of Romans
+- [The Cosmic Scope of Salvation]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}) – a reflection on something I found surprising while preaching through the Book of Romans over the past year
+- [Unbelievable?]({% link _sermons/2024-04-05-unbelievable-easter-2024.md %}) – an Easter sermon on John 20:1–10
 
 *Listen to more talks [here]({{ site.data.nav.sermons | absolute_url }}).*
 
@@ -109,6 +110,7 @@ you very much.
 ---
 
 *If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe]({% link _pages/newsletter.md %}). It's free!*
+{: .newsletter-footer }
 
 
 
