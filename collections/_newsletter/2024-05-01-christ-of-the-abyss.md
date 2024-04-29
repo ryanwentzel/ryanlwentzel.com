@@ -26,19 +26,7 @@ Give it a listen. I think you'll enjoy it.
 
 ---
 
-## Prayers
-
-*Prayers I've written recently, either for personal devotion or public worship.*
-
-- [You Who Never Fall Asleep on the Job, Watch Over Us and Keep Us Safe]({% link _prayers/you-who-never-fall-asleep-on-the-job-watch-over-us.md %})
-- [God of All Comfort, We Have Sowed the Fields With our Sorrows and Watered Them With our Tears](https://ryanlwentzel.com/prayers/sowing-our-sorrows)
-- [You Who Give Sleep to Your People, Keep Us From Delusions of Self-Sufficiency and Autonomy](https://ryanlwentzel.com/prayers/you-who-give-sleep-to-your-people)
-- [All Good Things Come to Us From Your Hand](https://ryanlwentzel.com/prayers/all-good-things-come-to-us-from-your-hand)
-- [How You Have Loved Us!](https://ryanlwentzel.com/prayers/how-you-have-loved-us)
-
-*Find more written prayers [here]({{ site.data.nav.prayers | absolute_url }}).*
-
----
+{% include newsletter/sections/recent-prayers.html start="2024-04-01" end="2024-04-30" %}
 
 ## Commonplace
 

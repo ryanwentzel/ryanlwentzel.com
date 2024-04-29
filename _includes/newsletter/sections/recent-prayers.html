@@ -1,0 +1,18 @@
+{% assign start = include.start | date: "%s" | plus: 0 %}
+{% assign end = include.end | date: "%s" | plus: 0 %}
+{% assign prayers = "" | split: "," %}
+{% for prayer in site.prayers %}
+{% assign pubDate = prayer.date | date: "%s" | plus: 0 %}
+{% if pubDate >= start and pubDate <= end %}
+{% assign prayers = prayers | push: prayer %}
+{% endif %}
+{% endfor %}
+<section id="recent-prayers" class="border-bottom">
+    <h2>Prayers</h2>
+    <p class="fst-italic">Prayers I've written recently, either for personal devotion or public worship.</p>
+    <ul>
+    {% for prayer in prayers %}
+    <li><a href="{{ prayer.url }}">{{ prayer. title }}</a></li>
+    {% endfor %}
+    </ul>
+</section>
