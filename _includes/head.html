@@ -3,10 +3,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{% if page.url == '/' %}{{ site.description | strip_html | normalize_whitespace | escape }}{% else %}{{ page.description |  default: page.subtitle | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}">
     <meta name="author" content="{{ site.data.profile.name }}">
+    <title>
+    {%- if page.url == '/' %}{{ page.title | escape }}
+    {%- elsif page.title -%}{{ page.title | escape }} — {{ site.title}}
+    {%- else -%}{{ site.title | escape }}{% endif -%}
+    </title>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.data.feeds.main | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="Commonplace — {{ site.title | escape }}" href="{{ site.data.feeds.commonplace | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="Subscribe to {{ site.data.podcast.name }}" href="{{ site.data.podcast.rss_url }}">
-
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/apple-touch-icon.png' | relative_url }}">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ '/favicon-16x16.png' | relative_url }}">
@@ -14,7 +18,6 @@
     <link rel="mask-icon" href="{{ '/safari-pinned-tab.svg' | relative_url }}" color="#7e9296">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    
     <!-- open graph -->
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.description |  default: page.subtitle | default: page.excerpt | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 200 | escape }}">
@@ -24,7 +27,6 @@
 {%- if page.img %}
     <meta property="og:image" content="{{ page.img.url }}">
 {% endif %}
-
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="ryanlwentzel.com">
@@ -34,16 +36,9 @@
 {%- if page.img %}
     <meta property="twitter:image" content="{{ page.img.url }}">
 {% endif %}
-
     <link rel="canonical" href="{{ url }}">
     <link rel="preconnect" href="{{ site.data.cdn.base_url }}">
     <link rel="preconnect" href="https://rsms.me/">
-
-    <title>
-    {%- if page.url == '/' %}{{ page.title | escape }}
-    {%- elsif page.title -%}{{ page.title | escape }} — {{ site.title}}
-    {%- else -%}{{ site.title | escape }}{% endif -%}
-    </title>
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
