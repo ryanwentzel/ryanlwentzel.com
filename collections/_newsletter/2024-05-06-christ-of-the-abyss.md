@@ -12,7 +12,7 @@ img:
 ---
 Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954. 
 
-The statue, which was created by Italian artist Guido Galletti, is known as *Il Christo Degli Abissi* (Christ of the Abyss). With its raised head and outstretched arms, it's as if the statue pronounces a benediction on all who descend the watery depths.
+The statue was created by Italian artist Guido Galletti. It is known as *Il Christo Degli Abissi* (Christ of the Abyss). With its raised head and outstretched arms, it's as if the statue pronounces a benediction on all who descend the watery depths.
 
 "The only way to see it is to swim down, down, down; and the further you go down, the closer you'll be to seeing Jesus looking up and reaching upward to us," explains Isaac Wardell, director of The Porter's Gate Worship Project. "When we go down to the depths, he is already there."
 
@@ -30,6 +30,8 @@ Give it a listen. I think you'll enjoy it.
 
 ![photo of a vineyard](https://d1yo597syf8yny.cloudfront.net/assets/img/content/dan-meyers-0AgtPoAARtE-unsplash.jpg)
 
+I read through the Psalms regularly. Sometimes I write prayers based on the day's reading. Here's one I wrote (in [collect](https://timothykeller.com/blog/2010/10/1/how-to-pray-better-in-public-and-in-private-too) form) in response to Psalm 126.
+
 > God of all comfort, we have sowed the fields with our sorrows and watered them with our tears. Cause the seeds we buried in the darkness of the earth to grow into something beautiful...
 
 [Read it all!]({% link _prayers/sowing-our-sorrows.md %})
@@ -42,12 +44,12 @@ Give it a listen. I think you'll enjoy it.
 
 *Recent talks and sermons from my weekly teaching and preaching ministry.*
 
-- [The Doctrine of God's Omnipotence]({% link _sermons/2024-03-05-the-doctrine-of-gods-omnipotence.md %}) – A class about how the doctrine of God's omnipotence intersects with everyday life
-- [Unity in Diversity]({% link _sermons/2024-03-05-unity-in-diversity.md %}) – A sermon on Romans 16:1–16
-- [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication]({% link _sermons/2024-03-11-taking-our-meds-faithfully.md %}) – a talk I gave to my church's mental health support group
-- [It All Ends in Praise]({% link _sermons/2024-03-19-it-all-ends-in-praise.md %}) – a sermon on the conclusion of the Book of Romans
-- [The Cosmic Scope of Salvation]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}) – a reflection on something I found surprising while preaching through the Book of Romans over the past year
-- [Unbelievable?]({% link _sermons/2024-04-05-unbelievable-easter-2024.md %}) – an Easter sermon on John 20:1–10
+- [The Doctrine of God's Omnipotence]({% link _sermons/2024-03-05-the-doctrine-of-gods-omnipotence.md %}). A class about how the doctrine of God's omnipotence intersects with everyday life.
+- [Unity in Diversity]({% link _sermons/2024-03-05-unity-in-diversity.md %}). A sermon on Romans 16:1–16.
+- [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication]({% link _sermons/2024-03-11-taking-our-meds-faithfully.md %}). A talk I gave to my church's mental health support group.
+- [It All Ends in Praise]({% link _sermons/2024-03-19-it-all-ends-in-praise.md %}). A sermon on the conclusion of the Book of Romans.
+- [The Cosmic Scope of Salvation]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}). A reflection on something I found surprising while preaching through the Book of Romans over the past year.
+- [Unbelievable?]({% link _sermons/2024-04-05-unbelievable-easter-2024.md %}). An Easter sermon on John 20:1–10.
 
 *Listen to more talks [here]({{ site.data.nav.sermons | absolute_url }}).*
 
