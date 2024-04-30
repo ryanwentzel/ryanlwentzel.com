@@ -12,7 +12,7 @@ img:
 ---
 Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954. 
 
-The statue, created by Italian artist Guido Galletti, is known as *Il Christo Degli Abissi* (Christ of the Abyss). With its raised head and outstretched arms, it's as if the statue pronounces a benediction on all who descend the watery depths.
+The statue, which was created by Italian artist Guido Galletti, is known as *Il Christo Degli Abissi* (Christ of the Abyss). With its raised head and outstretched arms, it's as if the statue pronounces a benediction on all who descend the watery depths.
 
 "The only way to see it is to swim down, down, down; and the further you go down, the closer you'll be to seeing Jesus looking up and reaching upward to us," explains Isaac Wardell, director of The Porter's Gate Worship Project. "When we go down to the depths, he is already there."
 
