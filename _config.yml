@@ -112,6 +112,7 @@ defaults:
         full_bleed: true
       feature: false
       syndicate: false
+      css_class: "newsletter"
   - scope:
       path: ""
       type: photos
