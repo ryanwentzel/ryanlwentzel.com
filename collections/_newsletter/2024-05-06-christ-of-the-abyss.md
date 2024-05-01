@@ -44,12 +44,13 @@ I read through the Psalms regularly. Sometimes I write prayers based on the day'
 
 *Recent talks and sermons from my weekly teaching and preaching ministry.*
 
-- [The Doctrine of God's Omnipotence]({% link _sermons/2024-03-05-the-doctrine-of-gods-omnipotence.md %}). A class about how the doctrine of God's omnipotence intersects with everyday life.
+- [The Doctrine of God's Omnipotence]({% link _sermons/2024-03-05-the-doctrine-of-gods-omnipotence.md %}). A talk about how the doctrine of God's omnipotence intersects with everyday life.
 - [Unity in Diversity]({% link _sermons/2024-03-05-unity-in-diversity.md %}). A sermon on Romans 16:1–16.
 - [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication]({% link _sermons/2024-03-11-taking-our-meds-faithfully.md %}). A talk I gave to my church's mental health support group.
 - [It All Ends in Praise]({% link _sermons/2024-03-19-it-all-ends-in-praise.md %}). A sermon on the conclusion of the Book of Romans.
 - [The Cosmic Scope of Salvation]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}). A reflection on something I found surprising while preaching through the Book of Romans over the past year.
 - [Unbelievable?]({% link _sermons/2024-04-05-unbelievable-easter-2024.md %}). An Easter sermon on John 20:1–10.
+- [Songs of the Saints: Let All Mortal Flesh Keep Silence](#). A talk exploring the background, meaning, and relevance of an ancient hymn.
 
 *Listen to more talks [here]({{ site.data.nav.sermons | absolute_url }}).*
 
