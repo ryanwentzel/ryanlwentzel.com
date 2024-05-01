@@ -44,7 +44,6 @@ function podcast () {
     echo "Creating $filename"
     cat << DELIMIT > "$filename"
 ---
-layout: podcast-episode
 title: $title
 subtitle: $subtitle
 description: 
@@ -102,7 +101,6 @@ function commonplace () {
     echo "Creating $filename"
     cat << DELIMIT > "$filename"
 ---
-layout: commonplace
 title: $title
 subtitle: $subtitle
 description: 
@@ -129,7 +127,6 @@ function resource () {
     echo "Creating $filename"
     cat << DELIMIT > "$filename"
 ---
-layout: resource
 title: $title
 subtitle: $subtitle
 description: 
