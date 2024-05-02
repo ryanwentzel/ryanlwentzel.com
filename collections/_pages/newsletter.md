@@ -6,6 +6,9 @@ sitemap:
     exclude: true
 masthead:
     display: false
+img:
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/newsletter-share-image.png"
+    alt: "illustration of a weary pilgrim"
 logo:
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/weary-pilgrim-newsletter-800x800.png"
 ---
