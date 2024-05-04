@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Material Matters
 subtitle: Sarah Clarkson reflects on the theological significance of the physical world
 description: Sarah Clarkson said, "Material matters because it reflects the originating glory of its Creator and housed the flesh of God himself in the incarnation."
