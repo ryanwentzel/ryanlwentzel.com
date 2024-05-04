@@ -6,7 +6,6 @@ date: 2024-05-03 17:32:22 -0700
 img: 
     url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/wendy-scofield-AQkvtzM6eqU-unsplash.jpg
     alt: grayscale photo of a cemetery
-published: false 
 ---
 *The following is from a [sermon]({% link _sermons/2024-04-05-unbelievable-easter-2024.md %}) I preached on Easter Sunday in 2024.*
 
