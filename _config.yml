@@ -50,9 +50,6 @@ collections:
   bombadil:
     output: true
     permalink: /bombadil/:title
-  feeds:
-    output: true
-    permalink: /feeds/:title
   newsletter:
     output: true
     permalink: /newsletter/archive/:title
@@ -74,6 +71,11 @@ collections:
   sermons:
     output: true
     permalink: /podcasts/sermons/:title
+# make feeds last so all content gets rendered first
+# https://stackoverflow.com/questions/28205587/create-a-partial-using-rendered-html-from-markdown-in-jekyll?rq=3
+  feeds:
+    output: true
+    permalink: /feeds/:title
 
 defaults:
   - scope:
