@@ -1,7 +1,7 @@
 ---
 title: Christ of the Abyss
 subtitle: Finding Jesus in the Depths
-description: "Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea. It has been there since August 22, 1954."
+description: "Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea."
 date: 2024-05-06 00:00:00 -0700
 published: false
 issue: 1
@@ -34,7 +34,7 @@ I read through the Psalms regularly. Sometimes I write prayers based on the day'
 
 > God of all comfort, we have sowed the fields with our sorrows and watered them with our tears. Cause the seeds we buried in the darkness of the earth to grow into something beautiful...
 
-[Read it all!]({% link _prayers/sowing-our-sorrows.md %})
+[Read it all!]({{ site.url }}{% link _prayers/sowing-our-sorrows.md %})
 
 ---
 
@@ -44,13 +44,13 @@ I read through the Psalms regularly. Sometimes I write prayers based on the day'
 
 *Recent talks and sermons from my weekly teaching and preaching ministry.*
 
-- [The Doctrine of God's Omnipotence]({% link _sermons/2024-03-05-the-doctrine-of-gods-omnipotence.md %}). A talk about how the doctrine of God's omnipotence intersects with everyday life.
-- [Unity in Diversity]({% link _sermons/2024-03-05-unity-in-diversity.md %}). A sermon on Romans 16:1–16.
-- [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication]({% link _sermons/2024-03-11-taking-our-meds-faithfully.md %}). A talk I gave to my church's mental health support group.
-- [It All Ends in Praise]({% link _sermons/2024-03-19-it-all-ends-in-praise.md %}). A sermon on the conclusion of the Book of Romans.
-- [The Cosmic Scope of Salvation]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}). A reflection on something I found surprising while preaching through the Book of Romans over the past year.
-- [Unbelievable?]({% link _sermons/2024-04-05-unbelievable-easter-2024.md %}). An Easter sermon on John 20:1–10.
-- [Songs of the Saints: Let All Mortal Flesh Keep Silence](#). A talk exploring the background, meaning, and relevance of an ancient hymn.
+- [The Doctrine of God's Omnipotence]({{ site.url }}{% link _sermons/2024-03-05-the-doctrine-of-gods-omnipotence.md %}). A talk about how the doctrine of God's omnipotence intersects with everyday life.
+- [Unity in Diversity]({{ site.url }}{% link _sermons/2024-03-05-unity-in-diversity.md %}). A sermon on Romans 16:1–16.
+- [Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication]({{ site.url }}{% link _sermons/2024-03-11-taking-our-meds-faithfully.md %}). A talk I gave to my church's mental health support group.
+- [It All Ends in Praise]({{ site.url }}{% link _sermons/2024-03-19-it-all-ends-in-praise.md %}). A sermon on the conclusion of the Book of Romans.
+- [The Cosmic Scope of Salvation]({{ site.url }}{% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}). A reflection on something I found surprising while preaching through the Book of Romans over the past year.
+- [Unbelievable?]({{ site.url }}{% link _sermons/2024-04-05-unbelievable-easter-2024.md %}). An Easter sermon on John 20:1–10.
+- [Songs of the Saints: Let All Mortal Flesh Keep Silence]({{ site.url }}{% link _sermons/2024-05-01-let-all-mortal-flesh-keep-silence.md %}). A talk exploring the background, meaning, and relevance of an ancient hymn.
 
 *Listen to more talks [here]({{ site.data.nav.sermons | absolute_url }}).*
 
@@ -112,7 +112,7 @@ you very much.
 
 ---
 
-*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe]({% link _pages/newsletter.md %}). It's free!*
+*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe]({{ site.url }}{% link _pages/newsletter.md %}). It's free!*
 {: .newsletter-footer }
 
 
