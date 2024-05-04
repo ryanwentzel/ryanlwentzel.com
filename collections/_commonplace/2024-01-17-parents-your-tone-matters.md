@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Parents, Your Tone Matters
 subtitle: 
 description: "Bessel Van der Kolk said, \"One thing is certain: Yelling at someone who is already out of control can only lead to further dysregulation...\""

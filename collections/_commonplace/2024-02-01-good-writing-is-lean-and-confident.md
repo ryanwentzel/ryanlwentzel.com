@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Good Writing is Lean and Confident
 subtitle: Tips from William Zinsser
 description: "Don't say you were a bit confused and sort of tired and a little depressed and somewhat annoyed. Be confused. Be tired. Be depressed. Be annoyed. Don't hedge your prose with little timidities. Good writing is lean and confident."

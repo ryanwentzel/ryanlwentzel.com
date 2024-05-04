@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Keep a Notebook
 subtitle: Advice from Donald M. Murray
 description: Donald M. Murray advised would-be writers to maintain a continuous dialogue with themselves about their work by keeping a notebook.

@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: The Pain of Remembering After a Loss
 subtitle: 
 description: In *The Road*, Cormac McCarthy wrote, "Maybe he understood for the first time that to the boy he was himself an alien. A being from a planet that no longer existed. The tales of which were suspect. He could not construct for the child’s pleasure the world he'd lost without constructing the loss as well and he thought perhaps the child has known this better than he..."

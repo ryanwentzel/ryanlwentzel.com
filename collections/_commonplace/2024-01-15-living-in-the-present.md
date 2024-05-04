@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Living in the Present
 subtitle: Wisdom from Blaise Pascal
 description: "Blaise Pascal mused on our inability to live in and enjoy the present: \"We do not rest satisfied with the present. We anticipate the future as too slow in coming, as if in order to hasten its course; or we recall the past, to stop its too rapid flight...\""

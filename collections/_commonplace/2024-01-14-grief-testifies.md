@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Grief Testifies
 subtitle: 
 description: Nicolas Wolterstorff said, "Grief is existential testimony to the worth of the one loved."

@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: False Patriotism
 subtitle: Esau McCaulley reflects on Frederick Douglass's critique of America
 description: Esau McCaulley said, "Our national tendency to see only the best of America was standing in the way of truly becoming great. [Frederick Douglass] thought enough of this country to tell it the truth. We would be better off if more of us did the same."

@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Burying the "Unclaimed Dead"
 subtitle: Nearly 2,000 are laid to rest in a communal gravesite in Los Angeles
 description: \"Martirosyan and her colleagues spend three years investigating a case before relinquishing the deceased to a communal gravesite, a last resort in the county cemetery.\"

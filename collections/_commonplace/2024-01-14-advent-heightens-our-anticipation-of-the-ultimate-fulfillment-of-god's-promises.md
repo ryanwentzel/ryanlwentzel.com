@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Advent Heightens Our Anticipation of the Ultimate Fulfillment of God's Promises
 subtitle: The season of Advent fuels our anticipation of God's future
 description: The season of Advent, a season of waiting, is designed to cultivate our awareness of God's actions—past, present, and future.

@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Poetry and Divine Revelation
 subtitle: 
 description: David Taylor said, "Poetry is a native language of God and of the people of God. It is a mother tongue of the Word Incarnate on whose lips the psalmist's words came naturally..."

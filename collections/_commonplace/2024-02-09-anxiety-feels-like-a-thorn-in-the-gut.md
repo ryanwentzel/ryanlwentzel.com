@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Anxiety Feels Like a Thorn in the Gut
 subtitle: 
 description: "\"Anxiousness — a difficult disease. The patient thinks he has something like a thorn, something pricking him in his viscera...\""

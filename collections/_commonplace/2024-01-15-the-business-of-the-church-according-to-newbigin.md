@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: The Business of the Church According to Newbigin
 subtitle: Embodying God's Story
 description: Lesslie Newbigin said, "The business of the church is to tell and to embody a story, the story of God's mighty acts in creation and redemption and of God's promises concerning what will be in the end..."

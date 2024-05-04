@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Take Time to Notice
 subtitle: 
 description: Anna Kodé said, "Phones, with their ability to transport you to other worlds, want to convince you that the one you're stuck in doesn't have anything worth paying attention to. But through my journaling, I realized something..."

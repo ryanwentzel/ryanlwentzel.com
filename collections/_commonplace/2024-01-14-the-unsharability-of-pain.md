@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: The Unsharability of Pain
 subtitle: Pain isolates and silences the sufferer
 description: Elaine Scarry said, "Whatever pain achieves, it achieves in part through its unsharability, and it ensures this unsharablity through its resistance to language."

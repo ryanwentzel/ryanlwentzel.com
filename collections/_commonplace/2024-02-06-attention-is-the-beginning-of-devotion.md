@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Attention is the Beginning of Devotion
 subtitle: Mary Oliver wants us to notice
 description: In her final collection of essays, Mary Oliver wrote, "Attention is the beginning of devotion."

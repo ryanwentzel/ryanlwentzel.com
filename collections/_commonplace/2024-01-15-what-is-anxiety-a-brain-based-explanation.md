@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: What is Anxiety? A Brain-Based Explanation
 subtitle: A neuroscientist's perspective on anxiety
 description: Joseph LeDoux, a neuroscientist, describes anxiety as a "conscious feeling" originating in the brain.

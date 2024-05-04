@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: How to Pray the Psalms
 subtitle: Ben Patterson offers five suggestions
 description: "In *God's Prayer Book: The Power and Pleasure of Praying the Psalms*, Ben Patterson offers five suggestions for praying the Psalms."

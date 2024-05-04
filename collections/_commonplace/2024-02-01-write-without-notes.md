@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Write Without Notes
 subtitle: 
 description: Donald M. Murray counseled writers to write a first draft from memory without consulting their notes. "Put your notes aside and write the first draft from memory. Follow the instinctive flow of the story so that you make unexpected connections as well as expected ones..."

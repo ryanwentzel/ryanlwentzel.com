@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Learning to Tolerate Anxiety
 subtitle: Healing from an anxiety disorder is less about making anxious feelings go away and more about learning to tolerate them
 description: Healing from an anxiety disorder is less about making anxious feelings go away and more about learning to tolerate them.

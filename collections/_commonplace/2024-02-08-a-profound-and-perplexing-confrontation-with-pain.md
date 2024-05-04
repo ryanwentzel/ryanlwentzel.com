@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: A Profound and Perplexing Confrontation with Pain
 subtitle: 
 description: Barry E. Wolfe said, "No one who has ever been tormented by prolonged bouts of anxiety doubts its power to paralyze action, promote flight, eviscerate pleasure, and skew thinking toward the catastrophic..."

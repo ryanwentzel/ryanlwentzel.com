@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Green Is a Solace
 subtitle: 
 description: William Carlos Williams said, "Green is a solace, a promise of peace."

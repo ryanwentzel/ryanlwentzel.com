@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Joy Comes Through Encountering Beauty
 subtitle: 
 description: Michael Reeves said, "Joy always comes through encountering beauty, and in Christ is found the highest beauty."

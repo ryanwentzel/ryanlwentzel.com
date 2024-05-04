@@ -89,7 +89,7 @@ defaults:
       path: ""
       type: commonplace
     values:
-      layout: commonplace
+      layout: resource
       feature: false
       syndicate: false
       img:

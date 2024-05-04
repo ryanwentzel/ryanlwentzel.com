@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Overcome Writer's Block by Lowering Your Standards
 subtitle: 
 description: William Stafford said, "I believe that the so-called 'writing block' is a product of some kind of disproportion between your standards and your performance....One should lower his standards until there is no felt threshold to go over in writing. It's easy to write. You just shouldn't have standards that inhibit you from writing...."

@@ -1,5 +1,4 @@
 ---
-layout: commonplace
 title: Say One Thing
 subtitle: Writing Tips
 description: According to Donald M. Murray, "Effective stories have one dominant message. You may have to write a first draft to discover the message, but there should be a single meaning that has priority over all the other meanings in the story..."
