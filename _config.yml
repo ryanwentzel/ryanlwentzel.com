@@ -35,6 +35,9 @@ collections:
   commonplace:
     output: true
     permalink: /commonplace/:title
+  fieldnotes:
+    output: true
+    permalink: /field-notes/:year-:month-:day-:title
   pages:
     output: true
     permalink: /:name
@@ -105,6 +108,16 @@ defaults:
       syndicate: false
       sitemap:
         exclude: true
+  - scope:
+      path: ""
+      type: fieldnotes
+    values:
+      img:
+        url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash.jpg
+      layout: fieldnotes
+      masthead:
+        full_bleed: true
+      syndicate: true
   - scope:
       path: ""
       type: newsletter
