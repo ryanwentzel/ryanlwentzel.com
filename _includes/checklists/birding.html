@@ -1,0 +1,18 @@
+{% assign checklist = site.data.checklists[page.activity.bird_checklist.name] %}
+<h2>Birds Observed</h2>
+<table class="table table-striped border">
+    <thead>
+        <tr>
+            <th scope="col">Species</th>
+            <th scope="col">Count</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for row in checklist %}
+        <tr>
+            <td>{{ row.Species | smartify }}</td>
+            <td>{{ row.Count }}</td>
+        </tr>
+{% endfor %}        
+    </tbody>
+</table>
