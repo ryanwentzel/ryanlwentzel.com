@@ -1,5 +1,5 @@
 ---
-title: Out and About at Lake Hodges
+title: Lake Hodges
 subtitle:
 description:
 date: 2024-05-06 00:00:00 -0700
@@ -9,10 +9,9 @@ img:
     title: "Lake Hodges"
 activity:
     date: 2024-05-06
-    location:
-        name: Lake Hodges – Del Dios area (west end)
+    location_name: Lake Hodges – Del Dios area (west end)
     start_time: 2024-05-06 09:08:00 -0700
-    duration: 48:17
+    duration: "48:17"
     distance: 0.53 mi
     temp: 61
     

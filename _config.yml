@@ -116,8 +116,10 @@ defaults:
         url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash.jpg
       layout: fieldnotes
       masthead:
-        full_bleed: true
-      syndicate: true
+        template: masthead-fieldnotes.html
+      syndicate: false
+      sitemap:
+        exclude: true
   - scope:
       path: ""
       type: newsletter

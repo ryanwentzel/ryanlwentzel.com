@@ -4,24 +4,32 @@ layout: default
 <div class="container my-5 px-4 fieldnotes">
     <div class="row justify-content-center">
         <div class="col-md-10 col-lg-7">
-            <div class="resource-byline d-flex align-items-center py-2 mb-4 border-bottom">
-                <div>
-                    <a href="{% link _pages/about.md %}">
-                        <img class="rounded-circle" src="{{ site.data.profile.img.medium }}" height="50" width="50">
-                    </a>
-                </div>
-                <div class="px-2">
-                    <span class="resource-author">
-                        By <a class="resource-author fw-bold" href="{% link _pages/about.md %}" title="About {{ site.data.profile.name }}">{{ site.data.profile.name }}</a>
+            <div class="border-bottom pb-3">
+                <h1>{{ page.activity.location_name }}</h1>
+                <div class="mb-1">
+                    <span>
+                        <i class="bi bi-calendar4-event"></i>
+                        {{ page.activity.date | date: "%B %d, %Y"}} @ {{ page.activity.start_time | date: "%l:%M %p"}}
                     </span>
-                    <div class="resource-pubdate rw-brand-text-muted">{{ page.date | date: '%B %d, %Y' }}</div>  
+                </div>
+                <div>
+                    <span>
+                        <i class="bi bi-thermometer-half"></i>
+                        {{ page.activity.temp }}°F
+                    </span>
+                    &nbsp;
+                    <span>
+                        <i class="bi bi-person-walking"></i>
+                        {{ page.activity.distance }}
+                    </span>
+                    &nbsp;
+                    <span>
+                        <i class="bi bi-stopwatch"></i>
+                        {{ page.activity.duration }}
+                    </span>
                 </div>
             </div>
-            <article>
-                <section class="d-flex row-gap-3 fieldnotes-metadata border border-light-subtle bg-light rounded p-3 mb-3">
-                    <div class="col">{{ page.activity.location.name }}</div>
-                    <div class="col">{{ page.activity.distance }}</div>
-                </section>
+            <article class="mt-4">
                 <section class="resource-body border-bottom pb-3">{{ content }}</section>
                 <section class="resource-footer bg-light border rounded-2 mt-5 py-5 px-md-4">
                     <div class="text-center pt-3">
