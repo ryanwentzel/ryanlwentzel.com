@@ -1,7 +1,6 @@
 ---
 title: A Brief Visit to Lake Hodges
-subtitle:
-description:
+description: Sunny, cool becoming warm. Rained briefly but heavily the morning before. Set out from the staging area on Lake Drive, across the street from Hernandez Hideaway.
 date: 2024-05-06 00:00:00 -0700
 img:
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240506-01-alt.jpg"
