@@ -14,9 +14,9 @@ activity:
     duration: "48:17"
     distance: 0.53 mi
     temp: 61°F
-    bird_checklist: 
-        name: S158986743_observations
-        url: https://ebird.org/checklist/S158986743
+    birds: 
+        checklist: S172695072_observations
+        url: https://ebird.org/checklist/S172695072
     
 ---
 Sunny, cool becoming warm. Rained briefly but heavily the morning before. Set out from the staging area on Lake Drive, across the street from Hernandez Hideaway. Didn't see many other people on the trails, other than a few mountain bikers. Meandered south along the trail for about a quarter mile. Took the same route back to the staging area.

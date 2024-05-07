@@ -121,6 +121,9 @@ defaults:
       syndicate: false
       sitemap:
         exclude: true
+      activity:
+        birds:
+          service: "eBird.org"
   - scope:
       path: ""
       type: newsletter
