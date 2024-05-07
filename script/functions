@@ -79,7 +79,8 @@ description:
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
 published: false
 img:
-    url: 
+    url: $cdn
+    alt:
 episode_id: 
 ---
 
@@ -94,9 +95,11 @@ function prayer () {
     local title="${1}"
     local subtitle="${2}"
     local title_lower=$(echo $title | tr '[:upper:]' '[:lower:]')
-    local name="${title_lower// /-}"
+    local suffix="${title_lower// /-}"
+    local date=$(date +"%Y-%m-%d")
+    local slug="$date-$suffix"
     local prayers_dir="$collections_dir/_prayers"
-    local filename="$prayers_dir/$name.md"
+    local filename="$prayers_dir/$slug.md"
     echo "Creating $filename"
     cat << DELIMIT > "$filename"
 ---
@@ -106,7 +109,7 @@ description:
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
 published: false
 img:
-    url: 
+    url: $cdn
     alt:
 series:
 ---
