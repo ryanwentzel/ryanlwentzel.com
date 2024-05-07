@@ -5,13 +5,13 @@ layout: default
     <div class="row justify-content-center">
         <div class="col-md-10 col-lg-7">
             <div class="border bg-light rounded p-4">
-                <div class="mb-1">
+                <div class="mb-2">
                     <span>
                         <i class="bi bi-geo-alt-fill"></i>
                         {{ page.activity.location_name }}
                     </span>
                 </div>
-                <div class="mb-1">
+                <div class="mb-2">
                     <span>
                         <i class="bi bi-calendar-event-fill"></i>
                         {{ page.activity.date | date: "%B %d, %Y"}}&nbsp;{{ page.activity.start_time | date: "%l:%M %p"}}
