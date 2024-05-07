@@ -86,7 +86,7 @@ or hugging the old black oak tree. I have my way of
 praying, as you no doubt have yours.
 
 Besides, when I am alone I can become invisible. I can sit  
-on the top of a dune as motionless as un uprise of weeds,  
+on the top of a dune as motionless as an uprise of weeds,  
 until the foxes run by unconcerned. I can hear the almost  
 unbearable sound of the roses singing.
 
