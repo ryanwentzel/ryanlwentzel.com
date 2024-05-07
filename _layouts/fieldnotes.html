@@ -4,12 +4,17 @@ layout: default
 <div class="container my-5 px-4 fieldnotes">
     <div class="row justify-content-center">
         <div class="col-md-10 col-lg-7">
-            <div class="border-bottom pb-3">
-                <h1>{{ page.activity.location_name }}</h1>
+            <div class="border bg-light rounded p-4">
                 <div class="mb-1">
                     <span>
-                        <i class="bi bi-calendar4-event"></i>
-                        {{ page.activity.date | date: "%B %d, %Y"}} @ {{ page.activity.start_time | date: "%l:%M %p"}}
+                        <i class="bi bi-geo-alt-fill"></i>
+                        {{ page.activity.location_name }}
+                    </span>
+                </div>
+                <div class="mb-1">
+                    <span>
+                        <i class="bi bi-calendar-event-fill"></i>
+                        {{ page.activity.date | date: "%B %d, %Y"}}&nbsp;{{ page.activity.start_time | date: "%l:%M %p"}}
                     </span>
                 </div>
                 <div>
@@ -24,7 +29,7 @@ layout: default
                     </span>
                     &nbsp;
                     <span>
-                        <i class="bi bi-stopwatch"></i>
+                        <i class="bi bi-stopwatch-fill"></i>
                         {{ page.activity.duration }}
                     </span>
                 </div>
