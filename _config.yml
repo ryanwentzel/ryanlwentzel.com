@@ -112,11 +112,12 @@ defaults:
       path: ""
       type: fieldnotes
     values:
+      subtitle: Field Notes
       img:
         url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash.jpg
       layout: fieldnotes
       masthead:
-        template: masthead-fieldnotes.html
+        full_bleed: true
       syndicate: false
       sitemap:
         exclude: true

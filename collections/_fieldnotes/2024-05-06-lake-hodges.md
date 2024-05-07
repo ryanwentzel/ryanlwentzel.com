@@ -1,5 +1,5 @@
 ---
-title: Lake Hodges
+title: A Brief Visit to Lake Hodges
 subtitle:
 description:
 date: 2024-05-06 00:00:00 -0700
