@@ -4,7 +4,7 @@ subtitle:
 description:
 date: 2024-05-06 00:00:00 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240506-01.jpg"
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240506-01-alt.jpg"
     alt: "photo of Lake Hodges"
     title: "Lake Hodges"
 activity:
@@ -16,15 +16,16 @@ activity:
     temp: 61
     
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac feugiat sed lectus vestibulum. Ultricies mi eget mauris pharetra. Orci ac auctor augue mauris augue neque gravida in. Id semper risus in hendrerit gravida rutrum quisque non tellus. Feugiat nisl pretium fusce id velit ut tortor pretium viverra. Lacus vel facilisis volutpat est velit egestas dui id. Non enim praesent elementum facilisis. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Congue nisi vitae suscipit tellus mauris. Ac feugiat sed lectus vestibulum mattis. Amet justo donec enim diam vulputate. Ut consequat semper viverra nam. Duis ultricies lacus sed turpis tincidunt.
+Sunny, cool becoming warm. Rained briefly but heavily the morning before. Set out from the staging area on Lake Drive, across the street from Hernandez Hideaway. Didn't see many other people on the trails, other than a few mountain bikers. Meandered south along the trail for about a quarter mile. Took the same route back to the staging area.
 
-![photo of lake hodges](https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240506-02.jpg)
+![photo of lake hodges](https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240506-02-alt.jpg)
 
-## What I noticed
+## What I Noticed
 
-- There were numerous patches of Black Sage along the trail.
-- It seems like there's more Sticky Monkeyflower blooming than I've seen in recent years.
-- Vitae proin sagittis nisl rhoncus. Sed adipiscing diam donec adipiscing tristique risus nec feugiat in. Vel pretium lectus quam id leo in vitae. Neque convallis a cras semper auctor neque vitae tempus quam. Praesent semper feugiat nibh sed. Consectetur libero id faucibus nisl tincidunt. Nisi lacus sed viverra tellus in hac habitasse platea dictumst. Massa sapien faucibus et molestie ac. Ipsum suspendisse ultrices gravida dictum. Semper viverra nam libero justo laoreet sit. Eget velit aliquet sagittis id consectetur. Nunc sed velit dignissim sodales ut eu sem integer vitae. Enim ut sem viverra aliquet eget sit amet tellus. Id donec ultrices tincidunt arcu. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu.
+- Numerous patches of Black Sage, Wild Cucumber, and California Sagebrush along the trail.
+- Seems like there's more Red Bush Monkeyflower blooming than I've seen in recent years.
+- Vocal Black-headed Grosbeak in a tree. Couldn't get a good look but I enjoyed the song.
+- Tarantula hawk in the brush near the trailhead.
 
 Sed viverra ipsum nunc aliquet bibendum enim. Et egestas quis ipsum suspendisse ultrices. Facilisis mauris sit amet massa vitae tortor condimentum lacinia quis. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Porta non pulvinar neque laoreet. Feugiat nisl pretium fusce id velit ut tortor pretium. Purus sit amet volutpat consequat mauris nunc. Semper viverra nam libero justo. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. Aenean euismod elementum nisi quis. Urna neque viverra justo nec ultrices dui sapien. Suspendisse ultrices gravida dictum fusce ut placerat orci. Sit amet justo donec enim. Habitant morbi tristique senectus et netus et malesuada fames. Nunc eget lorem dolor sed viverra. Magna fringilla urna porttitor rhoncus dolor purus non enim praesent. Eget nunc scelerisque viverra mauris in aliquam sem.
 
