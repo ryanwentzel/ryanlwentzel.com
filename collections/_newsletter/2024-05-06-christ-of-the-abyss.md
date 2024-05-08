@@ -5,7 +5,7 @@ description: "Close to 1,000 feet off Italy's Ligurian coast, between Camogli an
 date: 2024-05-06 00:00:00 -0700
 issue: 1
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/christ-of-the-abyss-2560x1440.jpg"
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/christ-of-the-abyss-1920x.webp"
     alt: "underwater photo of a statue of Jesus Christ"
     title: "Christ of the Abyss"
 ---
