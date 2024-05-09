@@ -6,8 +6,8 @@
         <article class="highlighted-resource py-4 d-flex flex-column border-bottom">
             <a class="d-block col-12 rounded-2 overflow-hidden mb-4" href="{{ first.url | relative_url }}"
             title="{{ first.title }}">
-                <img class="d-block w-100 h-auto rounded-2" src="{{ first.thumbnail.url | default: first.img.url }}"
-                alt="{{ first.thumbnail.alt | default: first.img.alt }}" />
+                <img class="d-block w-100 h-auto rounded-2" src="{{ first.img.thumb_url | default: first.img.url }}"
+                alt="{{ first.img.alt }}" />
             </a>
             <div class="col-12">
                 <h3 class="display-5 fw-black">
