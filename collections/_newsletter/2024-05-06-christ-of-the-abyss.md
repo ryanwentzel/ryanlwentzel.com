@@ -1,4 +1,5 @@
 ---
+seo_title: Christ of the Abyss – The Weary Pilgrim Newsletter
 title: Christ of the Abyss
 subtitle: Finding Jesus in the Depths
 description: "Close to 1,000 feet off Italy's Ligurian coast, between Camogli and Portofino, an eight-foot-tall, 900-pound bronze statue of Jesus Christ stands on the floor of the Mediterranean Sea."
