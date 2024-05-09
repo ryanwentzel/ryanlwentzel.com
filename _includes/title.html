@@ -1,0 +1,5 @@
+{%- assign title = page.seo_title | default: page.title -%}
+{%- unless page.url == "/" -%}
+{%- assign title = title | append: " – " | append: site.title -%}
+{%- endunless -%}
+<title>{{ title }}</title>

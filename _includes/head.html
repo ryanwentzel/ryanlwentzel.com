@@ -1,13 +1,9 @@
 <head>
+    {% include title.html %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{% if page.url == '/' %}{{ site.description | strip_html | normalize_whitespace | escape }}{% else %}{{ page.description |  default: page.subtitle | default: page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}{% endif %}">
     <meta name="author" content="{{ site.data.profile.name }}">
-    <title>
-    {%- if page.url == '/' %}{{ page.title | escape }}
-    {%- elsif page.title -%}{{ page.title | escape }} — {{ site.title}}
-    {%- else -%}{{ site.title | escape }}{% endif -%}
-    </title>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.data.feeds.main | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="Commonplace — {{ site.title | escape }}" href="{{ site.data.feeds.commonplace | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="Subscribe to {{ site.data.podcast.name }}" href="{{ site.data.podcast.rss_url }}">
@@ -38,8 +34,7 @@
 {% endif %}
     <link rel="canonical" href="{{ url }}">
     <link rel="preconnect" href="{{ site.data.cdn.base_url }}">
-    <link rel="preconnect" href="https://rsms.me/">
-    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css"></noscript>
   </head>
