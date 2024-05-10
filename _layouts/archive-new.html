@@ -13,7 +13,7 @@ layout: default
                     <div class="py-4 border-top">
                         {% unless page.thumbnail != nil and page.thumbnail == false  %}
                         <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}">
-                            <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url }}" {% if forloop.index0 > 5 %}loading="lazy"{% endif %}>
+                            <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.thumb_url | default: resource.img.url }}" alt="{{ resource.img.alt }}" {% if forloop.index0 > 3 %}loading="lazy"{% endif %}>
                         </a>
                         {% endunless %}
                         <h3 class="h4 fw-black mb-2">
