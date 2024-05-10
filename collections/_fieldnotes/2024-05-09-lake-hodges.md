@@ -16,7 +16,7 @@ activity:
     start_time: 2024-05-09 15:19:00 -0700
     duration: "40:52"
     distance: 0.73 mi
-    temp: 68°F
+    temp: 64°F
     
 ---
 Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area to the San Dieguito River Trail (parallel to Mission Road) and headed east.
@@ -26,6 +26,7 @@ Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the 
 ## Notes
 
 - Profuse mustard blooms.
-- The white flowers of California Cudweed go well with the vibrant yellow of mustard.
+- The white flowers of California Cudweed pair well with the vibrant yellow of mustard.
+- Lots of Italian thistle
 - Heard another vocal Black-headed Grosbeak in a tree. Didn't have my binoculars so I couldn't get a good look.
 - Large patches of Deerweed along Del Dios Highway.
