@@ -1,0 +1,1 @@
+{%- assign description = page.seo_description | default: page.description | default: excerpt | strip_html | normalize_whitespace | truncate: 155 | escape -%}{{ description }}
