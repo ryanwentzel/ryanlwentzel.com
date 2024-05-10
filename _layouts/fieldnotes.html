@@ -8,7 +8,7 @@ layout: default
                 <div class="mb-2">
                     <span>
                         <i class="bi bi-geo-alt-fill"></i>
-                        {{ page.activity.location_name }}
+                        <a href="{{ page.activity.location_url | default: '#' }}" target="_blank">{{ page.activity.location_name }}</a>
                     </span>
                 </div>
                 <div class="mb-2">
