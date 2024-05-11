@@ -10,7 +10,7 @@ img:
     medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-medium.webp"
     thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-thumb.webp"
 ---
-*I don't necessarily agree with everything said in each of the resources listed below. Nevertheless, the list provides a starting point for exploring this topic.*
+*The resources listed below provide a starting point for exploring what the Bible teaches about the renewal of the material world.*
 
 ## Articles
 
