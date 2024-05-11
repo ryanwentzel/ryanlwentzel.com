@@ -159,10 +159,17 @@ function resource () {
     echo "Creating $filename"
     cat << DELIMIT > "$filename"
 ---
+seo_title: 
 title: $title
 subtitle: $subtitle
 description: 
+seo_description: 
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
+img:
+    url: "$cdn"
+    alt: ""
+    medium_url: "$cdn"
+    thumb_url: "$cdn"
 published: false 
 ---
 
