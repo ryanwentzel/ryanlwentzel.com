@@ -20,6 +20,8 @@ Emerson, Matthew Y. "The New Heaven and New Earth." *The Gospel Coalition*. Acce
 
 Johnson, Dennis. "The New Heavens and New Earth." *Ligonier*. December 25, 2014. <a href="https://www.ligonier.org/learn/articles/new-heavens-and-new-earth" target="_blank" rel="nofollow">https://www.ligonier.org/learn/articles/new-heavens-and-new-earth</a>.
 
+Smith, Ian K. "10 Things You Should Know about the New Heavens and the New Earth." *Crossway*. August 20, 2019. <a href="https://www.crossway.org/articles/10-things-you-should-know-about-the-new-heaven-and-the-new-earth/" target="_blank" rel="nofollow">https://www.crossway.org/articles/10-things-you-should-know-about-the-new-heaven-and-the-new-earth/</a>
+
 ## Books and Journal Articles
 
 Alcorn, Randy. *Heaven: A Comprehensive Guide to Everything the Bible Says About Our Eternal Home*. Wheaton: Tyndale House, 2004.
@@ -39,8 +41,6 @@ Moo, Douglas J., and Jonathan A. Moo. *Creation Care: A Biblical Theology of the
 Wright, N.T. *Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church*. New York: HarperOne, 2008.
 
 ## Talks
-
-Keller, Tim. "The New Heaven and New Earth." April 12, 2009. Audio, 28:04, <a href="https://gospelinlife.com/sermon/the-new-heaven-and-new-earth/" target="_blank" rel="nofollow">https://gospelinlife.com/sermon/the-new-heaven-and-new-earth/</a>
 
 Wentzel, Ryan. "Groaning for Glory." September 10, 2023. Audio, 43:12. <a href="https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894" target="_blank" rel="nofollow">https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894</a>.
 
