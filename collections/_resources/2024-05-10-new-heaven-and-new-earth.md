@@ -22,7 +22,7 @@ Johnson, Dennis. "The New Heavens and New Earth." *Ligonier*. December 25, 2014.
 
 ## Books and Journal Articles
 
-Alcorn, Randy. *Heaven:A Comprehensive Guide to Everything the Bible Says About Our Eternal Home*. Wheaton: Tyndale House, 2004.
+Alcorn, Randy. *Heaven: A Comprehensive Guide to Everything the Bible Says About Our Eternal Home*. Wheaton: Tyndale House, 2004.
 
 Alexander, T. Desmond. *From Eden to the New Jerusalem: An Introduction to Biblical Theology*. Grand Rapids: Kregel Academic, 2009.
 
@@ -30,7 +30,7 @@ Emerson, Matthew Y. "Does God Own a Death Star? The Destruction of the Cosmos in
 
 Fitzpatrick, Elyse M. *Home: How Heaven and the New Earth Satisfy Our Deepest Longings*. Minneapolis: Bethany House, 2016.
 
-Middleton, J Richard. "A New Heaven and a New Earth: The Case for a Holistic Reading of the Biblical Story of Redemption." *Journal for Christian Theological Research* 11 (2006): 73–97.
+Middleton, J. Richard. "A New Heaven and a New Earth: The Case for a Holistic Reading of the Biblical Story of Redemption." *Journal for Christian Theological Research* 11 (2006): 73–97.
 
 Middleton, J. Richard. *A New Heaven and a New Earth: Reclaiming Biblical Eschatology*. Grand Rapids: Baker Academic, 2014.
 
