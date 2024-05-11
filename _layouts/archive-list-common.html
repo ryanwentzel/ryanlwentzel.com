@@ -15,7 +15,7 @@ layout: default
                                 {% unless page.thumbnail != nil and page.thumbnail == false  %}
                                 <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}"
                                 title="{{ resource.title | smartify }}">
-                                    <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.thumb_url | default: resource.img.url }}" alt="{{ resource.img.alt }}" {% if forloop.index0 > 1 %}loading="lazy"{% endif %}>
+                                    <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.medium_url | default: resource.img.url }}" alt="{{ resource.img.alt }}" {% if forloop.index0 > 1 %}loading="lazy"{% endif %}>
                                 </a>
                                 {% endunless %}
                                 <h2 class="fw-black">
