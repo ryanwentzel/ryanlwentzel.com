@@ -5,9 +5,8 @@ subtitle: A playlist for those who are grieving, hurting, or suffering. It makes
 description: A playlist for those who are grieving, hurting, or suffering. It makes space for both lament and hope in our faithful Savior, Jesus Christ.
 highlight: true
 img:
-    display: true
-#    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/edelfelt-sorrow-1894.jpg
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/inness-gray-day-goochland-1884.jpg
+    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/inness-gray-day-goochland-1884.webp
+    alt: painting by George Inness
 redirect_from:
     - /songs-of-lament-and-hope
     - /2021/07/24/songs-of-lament-and-hope
