@@ -34,6 +34,8 @@ Middleton, J. Richard. "A New Heaven and a New Earth: The Case for a Holistic Re
 
 Middleton, J. Richard. *A New Heaven and a New Earth: Reclaiming Biblical Eschatology*. Grand Rapids: Baker Academic, 2014.
 
+Moo, Douglas J., and Jonathan A. Moo. *Creation Care: A Biblical Theology of the Natural World*. Grand Rapids: Zondervan, 2018.
+
 Wright, N.T. *Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church*. New York: HarperOne, 2008.
 
 ## Talks
