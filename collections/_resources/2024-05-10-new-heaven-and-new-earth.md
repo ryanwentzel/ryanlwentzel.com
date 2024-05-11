@@ -44,5 +44,5 @@ Keller, Tim. "The New Heaven and New Earth." April 12, 2009. Audio, 28:04, <a hr
 
 Wentzel, Ryan. "Groaning for Glory." September 10, 2023. Audio, 43:12. <a href="https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894" target="_blank" rel="nofollow">https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894</a>.
 
-Wentzel, Ryan. "The Cosmic Scope of Salvation." *The Ryan Wentzel Sermon Podcast*. March 24, 2024. Audio, 20:40. [{{ site.url }}{% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}).
+Wentzel, Ryan. "The Cosmic Scope of Salvation." *The Ryan Wentzel Sermon Podcast*. March 26, 2024. Audio, 20:40. [{{ site.url }}{% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}).
 
