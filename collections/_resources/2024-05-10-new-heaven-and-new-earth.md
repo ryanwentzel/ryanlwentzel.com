@@ -11,7 +11,7 @@ img:
     thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-thumb.webp"
 published: false 
 ---
-*I don't necessarily agree with everything said in each of the resources listed below. Nevertheless, the list provides a starting point for studying this topic.*
+*I don't necessarily agree with everything said in each of the resources listed below. Nevertheless, the list provides a starting point for exploring this topic.*
 
 ## Articles
 
@@ -21,13 +21,17 @@ Emerson, Matthew Y. "The New Heaven and New Earth." *The Gospel Coalition*. Acce
 
 Johnson, Dennis. "The New Heavens and New Earth." *Ligonier*. December 25, 2014. <a href="https://www.ligonier.org/learn/articles/new-heavens-and-new-earth" target="_blank" rel="nofollow">https://www.ligonier.org/learn/articles/new-heavens-and-new-earth</a>.
 
-## Books
+## Books and Journal Articles
 
 Alcorn, Randy. *Heaven:A Comprehensive Guide to Everything the Bible Says About Our Eternal Home*. Wheaton: Tyndale House, 2004.
 
 Alexander, T. Desmond. *From Eden to the New Jerusalem: An Introduction to Biblical Theology*. Grand Rapids: Kregel Academic, 2009.
 
+Emerson, Matthew Y. "Does God Own a Death Star? The Destruction of the Cosmos in 2 Peter 3:1-13." *Southwestern Journal of Theology* 57, no. 2 (2015): 281–93.
+
 Fitzpatrick, Elyse M. *Home: How Heaven and the New Earth Satisfy Our Deepest Longings*. Minneapolis: Bethany House, 2016.
+
+Middleton, J Richard. "A New Heaven and a New Earth: The Case for a Holistic Reading of the Biblical Story of Redemption." *Journal for Christian Theological Research* 11 (2006): 73–97.
 
 Middleton, J. Richard. *A New Heaven and a New Earth: Reclaiming Biblical Eschatology*. Grand Rapids: Baker Academic, 2014.
 
@@ -38,4 +42,6 @@ Wright, N.T. *Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mi
 Keller, Tim. "The New Heaven and New Earth." April 12, 2009. Audio, 28:04, <a href="https://gospelinlife.com/sermon/the-new-heaven-and-new-earth/" target="_blank" rel="nofollow">https://gospelinlife.com/sermon/the-new-heaven-and-new-earth/</a>
 
 Wentzel, Ryan. "Groaning for Glory." September 10, 2023. Audio, 43:12. <a href="https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894" target="_blank" rel="nofollow">https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894</a>.
+
+Wentzel, Ryan. "The Cosmic Scope of Salvation." *The Ryan Wentzel Sermon Podcast*. March 24, 2024. Audio, 20:40. [{{ site.url }}{% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}]({% link _sermons/2024-03-26-the-cosmic-scope-of-salvation.md %}).
 
