@@ -98,7 +98,9 @@ defaults:
       feature: false
       syndicate: false
       img:
-        url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash.jpg
+        url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash-full.webp
+        alt: "notebook on wooden table"
+        thumb_url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash-thumb.webp
       masthead:
         full_bleed: true
   - scope:
