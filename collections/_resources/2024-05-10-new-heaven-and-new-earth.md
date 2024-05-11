@@ -1,0 +1,41 @@
+---
+title: The New Heaven and New Earth
+subtitle: "Resources for understanding the Bible's teaching"
+description: 
+seo_description: "Use this resource guide to study what the Bible teaches about the new heaven and new earth."
+date: 2024-05-10 19:18:32 -0700
+img:
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-full.webp"
+    alt: "green and brown mountains under white clouds and blue sky"
+    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-medium.webp"
+    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-thumb.webp"
+published: false 
+---
+*I don't necessarily agree with everything said in each of the resources listed below. Nevertheless, the list provides a starting point for studying this topic.*
+
+## Articles
+
+"The New Heaven and New Earth as Depicted in Revelation 21-22." *The Bible Project*. December 24, 2017. <a href="https://bibleproject.com/articles/new-heaven-new-earth/" target="_blank" rel="nofollow">https://bibleproject.com/articles/new-heaven-new-earth/</a>.
+
+Emerson, Matthew Y. "The New Heaven and New Earth." *The Gospel Coalition*. Accessed May 10, 2024. <a href="https://www.thegospelcoalition.org/essay/new-heaven-new-earth/" target="_blank" rel="nofollow">https://www.thegospelcoalition.org/essay/new-heaven-new-earth/</a>.
+
+Johnson, Dennis. "The New Heavens and New Earth." *Ligonier*. December 25, 2014. <a href="https://www.ligonier.org/learn/articles/new-heavens-and-new-earth" target="_blank" rel="nofollow">https://www.ligonier.org/learn/articles/new-heavens-and-new-earth</a>.
+
+## Books
+
+Alcorn, Randy. *Heaven:A Comprehensive Guide to Everything the Bible Says About Our Eternal Home*. Wheaton: Tyndale House, 2004.
+
+Alexander, T. Desmond. *From Eden to the New Jerusalem: An Introduction to Biblical Theology*. Grand Rapids: Kregel Academic, 2009.
+
+Fitzpatrick, Elyse M. *Home: How Heaven and the New Earth Satisfy Our Deepest Longings*. Minneapolis: Bethany House, 2016.
+
+Middleton, J. Richard. *A New Heaven and a New Earth: Reclaiming Biblical Eschatology*. Grand Rapids: Baker Academic, 2014.
+
+Wright, N.T. *Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church*. New York: HarperOne, 2008.
+
+## Talks
+
+Keller, Tim. "The New Heaven and New Earth." April 12, 2009. Audio, 28:04, <a href="https://gospelinlife.com/sermon/the-new-heaven-and-new-earth/" target="_blank" rel="nofollow">https://gospelinlife.com/sermon/the-new-heaven-and-new-earth/</a>
+
+Wentzel, Ryan. "Groaning for Glory." September 10, 2023. Audio, 43:12. <a href="https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894" target="_blank" rel="nofollow">https://www.sermonaudio.com/sermoninfo.asp?SID=911231413547894</a>.
+
