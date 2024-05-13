@@ -43,7 +43,7 @@ collections:
     permalink: /:name
   photos:
     output: true
-    permalink: /photos/:title-:year:month:day
+    permalink: /photos/:title
   posts:
     output: true
     permalink: /:year/:month/:day/:title
