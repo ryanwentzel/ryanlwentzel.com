@@ -43,7 +43,7 @@ collections:
     permalink: /:name
   photos:
     output: true
-    permalink: /photos/:year-:month-:day-:title
+    permalink: /photos/:title-:year:month:day
   posts:
     output: true
     permalink: /:year/:month/:day/:title
@@ -140,7 +140,7 @@ defaults:
       path: ""
       type: photos
     values:
-      layout: resource
+      layout: photo
       feature: false
       syndicate: false
       masthead:
