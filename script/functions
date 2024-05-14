@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cdn_base="https://d1yo597syf8yny.cloudfront.net"
+cdn_photos="$cdn_base/assets/img/photos/"
 cdn="https://d1yo597syf8yny.cloudfront.net/assets/img/content/"
 collections_dir="$project_dir/collections"
 podcasts_dir="$collections_dir/_sermons"
@@ -137,6 +139,46 @@ title: $title
 subtitle: $subtitle
 description: 
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
+published: false 
+---
+
+DELIMIT
+
+code "$filename"
+
+}
+
+# create photo entry
+function photo () {
+    local title="${1}"
+    local subtitle="${2}"
+    local title_lower=$(echo $title | tr '[:upper:]' '[:lower:]')
+    local suffix="${title_lower// /-}"
+    local date=$(date +"%Y-%m-%d")
+    local slug="$date-$suffix"
+    local dest_dir="$collections_dir/_photos"
+    local filename="$dest_dir/$slug.md"
+    echo "Creating $filename"
+    cat << DELIMIT > "$filename"
+---
+title: $title
+seo_title: 
+subtitle: $subtitle
+description: 
+seo_description: 
+date: $(date +'%Y-%m-%d %H:%M:%S %z')
+img:
+    url: "$cdn_photos"
+    alt: ""
+    thumb_url: "$cdn_photos"
+    caption:
+    shutter_speed:
+    aperture:
+    iso:
+    lens: 50 mm (EFS50mm f/1.4 USM)
+    camera: Canon EOS 6D
+    date:
+    location: Escondido, California
 published: false 
 ---
 
