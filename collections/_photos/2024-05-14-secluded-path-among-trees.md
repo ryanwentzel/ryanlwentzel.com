@@ -16,8 +16,7 @@ img:
     lens: 50 mm (EFS50mm f/1.4 USM)
     camera: Canon EOS 6D
     date: 2024-05-13
-    location: Escondido, California
-published: false 
+    location: Escondido, California 
 ---
 
 
