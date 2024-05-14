@@ -9,9 +9,9 @@ layout: default
         <section class="archive-section photo-grid">
             <div class="d-flex flex-wrap gutter-spacious">
             {% for resource in resources %}
-                <article class="d-flex flex-column col-md-4">
+                <article class="d-flex flex-column col-md-6 mb-3">
                     <div class="py-4 border-top">
-                        <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}">
+                        <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}" title="{{ resource.title }}">
                             <img class="photo-thumbnail d-block w-100 height-auto rounded-2 shadow-lg" src="{{ resource.img.thumb_url }}" alt="{{ resource.img.alt }}" loading="lazy">
                         </a>
                     </div>
