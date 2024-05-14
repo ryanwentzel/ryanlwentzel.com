@@ -4,7 +4,10 @@ subtitle: Thoughts on Avoiding Burnout During a Global Pandemic
 date: 2020-08-17 10:13:58 -0700
 description: "How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand. I'm not trying to figure out how to avoid dying from COVID-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck?"
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/marathon.jpg"
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-full.webp"
+    alt: "photo of marathon runners"
+    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-medium.webp"
+    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-thumb.webp"
 ---
 How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand me. I'm not trying to figure out how to avoid dying from COVID-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck? I don't need to tell you how challenging life has been since March. We're all struggling in one way or another. 
 
