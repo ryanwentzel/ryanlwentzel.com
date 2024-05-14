@@ -1,4 +1,4 @@
-<nav id="site-nav" class="navbar navbar-expand-lg bg-light">
+<nav id="site-nav" class="navbar bg-light">
     <div class="container-fluid px-lg-3">
       <a class="navbar-brand" href="{{ '/' | relative_url }}">
         <img class="d-flex mx-auto" src="{{ site.data.cdn.img_assets_url }}/brand/brand-initial.png" height="32" width="32" alt="Brand icon" loading="lazy">
@@ -16,8 +16,28 @@
             <li class="nav-item">
               <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
             </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a class="dropdown-item" href="{{ '/articles/' | relative_url }}">Articles</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{ '/prayers/' | relative_url }}">Prayers</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{ '/commonplace/' | relative_url }}">Commonplace</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{ '/field-notes/' | relative_url }}">Field Notes</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="{{ '/photos/' | relative_url }}">Photos</a>
+                </li>
+              </ul>
+            </li>
             <li class="nav-item">
-              <a class="nav-link{% if page.url == '/podcasts/sermons/index.html' %} active{% endif %}" href="{{ '/podcasts/sermons' | relative_url }}">Podcast</a>
+              <a class="nav-link{% if page.url == '/podcasts/sermons/index.html' %} active{% endif %}" href="{{ '/podcasts/sermons/' | relative_url }}">Podcast</a>
             </li>
             <li class="nav-item">
               <a class="nav-link{% if page.url == '/newsletter/index.html' %} active{% endif %}" href="{{ '/newsletter' | relative_url }}">Newsletter</a>
