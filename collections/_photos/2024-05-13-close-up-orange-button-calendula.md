@@ -5,6 +5,7 @@ seo_description: View a photo of an Orange Button Calendula with brilliant, dark
 date: 2024-05-13 16:44:55 -07:00
 img:
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240512-calendula.webp"
+    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240512-calendula-thumbx.webp"
     alt: "close-up photo of a calendula bloom"
     caption: Orange Button Calendula
     shutter_speed: 1/160
