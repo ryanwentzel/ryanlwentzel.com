@@ -6,6 +6,7 @@ date: 2024-05-13 13:31:45 -07:00
 img:
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240513-felicita-park-5.webp"
     alt: "photo of a ladybug on a leaf"
+    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240513-felicita-park-5-thumb.webp"
     caption: Ladybug on a Salvia Leaf
     shutter_speed: 1/1000
     aperture: f/2.0
