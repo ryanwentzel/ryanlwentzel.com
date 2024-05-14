@@ -87,3 +87,10 @@
         }
     }
 }
+
+.photo-grid {
+    .photo-thumbnail:hover {
+        background-color: $dark;
+        opacity: 0.5;
+    }
+}
