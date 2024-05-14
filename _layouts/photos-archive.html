@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<main id="start-of-content" class="mb-8 mt-3">
+    <div class="container-xl mx-auto">
+        {{ content }}
+        {% unless paginator.posts == nil or paginator.size == 0 %}
+        {% assign resources = paginator.posts %}
+        <section class="archive-section">
+            <div class="d-flex flex-wrap gutter-spacious">
+            {% for resource in resources %}
+                <div class="d-flex flex-column col-md-4">
+                    <div class="py-4 border-top">
+                        <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}">
+                            <img class="d-block w-100 height-auto rounded-2 shadow-lg" src="{{ resource.img.thumb_url }}" alt="{{ resource.img.alt }}" loading="lazy">
+                        </a>
+                        <h3 class="h4 fw-black mb-2">
+                            <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
+                        </h3>
+                    </div>
+                </div>
+            {% endfor %}
+            </div>
+        </section>
+        {% endunless %}
+        {% include paginator.html %}
+    </div>
+</main>
