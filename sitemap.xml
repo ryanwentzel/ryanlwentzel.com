@@ -91,7 +91,71 @@ sitemap:
   </url>
   {% endunless %}
   {% endfor %}
-   {% for prayer in site.prayers %}
+  {% for newsletter in site.newsletter %}
+  {% unless newsletter.published == false %}
+  <url>
+      <loc>{{ newsletter.url | absolute_url }}</loc>
+      {% if newsletter.sitemap.lastmod %}
+      <lastmod>{{ newsletter.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif newsletter.date %}
+      <lastmod>{{ newsletter.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+  {% for fieldnote in site.fieldnotes %}
+  {% unless fieldnote.published == false %}
+  <url>
+      <loc>{{ fieldnote.url | absolute_url }}</loc>
+      {% if fieldnote.sitemap.lastmod %}
+      <lastmod>{{ fieldnote.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif fieldnote.date %}
+      <lastmod>{{ fieldnote.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+  {% for photo in site.photos %}
+  {% unless photo.published == false %}
+  <url>
+      <loc>{{ photo.url | absolute_url }}</loc>
+      {% if photo.sitemap.lastmod %}
+      <lastmod>{{ photo.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif photo.date %}
+      <lastmod>{{ photo.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+  {% for commonplace in site.commonplace %}
+  {% unless commonplace.published == false %}
+  <url>
+      <loc>{{ commonplace.url | absolute_url }}</loc>
+      {% if commonplace.sitemap.lastmod %}
+      <lastmod>{{ commonplace.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif commonplace.date %}
+      <lastmod>{{ commonplace.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+  {% for prayer in site.prayers %}
   {% unless prayer.published == false %}
   <url>
       <loc>{{ prayer.url | absolute_url }}</loc>
