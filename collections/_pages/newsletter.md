@@ -2,8 +2,6 @@
 layout: newsletter-sub
 title: Newsletter
 permalink: /newsletter
-sitemap:
-    exclude: true
 masthead:
     display: false
 img:
