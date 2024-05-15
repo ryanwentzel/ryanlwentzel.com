@@ -20,19 +20,19 @@
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
               <ul class="dropdown-menu">
                 <li>
-                  <a class="dropdown-item" href="{{ '/articles/' | relative_url }}">Articles</a>
+                  <a class="dropdown-item" href="{{ site.data.archive.articles | relative_url }}">Articles</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="{{ '/prayers/' | relative_url }}">Prayers</a>
+                  <a class="dropdown-item" href="{{ site.data.archive.prayers | relative_url }}">Prayers</a>
+                </li>               
+                <li>
+                  <a class="dropdown-item" href="{{ site.data.archive.commonplace | relative_url }}">Commonplace</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="{{ '/commonplace/' | relative_url }}">Commonplace</a>
+                  <a class="dropdown-item" href="{{ site.data.archive.field_notes | relative_url }}">Field Notes</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="{{ '/field-notes/' | relative_url }}">Field Notes</a>
-                </li>
-                <li>
-                  <a class="dropdown-item" href="{{ '/photos/' | relative_url }}">Photos</a>
+                  <a class="dropdown-item" href="{{ site.data.archive.photos | relative_url }}">Photos</a>
                 </li>
               </ul>
             </li>
