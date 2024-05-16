@@ -4,6 +4,11 @@ subtitle: "The Prince of Preachers believed the earth was millions of years old"
 seo_description: Charles Spurgeon believed the Earth was millions of years old. He didn't regard the age of the Earth as a first-tier Christian doctrine.
 description: Charles Spurgeon said, *\"We do not know how remote the period of the creation of this globe may be—certainly many millions of years before the time of Adam...\"*
 date: 2024-05-11 12:01:11 -0700
+img:
+    alt: "mountains next to a lake"
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/anna-jahn-v1UKZ55xl7g-unsplash-full.webp"
+    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/anna-jahn-v1UKZ55xl7g-unsplash-medium.webp"
+    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/anna-jahn-v1UKZ55xl7g-unsplash-thumb.webp"
 ---
 Charles Spurgeon believed the Earth was millions of years old. In a sermon on the power of the Holy Spirit, he discussed the Spirit's role in the creation of the world. He said this:
 
