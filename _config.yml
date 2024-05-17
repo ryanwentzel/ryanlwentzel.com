@@ -218,7 +218,7 @@ defaults:
       path: ""
       type: prayers
     values:
-      layout: resource
+      layout: prayer
       feature: true
       syndicate: true
       img:

@@ -10,11 +10,10 @@ img:
     thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-thumb.webp"
     alt: "long exposure photo of a waterfall"
 series: weary-pilgrim-prayers
+theme_verses: 
+    text: "In peace I will both lie down and sleep;<br>for you alone, O LORD, make me dwell in safety."
+    reference: "Psalm 4:8"
 ---
-*In peace I will both lie down and sleep;  
-for you alone, O LORD, make me dwell in safety (Psalm 4:8).*
-{: .text-center }
-
 O God, our Protector, Defender, and Refuge, our fears and worries keep us up late and make sleep hard to come by. Flood our hearts and minds with your peace so that we might rest tonight without fear of tomorrow, through Jesus Christ our Lord. Amen.
 
 
