@@ -2,7 +2,7 @@
 seo_title: A Late Afternoon Walk at Lake Hodges – Field Notes
 seo_description: Read these field notes about an outing at Lake Hodges in Escondido, California to learn about the animals and plants that make their home there.
 title: A Late Afternoon Walk at Lake Hodges
-description: Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area to the San Dieguito River Trail (parallel to Mission Road) and headed east.
+description: Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area on the San Dieguito River Trail (parallel to Mission Road) and headed east.
 date: 2024-05-09 21:14:39 -0700
 img:
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-full.webp"
@@ -19,7 +19,7 @@ activity:
     temp: 64°F
     
 ---
-Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area to the San Dieguito River Trail (parallel to Mission Road) and headed east.
+Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area on the San Dieguito River Trail (parallel to Mission Road) and headed east.
 
 ![photo of Coast to Crest Trail](https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240509-01.webp)
 
