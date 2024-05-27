@@ -2,7 +2,7 @@
 title: A Prayer for When Anxiety Makes Sleep Difficult
 subtitle: A prayer based on Psalm 4
 description: A collect based on Psalm 4. *\"O God, our Protector, Defender, and Refuge, our fears and worries keep us up late and make sleep hard to come by. Flood our hearts and minds with your peace so that...\"*
-seo_title: A prayer for peace when our fears and worries make sleep hard to come by.
+seo_description: A prayer for peace when our fears and worries make sleep hard to come by.
 date: 2024-05-16 14:37:46 -0700
 img:
     url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-full.webp"
