@@ -1,13 +1,10 @@
 .resource-body,
-.page-body {
-    // font-family: $font-family-serif;
-    
+.page-body {    
     p,ol,ul {
         font-size: $font-size-lg;
     }
 
     p {
-        // line-height: $line-height-base * 1.2;
         margin-bottom: 1.75rem;
     }
     
