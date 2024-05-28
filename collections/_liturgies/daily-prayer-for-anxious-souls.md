@@ -1,10 +1,13 @@
 ---
 title: Daily Prayer for Anxious Souls
-subtitle: A simple pattern for daily prayer that removes the guess work and avoids excessive introspection
+subtitle: A simple pattern for daily prayer
+seo_description: A simple pattern for daily prayer that avoids opportunities for rumination.
 date: 2024-01-04
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash.jpg"
+    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-full.webp"
     alt: "green wall paint photo"
+    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-medium.webp"
+    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-thumb.webp"
 ---
 
 ## Opening Sentence
@@ -16,7 +19,8 @@ from the end of the earth I call to you
 Lead me to the rock   
 &emsp;that is higher than I,   
 for you have been my refuge,   
-&emsp;a strong tower against the enemy.  
+&emsp;a strong tower against the enemy.
+
 **— Psalm 61:1–3**
 
 ## Adoration
@@ -26,9 +30,9 @@ Praise God from whom
 Praise him all creatures here below;  
 Praise him above you heavenly host;  
 Praise Father, Son, and Holy Ghost.  
-Amen.   
-**— Doxology**
+Amen.
 
+**— Doxology**
 
 ## Psalm
 
@@ -41,7 +45,8 @@ Glory be to the Father,
 &emsp;and to the Holy Spirit:    
 As it was in the beginning,  
 &emsp;is now, and ever shall be,  
-&emsp;world without end. Amen.  
+&emsp;world without end. Amen.
+
 **— Gloria Patri**
 
 ## The Apostles' Creed
@@ -67,7 +72,8 @@ the holy catholic Church,
 the communion of saints,  
 the forgiveness of sins,  
 the resurrection of the body,  
-and the life everlasting. Amen.  
+and the life everlasting. Amen.
+
 **— Book of Common Prayer (2019)**
 
 ## The Lord's Prayer
@@ -99,5 +105,6 @@ May the LORD
 &emsp;and be gracious to us.  
 May the LORD  
 &emsp;lift up his countenance upon us  
-&emsp;and give us peace.  
+&emsp;and give us peace.
+
 **— Based on Numbers 6:24–26**
