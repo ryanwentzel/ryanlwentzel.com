@@ -1,9 +1,4 @@
 @use "sass:map";
-* {
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-
 html, body {
     height: 100%;
     min-height: 100vh;
@@ -318,12 +313,7 @@ blockquote.pull-quote {
     &.wide {
         .resource-description {
             font-size: $font-size-base;
-            line-height: 1.2;
-
-            @include media-breakpoint-up(lg) {
-                font-size: $font-size-lg;
-                line-height: 1.5;
-            }
+            line-height: 1.5;
         }
     }
 
@@ -339,7 +329,6 @@ blockquote.pull-quote {
     .resource-text p,
     .resource-text ol,
     .resource-text ul {
-        font-size: 1rem * 1.125;
         line-height: 1.5;
     }
 
