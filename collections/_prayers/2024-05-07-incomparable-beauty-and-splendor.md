@@ -5,6 +5,7 @@ description: A collect based on Psalm 145. *\"Our God and our King, you whose be
 date: 2024-05-07 11:49:09 -0700
 img:
     url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/robert-lukeman-zNN6ubHmruI-unsplash-full.webp
+    medium_url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/robert-lukeman-zNN6ubHmruI-unsplash-medium.webp
     thumb_url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/robert-lukeman-zNN6ubHmruI-unsplash-thumb.webp
     alt: waterfall in Iceland
 series: weary-pilgrim-prayers
