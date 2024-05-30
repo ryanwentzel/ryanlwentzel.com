@@ -6,19 +6,17 @@ date: 2024-05-28 12:55:13 -0700
 issue: 2
 img:
     alt: "abstract painting with blue and orange colors"
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-full.webp"
-    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-medium.webp"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-thumb.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-full.webp"
+    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-medium.webp"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-thumb.webp"
 published: false 
 ---
 
 ## A Prayer Based on Psalm 145
 
-![photo of a waterfall in Iceland](https://d1yo597syf8yny.cloudfront.net/assets/img/content/robert-lukeman-zNN6ubHmruI-unsplash-medium.webp)
+{% include newsletter/sections/prayer.html path="_prayers/2024-05-07-incomparable-beauty-and-splendor.md" %}
 
-> Our God and our King, you whose beauty and splendor are beyond compare, wow us with your greatness and amaze us with your goodness, so that...
-
-[Read it all!]({{ site.url}}{% link _prayers/2024-05-07-incomparable-beauty-and-splendor.md %})
+[Read it all!]({{ site.data.nav.prayers | absolute_url }})
 
 ## Talks
 
@@ -32,6 +30,25 @@ published: false
 </figure>
 
 ## Poetry I'm Enjoying
+
+**2007, XI**  
+By Wendell Berry
+
+The sounds of engines leave the air.  
+The Sunday morning silence comes  
+at last. At last I know the presence  
+of the world made without hands,  
+the creatures that have come to be  
+out of their absence. Calls  
+of flicker and jay fill the clear  
+air. Titmice and chickadees feed  
+among the green and the dying leaves.  
+Gratitude for the gifts of all the living  
+and the unliving, gratitude which is  
+the greatest gift, quietest of all,  
+passes to me through the trees.
+
+— Wendell Berry in <cite>This Day: Sabbath Poems Collected & New, 1979–2013</cite> (Berkley, CA: Counterpoint, 2013)
 
 ## Quote of the Moment
 
