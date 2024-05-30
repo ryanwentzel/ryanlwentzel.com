@@ -1,0 +1,9 @@
+{%- assign path = include.path -%}
+{%- capture url -%}{%- link {{ path }} -%}{%- endcapture -%}
+{%- assign prayer = site.prayers | find: "url", url -%}
+{%- unless prayer == nil -%}
+<img src="{{ prayer.img.medium_url | default: prayer.img.url }}" alt="{{ prayer.img.alt }}">
+<blockquote>
+{{ prayer.content | markdownify }}
+</blockquote>
+{%- endunless -%}
