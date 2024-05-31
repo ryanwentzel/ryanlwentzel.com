@@ -1,0 +1,10 @@
+<hr>
+<div class="newsletter-footer">
+    <p class="fst-italic">
+{%- capture subscription_url-%}{% link _pages/newsletter.md %}{%- endcapture -%}
+        If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, <a href="{{ subscription_url | absolute_url }}" title="Subscribe to my newsletter">please subscribe</a>. It's free!
+    </p>
+    <p class="fst-italic">
+        Want to read past issues? You can find them at <a href="{{ site.data.nav.newsletter_archive | absolute_url }}" title="Browse the archive">{{ site.name }}</a>.
+    </p>
+</div>

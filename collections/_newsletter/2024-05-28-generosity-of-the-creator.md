@@ -16,9 +16,14 @@ published: false
 
 {% include newsletter/sections/prayer.html path="_prayers/2024-05-07-incomparable-beauty-and-splendor.md" %}
 
-[Read it all!]({{ site.data.nav.prayers | absolute_url }})
+[Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }})
 
 ## Talks
+
+- The Doctrine of Creation – Part 1. An overview of the Bible's teaching about the natural world. In this talk I focus on the opening chapters of Genesis and what they reveal about the inherent goodness and value of creation.
+- The Doctrine of Creation – Part 2. An overview of the Bible's teaching about the natural world. In this talk I focus on human beings' role as members of the community of creation tasked with ruling and keeping the world on God's behalf.
+- Corrupt Pastors, Good God. A sermon on 1 Samuel 2:12–36.
+- The God Who Speaks. A sermon on 1 Samuel 3:1–4:1a.
 
 ## Art I'm Enjoying
 
@@ -56,8 +61,5 @@ passes to me through the trees.
 
 — N.T. Wright in *‌ On Earth as in Heaven: Daily Wisdom for Twenty-First Century Christians* (New York: HarperCollins, 2022)
 
----
-
-*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe]({{ site.url }}{% link _pages/newsletter.md %}). It's free!*
-{: .newsletter-footer }
+{% include newsletter/sections/footer.html -%}
 
