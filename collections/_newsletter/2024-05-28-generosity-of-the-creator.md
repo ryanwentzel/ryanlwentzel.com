@@ -36,6 +36,8 @@ published: false
 
 ## Poetry I'm Enjoying
 
+![backlit forest]({{ site.data.cdn.img_assets_url }}/content/dan-stark-hEceQrBaIiE-unsplash-medium.webp)
+
 **2007, XI**  
 By Wendell Berry
 
