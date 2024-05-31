@@ -5,7 +5,7 @@ date: 2020-04-19 00:00:00 -0700
 description: A pastoral prayer that expands on each element of the Lord's Prayer. Offered on April 19, 2020 for Grace Bible Church in Escondido, California via a pre-recorded video due to the COVID-19 pandemic.
 excerpt: "A pastoral prayer that uses the Lord's Prayer as its structure and expands on each petition. I composed it using ideas from <cite>A Way to Pray</cite> by Matthew Henry and <cite>Leading in Prayer: A Workbook for Worship</cite> by Hughes Oliphant Old."
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/norway-camping.jpg"
+    url: "https://cdn.ryanlwentzel.com/images/featured/norway-camping.jpg"
 ---
 
 *A pastoral prayer that expands on each element of the Lord's Prayer. Offered on April 19, 2020 for Grace Bible Church in Escondido, California via a pre-recorded video due to the COVID-19 pandemic.*

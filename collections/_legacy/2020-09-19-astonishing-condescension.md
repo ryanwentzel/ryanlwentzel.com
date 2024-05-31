@@ -2,7 +2,7 @@
 title: "Psalm 113 and the Astonishing Condescension of God the Son"
 date: 2020-09-19 10:41:16 -0700
 excerpt: "Psalm 113 praises the Triune God for the astonishing condescension of God the Son through whom poor and needy sinners are raised up “to sit as sons and daughters with Him in His Father’s house.”"
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/landscape-inness.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/landscape-inness.jpg" 
 featured_image_alt: Painting by George Inness
 published: true
 ---

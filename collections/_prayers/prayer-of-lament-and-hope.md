@@ -4,7 +4,7 @@ subtitle: A prayer of lament and hope based on the Psalms
 date: 2023-12-18 00:00:00 -0800  
 description: A prayer of lament and hope based on the Psalms.
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/inness-lonely-farm-1892a.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/inness-lonely-farm-1892a.jpg"
 ---
 
 Out of the depths I cry to you, O LORD!  

@@ -4,7 +4,7 @@ subtitle: A pastoral prayer delivered on December 24, 2023 at Grace Bible Church
 date: 2023-12-24 00:00:00 -08:00
 description: A pastoral prayer delivered on December 24, 2023, at Grace Bible Church in Escondido, California.
 img:   
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/the_angel_of_the_annunciation_1939.1.216.jpg
+    url: https://cdn.ryanlwentzel.com/assets/img/content/the_angel_of_the_annunciation_1939.1.216.jpg
 ---
 
 Our Great God—Father, Son, and Holy Spirit—we join our voices  with Mary’s voice, with the angels’ voices, and with the voice of the Church around the world to glorify your holy name.

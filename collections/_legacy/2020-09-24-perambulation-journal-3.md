@@ -2,17 +2,17 @@
 title: "Perambulation Journal 3"
 date: 2020-09-24 14:19:34 -0700
 excerpt: "Perambulating in the late morning."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/perambulation.jpg" 
 featured_image_alt: Path through the forest
 published: true
 ---
 Very warm. No clouds.
 
-![Avenida del Diablo](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-01a-1080x1080.jpg)
+![Avenida del Diablo](https://cdn.ryanlwentzel.com/images/posts/perambulation-20200924-01a-1080x1080.jpg)
 
-![Path](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-02-1080x1080.jpg)
+![Path](https://cdn.ryanlwentzel.com/images/posts/perambulation-20200924-02-1080x1080.jpg)
 
-![Hillside](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200924-03-1080x1080.jpg)
+![Hillside](https://cdn.ryanlwentzel.com/images/posts/perambulation-20200924-03-1080x1080.jpg)
 
 Why make so much of fragmentary blue  
 In here and there a bird, or butterfly,  

@@ -2,7 +2,7 @@
 title: "Writing My Own Collects"
 date: 2020-10-03 12:01:00 -0700
 excerpt: "A <i>collect</i> is a short prayer named for its function:“collecting up” the prayers of the individuals in a congregation into one prayer. Collects have been used for centuries in the liturgies of the Western church. I’ve begun trying to write some collects of my own."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/eakins-writing-master.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/eakins-writing-master.jpg" 
 featured_image_caption: Thomas Eakins, <i>The Writing Master</i>
 published: true
 ---

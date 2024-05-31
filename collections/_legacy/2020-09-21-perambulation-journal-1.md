@@ -2,15 +2,15 @@
 title: "Perambulation Journal 1"
 date: 2020-09-21 11:19:34 -0700
 excerpt: "Perambulating alongside a lake on a foggy morning."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/perambulation.jpg" 
 featured_image_alt: Path through the forest
 published: true
 ---
 A mild, late-September morning. Fog. The lake. A little bit of "wilderness." Just what I needed.
 
-![Foggy day](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200921-01-1080x1080.jpg)
+![Foggy day](https://cdn.ryanlwentzel.com/images/posts/perambulation-20200921-01-1080x1080.jpg)
 
-![Lake](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200921-02-1080x1080.jpg)
+![Lake](https://cdn.ryanlwentzel.com/images/posts/perambulation-20200921-02-1080x1080.jpg)
 
 To sit and look at light-filled leaves  
 May let us see, or seem to see,  

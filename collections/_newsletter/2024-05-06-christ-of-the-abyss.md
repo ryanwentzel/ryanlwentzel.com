@@ -6,7 +6,7 @@ description: "Close to 1,000 feet off Italy's Ligurian coast, between Camogli an
 date: 2024-05-06 00:00:00 -0700
 issue: 1
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/christ-of-the-abyss-full.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/christ-of-the-abyss-full.webp"
     alt: "underwater photo of a statue of Jesus Christ"
     title: "Christ of the Abyss"
 ---
@@ -20,7 +20,7 @@ The metaphor is powerful.
 
 Wardell and fellow musicians Matt Maher, Kate Bluett, and Doe Jones wrote a song inspired by Galletti's underwater sculpture. It's called "Christ is Lower Still." 
 
-[![YouTube video for the song Christ is Lower Still by The Porter's Gate](https://d1yo597syf8yny.cloudfront.net/assets/img/newsletter/video-christ-is-lower-still.jpg "Christ Is Lower Still by The Porter's Gate")](https://youtu.be/_G5U0NDxdxU?si=SplOO1BFa0scIcIg)
+[![YouTube video for the song Christ is Lower Still by The Porter's Gate](https://cdn.ryanlwentzel.com/assets/img/newsletter/video-christ-is-lower-still.jpg "Christ Is Lower Still by The Porter's Gate")](https://youtu.be/_G5U0NDxdxU?si=SplOO1BFa0scIcIg)
 
 Give it a listen. I think you'll enjoy it. 
 
@@ -28,7 +28,7 @@ Give it a listen. I think you'll enjoy it.
 
 ## A Prayer Based on Psalm 126
 
-![photo of a vineyard](https://d1yo597syf8yny.cloudfront.net/assets/img/content/dan-meyers-0AgtPoAARtE-unsplash.jpg)
+![photo of a vineyard](https://cdn.ryanlwentzel.com/assets/img/content/dan-meyers-0AgtPoAARtE-unsplash.jpg)
 
 I read through the Psalms regularly. Sometimes I write prayers based on the day's reading. Here's one I wrote (in [collect](https://timothykeller.com/blog/2010/10/1/how-to-pray-better-in-public-and-in-private-too) form) in response to Psalm 126.
 
@@ -40,7 +40,7 @@ I read through the Psalms regularly. Sometimes I write prayers based on the day'
 
 ## Talks
 
-![flatlay photo of open Bible](https://d1yo597syf8yny.cloudfront.net/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash.jpg)
+![flatlay photo of open Bible](https://cdn.ryanlwentzel.com/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash.jpg)
 
 *Recent talks and sermons from my weekly teaching and preaching ministry.*
 
@@ -59,7 +59,7 @@ I read through the Psalms regularly. Sometimes I write prayers based on the day'
 ## Art I'm Enjoying
 
 <figure>
-    <img class="img-fluid rounded-2" src="https://d1yo597syf8yny.cloudfront.net/assets/img/content/doughty-two-fishermen-1828.jpg" alt="Painting of two fishermen by Thomas Doughty" />
+    <img class="img-fluid rounded-2" src="https://cdn.ryanlwentzel.com/assets/img/content/doughty-two-fishermen-1828.jpg" alt="Painting of two fishermen by Thomas Doughty" />
     <figcaption>
         Thomas Doughty, <em>Two Fishermen</em>, 1828
     </figcaption>
@@ -73,7 +73,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Doughty_(artist) "Read abo
 
 ## Poetry I'm Enjoying
 
-![photo of secluded forest](https://d1yo597syf8yny.cloudfront.net/assets/img/content/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg)
+![photo of secluded forest](https://cdn.ryanlwentzel.com/assets/img/content/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg)
 
 **How I Go To The Woods**  
 By Mary Oliver
@@ -100,7 +100,7 @@ you very much.
 
 ## Quote of the Moment
 
-![close up photo of a hummingbird](https://d1yo597syf8yny.cloudfront.net/assets/img/content/robert-zunikoff-ko7Tp_LyAt4-unsplash.jpg)
+![close up photo of a hummingbird](https://cdn.ryanlwentzel.com/assets/img/content/robert-zunikoff-ko7Tp_LyAt4-unsplash.jpg)
 
 > Teach the children. We don’t matter so much, but the children do. Show them daisies and the pale hepatica. Teach them the taste of sassafras and wintergreen. The lives of the blue sailors, mallow, sunbursts, the moccasin flowers. And the frisky ones—inkberry, lamb’s-quarters, blueberries. And the aromatic ones—rosemary, oregano. Give them peppermint to put in their pockets as they go to school. Give them the fields and the woods and the possibility of the world salvaged from the lords of profit. Stand them in the stream, head them upstream, rejoice as they learn to love this green space they live in, its sticks and leaves and then the silent, beautiful blossoms.
 >  

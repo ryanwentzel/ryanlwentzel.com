@@ -2,7 +2,7 @@
 title: "Check Out These Resources (April 29)"
 date: 2020-04-29 18:06:02 -0700
 excerpt: "I’m keeping today’s list intentionally short. We’re bombarded with so much information each day. I don’t want to add to the noise. However, I do think the resources listed below are worth exploring."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/beach-01.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/beach-01.jpg"
 featured_image_alt: Wave crashing on the beach
 ---
 I’m keeping today’s list intentionally short. We’re bombarded with so much information each day. I don’t want to add to the noise. However, I do think the resources listed below are worth exploring.

@@ -5,8 +5,8 @@ title: A Late Afternoon Walk at Lake Hodges
 description: Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area on the San Dieguito River Trail (parallel to Mission Road) and headed east.
 date: 2024-05-09 21:14:39 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-full.webp"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-thumb.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-full.webp"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-thumb.webp"
     alt: "photo of San Dieguito River Park sign"
     title: "San Dieguito River Park sign"
 activity:
@@ -21,7 +21,7 @@ activity:
 ---
 Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area on the San Dieguito River Trail (parallel to Mission Road) and headed east.
 
-![photo of Coast to Crest Trail](https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240509-01.webp)
+![photo of Coast to Crest Trail](https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240509-01.webp)
 
 ## Notes
 

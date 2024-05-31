@@ -2,7 +2,7 @@
 title: "I Go Among Trees"
 date: 2021-08-05 08:02:47 -0700
 excerpt: "Wendell Berry’s Sabbath poems create in me a longing to find a quiet spot in the woods where I can take a nap."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/vikas-forest-glade-autumn.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/vikas-forest-glade-autumn.jpg"
 featured_image_caption: Karl Vikas (1875–1934), <i>A Forest Glade</i>
 ---
 Wendell Berry's Sabbath poems create in me a longing to find a quiet spot in the woods where I can take a nap.

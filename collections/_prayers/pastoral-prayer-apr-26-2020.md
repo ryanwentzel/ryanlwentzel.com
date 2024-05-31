@@ -4,7 +4,7 @@ date: 2020-04-26 14:07:00 -0700
 excerpt: "A pastoral prayer using the ACTS model. ACTS is an acrostic in which each letter stands for an important element of prayer: <b>A</b>doration, <b>C</b>onfession, <b>T</b>hanksgiving, <b>S</b>upplication."
 description: A pastoral prayer using the ACTS model. Offered on April 26, 2020 for Grace Bible Church in Escondido, California via pre-recorded video due to the COVID-19 pandemic.
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg"
+    url: "https://cdn.ryanlwentzel.com/images/featured/empty-pews.jpg"
 ---
 
 *A pastoral prayer using the ACTS model. Offered on April 26, 2020 for Grace Bible Church in Escondido, California via pre-recorded video due to the COVID-19 pandemic.*

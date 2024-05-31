@@ -3,7 +3,7 @@ title: The Void of Absence
 date: 2021-09-15 20:31:53 -07:00
 excerpt: Grief is a strange land. It takes time to get one’s bearings.
 featured: true
-background_img: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/halpert-farm-interior.jpg"
+background_img: "https://cdn.ryanlwentzel.com/assets/img/content/halpert-farm-interior.jpg"
 featured_image_caption: Samuel Halpert, <i>Farm Interior</i>, ca. 1924
 ---
 Grief is a strange land. It takes time to get one's bearings. 

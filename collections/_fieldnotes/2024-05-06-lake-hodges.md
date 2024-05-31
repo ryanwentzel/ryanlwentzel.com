@@ -3,7 +3,7 @@ title: A Brief Visit to Lake Hodges
 description: Sunny, cool becoming warm. Rained briefly but heavily the morning before. Set out from the staging area on Lake Drive, across the street from Hernandez Hideaway.
 date: 2024-05-06 00:00:00 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240506-01-alt.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240506-01-alt.jpg"
     alt: "photo of Lake Hodges"
     title: "Lake Hodges"
 activity:
@@ -20,7 +20,7 @@ activity:
 ---
 Sunny, cool becoming warm. Rained briefly but heavily the morning before. I set out from the parking lot off Lake Drive, across the street from Hernandez Hideaway. Didn't see many other people on the trails, other than a few mountain bikers. Meandered south along the trail for about a quarter mile. Took the same route back to the staging area.
 
-![photo of lake hodges](https://d1yo597syf8yny.cloudfront.net/assets/img/content/ryan-wentzel-lake-hodges-20240506-02-alt.jpg)
+![photo of lake hodges](https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240506-02-alt.jpg)
 
 {% include checklists/birding.html %}
 

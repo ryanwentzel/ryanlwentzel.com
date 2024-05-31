@@ -4,7 +4,7 @@ title: 'What to Pray During a Global Pandemic'
 date: 2020-03-30 07:05:00 -0700
 excerpt: 'Hundreds of thousands of people around the world have been infected by novel coronavirus. The number of confirmed cases of COVID-19 and deaths resulting from the illness continue to rise daily in the United States. The reality of COVID-19 is starting to hit closer to home for many of us. Maybe we have a friend, a relative, or a neighbor who has the disease. Do you feel powerless in the face of a global health crisis? You should. Let that sense of powerlessness drive you to prayer.'  
 keywords: "prayer, COVID-19, prayer book pestilence"
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/world-closed.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/world-closed.jpg"
 featured_image_alt: Sign declaring that the world is closed
 ---
 Hundreds of thousands of people around the world have been infected by novel coronavirus. The number of confirmed cases of COVID-19 and deaths resulting from the illness continue to rise daily in the United States. The reality of COVID-19 is starting to hit closer to home for many of us. Maybe we have a friend, a relative, or a neighbor who has the disease.

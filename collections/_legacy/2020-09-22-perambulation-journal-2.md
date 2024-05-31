@@ -2,13 +2,13 @@
 title: "Perambulation Journal 2"
 date: 2020-09-22 12:05:06 -0700
 excerpt: "Perambulating amid change and decay."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/perambulation.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/perambulation.jpg"
 featured_image_alt: Path through the forest 
 published: true
 ---
 Another foggy morning.
 
-![Foggy morning](https://d1yo597syf8yny.cloudfront.net/images/posts/perambulation-20200922-1080x1080.jpg)
+![Foggy morning](https://cdn.ryanlwentzel.com/images/posts/perambulation-20200922-1080x1080.jpg)
 
 Abide with me! fast falls the eventide;  
 The darkness deepens; Lord, with me abide!  

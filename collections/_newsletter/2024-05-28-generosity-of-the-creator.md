@@ -23,7 +23,7 @@ published: false
 ## Art I'm Enjoying
 
 <figure>
-    <img class="img-fluid rounded-2" src="https://d1yo597syf8yny.cloudfront.net/assets/img/content/edward_mitchell_bannister-streamside-1870-newsletter.webp" alt="Landscape painting by Edward Mitchell Bannister" />
+    <img class="img-fluid rounded-2" src="https://cdn.ryanlwentzel.com/assets/img/content/edward_mitchell_bannister-streamside-1870-newsletter.webp" alt="Landscape painting by Edward Mitchell Bannister" />
     <figcaption>
         Edward Mitchell Bannister, <em>Streamside</em>, 1870
     </figcaption>

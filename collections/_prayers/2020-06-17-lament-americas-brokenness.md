@@ -5,7 +5,7 @@ date: 2020-06-17 10:51:38 -0700
 excerpt: "Our God and our Father, we look at our world and cry out, how long, O Lord? How long will sin and wickedness and injustice and suffering seem to win? We call out to you because you alone are our help. We have no other Helper. We have no other Savior. You are the God who made the heavens and the earth. You are the God who redeemed us through your Son Jesus Christ. Hear us O God, as we pray right now."
 description: "A lament over our nation’s troubles delivered on June 7, 2020, at Grace Bible Church in Escondido, CA."
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/lament.jpg"
+    url: "https://cdn.ryanlwentzel.com/images/featured/lament.jpg"
 ---
 
 Our God and our Father, we look at our world and cry out, how long, O Lord? How long will sin and wickedness and injustice and suffering seem to win? We call out to you because you alone are our help. We have no other Helper. We have no other Savior. You are the God who made the heavens and the earth. You are the God who redeemed us through your Son Jesus Christ. Hear us O God, as we pray right now.

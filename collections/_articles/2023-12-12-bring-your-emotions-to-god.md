@@ -4,7 +4,7 @@ subtitle: The Psalms invite us to be open and unafraid before God with our emoti
 date: 2023-12-12 08:15:00 -08:00
 description: "What do you do with the mad that you feel? The fear? The sadness? The loneliness and frustration and envy and shame? The Psalms show us."
 img:
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/steve-johnson-yyIrg9qiLPs-unsplash.jpg
+    url: https://cdn.ryanlwentzel.com/assets/img/content/steve-johnson-yyIrg9qiLPs-unsplash.jpg
 ---
 ***"God does not permit you to feel that way."***
 

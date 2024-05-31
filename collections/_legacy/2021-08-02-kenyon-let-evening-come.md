@@ -2,7 +2,7 @@
 title: "Let Evening Come"
 date: 2021-08-02 08:43:19 -0700
 excerpt: "A poem by Jane Kenyon about loss, the inevitability of death, and hope."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/inness-lonely-farm-1892.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/inness-lonely-farm-1892.jpg" 
 featured_image_caption: George Inness, <i>The Lonely Farm, Nantucket</i>, 1892
 published: true
 ---

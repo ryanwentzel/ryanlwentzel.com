@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cdn_base="https://d1yo597syf8yny.cloudfront.net"
+cdn_base="https://cdn.ryanlwentzel.com"
 cdn_photos="$cdn_base/assets/img/photos/"
-cdn="https://d1yo597syf8yny.cloudfront.net/assets/img/content/"
+cdn="https://cdn.ryanlwentzel.com/assets/img/content/"
 collections_dir="$project_dir/collections"
 podcasts_dir="$collections_dir/_sermons"
 

@@ -5,8 +5,8 @@ description:
 seo_description: View a photo of a San Diego Monkeyflower (Diplacus x australis) in bloom.
 date: 2024-05-13 22:02:05 -07:00
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240513-IMG_9225.jpg"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240513-IMG_9225-thumb.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9225.jpg"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9225-thumb.webp"
     alt: "photo of San Diego Monkeyflower blooms"
     caption: San Diego Monkeyflower
     shutter_speed: 1/160

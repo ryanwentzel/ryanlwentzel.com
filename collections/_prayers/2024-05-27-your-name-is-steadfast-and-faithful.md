@@ -6,10 +6,10 @@ description: A collect based on Psalm 9. *\"Our gracious God and Father in heave
 seo_description: A prayer based on Psalm 9:10 that roughly follows the ancient collect form.
 date: 2024-05-27 13:44:16 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-full.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-full.webp"
     alt: close up of an ocean wave
-    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-medium.webp"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-thumb.webp"
+    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-medium.webp"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-thumb.webp"
 series: weary-pilgrim-prayers
 theme_verses:
     text: "And those who know your name<br>&ensp;&ensp;&ensp;put their trust in you,<br>&ensp;for you, O LORD, have not forsaken<br>&ensp;&ensp;&ensp;those who seek you."

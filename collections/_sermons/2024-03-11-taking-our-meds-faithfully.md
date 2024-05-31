@@ -5,7 +5,7 @@ subtitle: Finding Jesus in the Storm
 description: Psychiatric medication doesn't cure mental illness. However, using it wisely as part of a holistic approach to addressing mental health challenges can provide relief from some of the most debilitating symptoms. Medication just might be what someone needs to begin cultivating a greater level of mental health.
 date: 2024-03-11 22:45:26 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/raimond-klavins-n-7HTOiJPso-unsplash.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/raimond-klavins-n-7HTOiJPso-unsplash.jpg"
     alt: "medication"
 episode_id: 1ZCvjD6Eyaxe11w2BPxjQk
 ---
@@ -19,7 +19,7 @@ In this talk, Ryan discusses:
 
 ## Additional Resources
 
-- [Presentation slides](https://d1yo597syf8yny.cloudfront.net/assets/docs/20240310-taking-our-meds-faithfully-for-web-v2.pdf)
+- [Presentation slides](https://cdn.ryanlwentzel.com/assets/docs/20240310-taking-our-meds-faithfully-for-web-v2.pdf)
 - [My Age of Anxiety: Fear, Hope, Dread, and the Search for Peace of Mind](https://www.amazon.com/My-Age-Anxiety-Dread-Search/dp/0307390608/) by Scott Stossel
 - [Finding Jesus in the Storm: The Spiritual Lives of Christians with Mental Health Challenges](https://www.amazon.com/Finding-Jesus-Storm-Christians-Challenges/dp/0802873723/) by John Swinton
 

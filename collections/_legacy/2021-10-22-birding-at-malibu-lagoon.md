@@ -2,7 +2,7 @@
 title: Birding at Malibu Lagoon
 date: 2021-10-22 13:13:28 -07:00
 excerpt: "Earlier in the week, I spoke at a pastors’ conference in Ventura County. I stopped in Malibu on the drive home so I could check out Malibu Lagoon."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/20211020-malibu-lagoon-featured.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/20211020-malibu-lagoon-featured.jpg"
 featured_image_caption: Malibu Lagoon, Malibu, CA
 ---
 Earlier in the week, I spoke at a pastors' conference in Ventura County. I stopped in Malibu on the drive home so I could check out [Malibu Lagoon](https://goo.gl/maps/kmXDepptTroZ4u4r6).
@@ -13,13 +13,13 @@ What a beautiful place!
 
 <div class="d-flex flex-wrap gutter-spacious">
     <div class="col-6 mb-3">
-        <img class="img-fluid rounded-2" src="https://d1yo597syf8yny.cloudfront.net/images/content/20211020-malibu-lagoon-00003-v2.jpg">
+        <img class="img-fluid rounded-2" src="https://cdn.ryanlwentzel.com/images/content/20211020-malibu-lagoon-00003-v2.jpg">
     </div>
     <div class="col-6 mb-3">
-        <img class="img-fluid rounded-2" src="https://d1yo597syf8yny.cloudfront.net/images/content/20211020-malibu-lagoon-00001-v2.jpg">
+        <img class="img-fluid rounded-2" src="https://cdn.ryanlwentzel.com/images/content/20211020-malibu-lagoon-00001-v2.jpg">
     </div>
     <div class="col-6 mb-3">
-        <img class="img-fluid rounded-2" src="https://d1yo597syf8yny.cloudfront.net/images/content/20211020-malibu-lagoon-00002-v2.jpg">
+        <img class="img-fluid rounded-2" src="https://cdn.ryanlwentzel.com/images/content/20211020-malibu-lagoon-00002-v2.jpg">
     </div>
 </div>
 

@@ -4,7 +4,7 @@ subtitle: A prayer based on Psalm 138
 description: A collect based on Psalm 138. *\"Lord God, we are your workmanship in Christ Jesus. You created us and redeemed us for a purpose, but our circumstances often don't make sense to us...\"*
 date: 2024-04-26 08:41:05 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/richie-roberts-W3fVdqPQSW4-unsplash.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/richie-roberts-W3fVdqPQSW4-unsplash.jpg"
     alt: "people inside church building"
 series:
 ---

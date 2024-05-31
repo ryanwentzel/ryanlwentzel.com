@@ -4,7 +4,7 @@ date: 2020-08-04 14:33:38 -0700
 excerpt: "We praise you, O God; we acclaim you as Lord; all creation worships you, the Father everlasting. To you all angels, all the powers of heaven, the cherubim and seraphim, sing in endless praise: Holy, Holy, Holy, Lord God of power and might, heaven and earth are full of your glory."
 description: "A pastoral prayer offered on August 2, 2020 at Grace Bible Church in Escondido, California."
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg"
+    url: "https://cdn.ryanlwentzel.com/images/featured/empty-pews.jpg"
 ---
 
 *A pastoral prayer offered on August 2, 2020 at Grace Bible Church in Escondido, California.*

@@ -4,7 +4,7 @@ subtitle: What the resurrection of Jesus Christ means
 description: The risen Jesus dealt Death a death blow. His resurrection was the beginning of the end for Death.
 date: 2024-05-03 17:32:22 -0700
 img: 
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/wendy-scofield-AQkvtzM6eqU-unsplash.jpg
+    url: https://cdn.ryanlwentzel.com/assets/img/content/wendy-scofield-AQkvtzM6eqU-unsplash.jpg
     alt: grayscale photo of a cemetery
 ---
 *The following is from a [sermon]({% link _sermons/2024-04-05-unbelievable-easter-2024.md %}) I preached on Easter Sunday in 2024.*

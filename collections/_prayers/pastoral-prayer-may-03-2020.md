@@ -4,7 +4,7 @@ date: 2020-05-11 10:57:04 -0700
 excerpt: "Our gracious God and heavenly Father, we come before you this morning to give you praise. We praise you as the God of all grace. You are merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin."
 description: "A pastoral prayer offered on May 3, 2020 at Grace Bible Church in Escondido, California."
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews.jpg"
+    url: "https://cdn.ryanlwentzel.com/images/featured/empty-pews.jpg"
 ---
 
 *A pastoral prayer offered on May 3, 2020 at Grace Bible Church in Escondido, California.*

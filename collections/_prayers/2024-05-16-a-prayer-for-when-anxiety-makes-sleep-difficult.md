@@ -5,9 +5,9 @@ description: A collect based on Psalm 4. *\"O God, our Protector, Defender, and 
 seo_description: A prayer for peace when our fears and worries make sleep hard to come by.
 date: 2024-05-16 14:37:46 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-full.webp"
-    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-medium.webp"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-thumb.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-full.webp"
+    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-medium.webp"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/samuel-ferrara-npwjNTG_SQA-unsplash-thumb.webp"
     alt: "long exposure photo of a waterfall"
 series: weary-pilgrim-prayers
 theme_verses: 

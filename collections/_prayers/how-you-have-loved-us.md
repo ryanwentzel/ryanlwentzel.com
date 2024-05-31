@@ -4,7 +4,7 @@ subtitle: A pastoral prayer
 description: "\"Loving Father, how you have loved us! You did not spare your beloved Son but delivered him up for us all. He left the glories of heaven for the brokenness of this world. He who was King became a servant to sinners. He who is Life gave himself over to Death for our sake, because of your great love for us....\""
 date: 2024-04-21 20:19:00 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/holly-mandarich-4VgatlFyUpQ-unsplash.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/holly-mandarich-4VgatlFyUpQ-unsplash.jpg"
     alt: photo of Crested Butte
 series: pastoral-prayers
 ---

@@ -2,7 +2,7 @@
 title: "Jayber Crow on Aging"
 date: 2021-08-04 11:13:09 -0700
 excerpt: "I reread Wendell Berry's <i>Jayber Crow</i> last April. The story of Jayber's life is told from his own perspective as an old man looking back. This time through the book I was struck by his reflections on aging."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/tidemand-old-age-solitude.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/tidemand-old-age-solitude.jpg"
 featured_image_caption: Adolph Tidemand , <i>Old Age Solitude</i>, 1849
 ---
 I reread Wendell Berry's *Jayber Crow* last April. The story of Jayber's life is told from his own perspective as an old man looking back. This time through the book I was struck by his reflections on aging.

@@ -4,7 +4,7 @@ subtitle: What the gospel does
 description: 
 date: 2024-05-03 19:31:43 -0700
 img: 
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/jens-lindner-cQ1BNRYjVJo-unsplash.jpg
+    url: https://cdn.ryanlwentzel.com/assets/img/content/jens-lindner-cQ1BNRYjVJo-unsplash.jpg
     alt: window view of green plants outdoors
 published: false 
 ---

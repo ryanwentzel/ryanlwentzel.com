@@ -4,8 +4,8 @@ description: This dark orange calendula is something to behold.
 seo_description: View a photo of an Orange Button Calendula with brilliant, dark orange petals and an almost purple center.
 date: 2024-05-20 11:32:00 -07:00
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240512-IMG_9193.jpg"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/photos/20240512-IMG_9193-thumb.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240512-IMG_9193.jpg"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240512-IMG_9193-thumb.webp"
     alt: "close-up photo of a calendula bloom"
     caption: Orange Button Calendula
     shutter_speed: 1/160

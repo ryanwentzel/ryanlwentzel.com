@@ -2,7 +2,7 @@
 title: O Heart Bereaved and Lonely  
 date: 2021-08-15 23:01:10 -0700  
 excerpt: 'Fanny J. Crosby’s hymn “O Heart Bereaved and Lonely” speaks words of empathy, comfort, and hope to those who journey along grief’s twisting path. Our churches would be more emotionally healthy if we regularly sang hymns like this one our worship services.'
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/carpeaux-solitude.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/carpeaux-solitude.jpg"
 featured_image_caption: Jean-Baptiste, <i>Solitude, la forêt</i>, 1850-1875
 ---
 Fanny J. Crosby's hymn "O Heart Bereaved and Lonely" speaks words of empathy, comfort, and hope to those who journey along grief's twisting path. Our churches would be more emotionally healthy if we regularly sang hymns like this one in our worship services.
@@ -24,4 +24,4 @@ Fanny J. Crosby's hymn "O Heart Bereaved and Lonely" speaks words of empathy, co
 
 Indelible Grace's rendition of the hymn is worth a listen.
 
-[!["O Heart Bereaved and Lonely" by Indelible Grace](https://d1yo597syf8yny.cloudfront.net/images/content/video-indelible-grace-o-heart-bereaved.jpg '"O Heart Bereaved and Lonely" by Indelible Grace')](https://youtu.be/BiXBwtNfLcM)
+[!["O Heart Bereaved and Lonely" by Indelible Grace](https://cdn.ryanlwentzel.com/images/content/video-indelible-grace-o-heart-bereaved.jpg '"O Heart Bereaved and Lonely" by Indelible Grace')](https://youtu.be/BiXBwtNfLcM)

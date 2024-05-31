@@ -2,7 +2,7 @@
 title: "How to Pray for Someone with a Terminal Illness"
 date: 2021-07-10 18:42:00 -0700
 excerpt: "Praying for someone with a terminal illness requires empathy and wisdom."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/sonne-sick-people.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/sonne-sick-people.jpg" 
 featured_image_caption: Jørgen V. Sonne, <i>Midsummer's Eve. Sick People Asleep upon the Grave of St. Helena at Tisvilde</i>, 1846–1847
 published: true
 ---

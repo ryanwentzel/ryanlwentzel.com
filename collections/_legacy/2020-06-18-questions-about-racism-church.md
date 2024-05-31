@@ -2,7 +2,7 @@
 title: "Questions I’m Asking Myself About Racism and the Church"
 date: 2020-06-18 13:50:45 -0700
 excerpt: "I’m wrestling through questions about racism and the church, trying to examine my own heart and thinking on the subject, trying to listen to and learn from African-American neighbors and brothers and sisters in Christ."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/church-bw.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/church-bw.jpg" 
 featured_image_alt: Exterior of a church building
 published: true
 ---

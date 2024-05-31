@@ -4,7 +4,7 @@ subtitle: Letting the Psalter teach us to pray
 date: 2023-12-18 00:00:00 -08:00
 description: No matter how we feel, whatever the circumstance, the Psalms give us words to pray.
 img:
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/cole-north-mountain-catskill-creek-1838-16x9.jpg
+    url: https://cdn.ryanlwentzel.com/assets/img/content/cole-north-mountain-catskill-creek-1838-16x9.jpg
 published: false
 ---
 

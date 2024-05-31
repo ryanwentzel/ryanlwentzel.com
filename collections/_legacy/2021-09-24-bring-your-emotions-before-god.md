@@ -2,7 +2,7 @@
 title: Bring Your Emotions Before God
 date: 2021-09-24 18:12:21 -07:00
 excerpt: "What do you do with the mad that you feel? The fear? The sadness? The loneliness and frustration and envy and shame? The Psalms show us."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/baker-farm-interior-1893.jpg"
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/baker-farm-interior-1893.jpg"
 featured_image_caption: "Harriet Backer, <i>Farm Interior, Strålsjøhaugen</i>, 1893"
 ---
 "God does not permit you to feel that way." This response from a pastor, given after I shared that I was feeling discouraged, left me, well, even more discouraged and frustrated. His message was clear: "Good Christians don't have those kinds of emotions. Stop feeling what you feel. Fix yourself." Besides resembling the [Newhart Method of Counseling](https://youtu.be/arPCE3zDRg4)™, the pastor's well-meaning but tone-deaf response left me without a path forward. If I could've simply willed away the discouragement, I wouldn't have shared my struggle in the first place. I needed better counsel, something more than "Stop it!"

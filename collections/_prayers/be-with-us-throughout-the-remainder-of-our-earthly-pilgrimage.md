@@ -4,7 +4,7 @@ subtitle: A prayer based on Psalm 105
 description: A collect based on Psalm 105. *\"Our faithful God and the Father of our Lord Jesus Christ, you who delivered your people Israel from Egypt and brought them to the land of promise, be with us...\"*
 date: 2024-03-12 09:39:01 -0700
 img:
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-PllijsksYLE-unsplash.jpg
+    url: https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-PllijsksYLE-unsplash.jpg
     alt: "an abstract painting of oranges and browns on a black background"
 series: weary-pilgrim-prayers
 ---

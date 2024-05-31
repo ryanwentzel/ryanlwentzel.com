@@ -5,7 +5,7 @@ subtitle: "A sermon on Romans 16:25–27"
 description: "In this final sermon on the Book of Romans, Ryan looks at the Apostle Paul's concluding doxology. It's the longest doxology in the New Testament, and its grammar is complex. But the message is clear: Praise God for the gospel of Jesus Christ."
 date: 2024-03-19 09:01:50 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-scherer-1mAqQGg6FwI-unsplash.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-scherer-1mAqQGg6FwI-unsplash.jpg"
 episode_id: 3qMwIWvSb3OAB6CVVpYvjf
 ---
 In this final sermon on the Book of Romans, Ryan looks at the Apostle Paul's concluding doxology. It's the longest doxology in the New Testament, and its grammar is complex. But the message is clear: Praise God for the gospel of Jesus Christ.

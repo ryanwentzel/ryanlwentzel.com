@@ -4,7 +4,7 @@ subtitle: A prayer based on Psalm 127
 description: A collect based on Psalm 127. *\"Our Father, you who give sleep to your people, keep us from delusions of self-sufficiency and autonomy. Help us to embrace our creaturely limitations rather than being ashamed of them...\"*
 date: 2024-04-10 09:06:22 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/nic-y-c-raiiC47ZV7E-unsplash.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/nic-y-c-raiiC47ZV7E-unsplash.jpg"
     alt: red bridge near trees
 series: weary-pilgrim-prayers
 ---

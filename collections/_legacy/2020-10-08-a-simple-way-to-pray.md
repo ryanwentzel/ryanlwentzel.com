@@ -2,7 +2,7 @@
 title: "A Simple Way to Pray"
 date: 2020-10-08 16:06:00 -0700
 excerpt: "In 1535, Martin Luther’s barber, Peter Beskendorf, asked for guidance on prayer. Luther offered a response in the form of a brief treatise describing his own prayer habits."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/luther-simple-way-pray.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/luther-simple-way-pray.jpg" 
 featured_image_alt: Cover of A Simple Way to Pray by Martin Luther
 published: true
 ---

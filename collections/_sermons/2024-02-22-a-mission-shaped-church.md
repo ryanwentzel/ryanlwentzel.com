@@ -5,7 +5,7 @@ subtitle: "A sermon on Romans 15:14–33"
 description: "In this sermon on Romans 15:14–33, Ryan explores three characteristics of a mission-shaped church."
 date: 2024-02-22 16:48:01 -0800
 img:
-    url: https://d1yo597syf8yny.cloudfront.net/assets/img/content/pawel-czerwinski-SOiSsilz3Eg-unsplash.jpg
+    url: https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-SOiSsilz3Eg-unsplash.jpg
 episode_id: 3j7eD2K26jqdxTxL5oUULl
 ---
 In this sermon on Romans 15:14–33, Ryan explores three characteristics of a mission-shaped church. A mission-shaped church:

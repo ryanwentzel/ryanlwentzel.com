@@ -4,10 +4,10 @@ subtitle: A simple pattern for daily prayer
 seo_description: A simple pattern for daily prayer that avoids opportunities for rumination.
 date: 2024-01-04
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-full.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-full.webp"
     alt: "green wall paint photo"
-    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-medium.webp"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-thumb.webp"
+    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-medium.webp"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-thumb.webp"
 ---
 
 ## Opening Sentence

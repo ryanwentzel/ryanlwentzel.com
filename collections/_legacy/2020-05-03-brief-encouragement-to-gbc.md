@@ -3,7 +3,7 @@ title: A Brief Encouragement to a Church Weary of Living in Lockdown
 subtitle: For those who are weary of living through lockdown
 date: 2020-05-06 22:07:26 -0700
 excerpt: "Here we are. Another Sunday online. I think a word that captures how many of us feel lately is <i>weary</i>. <i>Weary</i> of bad news. <i>Weary</i> of isolation. <i>Weary</i> of economic fears. <i>Weary</i> of not gathering on the Lord’s Day. If that’s how you feel, you’re not alone. I feel it, too."
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/empty-pews-01.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/empty-pews-01.jpg" 
 featured_image_alt: Empty pews in a church
 ---
 *I offered the following encouragement to my congregation last Sunday at the beginning of the sermon video we recorded.*

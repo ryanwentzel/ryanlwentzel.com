@@ -2,7 +2,7 @@
 title: "Pray Out Loud"
 date: 2020-09-17 19:36:11 -0700
 excerpt: "If your prayer life is suffering because of wandering thoughts, why not try speaking your prayers out loud. After all, you <i>are</i> talking to another person — a divine person you can’t see with your eyes but a person nonetheless." 
-featured_image: "https://d1yo597syf8yny.cloudfront.net/images/featured/waugh-southwesterly-gale.jpg" 
+featured_image: "https://cdn.ryanlwentzel.com/images/featured/waugh-southwesterly-gale.jpg" 
 featured_image_caption: Frederick J. Waugh, <i>Southwesterly Gale, St. Ives</i>, 1907
 published: true  
 featured: true

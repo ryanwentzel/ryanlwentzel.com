@@ -6,7 +6,7 @@ excerpt: "Our great God, we come before you this morning in the name of Jesus Ch
 There is no one in heaven or on earth who compares to you."
 description: "A pastoral prayer offered on May 17, 2020 at Grace Bible Church in Escondido, California."
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/images/featured/woman-praying.jpg"
+    url: "https://cdn.ryanlwentzel.com/images/featured/woman-praying.jpg"
 ---
 
 *A pastoral prayer offered on May 17, 2020 at Grace Bible Church in Escondido, California.*

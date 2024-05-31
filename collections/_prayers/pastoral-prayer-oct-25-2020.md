@@ -5,7 +5,7 @@ date: 2020-10-26 9:01:58 -0700
 description: A pastoral prayer offered on October 25, 2020 at Grace Bible Church in Escondido, California.
 excerpt: "We extol you, our God and King, and we will bless your name forever and ever. Everyday we will bless you and praise your name forever and ever. Great are you, O God, the God and Father of our Lord Jesus Christ. You are greatly to be praised, and your greatness is unsearchable."
 img: 
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/SK-A-2721.jpg"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/SK-A-2721.jpg"
 ---
 
 *A pastoral prayer offered on October 25, 2020 at Grace Bible Church in Escondido, CA.*

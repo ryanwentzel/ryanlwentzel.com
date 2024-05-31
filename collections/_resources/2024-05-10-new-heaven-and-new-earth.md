@@ -5,10 +5,10 @@ description:
 seo_description: "Use this resource guide to study what the Bible teaches about the new heaven and new earth."
 date: 2024-05-10 19:18:32 -0700
 img:
-    url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-full.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-full.webp"
     alt: "green and brown mountains under white clouds and blue sky"
-    medium_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-medium.webp"
-    thumb_url: "https://d1yo597syf8yny.cloudfront.net/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-thumb.webp"
+    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-medium.webp"
+    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-thumb.webp"
 ---
 *The resources listed below provide a starting point for exploring what the Bible teaches about the renewal of the material world.*
 
