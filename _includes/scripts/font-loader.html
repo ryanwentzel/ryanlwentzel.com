@@ -1,0 +1,30 @@
+<script src="{{ '/assets/js/vendors/ffo/fontfaceobserver.js'}}"></script>
+<script>
+    const classNames = {
+        loading: "fonts-loading",
+        loaded: "fonts-loaded",
+        failed: "fonts-failed"
+    };
+    var normal = new FontFaceObserver("InterVariable");
+    var italic = new FontFaceObserver("InterVariable", {
+        style: "italic"
+    });
+
+    var html = document.documentElement;
+    html.classList.add(classNames.loading);
+
+    normal.load().then(function () {
+
+        html.classList.remove(classNames.loading);
+        html.classList.add(classNames.loaded);
+        console.log("Normal font has loaded");
+        italic.load().then(function() {
+            sessionStorage.fontsLoaded = true;
+            console.log("Italic font has loaded");
+        });
+    }).catch(function () {
+        sessionStorage.fontsLoaded = false;
+        html.classList.remove(classNames.loading);
+        html.classList.add(classNames.failed);
+    });
+</script>
