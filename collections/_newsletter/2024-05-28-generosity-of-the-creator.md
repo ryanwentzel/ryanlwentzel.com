@@ -20,10 +20,12 @@ published: false
 
 ## Talks
 
-- The Doctrine of Creation – Part 1. An overview of the Bible's teaching about the natural world. In this talk I focus on the opening chapters of Genesis and what they reveal about the inherent goodness and value of creation.
-- The Doctrine of Creation – Part 2. An overview of the Bible's teaching about the natural world. In this talk I focus on human beings' role as members of the community of creation tasked with ruling and keeping the world on God's behalf.
-- Corrupt Pastors, Good God. A sermon on 1 Samuel 2:12–36.
-- The God Who Speaks. A sermon on 1 Samuel 3:1–4:1a.
+- [The Doctrine of Creation – Part 1]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-1.md %}). A talk focusing on the opening chapters of Genesis and what they reveal about creation's inherent goodness and value.
+- [The Doctrine of Creation – Part 2]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-2.md %}). A talk focusing on human beings' role as members of the community of creation tasked with ruling and keeping the world on God's behalf.
+- [Corrupt Pastors, Good God](#). A sermon on 1 Samuel 2:12–36.
+- [The God Who Speaks](#). A sermon on 1 Samuel 3:1–4:1a.
+
+[Listen to more of my talks and sermons]({{ site.data.nav.sermons | absolute_url }})
 
 ## Art I'm Enjoying
 
@@ -62,6 +64,8 @@ passes to me through the trees.
 > I believe that taking creation and new creation seriously is the way to understand and revitalize aesthetic awareness and perhaps even creativity among Christians today. Beauty matters, dare I say, almost as much as spirituality and justice.
 
 — N.T. Wright in *‌ On Earth as in Heaven: Daily Wisdom for Twenty-First Century Christians* (New York: HarperCollins, 2022)
+
+[Explore other quotes I've collected]({{ site.data.nav.commonplace | absolute_url }})
 
 {% include newsletter/sections/footer.html -%}
 
