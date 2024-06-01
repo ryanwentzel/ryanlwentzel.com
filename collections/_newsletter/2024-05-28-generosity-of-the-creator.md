@@ -22,8 +22,8 @@ published: false
 
 - [The Doctrine of Creation – Part 1]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-1.md %}). A talk focusing on the opening chapters of Genesis and what they reveal about creation's inherent goodness and value.
 - [The Doctrine of Creation – Part 2]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-2.md %}). A talk focusing on human beings' role as members of the community of creation tasked with ruling and keeping the world on God's behalf.
-- [Corrupt Pastors, Good God](#). A sermon on 1 Samuel 2:12–36.
-- [The God Who Speaks](#). A sermon on 1 Samuel 3:1–4:1a.
+- [Corrupt Pastors, Good God]({% link _sermons/2024-05-31-corrupt-pastors-good-god.md %}). A sermon on 1 Samuel 2:12–36.
+- [The God Who Speaks]({% link _sermons/2024-05-31-the-god-who-speaks.md %}). A sermon on 1 Samuel 3:1–4:1a.
 
 [Listen to more of my talks and sermons]({{ site.data.nav.sermons | absolute_url }})
 
