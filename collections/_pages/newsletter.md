@@ -1,7 +1,7 @@
 ---
 layout: newsletter-sub
 title: Newsletter
-permalink: /newsletter
+permalink: /newsletter/
 masthead:
     display: false
 img:

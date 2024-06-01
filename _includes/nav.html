@@ -40,7 +40,7 @@
               <a class="nav-link{% if page.url == '/podcasts/sermons/index.html' %} active{% endif %}" href="{{ '/podcasts/sermons/' | relative_url }}">Podcast</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link{% if page.url == '/newsletter/index.html' %} active{% endif %}" href="{{ '/newsletter' | relative_url }}">Newsletter</a>
+              <a class="nav-link{% if page.url == '/newsletter/index.html' %} active{% endif %}" href="{% link _pages/newsletter.md %}">Newsletter</a>
             </li>
             <li class="nav-item">
               <a class="nav-link{% if page.url == '/about' %} active{% endif %}" href="{% link _pages/about.md %}">About</a>
