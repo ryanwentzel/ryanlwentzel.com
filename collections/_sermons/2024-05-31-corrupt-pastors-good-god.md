@@ -2,10 +2,7 @@
 title: "Corrupt Pastors, Good God"
 seo_title: "Corrupt Pastors, Good God – A Sermon On 1 Samuel 2:12–36"
 subtitle: "A sermon on 1 Samuel 2:12–36"
-description: | 
-    Over the last several years, we've seen scandal after scandal involving well-known Christian leaders: illicit romantic relationships, sexual abuse, covering up abuse, heavy-handed leadership, and the list goes on. 
-
-    How do we hold on to faith when the people who are supposed to represent Jesus don't?
+description: "Over the last several years, we've seen scandal after scandal involving well-known Christian leaders: illicit romantic relationships, sexual abuse, covering up abuse, heavy-handed leadership, and the list goes on. *How do we hold on to faith when the people who are supposed to represent Jesus don't?*"
 seo_description: "How do we hold on to faith when the people who are supposed to represent Jesus don't?"
 date: 2024-05-31 19:00:36 -0700
 img:
