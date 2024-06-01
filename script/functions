@@ -81,8 +81,10 @@ description:
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
 published: false
 img:
-    url: $cdn
-    alt:
+    alt: ""
+    url: "$cdn"
+    medium_url: "$cdn"
+    thumb_url: "$cdn"
 episode_id: 
 ---
 
