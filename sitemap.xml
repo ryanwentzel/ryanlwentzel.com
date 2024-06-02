@@ -51,12 +51,6 @@ sitemap:
         <priority>0.5</priority>
         <changefreq>monthly</changefreq>
     </url>
-    <url>
-        <loc>{{ site.data.archive.playlists | absolute_url }}</loc>
-        <lastmod>{% include sitemap/collection-lastmod.html collection=site.playlists %}</lastmod>
-        <priority>0.5</priority>
-        <changefreq>monthly</changefreq>
-    </url>
 {%- include sitemap/collection.html collection=site.newsletter %}
 {%- include sitemap/collection.html collection=site.sermons %}
 {%- include sitemap/collection.html collection=site.prayers %}
