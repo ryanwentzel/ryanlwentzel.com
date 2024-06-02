@@ -1,6 +1,6 @@
 ---
 title: The God Who Speaks
-seo_title: The God Who Speaks – A Sermon On 1 Samuel 3:1–4a"
+seo_title: "The God Who Speaks – A Sermon On 1 Samuel 3:1–4a"
 subtitle: A sermon on 1 Samuel 3:1–4:1a
 description: "1 Samuel 3:1–4:1a is a charming story about the LORD calling the boy Samuel to be his prophet. But that's not all. Ultimately, this story is about the God who speaks through his prophets, his written Word, and supremely in his Son, Jesus Christ."
 seo_description: "The story of the LORD calling the boy Samuel is ultimately about the God who speaks through his prophets, his written Word, and supremely in his Son, Jesus Christ."
