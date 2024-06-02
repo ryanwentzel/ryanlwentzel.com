@@ -5,4 +5,6 @@ masthead:
     display: false
 sitemap:
     lastmod: 2024-01-11
+opengraph:
+    type: website
 ---
