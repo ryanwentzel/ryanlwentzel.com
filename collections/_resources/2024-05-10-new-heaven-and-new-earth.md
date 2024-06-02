@@ -7,8 +7,8 @@ date: 2024-05-10 19:18:32 -0700
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-full.webp"
     alt: "green and brown mountains under white clouds and blue sky"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/toan-chu-YKN_G9L9nMA-unsplash-thumb.webp"
 ---
 *The resources listed below provide a starting point for exploring what the Bible teaches about the renewal of the material world.*
 

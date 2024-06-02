@@ -8,7 +8,7 @@ date: 2024-05-14 19:42:07 -0700
 img:
     alt: "close-up photo of a Cleveland Sage bloom"
     url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240514-IMG_9454.jpg"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240514-IMG_9454-thumb.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/photos/20240514-IMG_9454-thumb.webp"
     caption: Cleveland Sage
     shutter_speed: 1/800
     aperture: f/4.0

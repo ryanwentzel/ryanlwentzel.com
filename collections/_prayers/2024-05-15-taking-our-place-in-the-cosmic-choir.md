@@ -8,8 +8,8 @@ date: 2024-05-15 08:17:56 -0700
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/content/brady-bellini-WEQbe2jBg40-unsplash-full.webp"
     alt: "mountain range under clear blue sky"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/brady-bellini-WEQbe2jBg40-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/brady-bellini-WEQbe2jBg40-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/brady-bellini-WEQbe2jBg40-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/brady-bellini-WEQbe2jBg40-unsplash-thumb.webp"
 series: weary-pilgrim-prayers
 ---
 O Lord, you whose greatness surpasses our wildest imaginations, thrill us with your majesty, goodness, and grace so that we might take our place in the cosmic choir, praising your wonderful name now and forever, through Christ our Lord. Amen.

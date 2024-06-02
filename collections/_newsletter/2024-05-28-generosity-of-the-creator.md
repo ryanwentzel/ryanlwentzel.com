@@ -7,8 +7,8 @@ issue: 2
 img:
     alt: "abstract painting with blue and orange colors"
     url: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-full.webp"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-thumb.webp"
 published: false 
 ---
 

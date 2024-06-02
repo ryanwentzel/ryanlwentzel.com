@@ -6,8 +6,8 @@ date: 2024-01-04
 img: 
     url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-full.webp"
     alt: "green wall paint photo"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-thumb.webp"
 ---
 
 ## Opening Sentence

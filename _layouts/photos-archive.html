@@ -12,7 +12,7 @@ layout: default
                 <article class="d-flex flex-column col-md-6 mb-3">
                     <div class="py-4 border-top">
                         <a class="photo-wrapper d-block col-12 position-relative rounded-2 mb-3 overflow-hidden text-reset" href="{{ resource.url | relative_url }}" title="Click to view photo">
-                            <img class="photo-thumbnail d-block w-100 height-auto rounded-2" src="{{ resource.img.thumb_url }}" alt="{{ resource.img.alt }}" loading="lazy">
+                            <img class="photo-thumbnail d-block w-100 height-auto rounded-2" src="{{ resource.img.url_sm }}" alt="{{ resource.img.alt }}" loading="lazy">
                             <div class="photo-overlay overlay-full">
                                 <h1 class="h3 text-white overlay-text">
                                     {{ resource.title }}

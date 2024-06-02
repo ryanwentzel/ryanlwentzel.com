@@ -8,8 +8,8 @@ date: 2024-05-31 19:00:36 -0700
 img:
     alt: "multicolored abstract painting"
     url: "https://cdn.ryanlwentzel.com/assets/img/content/steve-johnson-0j9u-ItaGxM-unsplash-full.webp"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/steve-johnson-0j9u-ItaGxM-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/steve-johnson-0j9u-ItaGxM-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/steve-johnson-0j9u-ItaGxM-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/steve-johnson-0j9u-ItaGxM-unsplash-thumb.webp"
 episode_id: 6kXgm90a89lKmNObAw6sid
 ---
 Over the last several years, we've seen scandal after scandal involving well-known Christian leaders: illicit romantic relationships, sexual abuse, covering up abuse, heavy-handed leadership, and the list goes on.

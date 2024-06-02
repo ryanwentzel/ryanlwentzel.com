@@ -100,7 +100,7 @@ defaults:
       img:
         url: https://cdn.ryanlwentzel.com/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash-full.webp
         alt: "notebook on wooden table"
-        thumb_url: https://cdn.ryanlwentzel.com/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash-thumb.webp
+        url_sm: https://cdn.ryanlwentzel.com/assets/img/content/dim-hou-bfFX9KZJvhQ-unsplash-thumb.webp
       masthead:
         full_bleed: true
   - scope:

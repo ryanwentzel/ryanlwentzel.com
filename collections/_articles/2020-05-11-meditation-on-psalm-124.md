@@ -5,8 +5,8 @@ description: "The Christian life is less like a pleasant stroll through the park
 img: 
     alt: "dramatic landscape on Isle of Skye"
     url: "https://cdn.ryanlwentzel.com/assets/img/content/bjorn-snelders-Cd3Ek7rNXSk-unsplash-full.webp"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/bjorn-snelders-Cd3Ek7rNXSk-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/bjorn-snelders-Cd3Ek7rNXSk-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/bjorn-snelders-Cd3Ek7rNXSk-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/bjorn-snelders-Cd3Ek7rNXSk-unsplash-thumb.webp"
 ---
 
 The Christian life is less like a pleasant stroll through the park and more like hand-to-hand combat on a battlefield. We face enemies both within and without. Fear or discouragement paralyzes us when we forget that the Divine Warrior is on our side to protect and defend us.

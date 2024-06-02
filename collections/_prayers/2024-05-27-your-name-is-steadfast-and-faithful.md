@@ -8,8 +8,8 @@ date: 2024-05-27 13:44:16 -0700
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-full.webp"
     alt: close up of an ocean wave
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/austin-schmid-5Dga0T0x6GY-unsplash-thumb.webp"
 series: weary-pilgrim-prayers
 theme_verses:
     text: "And those who know your name<br>&ensp;&ensp;&ensp;put their trust in you,<br>&ensp;for you, O LORD, have not forsaken<br>&ensp;&ensp;&ensp;those who seek you."

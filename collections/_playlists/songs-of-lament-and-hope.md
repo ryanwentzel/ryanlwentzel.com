@@ -6,8 +6,8 @@ description: A playlist for those who are grieving, hurting, or suffering. It ma
 highlight: true
 img:
     url: https://cdn.ryanlwentzel.com/assets/img/content/inness-gray-day-goochland-1884-crop-full.webp
-    medium_url: https://cdn.ryanlwentzel.com/assets/img/content/inness-gray-day-goochland-1884-crop-medium.webp
-    thumb_url: https://cdn.ryanlwentzel.com/assets/img/content/inness-gray-day-goochland-1884-crop-thumb.webp
+    url_md: https://cdn.ryanlwentzel.com/assets/img/content/inness-gray-day-goochland-1884-crop-medium.webp
+    url_sm: https://cdn.ryanlwentzel.com/assets/img/content/inness-gray-day-goochland-1884-crop-thumb.webp
     alt: painting by George Inness
 redirect_from:
     - /songs-of-lament-and-hope

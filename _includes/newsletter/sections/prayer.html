@@ -2,7 +2,7 @@
 {%- capture url -%}{%- link {{ path }} -%}{%- endcapture -%}
 {%- assign prayer = site.prayers | find: "url", url -%}
 {%- unless prayer == nil -%}
-<img src="{{ prayer.img.medium_url | default: prayer.img.url }}" alt="{{ prayer.img.alt }}">
+<img src="{{ prayer.img.url_md | default: prayer.img.url }}" alt="{{ prayer.img.alt }}">
 <blockquote>
 {{ prayer.content | markdownify }}
 </blockquote>

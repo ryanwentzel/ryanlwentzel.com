@@ -6,8 +6,8 @@ description: "How do I survive the pandemic? That's what I've been asking myself
 img: 
     url: "https://cdn.ryanlwentzel.com/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-full.webp"
     alt: "photo of marathon runners"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/martins-zemlickis-NPFu4GfFZ7E-unsplash-thumb.webp"
 ---
 How do I survive the pandemic? That's what I've been asking myself lately. Don't misunderstand me. I'm not trying to figure out how to avoid dying from COVID-19. What I'm asking is, how do I not become a spiritual, emotional, and mental wreck? I don't need to tell you how challenging life has been since March. We're all struggling in one way or another. 
 

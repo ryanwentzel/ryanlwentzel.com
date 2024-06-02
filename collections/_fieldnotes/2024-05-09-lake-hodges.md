@@ -6,7 +6,7 @@ description: Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set 
 date: 2024-05-09 21:14:39 -0700
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-full.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-thumb.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/ryan-wentzel-lake-hodges-20240509-02-thumb.webp"
     alt: "photo of San Dieguito River Park sign"
     title: "San Dieguito River Park sign"
 activity:

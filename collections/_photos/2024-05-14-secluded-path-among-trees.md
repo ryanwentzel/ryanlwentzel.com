@@ -8,7 +8,7 @@ date: 2024-05-14 11:53:23 -0700
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9396.jpg"
     alt: "photo of a path at Felicita County Park"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9396-thumb.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9396-thumb.webp"
     caption: Secluded Path Among Trees
     shutter_speed: 1/1000
     aperture: f/1.4

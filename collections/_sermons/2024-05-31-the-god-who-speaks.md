@@ -8,8 +8,8 @@ date: 2024-05-31 19:23:10 -0700
 img:
     alt: "photo of man looking into nighttime sky"
     url: "https://cdn.ryanlwentzel.com/assets/img/content/greg-rakozy-0LU4vO5iFpM-unsplash-full.webp"
-    medium_url: "https://cdn.ryanlwentzel.com/assets/img/content/greg-rakozy-0LU4vO5iFpM-unsplash-medium.webp"
-    thumb_url: "https://cdn.ryanlwentzel.com/assets/img/content/greg-rakozy-0LU4vO5iFpM-unsplash-thumb.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/greg-rakozy-0LU4vO5iFpM-unsplash-medium.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/greg-rakozy-0LU4vO5iFpM-unsplash-thumb.webp"
 episode_id: 44XsPAq1Istpr85GAWPwwq
 ---
 1 Samuel 3:1–4:1a is a charming story about the LORD calling the boy Samuel to be his prophet. But that's not all. 

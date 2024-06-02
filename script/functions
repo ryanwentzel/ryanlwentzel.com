@@ -83,8 +83,8 @@ published: false
 img:
     alt: ""
     url: "$cdn"
-    medium_url: "$cdn"
-    thumb_url: "$cdn"
+    url_md: "$cdn"
+    url_sm: "$cdn"
 episode_id: 
 ---
 
@@ -172,7 +172,7 @@ date: $(date +'%Y-%m-%d %H:%M:%S %z')
 img:
     url: "$cdn_photos"
     alt: ""
-    thumb_url: "$cdn_photos"
+    url_sm: "$cdn_photos"
     caption:
     shutter_speed:
     aperture:
@@ -212,8 +212,8 @@ date: $(date +'%Y-%m-%d %H:%M:%S %z')
 img:
     url: "$cdn"
     alt: ""
-    medium_url: "$cdn"
-    thumb_url: "$cdn"
+    url_md: "$cdn"
+    url_sm: "$cdn"
 published: false 
 ---
 

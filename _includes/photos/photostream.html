@@ -4,7 +4,7 @@
     <div class="d-flex flex-column col-md-4 mb-3">
         <div class="py-4">
             <a class="photo-wrapper d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}" title="Click to view photo">
-                <img class="photo-thumbnail d-block w-100 height-auto rounded-2 shadow-lg" src="{{ resource.img.thumb_url }}" alt="{{ resource.img.alt }}" loading="lazy">
+                <img class="photo-thumbnail d-block w-100 height-auto rounded-2 shadow-lg" src="{{ resource.img.url_sm }}" alt="{{ resource.img.alt }}" loading="lazy">
                 <div class="photo-overlay overlay-full">
                     <div class="h5 text-white text-center px-3 overlay-text">
                         {{ resource.title }}
