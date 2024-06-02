@@ -5,8 +5,10 @@ User-agent: *
 Disallow: /
 
 {% else %}
-User-agent: * Disallow: /vicki-wentzel
-User-agent: * Disallow: /archives
+User-agent: * 
+Disallow: /vicki-wentzel
+User-agent: * 
+Disallow: /archives
 
 Sitemap: {{ "/sitemap.xml" | absolute_url }}
 {% endif %}
