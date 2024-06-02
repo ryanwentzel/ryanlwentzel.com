@@ -1,6 +1,7 @@
 ---
 layout: newsletter-sub
 title: Newsletter
+description: "The Weary Pilgrim is a monthly(ish) newsletter written by Ryan Wentzel"
 permalink: /newsletter/
 masthead:
     display: false
