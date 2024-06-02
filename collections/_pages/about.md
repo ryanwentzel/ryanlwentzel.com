@@ -1,5 +1,6 @@
 ---
 title: About
+description: "Ryan serves as a pastor at Grace Bible Church in Escondido, California."
 layout: about
 masthead:
     display: false
@@ -8,3 +9,4 @@ sitemap:
 opengraph:
     type: website
 ---
+{{ site.data.profile.bio | markdownify }}
