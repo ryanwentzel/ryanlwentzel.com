@@ -1,2 +1,5 @@
+# base_url is retained for backwards compatibility
+# use `url` instead
 base_url: https://cdn.ryanlwentzel.com
 img_assets_url: https://cdn.ryanlwentzel.com/assets/img
+url: https://cdn.ryanlwentzel.com
