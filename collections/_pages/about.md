@@ -1,6 +1,6 @@
 ---
 title: About
-description: "Ryan serves as a pastor at Grace Bible Church in Escondido, California."
+description: "Ryan Wentzel is a pastor. His ministry ranges from preaching and teaching to walking with others through life's most difficult circumstances"
 layout: about
 masthead:
     display: false
