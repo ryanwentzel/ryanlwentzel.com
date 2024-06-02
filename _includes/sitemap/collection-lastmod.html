@@ -1,0 +1,3 @@
+{%- assign collection = include.collection -%}
+{%- assign newest = collection | reverse | first -%}
+{{- newest.sitemap.lastmod | default: newest.date | date_to_xmlschema -}}

@@ -1,0 +1,9 @@
+{% assign collection = include.collection %}
+{%- assign priority = include.priority | default: 0.7 %}
+{%- for item in collection %}
+    <url>
+        <loc>{{ item.url | absolute_url }}</loc>
+        <lastmod>{{ sermon.sitemap.lastmod | default: item.date | date_to_xmlschema }}</lastmod>
+        <priority>{{ priority }}</priority>
+    </url>
+{%- endfor -%}
