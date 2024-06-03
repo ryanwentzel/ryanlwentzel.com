@@ -11,6 +11,7 @@ published: false
             "url":          {{- sermon.url | relative_url | jsonify }},
             "absoluteUrl":  {{- sermon.url | absolute_url | jsonify }},
             "path":         {{- sermon.path | jsonify }},
+            "image": { "url": {{- sermon.img.url_md | default: sermon.img.url | jsonify }}, "alt": {{- sermon.img.alt | jsonify }} },
             "shareImage":   {{- sermon.img.url_md | default: sermon.img.url | jsonify }},
             "description":  {{- sermon.seo_description | default: sermon.description | jsonify }}
         }
