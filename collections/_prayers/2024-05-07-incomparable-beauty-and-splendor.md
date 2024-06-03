@@ -7,7 +7,7 @@ img:
     url: https://cdn.ryanlwentzel.com/assets/img/content/robert-lukeman-zNN6ubHmruI-unsplash-full.webp
     url_md: https://cdn.ryanlwentzel.com/assets/img/content/robert-lukeman-zNN6ubHmruI-unsplash-medium.webp
     url_sm: https://cdn.ryanlwentzel.com/assets/img/content/robert-lukeman-zNN6ubHmruI-unsplash-thumb.webp
-    alt: waterfall in Iceland
+    alt: "Breathtaking waterfall in Iceland that reflects the beauty and splendor of the God of the Bible"
 series: weary-pilgrim-prayers
 ---
 Our God and our King, you whose beauty and splendor are beyond compare, wow us with your greatness and amaze us with your goodness, so that our mouths might be full of your praise forever and ever, through Jesus Christ our Lord. Amen.
