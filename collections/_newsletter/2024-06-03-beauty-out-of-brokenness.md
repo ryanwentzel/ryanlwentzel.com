@@ -24,6 +24,8 @@ Fujimura sees Kintsugi as a beautiful metaphor for the work of mending and renew
 
 God redeems the broken fragments of our lives. He mends and restores, not by hiding our failures and scars, but by creating beauty out of the brokenness. "It is precisely through our brokenness and fissures that God's grace can shine through, as in the gold that fills fissures in Kintsugi," says Fujimura.
 
+Lovely!
+
 ## A Prayer Based on Psalm 145
 
 {% include newsletter/sections/prayer.html path="_prayers/2024-05-07-incomparable-beauty-and-splendor.md" %}
