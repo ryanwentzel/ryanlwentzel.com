@@ -40,7 +40,7 @@ I read through the Psalms regularly. Sometimes I write prayers based on the day'
 
 ## Talks
 
-![flatlay photo of open Bible](https://cdn.ryanlwentzel.com/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash.jpg)
+![Old German Bible opened to the Psalms resting on top of a rustic wooden table](https://cdn.ryanlwentzel.com/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash-md.webp)
 
 *Recent talks and sermons from my weekly teaching and preaching ministry.*
 
