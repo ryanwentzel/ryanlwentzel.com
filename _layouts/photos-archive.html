@@ -3,15 +3,15 @@ layout: default
 ---
 <main id="start-of-content" class="mb-8 mt-3">
     <div class="container-xl mx-auto">
-        {{ content }}
-        {% unless paginator.posts == nil or paginator.size == 0 %}
-        {% assign resources = paginator.posts %}
+        {{- content }}
+        {%- unless paginator.posts == nil or paginator.size == 0 %}
+        {%- assign resources = paginator.posts %}
         <section class="archive-section photo-grid">
             <div class="d-flex flex-wrap gutter-spacious">
-            {% for resource in resources %}
+            {%- for resource in resources %}
                 <article class="d-flex flex-column col-md-6 mb-3">
                     <div class="py-4 border-top">
-                        <a class="photo-wrapper d-block col-12 position-relative rounded-2 mb-3 overflow-hidden text-reset" href="{{ resource.url | relative_url }}" title="Click to view photo">
+                        <a class="photo-wrapper d-block col-12 position-relative rounded-2 mb-3 overflow-hidden text-reset" href="{{ resource.url | relative_url }}">
                             <img class="photo-thumbnail d-block w-100 height-auto rounded-2" src="{{ resource.img.url_sm }}" alt="{{ resource.img.alt }}" loading="lazy">
                             <div class="photo-overlay overlay-full">
                                 <h3 class="text-white overlay-text">
@@ -21,10 +21,10 @@ layout: default
                         </a>
                     </div>
                 </article>
-            {% endfor %}
+            {%- endfor %}
             </div>
         </section>
-        {% endunless %}
-        {% include paginator.html %}
+        {%- endunless %}
+        {%- include paginator.html %}
     </div>
 </main>
