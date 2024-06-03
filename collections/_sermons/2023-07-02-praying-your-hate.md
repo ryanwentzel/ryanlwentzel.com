@@ -2,6 +2,7 @@
 title: Praying Your Hate
 subtitle: "The Psalms teach us to bring our anger and hate before God in prayer"
 description: How do you deal with your anger, outrage, or hatred? Vent it? Suppress it? Ignore it? Most of us struggle with knowing how to handle these emotions. However, the Psalms teach us how to engage our anger faithfully. They invite us to pray our hate. In this talk, Ryan explains why and how to do it.
+seo_description: How do you deal with your anger and outrage? Vent it? Suppress it? The Psalms show us a better way. Learn both the why and how of praying your hate.
 date: 2023-12-28
 img:
     url:  https://cdn.ryanlwentzel.com/assets/img/content/scott-webb-TOmVNJZN1AA-unsplash.jpg
