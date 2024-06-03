@@ -4,7 +4,7 @@
     <link rel="icon" type="image/x-icon" href="{{ site.data.cdn.url }}/assets/img/brand/favicon.ico">
     <meta name="robots" content="{{ page.robots | default: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}}">
     {% include title.html %}
-    {% include meta/description.html %}
+    {% include head/description.html %}
     <link rel="canonical" href="{% include canonical-url.html %}">
     <meta name="author" content="{{ site.data.profile.name }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.data.feeds.main | relative_url }}">
