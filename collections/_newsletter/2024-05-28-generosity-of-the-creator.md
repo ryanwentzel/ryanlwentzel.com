@@ -1,11 +1,11 @@
 ---
-title: The Generosity of the Creator
-subtitle: 
-description: 
+title: A Generous God
+subtitle: TBD
+description: TBD
 date: 2024-05-28 12:55:13 -0700
 issue: 2
 img:
-    alt: "abstract painting with blue and orange colors"
+    alt: "Abstract painting with blue and orange colors"
     url: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-full.webp"
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-medium.webp"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/pawel-czerwinski-LyZLaA5jtiY-unsplash-thumb.webp"
@@ -16,16 +16,18 @@ published: false
 
 {% include newsletter/sections/prayer.html path="_prayers/2024-05-07-incomparable-beauty-and-splendor.md" %}
 
-[Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }})
+[Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }} "Read prayers written by Ryan Wentzel")
 
 ## Talks
 
-- [The Doctrine of Creation – Part 1]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-1.md %}). A talk focusing on the opening chapters of Genesis and what they reveal about creation's inherent goodness and value.
-- [The Doctrine of Creation – Part 2]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-2.md %}). A talk focusing on human beings' role as members of the community of creation tasked with ruling and keeping the world on God's behalf.
-- [Corrupt Pastors, Good God]({% link _sermons/2024-05-31-corrupt-pastors-good-god.md %}). A sermon on 1 Samuel 2:12–36.
-- [The God Who Speaks]({% link _sermons/2024-05-31-the-god-who-speaks.md %}). A sermon on 1 Samuel 3:1–4:1a.
+![Old German Bible opened to the Psalms resting on top of a rustic wooden table](https://cdn.ryanlwentzel.com/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash-md.webp)
 
-[Listen to more of my talks and sermons]({{ site.data.nav.sermons | absolute_url }})
+- [The Doctrine of Creation – Part 1]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-1.md %} "Listen to a talk given by Ryan Wentzel"). A talk focusing on the opening chapters of Genesis and what they reveal about creation's inherent goodness and value.
+- [The Doctrine of Creation – Part 2]({{ site.url }}{% link _sermons/2024-05-31-doctrine-of-creation-part-2.md %} "Listen to a talk given by Ryan Wentzel"). A talk focusing on human beings' role as members of the community of creation tasked with ruling and keeping the world on God's behalf.
+- [Corrupt Pastors, Good God]({% link _sermons/2024-05-31-corrupt-pastors-good-god.md %} "Listen to a sermon on 1 Samuel 2:11–36 by Ryan Wentzel"). A sermon on 1 Samuel 2:12–36. *How do you hold on to faith when the people who are supposed to represent Jesus don't?*
+- [The God Who Speaks]({% link _sermons/2024-05-31-the-god-who-speaks.md %} "Listen to a sermon on 1 Samuel 3:1–4:1a by Ryan Wentzel"). A sermon on 1 Samuel 3:1–4:1a. *God is not silent. He has spoken through his prophets, in his written Word, and supremely in his Son, Jesus Christ.*
+
+[Listen to more of my talks and sermons]({{ site.data.nav.sermons | absolute_url }} "Listen to talks and sermons by Ryan Wentzel")
 
 ## Art I'm Enjoying
 
@@ -38,7 +40,7 @@ published: false
 
 ## Poetry I'm Enjoying
 
-![backlit forest]({{ site.data.cdn.img_assets_url }}/content/dan-stark-hEceQrBaIiE-unsplash-medium.webp)
+![A backlit forest representing the quietness and peace Wendell Berry writes about in his poem]({{ site.data.cdn.img_assets_url }}/content/dan-stark-hEceQrBaIiE-unsplash-medium.webp)
 
 **2007, XI**  
 By Wendell Berry
@@ -65,7 +67,7 @@ passes to me through the trees.
 
 — N.T. Wright in *‌ On Earth as in Heaven: Daily Wisdom for Twenty-First Century Christians* (New York: HarperCollins, 2022)
 
-[Explore other quotes I've collected]({{ site.data.nav.commonplace | absolute_url }})
+[Explore other quotes I've collected]({{ site.data.nav.commonplace | absolute_url }} "Browse a collection of quotes and excerpts from Ryan Wentzel's reading")
 
 {% include newsletter/sections/footer.html -%}
 
