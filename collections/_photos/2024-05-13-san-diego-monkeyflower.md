@@ -7,7 +7,7 @@ date: 2024-05-13 22:02:05 -07:00
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9225.jpg"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9225-thumb.webp"
-    alt: "photo of San Diego Monkeyflower blooms"
+    alt: "Colorful San Diego Monkeyflower blooms in Escondido, California"
     caption: San Diego Monkeyflower
     shutter_speed: 1/160
     aperture: f/4

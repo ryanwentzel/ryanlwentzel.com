@@ -5,7 +5,7 @@ seo_description: View a photo of a ladybug on a salvia leaf at Felicita County P
 date: 2024-05-13 13:31:45 -07:00
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-felicita-park-5.webp"
-    alt: "photo of a ladybug on a leaf"
+    alt: "A ladybug on a native salvia leaf in Escondido, California"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-felicita-park-5-thumb.webp"
     caption: Ladybug on a Salvia Leaf
     shutter_speed: 1/1000

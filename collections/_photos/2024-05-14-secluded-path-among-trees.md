@@ -7,7 +7,7 @@ seo_description: View a photo of a secluded path at Felicita County Park in Esco
 date: 2024-05-14 11:53:23 -0700
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9396.jpg"
-    alt: "photo of a path at Felicita County Park"
+    alt: "A secluded path at Felicita County Park in Esondido, California"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9396-thumb.webp"
     caption: Secluded Path Among Trees
     shutter_speed: 1/1000

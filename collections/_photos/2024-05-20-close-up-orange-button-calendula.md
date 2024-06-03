@@ -6,7 +6,7 @@ date: 2024-05-20 11:32:00 -07:00
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240512-IMG_9193.jpg"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/photos/20240512-IMG_9193-thumb.webp"
-    alt: "close-up photo of a calendula bloom"
+    alt: "Bright orange calendula bloom in Escondido, California"
     caption: Orange Button Calendula
     shutter_speed: 1/160
     aperture: f/5.6

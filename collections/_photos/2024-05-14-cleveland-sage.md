@@ -6,7 +6,7 @@ description: A close-up shot of a Cleveland Sage getting ready to bloom.
 seo_description: View a close-up photo of a beautiful Cleveland Sage spike getting ready to bloom.
 date: 2024-05-14 19:42:07 -0700
 img:
-    alt: "close-up photo of a Cleveland Sage bloom"
+    alt: "Cleveland Sage spike getting ready to bloom in Escondido, California"
     url: "https://cdn.ryanlwentzel.com/assets/img/photos/20240514-IMG_9454.jpg"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/photos/20240514-IMG_9454-thumb.webp"
     caption: Cleveland Sage
