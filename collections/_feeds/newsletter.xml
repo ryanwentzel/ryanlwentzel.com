@@ -6,35 +6,34 @@ layout: null
   <title>{{ site.data.newsletter.title }}</title>
   <subtitle>{{ site.data.newsletter.subtitle }}</subtitle>
   <rights>{{ site.data.newsletter.rights.statement }} {{ "now" | date: "%Y" }}. All rights reserved.</rights>
-  <id>{{ '/' | absolute_url }}</id>
-  <link href="{{ page.permalink | absolute_url }}" rel="self"/>
-  <link href="{{ '/' | absolute_url }}"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url | absolute_url }}</id>
+  <link href="{{ page.url | absolute_url }}" rel="self"/>
+  <link href="{{ site.url | absolute_url }}"/>
+  <updated>{% include sitemap/collection-lastmod.html collection=site.newsletter %}</updated>
   <generator>Jekyll</generator>
   <author>
     <name>{{ site.data.profile.name }}</name>
     <email>{{ site.data.profile.email }}</email>
-    <uri>{{ '/' | absolute_url }}</uri>
+    <uri>{{ site.url | absolute_url }}</uri>
   </author>
   <icon>{{ "favicon-32x32.png" | absolute_url }}</icon>
-  {%- for item in site.newsletter limit:1 -%}
+  {%- assign sorted = site.newsletter | reverse -%}
+  {%- for item in sorted limit:10 %}
   <entry>
     <title>{{ item.title | xml_escape }}</title>
     <link href="{{ item.url | absolute_url }}"/>
     <published>{{ item.date | date_to_xmlschema }}</published>
     <updated>{{ item.date | date_to_xmlschema }}</updated>
     <id>{{ item.url | absolute_url }}</id>
-    <summary>{{ item.subtitle }}</summary>
-    <content type="html"><![CDATA[
-    {%- if item.img -%}
-    <div><img src="{{ item.img.url }}" alt="{{ item.img.alt }}" title="{{ item.img.title }}"></div>
-    {%- endif -%}
-    {{ item.content | markdownify }}]]></content>
+    <summary>{{ item.seo_description | default: item.description }}</summary>
+    <content type="html">
+      <![CDATA[{%- if item.img -%}<div><img src="{{ item.img.url_md | default: item.img.url }}" alt="{{ item.img.alt }}"></div>{%- endif -%}{{ item.content | markdownify }}]]>
+    </content>
     <author>
       <name>{{ site.data.profile.name }}</name>
       <email>{{ site.data.profile.email }}</email>
-      <uri>{{ '/' | absolute_url }}</uri>
+      <uri>{{ site.url | absolute_url }}</uri>
     </author>
   </entry>
-  {%- endfor -%}
+  {%- endfor %}
 </feed>
