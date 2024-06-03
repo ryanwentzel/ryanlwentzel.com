@@ -1,6 +1,7 @@
 ---
 layout: contact
 title: Contact Me
+seo_title: Contact Ryan
 sitemap:
     exclude: true
 masthead:

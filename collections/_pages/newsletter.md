@@ -1,6 +1,7 @@
 ---
 layout: newsletter-sub
 title: Newsletter
+seo_title: The Weary Pilgrim Newsletter
 description: "The Weary Pilgrim is a monthly(ish) newsletter written by Ryan Wentzel"
 permalink: /newsletter/
 masthead:
@@ -13,6 +14,6 @@ logo:
 opengraph:
     type: website
 ---
-The ***{{ site.data.newsletter.title }}*** is my monthly(ish) newsletter. It provides readers with the latest content from [{{ site.name }}]({{ site.url }}), along with talks I've given and poetry and art I'm enjoying.
+The ***{{ site.data.newsletter.title }}*** is my monthly(ish) newsletter. It features my latest content, along with talks I've given and poetry and art I'm enjoying.
 
 
