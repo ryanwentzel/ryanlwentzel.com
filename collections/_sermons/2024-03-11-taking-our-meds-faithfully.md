@@ -2,7 +2,8 @@
 layout: podcast-episode
 title: "Taking Our Meds Faithfully: A Christian Perspective on Psychiatric Medication"
 subtitle: Finding Jesus in the Storm
-description: Psychiatric medication doesn't cure mental illness. However, using it wisely as part of a holistic approach to addressing mental health challenges can provide relief from some of the most debilitating symptoms. Medication just might be what someone needs to begin cultivating a greater level of mental health.
+description: "Psychiatric medication doesn't cure mental illness. However, using it wisely as part of a holistic approach to addressing mental health challenges can provide relief from some of the most debilitating symptoms. Medication just might be what someone needs to begin cultivating a greater level of mental health."
+seo_description: "Should Christians take medication for mental illness? Learn what the Bible says about taking medicine to treat mental health challenges."
 date: 2024-03-11 22:45:26 -0700
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/content/raimond-klavins-n-7HTOiJPso-unsplash.jpg"
