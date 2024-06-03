@@ -1,8 +1,11 @@
 <head>
-    {% include title.html %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/x-icon" href="{{ site.data.cdn.url }}/assets/img/brand/favicon.ico">
+    <meta name="robots" content="{{ page.robots | default: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}}">
+    {% include title.html %}
     {% include meta/description.html %}
+    <link rel="canonical" href="{% include canonical-url.html %}">
     <meta name="author" content="{{ site.data.profile.name }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.data.feeds.main | relative_url }}">
     <link rel="alternate" type="application/rss+xml" title="Commonplace — {{ site.title | escape }}" href="{{ site.data.feeds.commonplace | relative_url }}">
@@ -15,31 +18,10 @@
     <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
-    <!-- open graph -->
-    <meta property="og:title" content="{{ page.seo_title | default: page.title }}">
-    <meta property="og:description" content="{% include page-description.html %}">
-    <meta property="og:site_name" content="{{ site.name }}">
-    <meta property="og:type" content="{{ page.opengraph.type | default: 'article' }}">
-{%- assign url = page.url | remove:'index.html' | absolute_url %}
-    <meta property="og:url" content="{{ url }}">
-{%- if page.img %}
-    <meta property="og:image" content="{{ page.img.url }}">
-{% endif %}
-    <!-- Twitter Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:creator" content="@ryanwentzel">
-    <meta property="twitter:domain" content="ryanlwentzel.com">
-    <meta property="twitter:url" content="{{ url }}">
-    <meta name="twitter:title" content="{{ page.seo_title | default: page.title }}">
-    <meta name="twitter:description" content="{% include page-description.html %}">
-{%- if page.img %}
-    <meta property="twitter:image" content="{{ page.img.url }}">
-{% endif %}
-    <link rel="canonical" href="{{ url }}">
-    <link rel="preconnect" href="{{ site.data.cdn.base_url }}">
-    <link rel="preconnect" href="{{ site.data.cdn.base_url }}" crossorigin>
-    {% include fonts/preload.html -%}
-    {% include css/inline.html -%}
-    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
-    {% include scripts.html -%}
-  </head>
+    
+    {% include head/open-graph.html %}
+    {% include head/twitter-card.html %}
+    {% include head/prefetch.html -%}
+    {% include head/styles.html -%}
+    {% include head/scripts.html -%}
+</head>

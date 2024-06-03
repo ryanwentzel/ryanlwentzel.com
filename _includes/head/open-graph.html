@@ -1,0 +1,9 @@
+<!-- open graph -->
+    <meta property="og:title" content="{{ page.seo_title | default: page.title }}">
+    <meta property="og:description" content="{% include page-description.html %}">
+    <meta property="og:site_name" content="{{ site.name }}">
+    <meta property="og:type" content="{{ page.opengraph.type | default: 'article' }}">
+    <meta property="og:url" content="{% include canonical-url.html %}">
+    {%- if page.img %}
+    <meta property="og:image" content="{{ page.img.url }}">
+    {% endif -%}

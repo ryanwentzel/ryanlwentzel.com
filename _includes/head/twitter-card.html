@@ -1,0 +1,10 @@
+<!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@ryanwentzel">
+    <meta property="twitter:domain" content="ryanlwentzel.com">
+    <meta property="twitter:url" content="{% include canonical-url.html %}">
+    <meta name="twitter:title" content="{{ page.seo_title | default: page.title }}">
+    <meta name="twitter:description" content="{% include page-description.html %}">
+{%- if page.img %}
+    <meta property="twitter:image" content="{{ page.img.url }}">
+{% endif -%}
