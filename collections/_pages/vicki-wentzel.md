@@ -6,6 +6,7 @@ content_img:
     cdn_path: /content/vicki.jpg
 sitemap:
     exclude: true
+robots: "noindex, nofollow"
 ---
 
 <h2 class="display-4">In Memoriam</h2>
