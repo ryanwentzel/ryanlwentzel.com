@@ -4,7 +4,7 @@ layout:
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  <title>{{ site.title }}</title>
- <link href="{{ site.data.feeds.main | absolute_url }}" rel="self"/>
+ <link href="{{ page.url | absolute_url }}" rel="self"/>
  <link href="{{ site.url | absolute_url }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url | absolute_url }}</id>
@@ -22,17 +22,18 @@ layout:
    <link href="{{ item.url | absolute_url }}"/>
    <updated>{{ item.date | date_to_xmlschema }}</updated>
    <id>{{ item.url | absolute_url }}</id>
-   <content type="html"><![CDATA[
-    {%- if item.img -%}
-    <img src="{{ item.img.url }}">
-    {%- endif -%}
-    {{ item.description | default: item.excerpt | markdownify }}
-    <p><a href="{{ item.url | absolute_url }}">Continue reading this article at ryanlwentzel.com.</a></p>]]></content>
+   <content type="html">
+    <![CDATA[
+      {%- if item.img %}<img src="{{ item.img.url_md | default: item.img.url }}" alt="{{ item.img.alt }}">{%- endif %}
+      {{ item.content | markdownify }}
+      <p>This content first appeared at <a href="{{ item.url | absolute_url }}">{{ site.name }}</a></p>
+    ]]>
+  </content>
    <author>
     <name>{{ site.data.profile.name }}</name>
     <email>{{ site.data.profile.email }}</email>
     <uri>{{ site.url | absolute_url }}</uri>
    </author>
  </entry>
-{%- endfor -%}
+{%- endfor %}
 </feed>
