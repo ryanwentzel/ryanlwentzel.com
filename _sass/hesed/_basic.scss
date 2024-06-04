@@ -53,7 +53,8 @@ blockquote.pull-quote {
 }
 
 .rw-background-img {
-    // Background images are set within the HTML using inline CSS!
+    // background-url is set inline in html templates
+    background-attachment: local;
     background-blend-mode: multiply;
     background-color: $gray-500;
     background-position: center;
