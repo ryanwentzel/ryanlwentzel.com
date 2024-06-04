@@ -1,0 +1,15 @@
+<header class="masthead collection-masthead rw-color-bg-contrast pt-5 pb-4 mb-8">
+    <div class="container-xl mx-auto px-lg-5">
+        <div class="row my-5 px-lg-5 justify-content-between flex-wrap">
+            <div class="col-md-6 my-auto">
+                <h1 class="display-3 fw-bold">{{ page.title | smartify }}</h1>
+                {%- if page.subtitle %}
+                <p class="display-6">{{ page.description | smartify }}</p>
+                {% endif -%}
+            </div>
+            <div class="d-none d-md-block col-md-6 my-auto">
+                <img class="img-fluid rounded-2" src="https://source.unsplash.com/ZZDPdWyGrvw" alt="">
+            </div>
+        </div>
+    </div>
+</header>
