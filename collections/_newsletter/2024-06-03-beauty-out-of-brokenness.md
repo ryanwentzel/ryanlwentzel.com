@@ -12,11 +12,11 @@ img:
 ---
 Kintsugi, meaning "golden joinery," is the ancient Japanese art of repairing broken pottery. A Kintsugi master mends broken ceramic pieces using lacquer made from the sap of the urushi tree ([*Toxicodendron vernicifluum*](https://en.wikipedia.org/wiki/Toxicodendron_vernicifluum)), and then delicately dusts the lacquered seams with powdered gold.
 
-This centuries-old practice "celebrates each artifact's unique history by emphasizing its fractures and breaks instead of hiding or disguising them," says [Kelly Richman-Abdou](https://mymodernmet.com/kintsugi-kintsukuroi/ "Article about kintsugi at My Modern Met"). 
-
-![Beige Japanese tea ware that was repaired using the kintsugi technique. The result is a unique piece of art even more beautiful than the original.](https://cdn.ryanlwentzel.com/assets/img/content/shutterstock_1805501275-md.webp)
+This centuries-old practice "celebrates each artifact's unique history by emphasizing its fractures and breaks instead of hiding or disguising them," says [Kelly Richman-Abdou](https://mymodernmet.com/kintsugi-kintsukuroi/ "Article about kintsugi at My Modern Met").
 
 According to artist [Makoto Fujimura](https://makotofujimura.com/), Kintsugi does more than "fix" a broken vessel. It creates something more beautiful and more valuable than the original, unbroken piece.
+
+![Beige Japanese tea ware that was repaired using the kintsugi technique. The result is a unique piece of art even more beautiful than the original.](https://cdn.ryanlwentzel.com/assets/img/content/shutterstock_1805501275-md.webp)
 
 Fujimura sees Kintsugi as a beautiful metaphor for the work of mending and renewal God accomplishes in our lives through the gospel of Jesus Christ. In his book [Art and Faith: A Theology of Making](https://www.amazon.com/Art-Faith-Theology-Makoto-Fujimura/dp/0300254148/), Fujimura writes:
 
