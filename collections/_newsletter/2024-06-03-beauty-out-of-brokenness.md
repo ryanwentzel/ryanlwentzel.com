@@ -71,13 +71,13 @@ and the unliving, gratitude which is
 the greatest gift, quietest of all,  
 passes to me through the trees.
 
-— Wendell Berry in <cite>This Day: Sabbath Poems Collected & New, 1979–2013</cite> (Berkley, CA: Counterpoint, 2013)
+— Wendell Berry in *This Day: Sabbath Poems Collected & New, 1979–2013* (Berkley, CA: Counterpoint, 2013)
 
 ## Quote of the Moment
 
 > I believe that taking creation and new creation seriously is the way to understand and revitalize aesthetic awareness and perhaps even creativity among Christians today. Beauty matters, dare I say, almost as much as spirituality and justice.
 
-— N.T. Wright in *‌ On Earth as in Heaven: Daily Wisdom for Twenty-First Century Christians* (New York: HarperCollins, 2022)
+— N.T. Wright in *‌On Earth as in Heaven: Daily Wisdom for Twenty-First Century Christians* (New York: HarperCollins, 2022)
 
 [Explore other quotes I've collected]({{ site.data.nav.commonplace | absolute_url }} "Browse a collection of quotes and excerpts from Ryan Wentzel's reading")
 
