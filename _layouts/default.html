@@ -4,8 +4,8 @@
 <body{% if page.url == '/' %} class="homepage"{% endif %}>
   {% include nav.html %}
   {% unless page.masthead.display != empty and page.masthead.display == false %}
-  {% assign template_name = page.masthead.template | default: 'masthead.html' %}
-  {% include {{ template_name }} %}
+  {% assign template_name = page.masthead.template | default: 'masthead/default' %}
+  {% include {{ template_name }}.html %}
   {% endunless %}
   {{ content }}
   {% include footer.html %}
