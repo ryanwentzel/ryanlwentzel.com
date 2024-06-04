@@ -1,7 +1,7 @@
 ---
-title: The New Heaven and New Earth
+title: "The New Heaven and New Earth"
 subtitle: "Resources for understanding the Bible's teaching"
-description: 
+description: "Use this resource guide to study what the Bible teaches about the new heaven and new earth"
 seo_description: "Use this resource guide to study what the Bible teaches about the new heaven and new earth."
 date: 2024-05-10 19:18:32 -0700
 img:
