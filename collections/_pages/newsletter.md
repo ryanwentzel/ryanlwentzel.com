@@ -14,6 +14,6 @@ logo:
 opengraph:
     type: website
 ---
-The ***{{ site.data.newsletter.title }}*** is my monthly(ish) newsletter. It features my latest content, along with talks I've given and poetry and art I'm enjoying.
+***{{ site.data.newsletter.title }}*** is my monthly(ish) newsletter. It features my latest content, along with talks I've given and poetry and art I'm enjoying.
 
 
