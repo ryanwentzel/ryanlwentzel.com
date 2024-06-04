@@ -15,6 +15,7 @@ The second talk in a two-part overview of the Bible's teaching about the natural
 
 ## Additional Resources
 
+- My [resource guide]({% link _resources/2024-05-10-new-heaven-and-new-earth.md %}) on the Bible's teaching about the new heaven and new earth
 - [Creation Care: A Biblical Theology of the Natural World](https://www.amazon.com/Creation-Care-Biblical-Theology-Natural/dp/031029374X/) by Douglas J. Moo and Jonathan A. Moo
 - [The Bible and Ecology: Rediscovering the Community of Creation](https://www.amazon.com/Bible-Ecology-Rediscovering-Community-Theological/dp/1602583102/) by Richard Bauckham
 
