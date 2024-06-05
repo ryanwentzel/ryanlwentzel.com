@@ -61,6 +61,20 @@ blockquote.pull-quote {
     background-size: cover;
 }
 
+.rw-background-img-darker {
+    // background-url is set inline in html templates
+    background-attachment: local;
+    background-blend-mode: multiply;
+    background-color: rgba(0,0,0,0.35);
+    background-position: center;
+    background-size: cover;
+}
+
+.rw-blur {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(8px);
+}
+
 .rw-background-img-alt {
     background-position: center;
     background-size: cover;
@@ -90,7 +104,7 @@ blockquote.pull-quote {
     color: $color-fg-subtle;
 }
 
-.rw-color-bg-contrast {
+.rw-bg-contrast {
     background-color: $colors-brand-contrast;
 }
 
