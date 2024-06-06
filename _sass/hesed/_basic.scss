@@ -65,14 +65,53 @@ blockquote.pull-quote {
     // background-url is set inline in html templates
     background-attachment: local;
     background-blend-mode: multiply;
-    background-color: rgba(0,0,0,0.35);
+    background-color: rgba(57,81,89, 0.95);
     background-position: center;
     background-size: cover;
+    opacity: 0.8;
 }
 
 .rw-blur {
     background: rgba(255, 255, 255, 0.2);
     backdrop-filter: blur(8px);
+}
+
+.blur {
+    filter: blur(4px);
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+.masthead-img {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    inset: 0px;
+    object-fit: cover;
+    object-position: center;
+    color: transparent;
+}
+
+.z-0 {
+    z-index: 0;
+}
+
+.z-20 {
+    z-index: 20;
+}
+
+.before::before {
+    background-color: rgba(57,81,89, 0.95);
+    opacity: 0.8;
+    content: "";
+    z-index: 10;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .rw-background-img-alt {
@@ -258,6 +297,13 @@ blockquote.pull-quote {
 
 .mb-10 {
     margin-bottom: 10rem;
+}
+
+@include media-breakpoint-up(md) {
+    .my-md-6 {
+        margin-top: 6rem;
+        margin-bottom: 6rem;
+    }
 }
 
 .navbar .navbar-toggler {
