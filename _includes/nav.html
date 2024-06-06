@@ -12,40 +12,40 @@
           <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
         </div>
         <div class="offcanvas-body">
-          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 fw-bold">
-            <li class="nav-item">
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+            <li class="nav-item fs-2 border-bottom border-top">
               <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
             </li>
-            <li class="nav-item dropdown">
+            <li class="nav-item fs-2 dropdown border-bottom">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Explore</a>
               <ul class="dropdown-menu border-0">
-                <li>
-                  <a class="dropdown-item fw-bold" href="{{ site.data.archive.articles | relative_url }}">Articles</a>
+                <li class="nav-item fs-4">
+                  <a class="dropdown-item" href="{{ site.data.archive.articles | relative_url }}">Articles</a>
                 </li>
-                <li>
-                  <a class="dropdown-item fw-bold" href="{{ site.data.archive.prayers | relative_url }}">Prayers</a>
+                <li class="nav-item fs-4">
+                  <a class="dropdown-item" href="{{ site.data.archive.prayers | relative_url }}">Prayers</a>
                 </li>               
-                <li>
-                  <a class="dropdown-item fw-bold" href="{{ site.data.archive.commonplace | relative_url }}">Commonplace</a>
+                <li class="nav-item fs-4">
+                  <a class="dropdown-item" href="{{ site.data.archive.commonplace | relative_url }}">Commonplace</a>
                 </li>
-                <li>
-                  <a class="dropdown-item fw-bold" href="{{ site.data.archive.field_notes | relative_url }}">Field Notes</a>
+                <li class="nav-item fs-4">
+                  <a class="dropdown-item" href="{{ site.data.archive.field_notes | relative_url }}">Field Notes</a>
                 </li>
-                <li>
-                  <a class="dropdown-item fw-bold" href="{{ site.data.archive.photos | relative_url }}">Photos</a>
+                <li class="nav-item fs-4">
+                  <a class="dropdown-item" href="{{ site.data.archive.photos | relative_url }}">Photos</a>
                 </li>
               </ul>
             </li>
-            <li class="nav-item">
+            <li class="nav-item fs-2 border-bottom">
               <a class="nav-link{% if page.url == '/podcasts/sermons/index.html' %} active{% endif %}" href="{{ '/podcasts/sermons/' | relative_url }}">Podcast</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item fs-2 border-bottom">
               <a class="nav-link{% if page.url == '/newsletter/index.html' %} active{% endif %}" href="{% link _pages/newsletter.md %}">Newsletter</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item fs-2 border-bottom">
               <a class="nav-link{% if page.url == '/about' %} active{% endif %}" href="{% link _pages/about.md %}">About</a>
             </li>
-            <li class="nav-item">
+            <li class="nav-item fs-2 border-bottom">
               <a class="nav-link" href="mailto:{{ site.author.email | encode_email }}">Contact</a>
             </li>
           </ul>
