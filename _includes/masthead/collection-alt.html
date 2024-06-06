@@ -1,15 +1,15 @@
-<header class="masthead collection-masthead h-100 mb-8 py-5 py-md-3 rw-bg-contrast border-bottom">
-    <div class="container-fluid h-100">
-        <div class="row flex-wrap justify-content-between align-items-center px-2">
+<header class="masthead collection-masthead h-auto mb-5 rw-bg-contrast border-bottom">
+    <div class="container-xl h-auto">
+        <div class="row flex-wrap justify-content-between align-items-center px-2 py-5">
             <div class="col-12">
-                <img class="d-inline-block d-md-none img-fluid rounded-2" src="https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9396.jpg" alt="">
+                <img class="d-inline-block d-md-none img-fluid rounded-2" src="{{ page.img.url_sm }}" alt="{{ page.img.alt }}">
             </div>
-            <div class="col-md-5 px-3 px-md-5 py-3">
+            <div class="col-md-6 px-md-4 px-3 py-3 justify-content-end align-self-center">
                 <h1 class="fs-6 fw-bold text-secondary text-capitalize">{{ page.title | smartify }}</h1>
                 <p class="display-6">{{ page.description | smartify }}</p>
             </div>
-            <div class="col-md-7 d-flex justify-content-center align-self-center py-3">
-                <img class="d-none d-md-block img-fluid rounded-2 shadow" src="https://cdn.ryanlwentzel.com/assets/img/photos/20240513-IMG_9396.jpg" alt="">
+            <div class="col-md-6 d-flex justify-content-start align-self-center py-3">
+                <img class="d-none d-md-block img-fluid rounded-2 shadow" src="{{ page.img.url_sm }}" alt="{{ page.img.alt }}">
             </div>
         </div>
     </div>
