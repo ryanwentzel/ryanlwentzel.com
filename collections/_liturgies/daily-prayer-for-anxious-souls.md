@@ -10,7 +10,14 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-thumb.webp"
 ---
 
-## Opening Sentence
+## Opening Sentences
+
+Let my soul rise up to meet You\
+As the day rises to the sun\
+Let my soul rise up to meet You\
+Let that patient kingdom come
+
+**— Sandra McCracken, "Patient Kingdom"**
 
 Hear my cry, O God,  
 &emsp;listen to my prayer;   
@@ -25,8 +32,7 @@ for you have been my refuge,
 
 ## Adoration
 
-Praise God from whom  
-&emsp;all blessings flow;  
+Praise God from whom all blessings flow;  
 Praise him all creatures here below;  
 Praise him above you heavenly host;  
 Praise Father, Son, and Holy Ghost.  
