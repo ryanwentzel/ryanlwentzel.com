@@ -37,6 +37,12 @@ published: false
     </figcaption>
 </figure>
 
+From [Wikipedia](https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis):
+
+> [Čiurlionis] was a Lithuanian composer, painter, choirmaster, cultural figure, and writer in Polish.
+>  
+> Čiurlionis contributed to symbolism and art nouveau, and was representative of the fin de siècle epoch. He has been considered one of the pioneers of abstract art in Europe. During his short life, he composed about 400 pieces of music and created about 300 paintings, as well as many literary works and poems. The majority of his paintings are housed in the M. K. Čiurlionis National Art Museum in Kaunas, Lithuania. His works have had a profound influence on modern Lithuanian culture. 
+
 ---
 
 ## Poetry I'm Enjoying
