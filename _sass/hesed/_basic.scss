@@ -347,6 +347,14 @@ blockquote.pull-quote {
     }
 }
 
+.gradient-text {
+    background-image: linear-gradient(to right, 
+    rgb(36, 147, 239), 
+    rgb(168, 85, 247));
+    background-clip: text;
+    color: rgba(0,0,0,0)
+}
+
 /* Homepage, Archives */
 .homepage {
     .masthead {
