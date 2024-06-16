@@ -6,7 +6,7 @@
           <a class="icon-link px-1 text-reset" href="mailto:{{ site.author.email | encode_email }}" title="Contact Me">
             <i class="bi bi-envelope-at"></i>
           </a>
-          <a class="icon-link px-1 text-reset" href="{{ '/podcasts/sermons' | relative_url }}" title="{{ site.data.podcast.name }}">
+          <a class="icon-link px-1 text-reset" href="{{ site.data.nav.sermons | relative_url }}" title="{{ site.data.podcast.name }}">
             <i class="bi bi-broadcast-pin"></i>
           </a>
           <a class="icon-link px-1 text-reset" href="{{ site.data.feeds.main | relative_url }}" title="Subscribe to the Atom feed to get all the latest content">
