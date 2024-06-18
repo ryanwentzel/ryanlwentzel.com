@@ -2,4 +2,4 @@
 {%- unless page.url == "/" -%}
 {%- assign title = title | append: " – " | append: site.title -%}
 {%- endunless -%}
-<title>{{ title }}</title>
+<title>{{ title | xml_escape }}</title>
