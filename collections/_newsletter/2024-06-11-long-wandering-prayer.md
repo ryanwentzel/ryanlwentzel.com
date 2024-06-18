@@ -41,11 +41,9 @@ published: false
     </figcaption>
 </figure>
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis):
+From [Google Arts & Culture](https://artsandculture.google.com/asset/creation-of-the-world-viii-from-the-cycle-of-13-paintings-m-k-%C4%8Ciurlionis/MgGVOxTaN2y-Eg):
 
-> [Čiurlionis] was a Lithuanian composer, painter, choirmaster, cultural figure, and writer in Polish.
->  
-> Čiurlionis contributed to symbolism and art nouveau, and was representative of the fin de siècle epoch. He has been considered one of the pioneers of abstract art in Europe. During his short life, he composed about 400 pieces of music and created about 300 paintings, as well as many literary works and poems. The majority of his paintings are housed in the M. K. Čiurlionis National Art Museum in Kaunas, Lithuania. His works have had a profound influence on modern Lithuanian culture. 
+> From the red, orange earth, white plants emerge. At the very top of the painting, three flowers stand out, with three black leaves, giving the impression of black-haired women dressed in white sitting underneath them. 
 
 ---
 
@@ -68,6 +66,16 @@ Whatever is fickle, freckled (who knows how?)\
 With swift, slow; sweet, sour; adazzle, dim;\
 He fathers-forth whose beauty is past change:\
 Praise him.
+
+---
+## Currently Reading or Re-reading
+
+![A man reading in a chair in a coffee shop in Cardiff, Wales](https://cdn.ryanlwentzel.com/assets/img/content/benjamin-ranger-RhcSSyh1Y2Q-unsplash-sm.webp)
+
+- [Wanderlust: A History of Walking](https://www.amazon.com/Wanderlust-History-Walking-Rebecca-Solnit/dp/0140286012/) by Rebecca Solnit
+- [Eat This Book: A Converstion in the Art of Spiritual Reading](https://www.amazon.com/Eat-This-Book-Conversation-Spiritual/dp/0802864902/) by Eugene Peterson
+- [Watership Down: A Novel](https://www.amazon.com/Watership-Down-Novel-Richard-Adams/dp/0743277708/) by Richard Adams
+- [Jack Zulu and the Girl with Golden Wings](https://www.amazon.com/Jack-Zulu-Girl-Golden-Wings/dp/1951305744/) by S.D. Smith & J.C. Smith
 
 ---
 
