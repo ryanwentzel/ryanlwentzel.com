@@ -10,11 +10,15 @@ issue: 3
 published: false 
 ---
 
-## A Prayer Based on <INSERT REF>
+## A Prayer for Weary Pilgrims
 
-{% include newsletter/sections/prayer.html path="_prayers/2024-05-07-incomparable-beauty-and-splendor.md" %}
+![A dry and forbidding desert landscape in Aqaba, Jordan](https://cdn.ryanlwentzel.com/assets/img/content/julien-lavallee-kKxfELd_5pg-unsplash-sm.webp)
 
-[Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }} "Read prayers written by Ryan Wentzel")
+> Abba, Father, our Redeemer, we've seen your faithfulness. We remember the whole way you led us all these many years in the wilderness. You've been with us by night and by day. You fed us with bread from heaven. Our clothes didn't wear out. Our feet didn't blister — so many reasons to trust you! But today, God, our faith is weak and wobbly. We're weary and worn out. 
+>  
+> God of mercy, be our hope and strength in this dry and barren land. Satisfy our thirst with water from the streams of your grace. Renew us and keep us safe in your love. Hear our plea, through Jesus Christ our Lord. Amen.
+
+[Permalink]({% link _prayers/2024-06-14-a-prayer-for-weary-pilgrims.md %}) \| [Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }} "Read prayers written by Ryan Wentzel")
 
 ---
 
@@ -22,9 +26,9 @@ published: false
 
 ![Old German Bible opened to the Psalms resting on top of a rustic wooden table](https://cdn.ryanlwentzel.com/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash-md.webp)
 
-- [Item](#)
-- [Item](#)
-- [Item](#)
+- [Doctrine of Sin Part 1]({% link _sermons/2024-06-17-doctrine-of-sin-part-1.md %}). The first of two talks exploring the doctrine of sin. I give an overview of the Bible's teaching about sin in this talk.
+- [Doctrine of Sin Part 2]({% link _sermons/2024-06-17-doctrine-of-sin-part-2.md %}). The second of two talks exploring the doctrine of sin. I discuss indwelling sin and the practices of self-reflection, confession, and internalizing the gospel.
+- [Here I Raise My Ebenezer]({% link _sermons/2024-06-17-here-i-raise-my-ebenezer.md %}). A sermon on 1 Samuel 7:3–17 in which I reflect on the speed of God's mercy and the importance of walking backward into the future.
 
 ---
 
