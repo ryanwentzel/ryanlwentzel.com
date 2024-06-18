@@ -3,7 +3,7 @@ title: "Here I Raise My Ebenezer"
 seo_title: "Here I Raise My Ebenezer – A Sermon on 1 Samuel 7:3–17"
 subtitle: "A sermon on 1 Samuel 7:3–17"
 description: "God rescues Israel from the Philistines in 1 Samuel 7:3–17. In this sermon, Ryan walks through the story, reflecting on the speed of God's mercy and the importance of walking backward into the future."
-seo_title: "Ryan walks through 1 Samuel 7:3–17, reflecting on speed of God's mercy and the importance of walking backward into the future"
+seo_description: "Ryan walks through 1 Samuel 7:3–17, reflecting on the speed of God's mercy and the importance of walking backward into the future"
 date: 2024-06-17 12:11:26 -0700
 img:
     alt: "Stone stack with mountains in background at Joshua Tree National Park"
