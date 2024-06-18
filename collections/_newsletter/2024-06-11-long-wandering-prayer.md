@@ -1,5 +1,5 @@
 ---
-title: "Perambulatory Prayer"
+title: "Peripatetic Prayer"
 subtitle: "Walking and praying, praying and walking"
 description: 
 date: 2024-06-11 21:37:37 -0700
