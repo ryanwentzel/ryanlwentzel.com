@@ -5,5 +5,5 @@
     <meta property="og:type" content="{{ page.opengraph.type | default: 'article' }}">
     <meta property="og:url" content="{% include canonical-url.html %}">
     {%- if page.img %}
-    <meta property="og:image" content="{{ page.img.url }}">
+    <meta property="og:image" content="{{ page.img.url_md | default: page.img.url }}">
     {% endif -%}
