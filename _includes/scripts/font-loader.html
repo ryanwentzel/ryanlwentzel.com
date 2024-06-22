@@ -66,6 +66,7 @@
     }).catch(function() {
         sessionStorage.secondaryFontsLoaded = false;
         html.classList.remove(classNames.secondaryLoading);
+        html.classList.remove(classNames.secondaryLoaded);
         html.classList.add(classNames.secondaryFailed);
         console.log("failed to load zilla slab");
     });

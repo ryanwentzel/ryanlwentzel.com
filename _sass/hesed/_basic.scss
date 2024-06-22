@@ -10,7 +10,7 @@ html, body {
 }
 
 .primary-fonts-loaded body {
-    font-family: InterVariable, $font-family-sans-serif;
+    font-family: InterVariable, $font-family-sans-serif !important;
 }
 
 a {
@@ -23,16 +23,6 @@ a:hover {
 
 a.reversefootnote {
     text-decoration: none;
-}
-
-h1,h2,h3,h4,h5,h6 {
-    font-family: $font-family-serif;
-}
-
-.secondary-fonts-loaded {
-    h1,h2,h3,h4,h5,h6 {
-        font-family: "zilla-slab", $font-family-serif;
-    }
 }
 
 blockquote {
@@ -102,6 +92,12 @@ blockquote.pull-quote {
     object-fit: cover;
     object-position: center;
     color: transparent;
+}
+
+.masthead {
+    h1,h2 {
+        font-family: $font-family-slab !important;
+    }
 }
 
 .z-0 {
@@ -400,6 +396,10 @@ blockquote.pull-quote {
     .display-1,.display-2,.display-3,
     .display-4,.display-5 {
         line-height: 1.1;
+    }
+
+    h3 {
+        font-family: $font-family-slab;
     }
 
     &.wide {
