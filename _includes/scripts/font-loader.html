@@ -1,30 +1,72 @@
 <script src="{{ site.data.cdn.url }}/assets/js/vendors/ffo@2.3.0/dist/fontfaceobserver.js"></script>
 <script>
+    function timer(time) {
+        return new Promise(function (resolve, reject) {
+            setTimeout(reject, time);
+        });
+    }
     const classNames = {
-        loading: "fonts-loading",
-        loaded: "fonts-loaded",
-        failed: "fonts-failed"
+        primaryLoading: "primary-fonts-loading",
+        primaryLoaded: "primary-fonts-loaded",
+        primaryFailed: "primary-fonts-failed",
+        secondaryLoading: "secondary-fonts-loading",
+        secondaryLoaded: "secondary-fonts-loading",
+        secondaryFailed: "secondary-fonts-failed"
     };
-    var normal = new FontFaceObserver("InterVariable");
-    var italic = new FontFaceObserver("InterVariable", {
+    var sansNormal = new FontFaceObserver("InterVariable");
+    var sansItalic = new FontFaceObserver("InterVariable", {
         style: "italic"
     });
 
     var html = document.documentElement;
-    html.classList.add(classNames.loading);
+    html.classList.add(classNames.primaryLoading);
 
-    normal.load().then(function () {
-
-        html.classList.remove(classNames.loading);
-        html.classList.add(classNames.loaded);
-        console.log("Normal font has loaded");
-        italic.load().then(function() {
-            sessionStorage.fontsLoaded = true;
-            console.log("Italic font has loaded");
+    sansNormal.load().then(function () {
+        console.log("normal font has loaded");
+        sansItalic.load().then(function() {
+            html.classList.remove(classNames.primaryLoading);
+            html.classList.add(classNames.primaryLoaded);
+            sessionStorage.primaryFontsLoaded = true;
+            console.log("italic font has loaded");
         });
     }).catch(function () {
-        sessionStorage.fontsLoaded = false;
-        html.classList.remove(classNames.loading);
-        html.classList.add(classNames.failed);
+        sessionStorage.primaryFontsLoaded = false;
+        html.classList.remove(classNames.primaryLoading);
+        html.classList.add(classNames.primaryFailed);
+    });
+
+    var slabBold = new FontFaceObserver("zilla-slab", {
+        weight: 700
+    });
+    var slabBoldItalic = new FontFaceObserver("zilla-slab", {
+        weight: 700,
+        style: "italic"
+    });
+    var slabMedium = new FontFaceObserver("zilla-slab", {
+        weight: 500
+    });
+    var slabMediumItalic = new FontFaceObserver("zilla-slab", {
+        weight: 500,
+        style: "italic"
+    });
+
+    html.classList.add(classNames.secondaryLoading);
+    Promise.race([
+        timer(1000),
+        slabBold.load(),
+        slabBoldItalic.load(),
+        slabMedium.load(),
+        slabMediumItalic.load()
+    ]).then(function() {
+        html.classList.remove(classNames.secondaryLoading);
+        html.classList.remove(classNames.secondaryFailed);
+        html.classList.add(classNames.secondaryLoaded);
+        sessionStorage.secondaryFontsLoaded = true;
+        console.log("zilla slab family loaded");
+    }).catch(function() {
+        sessionStorage.secondaryFontsLoaded = false;
+        html.classList.remove(classNames.secondaryLoading);
+        html.classList.add(classNames.secondaryFailed);
+        console.log("failed to load zilla slab");
     });
 </script>

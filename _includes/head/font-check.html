@@ -1,6 +1,11 @@
 <script>
-    if (sessionStorage.fontsLoaded) {
+    if (sessionStorage.primaryFontsLoaded) {
         var html = document.documentElement;
-        html.classList.add("fonts-loaded");
+        html.classList.add("primary-fonts-loaded");
+    }
+
+    if (sessionStorage.secondaryFontsLoaded) {
+        var html = document.documentElement;
+        html.classList.add("secondary-fonts-loaded");
     }
 </script>

@@ -1,0 +1,29 @@
+$fonts-url: "https://cdn.ryanlwentzel.com/assets/fonts/zilla-slab";
+
+@font-face {
+    font-family: zilla-slab;
+    font-weight: 700;
+    font-style: normal;
+    src: url("#{$fonts-url}/ZillaSlab-Bold.woff2")
+}
+
+@font-face {
+    font-family: zilla-slab;
+    font-weight: 700;
+    font-style: italic;
+    src: url("#{$fonts-url}/ZillaSlab-BoldItalic.woff2")
+}
+
+@font-face {
+    font-family: zilla-slab;
+    font-weight: 500;
+    font-style: normal;
+    src: url("#{$fonts-url}/ZillaSlab-Medium.woff2")
+}
+
+@font-face {
+    font-family: zilla-slab;
+    font-weight: 500;
+    font-style: italic;
+    src: url("#{$fonts-url}/ZillaSlab-MediumItalic.woff2")
+}
