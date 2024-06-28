@@ -1,11 +1,13 @@
 ---
-title: "Peripatetic Prayer"
-subtitle: "Walking and praying, praying and walking"
+title: "Joy As An Act of Resistance Against Despair"
+subtitle: ""
 description: 
 date: 2024-06-11 21:37:37 -0700
 img: 
-    url: "https://cdn.ryanlwentzel.com/assets/img/content/annie-spratt-YhOqeNfY50U-unsplash-lg.webp"
-    alt: "A person walking down a leaf-covered path"
+    url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-lg.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-md.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-sm.webp"
+    alt: "A Summer landscape painting with a view of the forest border in Drenthe, The Netherlands"
 issue: 3
 published: false 
 ---
@@ -18,7 +20,7 @@ published: false
 >  
 > God of mercy, be our hope and strength in this dry and barren land. Satisfy our thirst with water from the streams of your grace. Renew us and keep us safe in your love. Hear our plea, through Jesus Christ our Lord. Amen.
 
-[Permalink]({% link _prayers/2024-06-14-a-prayer-for-weary-pilgrims.md %}) \| [Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }} "Read prayers written by Ryan Wentzel")
+[Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }})
 
 ---
 
