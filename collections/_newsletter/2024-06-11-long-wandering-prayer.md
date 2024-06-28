@@ -31,6 +31,7 @@ published: false
 - [Doctrine of Sin Part 1]({% link _sermons/2024-06-17-doctrine-of-sin-part-1.md %}). The first of two talks exploring the doctrine of sin. I give an overview of the Bible's teaching about sin in this talk.
 - [Doctrine of Sin Part 2]({% link _sermons/2024-06-17-doctrine-of-sin-part-2.md %}). The second of two talks exploring the doctrine of sin. I discuss indwelling sin and the practices of self-reflection, confession, and internalizing the gospel.
 - [Here I Raise My Ebenezer]({% link _sermons/2024-06-17-here-i-raise-my-ebenezer.md %}). A sermon on 1 Samuel 7:3–17 in which I reflect on the speed of God's mercy and the importance of walking backward into the future.
+- [Prone to Wander]({% link _sermons/2024-06-28-prone-to-wander.md %}). A sermon on 1 Samuel 8. Israel shows herself to be an unfaithful covenant partner yet again. But God loves to show mercy to his wayward people.
 
 ---
 
