@@ -2,7 +2,7 @@
 title: "Joy As An Act of Resistance Against Despair"
 subtitle: ""
 description: 
-date: 2024-06-11 21:37:37 -0700
+date: 2024-07-02 00:00:00 -0700
 img: 
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-lg.webp"
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-md.webp"
@@ -31,7 +31,7 @@ published: false
 - [Doctrine of Sin Part 1]({% link _sermons/2024-06-17-doctrine-of-sin-part-1.md %}). The first of two talks exploring the doctrine of sin. I give an overview of the Bible's teaching about sin in this talk.
 - [Doctrine of Sin Part 2]({% link _sermons/2024-06-17-doctrine-of-sin-part-2.md %}). The second of two talks exploring the doctrine of sin. I discuss indwelling sin and the practices of self-reflection, confession, and internalizing the gospel.
 - [Here I Raise My Ebenezer]({% link _sermons/2024-06-17-here-i-raise-my-ebenezer.md %}). A sermon on 1 Samuel 7:3–17 in which I reflect on the speed of God's mercy and the importance of walking backward into the future.
-- [Prone to Wander]({% link _sermons/2024-06-28-prone-to-wander.md %}). A sermon on 1 Samuel 8. Israel shows herself to be an unfaithful covenant partner yet again. But God loves to show mercy to his wayward people.
+- [Prone to Wander]({% link _sermons/2024-06-28-prone-to-wander.md %}). A sermon on 1 Samuel 8. God loves to show mercy to his wayward people.
 
 ---
 
@@ -76,7 +76,6 @@ Praise him.
 ![A man reading in a chair in a coffee shop in Cardiff, Wales](https://cdn.ryanlwentzel.com/assets/img/content/benjamin-ranger-RhcSSyh1Y2Q-unsplash-sm.webp)
 
 - [Wanderlust: A History of Walking](https://www.amazon.com/Wanderlust-History-Walking-Rebecca-Solnit/dp/0140286012/) by Rebecca Solnit
-- [Eat This Book: A Converstion in the Art of Spiritual Reading](https://www.amazon.com/Eat-This-Book-Conversation-Spiritual/dp/0802864902/) by Eugene Peterson
 - [Watership Down: A Novel](https://www.amazon.com/Watership-Down-Novel-Richard-Adams/dp/0743277708/) by Richard Adams
 - [Jack Zulu and the Girl with Golden Wings](https://www.amazon.com/Jack-Zulu-Girl-Golden-Wings/dp/1951305744/) by S.D. Smith & J.C. Smith
 
