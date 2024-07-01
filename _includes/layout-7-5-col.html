@@ -38,7 +38,7 @@
                     <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
                 </h3>
                 <div class="rw-brand-text-muted mb-3">
-                    {{ first.date | date: "%B %d, %Y" }}
+                    {{ resource.date | date: "%B %d, %Y" }}
                 </div>
                 <div class="resource-text">
                     {{ resource.description | default: resource.excerpt | markdownify }}
