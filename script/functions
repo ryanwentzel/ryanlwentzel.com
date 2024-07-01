@@ -177,9 +177,9 @@ subtitle: $subtitle
 description: 
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
 img:
-    url_lg: "$cdn_base/assets/img/conent/"
-    url_md: "$cdn_base/assets/img/conent/"
-    url_sm: "$cdn_base/assets/img/conent/"
+    url_lg: "$cdn_base/assets/img/content/"
+    url_md: "$cdn_base/assets/img/content/"
+    url_sm: "$cdn_base/assets/img/content/"
     alt: ""
 published: false 
 ---
