@@ -1,6 +1,6 @@
 ---
-title: "Joy As An Act of Resistance Against Despair"
-subtitle: ""
+title: "A Thicker Understanding of Joy"
+subtitle: "Learning to think wisely about joy"
 description: 
 date: 2024-07-02 00:00:00 -0700
 img: 
@@ -11,6 +11,45 @@ img:
 issue: 3
 published: false 
 ---
+I get nervous whenever I see them. We've had some run-ins over the years. They roughed me up a bit last time.
+
+I'm talking about the Joy Police. 
+
+Every congregation has them. Their uniform is a toothy smile and cheery positivity. They walk their beat on Sundays at church, handing out citations to every worshiper who violates the Good Vibes Only policy. Repeat offenders are subject to a verbal lashing that includes rebukes for not counting it all joy and failing to trust the Lord, accompanied by a warning to be joyful or else.
+
+Joy, for the Joy Police, is a feeling of happiness, or maybe positivity. It excludes things like sorrow, grief, or confusion. 
+
+Call it what you want, but that's not joy, not Christian joy at least.
+
+### What is joy?
+
+Joy is notoriously difficult to define. Is it a feeling? An emotion? A state? Is joy the same as happiness? Joy defies simple definition. But we can still talk meaningfully about it.
+
+We can deepen our understanding of joy by teasing out what it is not. Joy isn't only about feeling a particular way — happy or optimistic, for example. No doubt experiences of joy can, and sometimes do, include such things. But joy doesn't depend on feelings of happiness. 
+
+A person can be profoundly unhappy yet still be joyful. Take the Apostle Paul, for example. He wrote much about joy. In fact, the Joy Police often quote the Apostle's encouragement to "Rejoice always" (Phil 4:8). Yet, Paul's own joy was intertwined with experiences of acute sadness. He described himself as "sorrowful, yet always rejoicing" (2 Cor 6:10). 
+
+John Swinton, a professor of practical theology and pastoral care at the University of Aberdeen in Scotland, goes so far as to say sorrow and joy aren't opposites; sorrow is an aspect of joy.
+
+Why is this so?
+
+### Jesus is our joy
+
+Christian joy is rooted in Jesus Christ — who he is and what he has done, is doing, and will do for us when he sets the world right. But this Jesus is the Crucified One. So, in light of the cross, we shouldn't think of joy as the absence of suffering or sorrow. 
+
+Rather, joy is about the assured presence of Jesus, says Swinton. "Jesus inhabits our suffering in hopeful ways." His sharing in human suffering "gives hope to the pain of death and suffering and creates streams of possibility even within the most hopeless of situations." Joy, then, "is the settled assurance that God is with us and for us in all circumstances and at all times. It is the bold confidence that ultimately everything is going to be all right..."
+
+### Joy as an act of resistance
+
+We live in a broken world. We ourselves are broken in both perplexing and deeply disturbing ways. Pain and suffering are the result. Despair seems like the only logical response, inviting us to believe that brokenness and, ultimately, death have the last word. 
+
+But joy pushes back against that narrative, not by denying the pain — one can't live in denial and experience true joy — but by refusing to let pain and suffering become the only plotline in the story in which we live. 
+
+Yale theologian Willie Jennings describes joy as "an act of resistance against despair and its forces." Joy refuses despair's invitation to break bread, choosing instead to taste and see that the Lord is good even when your circumstances are not. It's "the only inoculation against the despair to which any sane person is prone," says poet Christian Wiman.
+
+### Conclusion
+
+So, what do you do about the Joy Police? Avoid them if you can. Endure them if you must. But don't listen to them. Don't let their naive thinking and hollow religious jargon make you believe that tears are unfaithful, that sorrow and grief mean you don't trust the Lord. Those tears, that sorrow and grief, may very well be the clearest signs that you do, that Jesus is your true joy and you long for the day when he will wipe away those tears forever.
 
 ## A Prayer for Weary Pilgrims
 
