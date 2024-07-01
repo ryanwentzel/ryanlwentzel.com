@@ -1,15 +1,14 @@
 ---
 title: "A Thicker Understanding of Joy"
 subtitle: "Learning to think wisely about joy"
-description: 
-date: 2024-07-02 00:00:00 -0700
+description: "Joy is notoriously difficult to define. Is it a feeling? An emotion? A state? Is joy the same as happiness? Joy defies simple definition. But we can still talk meaningfully about it."
+date: 2024-07-01 14:11:00 -0700
 img: 
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-lg.webp"
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-md.webp"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/fons-heijnsbroek-abstract-art-ifTQC4OyS3I-unsplash-sm.webp"
     alt: "A Summer landscape painting with a view of the forest border in Drenthe, The Netherlands"
 issue: 3
-published: false 
 ---
 I get nervous whenever I see them. We've had some run-ins over the years. They roughed me up a bit last time.
 
