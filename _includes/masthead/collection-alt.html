@@ -12,6 +12,9 @@
             <div class="col-md-6 px-md-4 px-3 py-3 justify-content-end align-self-center">
                 <h1 class="fs-6 fw-bold text-secondary text-capitalize">{{ page.title | smartify }}</h1>
                 <p class="display-6">{{ page.description | smartify }}</p>
+                {%- if page.cta -%}
+                <a class="btn btn-dark rounded-1" href="{{ page.cta.url }}">{{ page.cta.text }}</a>
+                {% endif %}
             </div>
             <div class="col-md-6 d-flex justify-content-start align-self-center py-3">
                 <div class="d-none d-md-block">
