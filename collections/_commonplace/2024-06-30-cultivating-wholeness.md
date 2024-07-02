@@ -9,7 +9,7 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/gerhard-munthe-autumn-landscape-sm.webp"
     alt: "An 1879 painting by Gerhard Munthe titled Autumn Landscape, Øylo"
 ---
-Todd Wilson argues that many pastors, including himself for many years, are both godly and dysfunctional—"holy and not whole, spiritually mature and emotionally repressed, biblically faithful, and psychologically maladjusted."
+Todd Wilson argues that many Christians, even pastors—including himself for many years—are both godly and dysfunctional. They are "holy and not whole, spiritually mature and emotionally repressed, biblically faithful, and psychologically maladjusted."
 
 How does this happen? Wilson says in his case he "discovered that twenty-five years of growth as a Christian had successfully added layer on layer of spiritual formation on top of some deep-seated compulsions that were still profoundly influencing my life."
 
