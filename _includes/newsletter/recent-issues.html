@@ -1,0 +1,11 @@
+<section class="widget-section py-5 px-0 mb-3 border-top">
+    <div class="d-flex section-heading">
+        <h2 class="h4 fw-bold col-6">Recent Issues</h2>
+        <a class="col-6 ms-auto text-end text-reset text-decoration-none fw-normal" href="{{ site.data.archive.newsletter_archive | relative_url }}">
+            View all
+            <i class="bi bi-arrow-right"></i>
+        </a>
+    </div>
+    {% assign issues = site.newsletter | reverse -%}
+    {% include layout-4x.html resources=issues -%}
+</section>
