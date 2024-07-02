@@ -50,6 +50,8 @@ Yale theologian Willie Jennings describes joy as "an act of resistance against d
 
 So, what do you do about the Joy Police? Avoid them if you can. Endure them if you must. But don't listen to them. Don't let their naive thinking and hollow religious jargon make you believe that tears are unfaithful, that sorrow and grief mean you don't trust the Lord. Those tears, that sorrow and grief, may very well be the clearest signs that you do, that Jesus is your true joy and you long for the day when he will wipe away those tears forever.
 
+---
+
 ## A Prayer for Weary Pilgrims
 
 ![A dry and forbidding desert landscape in Aqaba, Jordan](https://cdn.ryanlwentzel.com/assets/img/content/julien-lavallee-kKxfELd_5pg-unsplash-sm.webp)
