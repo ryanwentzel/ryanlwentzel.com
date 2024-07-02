@@ -64,7 +64,7 @@ So, what do you do about the Joy Police? Avoid them if you can. Endure them if y
 
 ## Talks
 
-![Old German Bible opened to the Psalms resting on top of a rustic wooden table](https://cdn.ryanlwentzel.com/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash-sm.webp)
+![Old German Bible opened to the Psalms resting on top of a rustic wooden table](https://cdn.ryanlwentzel.com/assets/img/content/herrmann-stamm-19iL-6uC5C4-unsplash-md.webp)
 
 - [Doctrine of Sin Part 1]({% link _sermons/2024-06-17-doctrine-of-sin-part-1.md %}). The first of two talks exploring the doctrine of sin. I give an overview of the Bible's teaching about sin in this talk.
 - [Doctrine of Sin Part 2]({% link _sermons/2024-06-17-doctrine-of-sin-part-2.md %}). The second of two talks exploring the doctrine of sin. I discuss indwelling sin and the practices of self-reflection, confession, and internalizing the gospel.
