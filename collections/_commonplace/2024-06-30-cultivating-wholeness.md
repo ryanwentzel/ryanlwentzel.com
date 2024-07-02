@@ -9,6 +9,12 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/gerhard-munthe-autumn-landscape-sm.webp"
     alt: "An 1879 painting by Gerhard Munthe titled Autumn Landscape, Øylo"
 ---
+Todd Wilson argues that many pastors, including himself for many years, are both godly and dysfunctional—"holy and not whole, spiritually mature and emotionally repressed, biblically faithful, and psychologically maladjusted."
+
+How does this happen? Wilson says in his case he "discovered that twenty-five years of growth as a Christian had successfully added layer on layer of spiritual formation on top of some deep-seated compulsions that were still profoundly influencing my life."
+
+What he was missing was **integration**.
+
 > Integration. From the Latin integrare, which means "to make whole." To integrate is to bring together different elements of a single system into a coordinated, unified whole. To be dis-integrated is the failure to bring together different elements of a single system into a coordinated, unified whole. So for the purpose of this conversation, integration is to bring together the different elements of the human person into a coordinate, unified whole, and to be dis-integrated is to fall short of that purpose.
 >   
 > It is my conviction that most forms of evangelical spirituality fail to foster integration. We prioritize doctrinal instruction and moral development. But we neglect psychological healing. We emphasize the cultivation of character. But we overlook our deep-seated psychological compulsions, fixations, and emotional reactivity.
