@@ -56,12 +56,17 @@ img:
     url: $cdn
 published: false 
 ---
+*Write an essay here*
+
+---
 
 ## A Prayer Based on <INSERT REF>
 
 {% include newsletter/sections/prayer.html path="_prayers/2024-05-07-incomparable-beauty-and-splendor.md" %}
 
 [Read more prayers I've written]({{ site.data.nav.prayers | absolute_url }} "Read prayers written by Ryan Wentzel")
+
+---
 
 ## Talks
 
@@ -71,16 +76,22 @@ published: false
 - [Item](#)
 - [Item](#)
 
+---
+
 ## Art I'm Enjoying
 
 <figure>
     <img class="img-fluid rounded-2" src="https://cdn.ryanlwentzel.com/assets/img/content/edward_mitchell_bannister-streamside-1870-newsletter.webp" alt="Landscape painting by Edward Mitchell Bannister" />
     <figcaption>
-        Edward Mitchell Bannister, <em>Streamside</em>, 1870
+        Artist Name, <em>Painting Title</em>, Year
     </figcaption>
 </figure>
 
+---
+
 ## Poetry I'm Enjoying
+
+---
 
 ## Quote of the Moment
 
