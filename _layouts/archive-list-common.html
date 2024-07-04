@@ -18,15 +18,15 @@ layout: default
                                     <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url_md | default: resource.img.url }}" alt="{{ resource.img.alt }}" loading="lazy">
                                 </a>
                                 {% endunless %}
-                                <span class="d-block rw-brand-text-muted">
-                                    {{ resource.date | date: "%B %d, %Y" }}
-                                </span>
-                                <h2 class="fw-black mb-0">
+                                <h2 class="fw-black">
                                     <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
                                 </h2>
                                 {% if resource.subtitle != nil and resource.subtitle != empty -%}
                                 <div class="h5 fst-italic">{{ resource.subtitle }}</div>
                                 {% endif -%}
+                                <span class="d-block rw-brand-text-muted mt-2">
+                                    {{ resource.date | date: "%B %d, %Y" }}
+                                </span>
                                 <div class="resource-text mt-3">
                                     {{ resource.description | default: excerpt | markdownify }}
                                 </div>
