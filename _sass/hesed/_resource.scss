@@ -21,6 +21,13 @@
     hr {
         border-top-color: $color-border-muted;
     }
+
+    a:hover {
+        background: linear-gradient(115deg, #f97794, #6200ff, #3498db);
+        background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
+    }
 }
 
 .resource-body {
