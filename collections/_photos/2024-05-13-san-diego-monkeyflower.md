@@ -1,7 +1,6 @@
 ---
 title: San Diego Monkeyflower
 seo_title: San Diego Monkeyflower in Bloom
-description: 
 seo_description: View a photo of a San Diego Monkeyflower (Diplacus x australis) in bloom.
 date: 2024-05-13 22:02:05 -07:00
 img:
