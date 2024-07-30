@@ -14,4 +14,4 @@ series: weary-pilgrim-prayers
 *Like our dogs, we age and weaken. And die.*\
 — Psalm 49:12 (The Message)
 
-Lord God, heavenly Father, you who are the source of all true wisdom, guard us from the folly of thinking we will live forever. Teach us the wisdom of living as mortal creatures who depend on you for life, for breath, for everything, and after this brief pilgrimage raise us to eternal life; through Jesus Christ our Lord. Amen.
+Lord God, heavenly Father, you who are the source of all true wisdom, guard us from the folly of thinking we will live forever. Teach us the wisdom of living as mortal creatures who depend on you for life, for breath, for everything; and after this brief pilgrimage raise us to eternal life; through Jesus Christ our Lord. Amen.
