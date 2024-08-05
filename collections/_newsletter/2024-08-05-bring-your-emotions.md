@@ -10,7 +10,7 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/pissaro-hampton-court-green-1891-sm.webp"
     alt: "An 1891 painting by Camille Pissarro titled 'Hampton Court Green'"
 ---
-*I enjoyed a few weeks of vacation in July so I drew from the archives for this month's newsletter. I hope you enjoy this essay about bringing our emotions before God.*
+*I enjoyed a few weeks of vacation in July so I drew from the archives for this month's newsletter. I hope you enjoy this essay about bringing your emotions before God.*
 
 ---
 
