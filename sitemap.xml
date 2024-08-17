@@ -11,7 +11,7 @@ sitemap:
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>{{ "favicon.ico" | absolute_url }}/</loc>
+        <loc>{{ "favicon.ico" | absolute_url }}</loc>
     </url>
     <url>
         <loc>{{ site.url }}{% link _pages/about.md %}</loc>
