@@ -128,7 +128,7 @@ date: $(date +'%Y-%m-%d %H:%M:%S %z')
 published: false
 img:
     alt: ""
-    url: "$cdn"
+    url_lg: "$cdn"
     url_md: "$cdn"
     url_sm: "$cdn"
 episode_id: 
