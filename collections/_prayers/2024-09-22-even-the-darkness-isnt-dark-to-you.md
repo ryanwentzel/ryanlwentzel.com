@@ -1,7 +1,7 @@
 ---
 title: "Even the Darkness Isn't Dark to You"
 subtitle: "A prayer based on Psalm 139:11–12"
-description: A prayer based on Psalm 139:11–12 for those who feel alone in the darkness. *\"Lord God, heavenly Father, I no longer can see your radiant face. The darkness threatens to overwhelm me. I fear it will crush me under its weight. But you see me. You are with me, even in this dark pit.\"*
+description: A prayer based on Psalm 139:11–12 for those who feel alone in the darkness. *\"Lord God, heavenly Father, I no longer can see your radiant face. The darkness threatens to overwhelm me. I fear it will crush me under its weight. But you see me; you are with me, even in this dark pit.\"*
 date: 2024-09-22 12:37:19 -0700
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/malik-earnest-xgxzqRpK0UE-unsplash-lg.webp"
