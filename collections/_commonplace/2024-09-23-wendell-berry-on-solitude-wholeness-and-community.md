@@ -12,9 +12,9 @@ img:
 Wendell Berry sees vital connections between practicing solitude, cultivating personal wholeness, and participating in community.
 
 > True solitude is found in the wild places, where one is without human obligation.
-
+>  
 > One's inner voices become audible. One feels the attraction of one's most intimate sources.
-
+>  
 > In consequence, one responds more clearly to other lives. The more coherent one becomes within oneself as a creature, the more fully one enters into the communion of all creatures.
 
 — Wendell Berry in *What Are People For?: Essays*
