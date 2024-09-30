@@ -36,7 +36,7 @@ layout: default
                 <div class="h2">
                     <a class="icon-link text-reset text-decoration-none" rel="next" href="{{ page.next.url }}">
                         <i class="bi bi-play-circle"></i> 
-                        {{ page.next.title }}
+                        {{ page.next.title | smartify }}
                     </a>
                 </div>
             </div>
@@ -46,7 +46,7 @@ layout: default
                 <div class="h2">
                     <a class="icon-link text-reset text-decoration-none" rel="prev" href="{{ page.previous.url }}">
                         <i class="bi bi-play-circle"></i> 
-                        {{ page.previous.title }}
+                        {{ page.previous.title | smartify }}
                     </a>
                 </div>
             </div>
