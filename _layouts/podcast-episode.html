@@ -29,14 +29,28 @@ layout: default
                     </div>
                 </section>
                 <section class="resource-body border-bottom pb-3">{{ content }}</section>
-                <section class="resource-footer bg-light border rounded-2 mt-5 py-5 px-md-4">
-                    <div class="text-center pt-3">
-                        <img class="profile-img img-fluid rounded-circle" src="{{ site.data.profile.img.medium }}" width="200" height="200" alt="Headshot of Ryan Wentzel" loading="lazy" decoding="async">
-                        <span class="d-block fw-bold fs-1 py-3">{{ site.data.profile.name }}</span>
-                    </div>
-                    <div class="author-bio px-3 px-md-4 fs-5">{{ site.data.profile.bio | markdownify }}</div>
-                </section>
             </article>
+            {%- if page.next.url %}
+            <div class="mt-4">
+                <div class="text-uppercase text-secondary fw-bold">Up Next</div>
+                <div class="h2">
+                    <a class="icon-link text-reset text-decoration-none" rel="next" href="{{ page.next.url }}">
+                        <i class="bi bi-play-circle"></i> 
+                        {{ page.next.title }}
+                    </a>
+                </div>
+            </div>
+            {%- elsif page.previous.url %}
+            <div class="mt-4">
+                <div class="text-uppercase text-secondary fw-bold">Up Next</div>
+                <div class="h2">
+                    <a class="icon-link text-reset text-decoration-none" rel="prev" href="{{ page.previous.url }}">
+                        <i class="bi bi-play-circle"></i> 
+                        {{ page.previous.title }}
+                    </a>
+                </div>
+            </div>
+            {%- endif %}
         </div>
     </div>
 </div>
