@@ -90,6 +90,16 @@ blockquote.pull-quote {
     color: transparent;
 }
 
+.masthead-overlay {
+    align-items: center;
+    backdrop-filter: brightness(80%);
+    background: rgba(57, 57, 57, 0.5);
+    display: flex;
+    inset: 0;
+    justify-content: center;
+    position: absolute;
+}
+
 .masthead {
     h1,h2 {
         font-family: $font-family-slab !important;

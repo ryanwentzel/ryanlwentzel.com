@@ -1,11 +1,16 @@
-<header class="masthead rw-background-img {{ page.masthead.height | default: 'h-70' }} min-vh-100" data-bs-theme="dark" style="background-image: url('{{ page.img.url_lg | default: page.img.url }}')">
-    <div class="container py-5 h-85">
-        <div class="row h-100 justify-content-center align-items-center">
-            <div class="col-12 col-lg-8 text-white text-center">
-                <h1 class="display-3 fw-bold">{{ page.title | smartify }}</h1>
-                {% if page.subtitle %}
-                <h2 class="fs-4 fst-italic">{{ page.subtitle | smartify }}</h2>
-                {% endif %}
+<header class="masthead">
+    <div class="container-fluid p-0">
+        <div class="d-flex masthead-img-wrapper min-vh-100 position-relative overflow-hidden">
+            <img class="masthead-img d-block w-100 height-auto"
+                src="{{ page.img.url_lg | default: page.img.url }}" 
+                alt="{{ page.img.alt }}">
+            <div class="masthead-overlay">
+                <div class="text-white text-center">
+                    <h1 class="display-3 fw-bold">{{ page.title | smartify }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="fs-4 fst-italic">{{ page.subtitle | smartify }}</h2>
+                    {% endif %}
+                </div>
             </div>
         </div>
     </div>
