@@ -1,34 +1,32 @@
-{% if page.previous.url or page.next.url %}
+{%- if page.previous.url or page.next.url %}
 <!-- Pagination links -->
-<div class="d-flex mt-5 mx-xl-6 px-xl-5">
-   <div class="col-6 nextprev px-xl-5">
-       {% if page.previous.url %}
-       <a rel="prev" class="btn btn-lg btn-dark fw-bold" href="{{ page.previous.url | relative_url }}"
-       title="Previous">
-           <i class="bi bi-chevron-left"></i>
-           <span class="d-none d-md-inline">Previous</span>
-       </a>
-       {% else %}
-       <a rel="prev" class="disabled btn btn-lg btn-dark fw-bold" aria-disabled="true">
-           <i class="bi bi-chevron-left"></i>
-           <span class="d-none d-md-inline">Previous</span>
-       </a>
-       {% endif %}
+<div class="d-flex mt-3 justify-content-center h3 text-secondary">Previous / Next</div>
+<div class="d-flex flex-wrap gutter-spacious mt-3">
+   <div class="d-flex flex-column col-md-6 text-center py-4">
+    {%- if page.previous.url %}
+    <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ page.previous.url | relative_url }}">
+        <img class="d-block w-100 height-auto rounded-2" src="{{ page.previous.img.url_sm | default: page.previous.img.url }}" alt="{{ page.previous.img.alt }}" loading="lazy" decoding="async">
+    </a>
+    <h4 class="h4 fw-black mb-2">
+        <a class="text-reset text-decoration-none" href="{{ page.previous.url | relative_url }}">{{ page.previous.title | smartify }}</a>
+    </h4>
+    {%- if page.previous.subtitle %}
+    <h5 class="h6 fst-italic">{{ page.previous.subtitle | smartify }}</h5>
+    {%- endif %}
+    {%- endif %}
    </div>
-   <div class="col-6 nextprev text-end px-xl-5">
-       {% if page.next.url %}
-       <a rel="next" class="btn btn-lg btn-dark fw-bold"
-       href="{{ page.next.url | relative_url }}"
-       title="Next">
-           <span class="d-none d-md-inline">Next</span>
-           <i class="bi bi-chevron-right"></i>
-       </a>
-       {% else %}
-       <a rel="next" class="disabled btn btn-lg btn-dark fw-bold" aria-disabled="true">
-           <span class="d-none d-md-inline">Next</span>
-           <i class="bi bi-chevron-right"></i>
-       </a>
-       {% endif %}
+   <div class="d-flex flex-column col-md-6 text-center py-4">
+    {%- if page.next.url %}
+    <a class="d-block col-12 position-relative rounded-2 mb-3       overflow-hidden" href="{{ page.next.url | relative_url }}">
+        <img class="d-block w-100 height-auto rounded-2" src="{{ page.next.img.url_sm | default: page.next.img.url }}" alt="{{ page.next.img.alt }}" loading="lazy" decoding="async">
+    </a>
+    <h4 class="h4 fw-black mb-2">
+        <a class="text-reset text-decoration-none" href="{{ page.next.url | relative_url }}">{{ page.next.title | smartify }}</a>
+    </h4>
+    {%- if page.next.subtitle %}
+    <h5 class="h6 fst-italic">{{ page.next.subtitle | smartify }}</h5>
+    {%- endif %}
+    {%- endif %}
    </div>
 </div>
-{% endif %}
+{%- endif %}
