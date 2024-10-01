@@ -1,7 +1,7 @@
 ---
 title: "David and Goliath"
 subtitle: "A sermon on 1 Samuel 17"
-description: 
+description: "David's victory over Goliath points to our true champion, Jesus Christ, who defeated sin, death, and Satan through his life, death, and resurrection."
 date: 2024-09-30 15:48:31 -0700
 img:
     alt: "painting by Guillame Courtois"
