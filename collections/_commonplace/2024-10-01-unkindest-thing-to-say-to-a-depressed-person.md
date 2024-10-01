@@ -11,7 +11,7 @@ img:
 ---
 The British preacher Charles Spurgeon lived with depression. [He talked openly about it in his sermons]({% link _commonplace/2024-09-23-the-abysses-of-inward-anguish.md %}), assuring those in his congregation who likewise suffered that their pastor could empathize with them. 
 
-He knew from personal experience the sting of well-meaning but insensitive advice about his condition from fellow Christians. Their counsel often boiled down to, "Stop it!", and they were quick to blame him for his suffering. 
+He knew from personal experience the sting of well-meaning but insensitive advice about his condition offered by fellow Christians. Their counsel often boiled down to, "Stop it!", and they were quick to blame him for his suffering. 
 
 This, [Spurgeon declared from the pulpit](https://www.spurgeon.org/resource-library/sermons/night-and-jesus-not-there/), was "the unkindest thing that anyone can possibly say" to someone living with depression. It betrays an ignorance of the darkness to which even the strongest human minds are susceptible.
 
