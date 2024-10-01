@@ -1,7 +1,7 @@
 ---
 title: "Charles Spurgeon on the Unkindest Thing to Say to a Depressed Person"
 subtitle: "A depressed person needs empathy not blame"
-description: "The British preacher Charles Spurgeon lived with depression. Being a public figure, he often received well-meaning but insensitive advice from fellow Christians about his condition."
+description: "The British preacher Charles Spurgeon lived with depression. Being a public figure, he often received well-meaning but insensitive advice about his condition from fellow Christians."
 date: 2024-10-01 15:42:11 -0700
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/ciaglinski-river-at-white-night-1908-lg.webp"
@@ -11,7 +11,7 @@ img:
 ---
 The British preacher Charles Spurgeon lived with depression. [He talked openly about it in his sermons]({% link _commonplace/2024-09-23-the-abysses-of-inward-anguish.md %}), assuring those in his congregation who likewise suffered that their pastor could empathize with them. 
 
-He knew from personal experience the sting of well-meaning but insensitive advice from fellow Christians about his condition. Their counsel often boiled down to, "Stop it!", and they were quick to blame him for his suffering. 
+He knew from personal experience the sting of well-meaning but insensitive advice about his condition from fellow Christians. Their counsel often boiled down to, "Stop it!", and they were quick to blame him for his suffering. 
 
 This, [Spurgeon declared from the pulpit](https://www.spurgeon.org/resource-library/sermons/night-and-jesus-not-there/), was "the unkindest thing that anyone can possibly say" to someone living with depression. It betrays an ignorance of the darkness to which even the strongest human minds are susceptible.
 
