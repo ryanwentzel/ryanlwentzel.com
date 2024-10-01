@@ -212,6 +212,10 @@ blockquote.pull-quote {
     max-width: 300px;
 }
 
+.w-90 {
+    width: 90% !important;
+}
+
 @include media-breakpoint-between(sm,md) {
     .mw-sm-500px {
         max-width: 500px;
