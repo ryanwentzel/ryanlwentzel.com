@@ -1,7 +1,7 @@
 ---
 title: "Religious Platitudes Do More Harm Than Good to the Depressed Person According to This Author"
 subtitle: "Mental illness, understanding, and empathy"
-description: "Kathyrn Greene-McCreight says religious platitudes like \"Prayer harder\" offer little in the way of help to those who live with mental health challenges. In fact, superficial advice of this sort might actually cause a depressed person more hurt."
+description: "Kathyrn Greene-McCreight says religious platitudes like \"Prayer harder\" offer little in the way of help to those who live with mental health challenges. In fact, such trite advice might actually cause a depressed person more hurt."
 date: 2024-10-01 17:34:16 -0700
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/van-haanen-returning-home-1839-lg.webp"
