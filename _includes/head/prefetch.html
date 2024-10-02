@@ -8,3 +8,6 @@
     <link rel="preload" href="{{ site.data.cdn.base_url }}/assets/fonts/zilla-slab/ZillaSlab-MediumItalic.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="{{ site.data.cdn.url }}/assets/fonts/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="{{ site.data.cdn.url }}/assets/fonts/bootstrap-icons@1.11.2/font/bootstrap-icons.min.css"></noscript>
+    {%- if page.img %}
+    <link rel="preload" as="image" href="{{ page.img.url_lg | default: page.img.url }}">
+    {%- endif %}
