@@ -2,8 +2,14 @@
     <div class="container-fluid p-0">
         <div class="d-flex masthead-img-wrapper min-vh-100 position-relative overflow-hidden">
             <img class="masthead-img d-block w-100 height-auto"
-                src="{{ page.img.url_lg | default: page.img.url }}" 
+            {%- if page.img.url_lg %}
+                srcset="{{ page.img.url_sm }} 854w, {{ page.img.url_md }} 1280w, {{ page.img.url_lg }} 2560w"
+                src="{{ page.img.url_lg }}"
+            {%- else -%}
+                src="{{ page.img.url }}"
+            {%- endif %} 
                 alt="{{ page.img.alt }}"
+                fetchpriority="high"
                 loading="eager">
             <div class="masthead-overlay">
                 <div class="text-white text-center w-90 w-lg-60">
