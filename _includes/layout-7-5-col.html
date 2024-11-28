@@ -32,7 +32,7 @@
         <article class="py-4 d-flex flex-column border-bottom">
             <div class="col-12">
                 <h3 class="h4 fw-bold mb-1">
-                    <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
+                    <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
                 </h3>
                 <div class="resource-text">
                     {{ resource.description | default: resource.excerpt | markdownify }}

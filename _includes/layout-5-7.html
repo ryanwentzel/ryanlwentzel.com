@@ -34,7 +34,7 @@
             </a>
             <div class="col-12">
                 <h3 class="display-5 fw-black mb-1">
-                    <a class="resource-link text-reset" href="{{ first.url | relative_url }}">{{ first.title }}</a>
+                    <a class="resource-link text-reset" href="{{ first.url | relative_url }}">{{ first.title | smartify }}</a>
                 </h3>
                 <div class="resource-text">
                     {{ first.description | default: first.excerpt | markdownify }}
