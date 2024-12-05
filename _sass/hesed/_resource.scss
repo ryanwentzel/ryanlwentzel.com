@@ -68,13 +68,28 @@
 }
 
 .newsletter {
-
-    h2 {
-        margin-top: 4rem;
+    hr {
+        margin-bottom: 2.5rem;
+        margin-top: 2.5rem;
     }
 
     .newsletter-footer {
         margin-top: 2.5rem;
+    }
+
+    .footnotes {
+
+        &:before {
+            content: "";
+            border-top: 1px solid var(--bs-border-color);
+            display: inline-block;
+            margin-bottom: 1.5rem;
+            margin-top: 1rem;
+            width: 100%;
+        }
+        p, ol, ul {
+            font-size: $font-size-base;
+        }
     }
 }
 
