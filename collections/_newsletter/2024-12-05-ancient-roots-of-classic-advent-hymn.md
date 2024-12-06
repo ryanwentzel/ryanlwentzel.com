@@ -63,7 +63,7 @@ So, this Advent season, when you sing "O Come, O Come, Emmanuel," know that you'
 
 ---
 
-## A Prayer Based on Psalm 139:11–32
+## A Prayer Based on Psalm 139:11–12
 
 {% include newsletter/sections/prayer.html path="_prayers/2024-09-22-even-the-darkness-isnt-dark-to-you.md" %}
 
