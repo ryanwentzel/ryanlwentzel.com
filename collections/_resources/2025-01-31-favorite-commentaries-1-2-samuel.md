@@ -3,6 +3,7 @@ title: "My Favorite Commentaries on 1 & 2 Samuel"
 subtitle: "A list of resources for studying and preaching"
 description: "Are you interested in studying 1 & 2 Samuel? Looking for resources to consult for a sermon series. Here are the books and commentaries I've found helpful in my preaching and teaching."
 date: 2025-01-31 15:48:21 -0800
+feature: true
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/caravaggio-david-goliath-head-1600-1601-lg.webp"
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/caravaggio-david-goliath-head-1600-1601-md.webp"
