@@ -11,7 +11,7 @@ img:
 ---
 Noel Crowe, a 78-year-old man, reminisces about his life in a small Irish village nearly 60 years before. He marvels at the strange new acquaintance sitting beside him all those many years ago.
 
-> Some people understand the privilege of stillness and can sit and breath and look and hear and smell the world turning and let what's next wait the while.
+> Some people understand the privilege of stillness and can sit and breathe and look and hear and smell the world turning and let what's next wait the while.
 
 — Nial Williams, *This is Happiness* (London: Bloomsbury, 2019), 38.
 
