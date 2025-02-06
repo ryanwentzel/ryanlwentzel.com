@@ -153,14 +153,16 @@ function prayer () {
     echo "Creating $filename"
     cat << DELIMIT > "$filename"
 ---
-title: $title
-subtitle: $subtitle
-description: 
+title: "$title"
+subtitle: "$subtitle"
+description: ""
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
 published: false
 img:
-    url: $cdn
-    alt:
+    url_lg: "$cdn"
+    url_md: "$cdn"
+    url_sm: "$cdn"
+    alt: ""
 series:
 ---
 
