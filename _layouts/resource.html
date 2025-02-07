@@ -11,11 +11,11 @@ layout: default
                         alt="Headshot of Ryan Wentzel">
                     </a>
                 </div>
-                <div class="px-2">
+                <div class="px-2 text-uppercase">
                     <span class="resource-author">
-                        By <a class="resource-author fw-bold" href="{% link _pages/about.md %}" title="About {{ site.data.profile.name }}">{{ site.data.profile.name }}</a>
+                        <small><a class="resource-author fw-bold" href="{% link _pages/about.md %}" title="About {{ site.data.profile.name }}">{{ site.data.profile.name }}</a></small>
                     </span>
-                    <div class="resource-pubdate rw-brand-text-muted">{{ page.date | date: '%B %d, %Y' }}</div>  
+                    <div class="resource-pubdate rw-brand-text-muted"><small>{{ page.date | date: '%b %d, %Y' }}</small></div>  
                 </div>
             </div>
             <article>

@@ -7,14 +7,20 @@ layout: default
             <div class="resource-byline d-flex align-items-center py-2 border-bottom">
                 <div>
                     <a href="{% link _pages/about.md %}">
-                        <img class="rounded-circle" src="{{ site.data.profile.img.medium }}" height="50" width="50">
+                        <img class="rounded-circle" src="{{ site.data.profile.img.small }}" height="50" width="50">
                     </a>
                 </div>
-                <div class="px-2">
+                <div class="px-2 text-uppercase">
                     <span class="resource-author">
-                        By <a class="resource-author fw-bold" href="{% link _pages/about.md %}" title="About {{ site.data.profile.name }}">{{ site.data.profile.name }}</a>
+                        <small>
+                            <a class="resource-author fw-bold" href="{% link _pages/about.md %}" title="About {{ site.data.profile.name }}">{{ site.data.profile.name }}</a>
+                        </small>
                     </span>
-                    <div class="resource-pubdate rw-brand-text-muted">{{ page.date | date: '%B %d, %Y' }}</div>  
+                    <div class="resource-pubdate rw-brand-text-muted">
+                        <small>
+                            {{ page.date | date: '%b %d, %Y' }}
+                        </small>
+                    </div>  
                 </div>
             </div>
             <article class="podcast">
