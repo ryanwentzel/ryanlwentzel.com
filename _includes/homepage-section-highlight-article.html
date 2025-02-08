@@ -1,0 +1,6 @@
+{% assign articles = site.articles | where_exp: "item", "item.feature != empty and item.feature == true" %}
+{% assign featured = articles | reverse | first %}
+<section class="homepage-section">
+    <hr>
+    {% include layout-highlight-img-l.html resource=featured %}
+</section>

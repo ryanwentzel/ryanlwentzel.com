@@ -1,0 +1,20 @@
+{% assign resource = include.resource %}
+{% unless resource == nil %}
+<div class="d-flex flex-wrap position-relative">
+    <div class="d-flex flex-column col-lg-6">
+        <div class="py-4">
+            <img class="d-block d-xl-none w-100 h-auto rounded-2" src="{% include resources/image-sm-url.html resource=resource %}" alt="{{ resource.img.alt }}" loading="lazy" decoding="async">
+            <img class="d-none d-xl-block w-100 h-auto rounded-2" src="{% include resources/image-md-url.html resource=resource %}" alt="{{ resource.img.alt }}" loading="lazy">
+        </div>
+    </div>
+    <div class="d-flex flex-column col-lg-6 justify-content-center text-center flex-grow-1">
+        <div class="py-4">
+            <a href="{{ resource.url | relative_url }}"
+            class="d-block stretched-link w-100 resource-link text-reset text-decoration-none">
+                <h3 class="display-3 fw-black">{{ resource.title }}</h3>
+            </a>
+            <span class="h6">{{ resource.subtitle }}</span>
+        </div>
+    </div>
+</div>
+{% endunless %}
