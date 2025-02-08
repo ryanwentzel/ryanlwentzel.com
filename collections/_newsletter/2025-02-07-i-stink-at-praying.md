@@ -8,7 +8,6 @@ img:
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/marsh-great-house-lit-at-night-md.webp"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/marsh-great-house-lit-at-night-sm.webp"
     alt: "A painting by Clare Marsh titled 'A Great House Lit at Night'"
-published: false 
 ---
 I stink at praying. I really do. I've been a Christian for more than 25 years and a pastor for over 15. I preach and teach about prayer. 
 
