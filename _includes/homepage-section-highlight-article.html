@@ -1,7 +1,7 @@
 {% assign resource = site.articles | reverse | find: "highlight", true %}
-{% unless resource == nil %}
+{%- unless resource == nil %}
 <section class="homepage-section">
     <hr>
-    {% include layout-highlight-img-l.html resource=resource %}
+    {%- include layout-highlight-img-l.html resource=resource -%}
 </section>
-{% endunless %}
+{%- endunless -%}
