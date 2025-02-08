@@ -9,6 +9,7 @@ img:
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/inness-lonely-farm-nantucket-1892-md.webp"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/inness-lonely-farm-nantucket-1892-sm.webp"
     alt: "An 1892 painting by George Inness titled 'The Lonely Farm, Nantucket'" 
+feature: true
 ---
 In my head, wrapping its sinuous body around my brain. Squeezing, tighter and tighter and ...
 
