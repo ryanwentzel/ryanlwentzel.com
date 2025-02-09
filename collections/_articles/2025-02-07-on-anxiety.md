@@ -2,6 +2,7 @@
 title: "On Anxiety"
 subtitle: "A feeble attempt to describe the indescribable"
 description: "I live with anxiety. It's been a constant companion for most of my life, as far back as I can remember, at least. This is an attempt to describe my experience of it."
+author_note: "I live with anxiety. It's been a constant companion for most of my life, as far back as I can remember, at least. This is an attempt to describe my **experience** of it."
 date: 2025-02-07 22:27:18 -0800
 img: 
     url: "https://cdn.ryanlwentzel.com/assets/img/content/inness-lonely-farm-nantucket-1892-lg.webp"
@@ -11,9 +12,9 @@ img:
     alt: "An 1892 painting by George Inness titled 'The Lonely Farm, Nantucket'" 
 highlight: true
 ---
-<small>*I live with anxiety. It's been a constant companion for most of my life, as far back as I can remember, at least. This is an attempt to describe my **experience** of it.*</small>
+*I live with anxiety. It's been a constant companion for most of my life, as far back as I can remember, at least. This is an attempt to describe my **experience** of it.*
 
----
+<hr class="rw-separator">
 
 Sinuous body wrapping itself around my brain. Squeezing, tighter and tighter and...
 
