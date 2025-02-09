@@ -15,9 +15,9 @@ highlight: true
 
 \***
 
-Wrapping its sinuous body around my brain. Squeezing, tighter and tighter and...
+Sinuous body wrapping itself around my brain. Squeezing, tighter and tighter and...
 
-A blizzard, maybe. I don't know. We don't have those here, but I've seen them on TV. Cold down in your bones. Wind like the coyotes on the edge of the neighborhood after dark. Can't see where you're going or where you've been, either. Alone and lost and tired. So painfully tired.
+A blizzard, maybe. I don't know. We don't have those here, but I've seen them on TV. Cold down in your bones. Wind like the coyotes at the edge of the neighborhood after dark. Can't see where I'm going or where I've been, either. Alone and lost and tired. So painfully tired.
 
 Light-headed. Confused. Why can't I think? Try harder. Concentrate. Try. Maybe I should stop thinking? But I can't. Can't rest. Just for a moment. Just to catch my breath. Why? Try harder. Move my legs, I've got to, right now! Run, get away! But I can't. So tired, so painfully tired.
 
