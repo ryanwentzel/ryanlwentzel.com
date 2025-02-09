@@ -76,21 +76,6 @@
     .newsletter-footer {
         margin-top: 2.5rem;
     }
-
-    .footnotes {
-
-        &:before {
-            content: "";
-            border-top: 1px solid var(--bs-border-color);
-            display: inline-block;
-            margin-bottom: 1.5rem;
-            margin-top: 1rem;
-            width: 100%;
-        }
-        p, ol, ul {
-            font-size: $font-size-base;
-        }
-    }
 }
 
 .commonplace-body {
@@ -148,4 +133,19 @@
 .photo-wrapper:hover .overlay-full {
     opacity: 1;
     transform: scale(1);
+}
+
+.footnotes {
+
+    &:before {
+        content: "";
+        border-top: 1px solid var(--bs-border-color);
+        display: inline-block;
+        margin-bottom: 1.5rem;
+        margin-top: 1rem;
+        width: 100%;
+    }
+    p, ol, ul {
+        font-size: $font-size-base;
+    }
 }
