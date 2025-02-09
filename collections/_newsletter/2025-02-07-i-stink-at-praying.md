@@ -47,7 +47,7 @@ For me, the form is far from constricting. I find it provides just enough struct
 
 Here's an example of a prayer I wrote just this past week. It's based on Jesus's invitation, in Matthew 6:25–34, to a non-anxious way of life. I titled it ["Sparrows, Poppies, and My Anxious Heart."]({% link _prayers/2025-02-07-sparrows-poppies-my-anxious-heart.md %})
 
-> Heavenly Father, you who feeds the White-crowned Sparrows and clothes the California Poppies, calm my anxious heart this morning, I pray, with fresh reminders of your fatherly care, so that I might let tomorrow worry about itself, through Jesus Christ our Lord. Amen.
+> Heavenly Father, you who feed the White-crowned Sparrows and clothe the California Poppies, calm my anxious heart this morning, I pray, with fresh reminders of your fatherly care, so that I might let tomorrow worry about itself, through Jesus Christ our Lord. Amen.
 
 I encourage you to try your hand at writing a prayer. I think you'd be surprised by how helpful the practice can be. 
 

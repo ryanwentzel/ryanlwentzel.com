@@ -10,5 +10,5 @@ img:
     alt: "A painting by Vincent van Gogh titled 'Poppy Field'"
 series: weary-pilgrim-prayers
 ---
-Heavenly Father, you who feeds the White-crowned Sparrows and clothes the California Poppies, calm my anxious heart this morning, I pray, with fresh reminders of your fatherly care, so that I might let tomorrow worry about itself, through Jesus Christ our Lord. Amen.
+Heavenly Father, you who feed the White-crowned Sparrows and clothe the California Poppies, calm my anxious heart this morning, I pray, with fresh reminders of your fatherly care, so that I might let tomorrow worry about itself, through Jesus Christ our Lord. Amen.
 
