@@ -14,7 +14,7 @@ highlight: true
 ---
 *I live with anxiety. It's been a constant companion for most of my life, as far back as I can remember, at least. This is an attempt to describe my **experience** of it.*
 
-<hr class="rw-separator">
+---
 
 Sinuous body wrapping itself around my brain. Squeezing, tighter and tighter and...
 
