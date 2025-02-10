@@ -6,7 +6,7 @@ layout: default
         <div class="col-md-10 col-lg-7">
             {%- include resource-byline.html %}
             <article>
-                <section class="resource-body border-bottom pb-3">
+                <section class="resource-body">
                 {%- if page.theme_verses %}
                     <p class="lead">
                         <em>{{ page.theme_verses.text }}</em>
@@ -19,6 +19,7 @@ layout: default
                 {{ content }}
                 </section>
             </article>
+            {% include newsletter/subscribe-cta.html %}
             {% include author-bio.html %}
             {% include nextprev.html %}
         </div>

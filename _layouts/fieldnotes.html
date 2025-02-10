@@ -35,10 +35,11 @@ layout: default
                 </div>
             </div>
             <article class="mt-4">
-                <section class="resource-body border-bottom pb-3">
+                <section class="resource-body">
                     {{ content }}
                 </section>
             </article>
+            {% include newsletter/subscribe-cta.html %}
             {% include author-bio.html %}
             {% include nextprev.html %}
         </div>

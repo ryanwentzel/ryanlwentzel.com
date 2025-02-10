@@ -19,8 +19,11 @@ layout: default
                 </div>
             </div>
             <article>
-                <section class="resource-body border-bottom pb-3">{{ content }}</section>
+                <section class="resource-body">
+                    {{ content }}
+                </section>
             </article>
+            {% include newsletter/subscribe-cta.html %}
             {% include author-bio.html %}
             {% include nextprev.html %}
         </div>
