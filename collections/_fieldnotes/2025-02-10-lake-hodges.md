@@ -1,5 +1,5 @@
 ---
-title: "Finding Refreshment for My Soul at Lake Hodges"
+title: "Finding Refreshment for My Weary Soul at Lake Hodges"
 description: "I was tired. Exhausted, really. Worn down by two weeks of stress. I needed to get outside. I needed to feel the warmth of the sun on my skin. I needed to hear the murmur of leaves rustling in a gentle breeze. There's something about spending time in nature that refreshes my soul like nothing else."
 date: 2025-02-10 15:36:00 -0800
 img:
