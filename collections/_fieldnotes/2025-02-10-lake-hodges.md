@@ -10,7 +10,7 @@ img:
     alt: "Lake Hodges on a February morning"
 activity:
     date: 2025-02-10
-    location_name: Lake Hodges – Del Dios area (west end)
+    location_name: Lake Hodges — Del Dios area (west end)
     location_url: "https://maps.app.goo.gl/xUNiLFFQHHKkBzCw5"
     start_time: 2025-02-10 10:19:00 -0800
     duration: "2 hrs 45 mins"
@@ -38,14 +38,14 @@ I rambled south along the western shore, where the landscape had changed dramati
 </figure>
 
 <figure>
-    <img src="https:/cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0342.webp" alt="Bass skeleton on the shore at Lake Hodges">
+    <img src="https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0342.webp" alt="Bass skeleton on the shore at Lake Hodges">
     <figcaption>Casualty of the low water level?</figcaption>
 </figure>
 
 ![A tie down on the shore at Lake Hodgest](https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0355.webp)
 
 <figure>
-    <img src="https:/cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0333-crop.webp" alt="A small boulder resting on the shore of Lake Hodges">
+    <img src="https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0333-crop.webp" alt="A small boulder resting on the shore of Lake Hodges">
     <figcaption>A former resident of the lake bottom</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ I spotted a female Belted Kingfisher perched atop the rusted remains of a tree-l
 I watched as she scanned the water for fish. Then, after a few minutes, she flew to the other side of the lake.
 
 <figure>
-    <img src="https:/cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0351.webp" alt="Near the pump station at Lake Hodges">
+    <img src="https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0351.webp" alt="Near the pump station at Lake Hodges">
     <figcaption>The area where I spotted a kingfisher (not pictured)</figcaption>
 </figure>
 
