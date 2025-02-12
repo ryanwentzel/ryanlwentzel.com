@@ -26,7 +26,9 @@ I needed to get outside. I needed to feel the warmth of the sun on my skin. I ne
 
 I made the short drive from my home to Lake Hodges. It's a place I come back to again and again. I parked at the dirt lot off Lake Drive, across the street from Hernandez Hideaway, and hit the trail. 
 
-I saw only a handful of people over the next few hours — a couple mountain bikers, two fishermen. It was quiet. I needed quiet.
+I saw only a handful of people over the next few hours — a couple mountain bikers, two fishermen. It was quiet. I needed quiet. 
+
+*Thank you, Father.*
 
 I rambled south along the western shore, where the landscape had changed dramatically since the City of San Diego lowered the reservoir's water level two years earlier. Now, much of the lake bed lay exposed.
 
@@ -49,20 +51,26 @@ I rambled south along the western shore, where the landscape had changed dramati
 
 Here and there along the shoreline, I came across rusted cans, empty plastic containers, a sheet of plywood, and a soggy square of carpet. I wondered how it had come to be here.
 
+*Father, my heart grieves the way we mistreat your creation. Forgive us.*
+
 ![A rusted can on the shore](https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0377.webp)
 
 I had a pair of binoculars with me — this area is one of my favorite birding spots. I watched a Black Phoebe deftly pick off flying insects while a trio of Song Sparrows took turns bathing at the water's edge. A Spotted Towhee called from the bushes, its voice sharp, irritated. Nearby, several Lesser Goldfinches searched for seeds. The males were decked out in smart black caps with bright yellow underparts. A solitary Spotted Sandpiper scuttled along the waterline, bobbing its tail.
 
 Tree Swallows zipped through the air, twisting and turning, flapping and gliding, their iridescent blue-green backs shimmering in the sunlight as they hunted for insects.
 
+*O God, what luminous beauty! Thank you. More, please!*
+
 <figure>
     <img src="https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0368.webp" alt="Closeup photo of a feather">
     <figcaption>Who left this behind, I wonder?</figcaption>
 </figure>
 
-I spotted a female Belted Kingfisher perched atop the rusted remains of a tree-like steel beam in a marshy section near the pump station. I love these noisy, opinionated creatures. An illustration of one hangs on a wall in my study at the church. 
+I spotted a female Belted Kingfisher perched atop the rusted remains of a tree-like steel beam in a marshy section near the pump station. I love these noisy, opinionated creatures. An illustration of one hangs on a wall in my study at the church. I hadn't seen one for quite some time. This was exciting!
 
 I watched as she scanned the water for fish. Then, after a few minutes, she took to flight, crossing to the other side of the lake. I followed her with my binoculars until she passed beyond their reach.
+
+*I want to sing, Lord. Thank you!*
 
 <figure>
     <img src="https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0351.webp" alt="Near the pump station at Lake Hodges">
@@ -72,5 +80,7 @@ I watched as she scanned the water for fish. Then, after a few minutes, she took
 It was now half past noon, and I had been walking for nearly three hours. My stomach told me I needed lunch, so I turned around and retraced my steps, returning to where I had started from in the morning.
 
 My belly was empty, but my soul was full. I drove home feeling a little less weary — refreshed even. Nature had done its work.
+
+*Father almighty, maker of heaven and earth, I praise your wonderful name. Thank you for refreshing my soul.*
 
 {% include checklists/birding.html %}
