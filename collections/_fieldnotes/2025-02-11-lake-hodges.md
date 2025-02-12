@@ -24,11 +24,9 @@ I was tired. Exhausted, really. Worn down by two weeks of stress.
 
 I needed to get outside. I needed to feel the warmth of the sun on my skin. I needed to hear the murmur of leaves rustling in a gentle breeze. There's something about spending time in nature that refreshes my soul like nothing else.
 
-I made the short drive from my home to Lake Hodges. It's a place I come back to again and again. 
+I made the short drive from my home to Lake Hodges. It's a place I come back to again and again. I parked at the dirt lot off Lake Drive, across the street from Hernandez Hideaway, and hit the trail. 
 
-I parked at the dirt lot off Lake Drive, across the street from Hernandez Hideaway, and hit the trail. I saw only a handful of people over the next few hours — a couple mountain bikers, two fishermen. 
-
-It was quiet. I needed quiet.
+I saw only a handful of people over the next few hours — a couple mountain bikers, two fishermen. It was quiet. I needed quiet.
 
 I rambled south along the western shore, where the landscape had changed dramatically since the City of San Diego lowered the reservoir's water level two years earlier. Now, much of the lake bed lay exposed.
 
