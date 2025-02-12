@@ -62,7 +62,7 @@ Tree Swallows zipped through the air, twisting and turning, flapping and gliding
 
 I spotted a female Belted Kingfisher perched atop the rusted remains of a tree-like steel beam in a marshy section near the pump station. I love these noisy, opinionated creatures. An illustration of one hangs on a wall in my study at the church. 
 
-I watched as she scanned the water for fish. Then, after a few minutes, she took to flight, crossing to the other side of the lake.
+I watched as she scanned the water for fish. Then, after a few minutes, she took to flight, crossing to the other side of the lake. I followed her with my binoculars until she passed beyond their reach.
 
 <figure>
     <img src="https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0351.webp" alt="Near the pump station at Lake Hodges">
