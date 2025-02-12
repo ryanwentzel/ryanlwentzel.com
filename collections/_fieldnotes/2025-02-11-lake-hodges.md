@@ -66,7 +66,7 @@ Tree Swallows zipped through the air, twisting and turning, flapping and gliding
     <figcaption>Who left this behind, I wonder?</figcaption>
 </figure>
 
-I spotted a female Belted Kingfisher perched atop the rusted remains of a tree-like steel beam in a marshy section near the pump station. I love these noisy, opinionated creatures. An illustration of one hangs on a wall in my study at the church. I hadn't seen one for quite some time. This was exciting!
+I spotted a female Belted Kingfisher perched atop the rusted remains of a tree-like steel beam in a marshy section near the pump station. I love these noisy, opinionated, gorgeous creatures. There's a wonderful little illustration of a Belted Kingfisher hanging on a wall in my study at the church. I hadn't seen one for quite some time. This was exciting!
 
 I watched as she scanned the water for fish. Then, after a few minutes, she took to flight, crossing to the other side of the lake. I followed her with my binoculars until she passed beyond their reach.
 
@@ -81,6 +81,6 @@ It was now half past noon, and I had been walking for nearly three hours. My sto
 
 My belly was empty, but my soul was full. I drove home feeling a little less weary — refreshed even. Nature had done its work.
 
-*Father almighty, maker of heaven and earth, I praise your wonderful name. Thank you for refreshing my soul.*
+*Father almighty, maker of heaven and earth, I praise your wonderful name. Thank you for refreshing my soul, through Jesus Christ our Lord. Amen.*
 
 {% include checklists/birding.html %}
