@@ -1,7 +1,7 @@
 ---
 title: "Sparrows, Poppies, and My Anxious Heart"
-subtitle: "A prayer for those who worry about making ends meet, based on Jesus's words in Matthew 6"
-description: "A prayer for those who worry about making ends meet, based on Jesus's words in Matthew 6."
+subtitle: "A prayer for those who worry about making ends meet"
+description: "A prayer for those who worry about making ends meet."
 date: 2025-02-07 07:25:54 -0800
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/van-gogh-poppy-field-lg.webp"
