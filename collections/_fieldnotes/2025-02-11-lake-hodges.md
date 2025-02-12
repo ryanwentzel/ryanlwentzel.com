@@ -53,7 +53,7 @@ Here and there along the shoreline, I came across rusted cans, empty plastic con
 
 I had a pair of binoculars with me — this area is one of my favorite birding spots. I watched a Black Phoebe deftly pick off flying insects while a trio of Song Sparrows took turns bathing at the water's edge. A Spotted Towhee called from the bushes, its voice sharp, irritated. Nearby, several Lesser Goldfinches searched for seeds. The males were decked out in smart black caps with bright yellow underparts. A solitary Spotted Sandpiper scuttled along the waterline, bobbing its tail.
 
-Tree Swallows zipped through the air, twisting and turning, flapping and gliding, their iridescent blue-green backs flashing in the sunlight as they hunted for insects.
+Tree Swallows zipped through the air, twisting and turning, flapping and gliding, their iridescent blue-green backs shimmering in the sunlight as they hunted for insects.
 
 <figure>
     <img src="https://cdn.ryanlwentzel.com/assets/img/photos/20250210-IMG_0368.webp" alt="Closeup photo of a feather">
