@@ -54,6 +54,13 @@ blockquote.pull-quote {
     }
 }
 
+figcaption {
+    color: $color-fg-muted;
+    font-size: smaller;
+    margin-top: 0.5rem;
+    text-align: center;
+}
+
 .rw-background-img {
     // background-url is set inline in html templates
     background-attachment: local;
