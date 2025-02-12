@@ -1,9 +1,11 @@
 {% assign checklist = site.data.checklists[page.activity.birds.checklist] %}
+{% unless checklist == nil %}
 <h2>Birds Observed</h2>
-<div class="py-3 px-4 border rounded">
+<div class="py-3 px-4 border rounded mb-5">
     <table class="table table-striped">
         <thead>
             <tr>
+                <th scope="col">#</th>
                 <th scope="col">Species</th>
                 <th scope="col">Count</th>
             </tr>
@@ -11,6 +13,7 @@
         <tbody>
     {% for row in checklist %}
             <tr>
+                <td><small>{{ forloop.index }}</small></td>
                 <td><small>{{ row.Species | smartify }}</small></td>
                 <td><small>{{ row.Count }}</small></td>
             </tr>
@@ -24,5 +27,6 @@
     </a>
 {%endif %}
 </div>
+{% endunless %}
 
 
