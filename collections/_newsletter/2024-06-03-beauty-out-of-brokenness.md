@@ -14,7 +14,7 @@ Kintsugi, meaning "golden joinery," is the ancient Japanese art of repairing bro
 
 This centuries-old practice "celebrates each artifact's unique history by emphasizing its fractures and breaks instead of hiding or disguising them," says [Kelly Richman-Abdou](https://mymodernmet.com/kintsugi-kintsukuroi/ "Article about kintsugi at My Modern Met").
 
-According to artist [Makoto Fujimura](https://makotofujimura.com/), Kintsugi does more than "fix" a broken vessel. It creates something more beautiful and more valuable than the original, unbroken piece.
+According to artist [Makoto Fujimura](https://makotofujimura.com/), Kintsugi does more than "fix" a broken vessel; it creates something more beautiful and more valuable than the original, unbroken piece.
 
 ![Beige Japanese tea ware that was repaired using the kintsugi technique. The result is a unique piece of art even more beautiful than the original.](https://cdn.ryanlwentzel.com/assets/img/content/shutterstock_1805501275-md.webp)
 
