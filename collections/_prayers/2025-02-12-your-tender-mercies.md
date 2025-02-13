@@ -1,7 +1,7 @@
 ---
 title: "Your Tender Mercies"
-subtitle: "A prayer for one whose weary soul longs to be refreshed"
-description: "A prayer for one whose weary soul longs to be refreshed."
+subtitle: "A prayer for weary souls longing to be refreshed"
+description: "A prayer for weary souls longing to be refreshed."
 date: 2025-02-12 07:28:26 -0800
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/chintrueil-rain-shower-1868-lg.webp"
