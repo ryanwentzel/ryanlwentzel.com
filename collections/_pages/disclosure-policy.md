@@ -12,3 +12,5 @@ img:
   alt: "Photo of a desk on which rests a laptop and cell phone"
 ---
 As with many sites on the internet, I use affiliate links. When you buy through my links, I may earn a small commission.
+
+{% include newsletter/subscribe-cta.html %}
