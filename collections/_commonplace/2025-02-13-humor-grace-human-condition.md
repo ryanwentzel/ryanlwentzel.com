@@ -9,7 +9,7 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/michel-sun-effect-plain-sm.webp"
     alt: "Painting by Georges Michel titled 'Sun effect on the plain'" 
 ---
-Christian Wiman believes humor can do more than provide a temporary distraction from the hard realities of life in a broken world; there can be "an element of grace to it," he says. Humor can have "existential reach." It "can imply a world in which the comic, not the tragic, is ultimate."
+Christian Wiman believes humor can do more than provide a temporary distraction from the hard realities of life in a broken world; there can be "an element of grace to it," he says. Humor can have "existential reach," meaning it "can imply a world in which the comic, not the tragic, is ultimate."
 
 He quotes Peter Berger, who discusses a "comic perception" on life:
 
