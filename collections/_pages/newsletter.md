@@ -16,7 +16,7 @@ opengraph:
 ---
 ***{{ site.data.newsletter.title }}*** is a newsletter by [Ryan Wentzel]({{ site.url }}). 
 
-Once a week, I share a brief prayer that I've written. I also send out a monthly digest of articles and prayers from my website, [ryanlwentzel.com]({{ site.url }}), along with photos I've taken, my recent [sermons]({{ site.data.nav.sermons | relative_url }}), art and poetry, and excerpts from my [commonplace book]({{ site.data.nav.commonplace | relative_url }}).
+Once a week, I share a brief prayer that I've written. I also send out a monthly digest of articles and prayers from [ryanlwentzel.com]({{ site.url }}), along with photos I've taken, my recent [sermons]({{ site.data.nav.sermons | relative_url }}), art and poetry, and excerpts from my [commonplace book]({{ site.data.nav.commonplace | relative_url }}).
 
 It's free to sign up. I'm not going to spam you, I promise, and you can unsubscribe at any time, no questions asked.
 
