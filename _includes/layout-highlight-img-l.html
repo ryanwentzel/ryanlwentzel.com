@@ -1,7 +1,7 @@
 {% assign resource = include.resource %}
 {%- unless resource == nil %}
-<div class="d-flex flex-wrap position-relative">
-    <div class="d-flex flex-column col-lg-6">
+<div class="d-flex flex-wrap justify-content-center position-relative">
+    <div class="d-flex flex-column col-xl-6">
         <div class="py-4">
             <img class="d-block d-xl-none w-100 h-auto rounded-2" src="{% include resources/image-sm-url.html resource=resource %}" alt="{{ resource.img.alt }}" loading="lazy" decoding="async">
             <img class="d-none d-xl-block w-100 h-auto rounded-2" src="{% include resources/image-md-url.html resource=resource %}" alt="{{ resource.img.alt }}" loading="lazy">
