@@ -3,14 +3,17 @@
     <div class="row flex-grow-1 align-items-end text-end px-3">
       <div class="col-12">
         <div class="follow-icons fs-5">
-          <a class="icon-link px-1 text-reset" href="mailto:{{ site.author.email | encode_email }}" title="Contact Me">
-            <i class="bi bi-envelope-at"></i>
+          <a class="icon-link px-1 text-reset" href="{{ site.data.nav.newsletter | relative_url }}" title="Subscribe to my newsletter">
+            <i class="bi bi-newspaper"></i>
+          </a>
+          <a class="icon-link px-1 text-reset" href="{{ site.data.feeds.main | relative_url }}" title="Subscribe to the Atom feed to get all the latest content">
+            <i class="bi bi-rss"></i>
           </a>
           <a class="icon-link px-1 text-reset" href="{{ site.data.nav.sermons | relative_url }}" title="{{ site.data.podcast.name }}">
             <i class="bi bi-broadcast-pin"></i>
           </a>
-          <a class="icon-link px-1 text-reset" href="{{ site.data.feeds.main | relative_url }}" title="Subscribe to the Atom feed to get all the latest content">
-            <i class="bi bi-rss"></i>
+          <a class="icon-link px-1 text-reset" href="mailto:{{ site.author.email | encode_email }}" title="Contact Me">
+            <i class="bi bi-envelope-at"></i>
           </a>
         </div>
         <div>
