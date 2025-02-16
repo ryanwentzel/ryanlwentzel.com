@@ -11,7 +11,7 @@ img:
     shutter_speed: 1/160
     aperture: f/5.6
     iso: 1600
-    lens: 50 mm (EFS50mm f/1.4 USM)
+    lens: 50 mm (EF50mm f/1.4 USM)
     camera: Canon EOS 6D
     date: 2024-05-12
     location: Escondido, California
