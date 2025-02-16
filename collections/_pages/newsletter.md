@@ -1,7 +1,6 @@
 ---
 layout: newsletter-sub
-title: Newsletter
-seo_title: The Weary Pilgrim Newsletter
+title: The Weary Pilgrim Newsletter
 description: "The Weary Pilgrim is a newsletter written by Ryan Wentzel"
 permalink: /newsletter/
 masthead:
