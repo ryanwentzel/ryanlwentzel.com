@@ -4,10 +4,10 @@ subtitle: "A sermon on 1 Samuel 20"
 description: "Last year, the Surgeon General released a report about a major public health crisis. He said the most prevalent health issue in the country isn't cancer, it isn't heart disease, and it isn't obesity. It's loneliness. The gospel answers our loneliness by pointing us to the true faithful friend, Jesus Christ."
 date: 2024-12-04 15:19:23 -0800
 img:
-    alt: "Two female friends smiling and hugging each other"
-    url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/omar-lopez-0-uzdU3gUYw-unsplash-lg.webp"
-    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/omar-lopez-0-uzdU3gUYw-unsplash-md.webp"
-    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/omar-lopez-0-uzdU3gUYw-unsplash-sm.webp"
+    alt: "Painting by Wassily Kandinsky titled 'Landscape with a yellow field' (1905)"
+    url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/kandinsky-landscape-yellow-field-lg.webp"
+    url_md: "https://cdn.ryanlwentzel.com/assets/img/content/kandinsky-landscape-yellow-field-md.webp"
+    url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/kandinsky-landscape-yellow-field-sm.webp"
 episode_id: "30wyDjBfSPQyHslHPKW8kW"
 ---
 Last year, the Surgeon General released a report about a major public health crisis. He said the most prevalent health issue in the country isn't cancer, it isn't heart disease, and it isn't obesity. It's loneliness. Studies are showing that loneliness can be as harmful to your health as smoking 15 cigarettes a day.
