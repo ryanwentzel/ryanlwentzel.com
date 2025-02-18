@@ -17,4 +17,4 @@ He quotes Peter Berger, who discusses a "comic perception" on life:
 
 How does this "comic perception" help a person navigate the tragic dimension of life? According to Wiman, "A comic perception can be not simply an act of faith, but a perdurable instant of time that faith itself can cling to — so long as that comic perception is, you might say, spiritually in tune with tragedy."
 
-— Christian Wiman, *Zero at the Bone: Fifty Entries Against Despair* (New York: Farrar, Straus and Giroux, 2023), 69–70.
+— Christian Wiman, *[Zero at the Bone: Fifty Entries Against Despair](https://amzn.to/3QlPFxY)* (New York: Farrar, Straus and Giroux, 2023), 69–70.
