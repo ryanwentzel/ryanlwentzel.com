@@ -3,23 +3,21 @@ title: "I Stink at Praying"
 subtitle: "How writing my prayers helps me stink a little less at it"
 description: "How writing my prayers helps me stink a little less at praying."
 date: 2025-02-07 17:09:28 -0800
+sitemap:
+    lastmod: 2025-02-18 08:52:08 -0800
 img: 
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/marsh-great-house-lit-at-night-lg.webp"
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/marsh-great-house-lit-at-night-md.webp"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/marsh-great-house-lit-at-night-sm.webp"
     alt: "A painting by Clare Marsh titled 'A Great House Lit at Night'"
 ---
-I stink at praying. I really do. I've been a Christian for more than 25 years and a pastor for over 15. I preach and teach about prayer. 
+I stink at praying. I really do. I've been a Christian for more than 25 years and a pastor for over 15. I preach and teach about prayer. But I still stink at praying.
 
-But I still stink at praying.
+It's not for lack of trying. I've read books about prayer. I try to learn from the many beautiful prayers Christians have written over the centuries. I make lists and set aside time each day (well, most days) to pray. I work at it. I really do. But I still stink at praying.
 
-It's not for lack of trying. I've read books about prayer. I try to learn from the many beautiful prayers Christians have written over the centuries. I make lists and set aside time each day (well, most days) to pray. I work at it. I really do. 
+I take some comfort in knowing that I'm not alone. Many of the best-known Christians in the history of the Church have struggled with it. I suspect most of the people in the congregation I pastor feel like their prayer lives aren't what they ought to be. Praying is hard.
 
-But I still stink at praying.
-
-I take some comfort in knowing that I'm not alone. Many of the best-known Christians in the history of the Church have struggled with it. I suspect most of the people in the congregation I pastor feel like their prayer lives aren't what they ought to be. 
-
-Praying is hard. And I stink at it. But I haven't given up yet. It's one of those things that's worth doing even if you don't do it well. Thankfully, God still hears and answers his children's fumbling requests.
+I stink at praying, but I haven't given up yet. It's one of those things that's worth doing even if you don't do it well. Thankfully, God still hears and answers his children's fumbling requests.
 
 ### Writing My Prayers
 
