@@ -1,7 +1,9 @@
 .resource-body,
 .page-body {    
-    p,ol,ul {
-        font-size: $font-size-lg;
+    @include media-breakpoint-up(md) {
+        p,ol,ul {
+            font-size: $font-size-lg;
+        }
     }
 
     p {
