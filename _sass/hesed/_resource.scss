@@ -32,6 +32,16 @@
     }
 }
 
+.resource-byline {
+    font-size: 0.75rem;
+}
+
+a.resource-author {
+    color: $colors-brand-muted;
+    font-weight: $font-weight-semibold;
+    text-decoration: none;
+}
+
 .resource-body {
     h2 {
         font-size: $font-size-lg * 1.6;
