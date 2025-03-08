@@ -1,7 +1,7 @@
 ---
 title: Take Ten Looks at Christ
-subtitle: Advice from Robert Murray M'Cheyne
-description: Advice from Robert Murray M'Cheyne.
+subtitle: Robert Murray M'Cheyne's advice to a friend
+description: Robert Murray M'Cheyne's advice to a friend.
 date: 2025-03-07 19:11:28 -0800
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/edelfelt-seashore-in-evening-lg.webp"
