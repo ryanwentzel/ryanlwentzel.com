@@ -1,7 +1,7 @@
 ---
 title: Straining Toward the Time When God Turns Your Tears Into Laughter
 subtitle: How lament clears the way for praise
-description: Ellen F. Davis says lament clears the way for praise
+description: Ellen F. Davis says lament clears the way for praise.
 date: 2025-03-05 11:39:09 -0800
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/israels-alone-in-world-1878-lg.webp "
