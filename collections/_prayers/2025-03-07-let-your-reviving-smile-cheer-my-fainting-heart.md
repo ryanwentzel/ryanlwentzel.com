@@ -1,7 +1,7 @@
 ---
 title: "Let Your Reviving Smile Cheer My Fainting Heart"
 subtitle: "A prayer drawing on Anne Steele's poetry"
-description: "A prayer drawing on Anne Steele's poetry"
+description: "A prayer drawing on Anne Steele's poetry."
 date: 2025-03-07 15:03:20 -0800
 img:
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/twachtman-storm-clouds-1880-lg.webp"
