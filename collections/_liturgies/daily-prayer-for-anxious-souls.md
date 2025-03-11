@@ -1,7 +1,7 @@
 ---
 title: Daily Prayer for Anxious Souls
 subtitle: A simple pattern for daily prayer
-seo_description: A simple pattern for daily prayer that avoids opportunities for rumination.
+\description: A simple pattern for daily prayer that avoids opportunities for rumination.
 date: 2024-01-04
 img: 
     url: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-full.webp"
@@ -10,14 +10,9 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/paul-blenkhorn-Qy387jzL4hQ-unsplash-thumb.webp"
 ---
 
-## Opening Sentences
-
-Let my soul rise up to meet You\
-As the day rises to the sun\
-Let my soul rise up to meet You\
-Let that patient kingdom come
-
-**— Sandra McCracken, "Patient Kingdom"**
+## Opening Sentence
+*Lift up your heart and voice to the Lord*
+{: .rubric }
 
 Hear my cry, O God,  
 &emsp;listen to my prayer;   
@@ -32,6 +27,9 @@ for you have been my refuge,
 
 ## Adoration
 
+*Say or sing this hymn of praise*
+{: .rubric }
+
 Praise God from whom all blessings flow;  
 Praise him all creatures here below;  
 Praise him above you heavenly host;  
@@ -42,9 +40,12 @@ Amen.
 
 ## Psalm
 
-*Read the psalm for the day.*
+*Read the psalms for the day*
+{: .rubric }
 
 ## Praise
+*Say or sing this hymn of praise*
+{: .rubric }
 
 Glory be to the Father,  
 &emsp;and to the Son,  
@@ -56,6 +57,9 @@ As it was in the beginning,
 **— Gloria Patri**
 
 ## The Apostles' Creed
+*Confess what you believe about the Christian faith*
+{: .rubric }
+
 I believe in God, the Father almighty,  
 creator of heaven and earth. 
 
@@ -83,6 +87,8 @@ and the life everlasting. Amen.
 **— Book of Common Prayer (2019)**
 
 ## The Lord's Prayer
+*Pray the words Jesus taught us to pray*
+{: .rubric }
 
 Our Father in heaven,  
 hallowed be your name;  
@@ -101,8 +107,11 @@ For yours is the kingdom,
 ## Personal Prayer
 
 *Pray for your needs, as well as those of your family, friends, church, and neighborhood.*
+{: .rubric }
 
 ## Grace
+*Conclude with a prayer for God’s blessing*
+{: .rubric }
 
 May the LORD  
 &emsp;bless us and keep us.  

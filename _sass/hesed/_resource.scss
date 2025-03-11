@@ -52,6 +52,10 @@ a.resource-author {
         margin-top: 2rem;
     }
 
+    h2:has(+ .rubric) {
+        margin-bottom: 0.35rem;
+    }
+
     h3 {
         font-weight: $font-weight-bold;
     }
@@ -71,6 +75,10 @@ a.resource-author {
         color: $color-fg-muted;
         margin-top: -1rem;
         margin-bottom: 2rem;
+    }
+
+    .rubric {
+        font-size: $font-size-base * 0.9;
     }
 }
 .resource-footer {
