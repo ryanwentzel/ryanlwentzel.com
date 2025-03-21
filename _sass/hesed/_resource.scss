@@ -155,6 +155,10 @@ a.resource-author {
     transform: scale(1);
 }
 
+.photo img {
+    animation: img-fade-in 1s;
+}
+
 .footnotes {
 
     &:before {

@@ -472,6 +472,17 @@ figcaption {
     }
 }
 
+/* Animations */
+@keyframes img-fade-in {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.archive-section img,
+.collection-masthead img {
+    animation: img-fade-in 1s;
+} 
+
 // Footer
 #footer-inner {
     min-height: 35vh;
