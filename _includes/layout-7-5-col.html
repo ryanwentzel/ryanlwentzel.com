@@ -10,7 +10,7 @@
                 <img class="d-none d-xl-block w-100 h-auto rounded-2" src="{% include resources/image-md-url.html resource=first %}" alt="{{ first.img.alt }}" loading="lazy">
             </a>
             <div class="col-12">
-                <h3 class="display-5 fw-black mb-1">
+                <h3 class="display-5 tracking-tight fw-black mb-1">
                     <a class="resource-link text-reset" href="{{ first.url | relative_url }}">{{ first.title | smartify }}</a>
                 </h3>
                 <div class="resource-text">
@@ -31,7 +31,7 @@
     {% for resource in resources offset:1 limit:limit %}
         <article class="py-4 d-flex flex-column border-bottom">
             <div class="col-12">
-                <h3 class="h4 fw-bold mb-1">
+                <h3 class="h4 tracking-tight fw-bold mb-1">
                     <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
                 </h3>
                 <div class="resource-text">

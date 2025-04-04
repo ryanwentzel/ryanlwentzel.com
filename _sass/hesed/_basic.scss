@@ -183,6 +183,10 @@ figcaption {
     font-weight: $font-weight-black;
 }
 
+.tracking-tight {
+    letter-spacing: -0.025em;
+}
+
 // Shadows
 .shadow-photo {
     box-shadow: 0 1rem 3rem rgba($black, .75);

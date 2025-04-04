@@ -7,7 +7,7 @@
     <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ page.previous.url | relative_url }}">
         <img class="d-block w-100 height-auto rounded-2" src="{{ page.previous.img.url_sm | default: page.previous.img.url }}" alt="{{ page.previous.img.alt }}" loading="lazy" decoding="async">
     </a>
-    <h4 class="h4 fw-black mb-2">
+    <h4 class="h4 fw-black tracking-tight mb-2">
         <a class="text-reset text-decoration-none" href="{{ page.previous.url | relative_url }}">{{ page.previous.title | smartify }}</a>
     </h4>
     {%- if page.previous.subtitle %}
@@ -20,7 +20,7 @@
     <a class="d-block col-12 position-relative rounded-2 mb-3       overflow-hidden" href="{{ page.next.url | relative_url }}">
         <img class="d-block w-100 height-auto rounded-2" src="{{ page.next.img.url_sm | default: page.next.img.url }}" alt="{{ page.next.img.alt }}" loading="lazy" decoding="async">
     </a>
-    <h4 class="h4 fw-black mb-2">
+    <h4 class="h4 fw-black tracking-tight mb-2">
         <a class="text-reset text-decoration-none" href="{{ page.next.url | relative_url }}">{{ page.next.title | smartify }}</a>
     </h4>
     {%- if page.next.subtitle %}

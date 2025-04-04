@@ -16,7 +16,7 @@ layout: default
                             <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url_sm | default: resource.img.url }}" alt="{{ resource.img.alt }}" loading="lazy" decoding="async">
                         </a>
                         {% endunless %}
-                        <h3 class="h4 fw-black mb-2">
+                        <h3 class="h4 fw-black tracking-tight mb-2">
                             <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
                         </h3>
                         <div class="resource-text">
