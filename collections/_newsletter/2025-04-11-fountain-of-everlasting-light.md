@@ -1,7 +1,7 @@
 ---
 title: The Fountain of Everlasting Light
-subtitle: 
-description: 
+subtitle: The Weary Pilgrim Newsletter
+description: A medieval prayer, the poetic imagination, a delightful novel about a remote Irish village, and more. 
 date: 2025-04-11 10:23:32 -0700
 img: 
     url_lg: "https://cdn.ryanlwentzel.com/assets/img/content/leader-haymakers-1880-lg.webp"
