@@ -19,5 +19,4 @@ In the meantime, I thought you'd enjoy a beautiful article by Zack Eswine titled
 
 [Read the whole article](https://www.rabbitroom.com/post/the-grace-of-the-morning)
 
-{% include newsletter/sections/footer.html -%}
 

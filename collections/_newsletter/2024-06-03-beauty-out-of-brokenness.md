@@ -81,5 +81,3 @@ passes to me through the trees.
 
 [Explore other quotes I've collected]({{ site.data.nav.commonplace | absolute_url }} "Browse a collection of quotes and excerpts from Ryan Wentzel's reading")
 
-{% include newsletter/sections/footer.html -%}
-

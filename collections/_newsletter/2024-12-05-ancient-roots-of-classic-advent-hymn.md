@@ -112,6 +112,3 @@ So, this Advent season, when you sing "O Come, O Come, Emmanuel," know that you'
 — *The Worship Sourcebook*
 
 [Explore other quotes I've collected]({{ site.data.nav.commonplace | absolute_url }} "Browse a collection of quotes and excerpts from Ryan Wentzel's reading")
-
-{% include newsletter/sections/footer.html -%}
-

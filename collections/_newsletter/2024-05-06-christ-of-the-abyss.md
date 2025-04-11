@@ -112,10 +112,5 @@ you very much.
 
 *Find more quotes from my reading [here]({{ site.data.nav.commonplace | absolute_url }}).*
 
----
-
-*If you have a friend who might enjoy this newsletter, please forward it. If you received this from a friend, [please subscribe]({{ site.url }}{% link _pages/newsletter.md %}). It's free!*
-{: .newsletter-footer }
-
 
 
