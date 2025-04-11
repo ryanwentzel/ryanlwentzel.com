@@ -123,6 +123,3 @@ once, but is the eternity that awaits you.
 > In consequence, one responds more clearly to other lives. The more coherent one becomes within oneself as a creature, the more fully one enters into the communion of all creatures.
 
 Wendell Berry in *[What Are People For?: Essays](https://amzn.to/41hDske)* (Berkeley, CA: Counterpoint, 1990)
-
-{% include newsletter/sections/footer.html -%}
-
