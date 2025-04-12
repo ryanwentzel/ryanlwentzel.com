@@ -27,7 +27,7 @@ layout: null
     <id>{{ item.url | absolute_url }}</id>
     <summary>{{ item.seo_description | default: item.description }}</summary>
     <content type="html">
-      <![CDATA[{%- if item.img -%}<div><img src="{{ item.img.url_md | default: item.img.url }}" alt="{{ item.img.alt }}"></div>{%- endif -%}{{ item.content | markdownify }}{% include newsletter/sections/footer.html %}]]>
+      <![CDATA[{%- if item.img -%}<div><img src="{{ item.img.url_md | default: item.img.url }}" alt="{{ item.img.alt }}"></div>{%- endif -%}{{ item.content | markdownify }}]]>
     </content>
     <author>
       <name>{{ site.data.profile.name }}</name>
