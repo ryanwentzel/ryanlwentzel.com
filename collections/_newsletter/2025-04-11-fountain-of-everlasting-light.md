@@ -24,13 +24,9 @@ Hello, fellow pilgrims. Me again ([Ryan Wentzel]({% link _pages/about.md %})), b
 
 *The following prayer comes from the Sarum Breviary, an English book of worship developed by Osmund, Bishop of Salisbury, in the late 11th century. Thomas Cranmer drew heavily from this medieval liturgical work when he compiled the first* Book of Common Prayer *in 1549.*
 
-\***
+<div class="dinkus">* * *</div>
 
-> Almighty God,  
-we call on you, the fountain of everlasting light,  
-and ask you to send out your truth into our hearts  
-and pour out on us the glory of your brightness;  
-through Jesus Christ our Lord. Amen.
+> Almighty God, we call on you, the fountain of everlasting light, and ask you to send out your truth into our hearts and pour out on us the glory of your brightness; through Jesus Christ our Lord. Amen.
 
 ---
 
@@ -90,7 +86,7 @@ through Jesus Christ our Lord. Amen.
 
 <figure>
 	<img src="https://cdn.ryanlwentzel.com/assets/img/content/barney-the-field-md.webp" alt="Painting by Alice Pike Barney titled 'The Field'">
-	<figcaption><em>The Field</em>, Alice Pike Barney</figcaption>
+	<figcaption>Alice Pike Barney, <cite>The Field</cite></figcaption>
 </figure>
 
 **The Bright Field**\
