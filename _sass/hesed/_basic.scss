@@ -509,6 +509,22 @@ figcaption {
     animation: img-fade-in 1s;
 } 
 
+// Newsletter
+.newsletter-intro {
+    margin-top: 2rem;
+    padding-top: 1rem;
+
+    hr {
+        display: block;
+        margin-top: 3rem !important;
+        margin-bottom: 5rem !important;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        width: 25%;
+    }
+}
+
 // Footer
 #footer-inner {
     min-height: 35vh;

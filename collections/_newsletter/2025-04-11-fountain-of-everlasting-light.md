@@ -9,9 +9,13 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/leader-haymakers-1880-sm.webp"
     alt: "Painting by Benjamin Williams Leader titled 'Haymakers' (1880)"
 ---
-Hello, fellow pilgrims. Me again ([Ryan Wentzel]({% link _pages/about.md %})), back with another issue of *[The Weary Pilgrim]({% link _pages/newsletter.md %})*. I hope you enjoy it!
+<div class="newsletter-intro" markdown="1">
+Hello, fellow pilgrims! 
+
+Me again ([Ryan Wentzel]({% link _pages/about.md %})), back with another issue of *[The Weary Pilgrim]({% link _pages/newsletter.md %})*. I hope you enjoy it!
 
 ---
+</div>
 
 ## A Pilgrim Prayer
 
