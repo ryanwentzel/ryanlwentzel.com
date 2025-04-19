@@ -62,6 +62,14 @@ a.resource-author {
 
     ul {
         margin-bottom: 2rem;
+
+        li {
+            margin-bottom: 1rem;
+        }
+        
+        li:last-child {
+            margin-bottom: 0;
+        }
     }
 
     img {
