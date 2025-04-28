@@ -61,6 +61,14 @@ figcaption {
     text-align: center;
 }
 
+ul li {
+    margin-bottom: 0.5rem;
+}
+
+ul li:last-child {
+    margin-bottom: 0;
+}
+
 .dinkus {
     display: block;
     font-size: 0.875rem;
