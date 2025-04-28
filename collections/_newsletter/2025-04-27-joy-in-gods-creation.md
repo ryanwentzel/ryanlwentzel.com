@@ -9,7 +9,7 @@ img:
     url_sm: https://cdn.ryanlwentzel.com/assets/img/content/linnell-the-cloud-1863-md.webp
     alt: Painting by John Linnell titled 'The Cloud'
 ---
-*My pilgrim friends! Welcome to another issue of* The Weary Pilgrim.
+**My pilgrim friends!** Welcome to another issue of *The Weary Pilgrim*. Enjoy a few glimpses of beauty and words of hope for when life is crappy.
 
 ---
 
