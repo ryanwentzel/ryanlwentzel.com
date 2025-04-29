@@ -17,27 +17,26 @@ Ryan is a trusted pastor who sits with others in their sorrows and joys and walk
 
 ## Experience
 
-**Grace Bible Church** | Escondido, CA | 2009 – Present  
+**Grace Bible Church**, Escondido, CA, 2009 – Present  
 Lead/Preaching Pastor, 2016 – Present  
 Lay Elder/Pastor, 2009 – 2016
 
-- Led multi-year revitalization of a 25-year-old church experiencing midlife stagnation. 
-- As part of a two-person preaching team, planned, developed, and delivered Christ-centered, gospel-driven expository sermons that were biblically faithful, accessible, and relevant, enabling both younger and mature church members to cultivate a deeper grasp of the gospel of grace.
-- Introduced elements of historic Christian worship into the Sunday liturgy, including a call to worship, prayer of invocation, pastoral prayer, and benediction. 
-- Helped transform the church’s culture, making it a welcoming and safe place for the weak, the vulnerable, and the broken.
-- Provided empathetic pastoral care to congregants facing a variety of challenges.
-- As a key member of the pastoral team, developed and implemented major reform of the church’s understanding and prevention of domestic abuse (physical, financial, emotional, and spiritual) and its care for victims.
-- Led major reform of the church’s understanding of and pastoral care for members living with mental health challenges.
-- Developed and implemented a new Adult Education program focusing on forming faithful followers of Jesus Christ through doctrinal and practical biblical instruction.
-- Relaunched Community Groups ministry with a new vision and format aimed at fostering meaningful Christian community in a casual setting.
+- Led a multi-year revitalization of a 25-year-old congregation experiencing midlife stagnation, fostering renewed vision, engagement, and spiritual vitality.
+- Enriched weekly worship services by introducing elements of historic Christian worship into the Sunday liturgy, including a call to worship, prayer of invocation, pastoral prayer, and benediction.
+- Preached regularly as part of a two-person team, delivering Christ-centered, gospel-driven expository sermons that deepened biblical understanding and spiritual growth across generations.
+- Helped cultivate a church culture marked by compassion, hospitality, and safety for the weak, vulnerable, and wounded.
+- Collaborated with pastoral and lay leaders to implement a comprehensive overhaul of the church's approach to domestic abuse, raising awareness, equipping the congregation, and establishing best practices for prevention and survivor care.
+- Led reform of the church’s ministry to members living with mental health challenges, equipping the congregation for more faithful, informed, and compassionate care.
+- Launched a new Adult Education program to form mature disciples through doctrinal and practical biblical instruction.
+- Revived and relaunched the Community Groups ministry to strengthen relational connection and spiritual formation.
 
 ## Education
 
-**Biblical Greek and Hebrew** | 2018 – 2019  
+**Biblical Greek and Hebrew**, 2018 – 2019  
 Westminster Seminary California  
 Escondido, CA
 
-**Bachelor of Science, Computer Science** | 2003 – 2007  
+**Bachelor of Science, Computer Science**, 2003 – 2007  
 California State University, San Marcos  
 San Marcos, CA
 
