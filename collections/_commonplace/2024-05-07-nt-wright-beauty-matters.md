@@ -3,6 +3,11 @@ title: Beauty Matters
 subtitle: Creation, new creation, & aesthetic awareness
 description: N.T. Wright believes beauty matters. <q>I believe that taking creation and new creation seriously is the way to understand and revitalize aesthetic awareness and perhaps even...</q>
 date: 2024-05-07 10:53:19 -0700 
+img:
+    url_lg: https://cdn.ryanlwentzel.com/assets/img/content/gagliardini-harbor-lg.webp
+    url_md: https://cdn.ryanlwentzel.com/assets/img/content/gagliardini-harbor-md.webp
+    url_sm: https://cdn.ryanlwentzel.com/assets/img/content/gagliardini-harbor-sm.webp
+    alt: "Julien Gustave Gagliardini, The Harbour of Cassis at the Côte d´Azur"
 ---
 N.T. Wright believes beauty matters. I agree.
 
