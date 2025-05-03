@@ -1,7 +1,7 @@
 ---
 title: A Rock of Refuge Amid the Swirling Currents of My Fears
-subtitle: 
-description: 
+subtitle: A prayer based on Psalm 18, N.T. Wright on beauty, a poem about sorrow by Mary Oliver, and more
+description: A prayer based on Psalm 18, N.T. Wright on beauty, a poem about sorrow by Mary Oliver, and more.
 date: 2025-05-01 16:00:53 -0700
 img: 
     url_lg: https://cdn.ryanlwentzel.com/assets/img/content/osbert-solitude-of-christ-lg.webp
@@ -63,7 +63,7 @@ Thanks to all who've recently subscribed — it means a lot. Your interest is wh
 
 **[Good News at Rock Bottom: Finding God When the Pain Goes Deep and Hope Seems Lost](https://amzn.to/3GeiSJr)** by Ray Ortlund. 
 
-> "During seasons of loneliness, betrayal, or loss, we may tempted to give up on God. But Jesus is often harder to find in the comfortable lives we prefer. Instead, he meets us down at rock bottom — where he is waiting for us with open arms."
+> "During seasons of loneliness, betrayal, or loss, we may tempted to give up on God. But Jesus is often harder to find in the comfortable lives we prefer. Instead, he meets us down at rock bottom — where [he is waiting for us with open arms]({% link _newsletter/2024-05-06-christ-of-the-abyss.md %})."
 
 ---
 
