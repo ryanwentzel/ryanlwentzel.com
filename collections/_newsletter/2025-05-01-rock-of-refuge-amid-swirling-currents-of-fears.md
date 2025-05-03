@@ -11,9 +11,9 @@ img:
     caption: Alphonse Osbert, <cite>The Solitude of Christ</cite>, 1897
 published: false
 ---
-**Welcome to another issue of *The Weary Pilgrim*.** I'm [Ryan Wentzel]({{ site.url | absolute_url }}), the guy behind this newsletter. I pastor a church in Southern California and write about topics like [following Jesus when life is hard]({% link _newsletter/2024-07-01-thicker-understanding-of-joy.md %}) and [how God's grace mends the broken fragments of our lives]({% link _newsletter/2024-06-03-beauty-out-of-brokenness.md %}). 
+**Welcome to another issue of *The Weary Pilgrim*.** I'm [Ryan Wentzel]({{ site.url | absolute_url }}), the guy behind this newsletter. I pastor a church in Southern California and write about topics like [joy as a form of protest]({% link _newsletter/2024-07-01-thicker-understanding-of-joy.md %}) and [how God's grace mends the broken fragments of our lives]({% link _newsletter/2024-06-03-beauty-out-of-brokenness.md %}). 
 
-Thanks to all who have recently subscribed — it means a lot. Your interest is what keeps me writing. I always enjoy hearing from readers, so if you're reading this in your inbox, feel free to hit reply and say hello. Reading this on the web? Shoot me an <a href="mailto:&#104;&#105;&#64;&#114;&#x79;&#97;&#x6e;&#108;w&#x65;&#110;&#116;&#122;e&#x6c;&#x2e;&#x63;&#111;&#109;">email</a>.
+Thanks to all who have recently subscribed — it means a lot. Your interest is what keeps me writing. I always enjoy hearing from readers, so feel free to shoot me an <a href="mailto:&#104;&#105;&#64;&#114;&#x79;&#97;&#x6e;&#108;w&#x65;&#110;&#116;&#122;e&#x6c;&#x2e;&#x63;&#111;&#109;">email</a> and say hello.
 
 ---
 
@@ -46,7 +46,7 @@ Thanks to all who have recently subscribed — it means a lot. Your interest is 
     <figcaption>
         <span class="caption">
             <cite>Secluded Path</cite><br>
-            Felicita County Park, Escondido, CA
+            Felicita County Park, Escondido, California
         </span>
     </figcaption>
 </figure>
