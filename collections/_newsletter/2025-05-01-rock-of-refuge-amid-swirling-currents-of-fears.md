@@ -11,11 +11,13 @@ img:
     caption: Alphonse Osbert, <cite>The Solitude of Christ</cite>, 1897
 published: false
 ---
-**Welcome to another issue of *The Weary Pilgrim*.** I'm [Ryan Wentzel]({{ site.url | absolute_url }}), the guy behind this newsletter. I pastor a church in Southern California and write about topics like [following Jesus when life is hard]({% link _newsletter/2024-07-01-thicker-understanding-of-joy.md %}) and enjoying the beauty of God's world. 
+**Welcome to another issue of *The Weary Pilgrim*.** I'm [Ryan Wentzel]({{ site.url | absolute_url }}), the guy behind this newsletter. I pastor a church in Southern California and write about topics like [following Jesus when life is hard]({% link _newsletter/2024-07-01-thicker-understanding-of-joy.md %}) and [how God's grace mends the broken fragments of our lives]({% link _newsletter/2024-06-03-beauty-out-of-brokenness.md %}). 
 
 Thanks to all who've recently subscribed — it means a lot. Your interest is what keeps me writing. I always enjoy hearing from readers, so if you're reading this in your inbox, feel free to hit reply and say hello. Reading this on the web? Shoot me an <a href="mailto:&#104;&#105;&#64;&#114;&#x79;&#97;&#x6e;&#108;w&#x65;&#110;&#116;&#122;e&#x6c;&#x2e;&#x63;&#111;&#109;">email</a>.
 
 ---
+
+## A Pilgrim Prayer
 
 <figure>
 	<img src="https://cdn.ryanlwentzel.com/assets/img/content/woodbury-the-sea-md.webp" alt="Charles Herbert Woodbury, The Sea">
@@ -26,7 +28,7 @@ Thanks to all who've recently subscribed — it means a lot. Your interest is wh
 	</figcaption>
 </figure>
 
-*A prayer I wrote based on Psalm 18 for those who feel like they're at risk of drowning.*
+*A prayer based on Psalm 18, for those who feel like they’re drowning.*
 
 <div class="dinkus">* * *</div>
 
@@ -117,4 +119,6 @@ that this, too, was a gift.
 Blaise Pascal on our inability to live in and enjoy the present.
 
 > Let each one examine his thoughts, and he will find them all occupied with the past and the future. We scarcely ever think of the present; and if we think of it, it is only to take light from it to arrange the future. The present is never our end. The past and the present are our means; the future alone is our end. So we never live, but we hope to live; and, as we are always preparing to be happy, it is inevitable we should never be so.
+
+— Blaise Pascal, *Pensées*
 
