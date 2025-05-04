@@ -17,7 +17,7 @@ layout: null
     <uri>{{ site.url | absolute_url }}</uri>
   </author>
   <icon>{{ "favicon-32x32.png" | absolute_url }}</icon>
-  {%- assign sorted = site.newsletter | reverse -%}
+  {%- assign sorted = site.newsletter | reverse | where_exp: "item", "item.date <= site.time" -%}
   {%- for item in sorted limit:10 %}
   <entry>
     <title>{{ item.title | xml_escape }}</title>
