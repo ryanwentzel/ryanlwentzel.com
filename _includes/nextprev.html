@@ -3,7 +3,7 @@
 <div class="d-flex mt-4 justify-content-center h3">Previous / Next</div>
 <div class="d-flex flex-wrap gutter-spacious mt-3">
    <div class="d-flex flex-column col-md-6 text-center py-4">
-    {%- if page.previous.url %}
+    {%- if page.previous.url and page.previous.date <= site.time %}
     <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ page.previous.url | relative_url }}">
         <img class="d-block w-100 height-auto rounded-2" src="{{ page.previous.img.url_sm | default: page.previous.img.url }}" alt="{{ page.previous.img.alt }}" loading="lazy" decoding="async">
     </a>
@@ -16,7 +16,7 @@
     {%- endif %}
    </div>
    <div class="d-flex flex-column col-md-6 text-center py-4">
-    {%- if page.next.url %}
+    {%- if page.next.url and page.next.date <= site.time %}
     <a class="d-block col-12 position-relative rounded-2 mb-3       overflow-hidden" href="{{ page.next.url | relative_url }}">
         <img class="d-block w-100 height-auto rounded-2" src="{{ page.next.img.url_sm | default: page.next.img.url }}" alt="{{ page.next.img.alt }}" loading="lazy" decoding="async">
     </a>
