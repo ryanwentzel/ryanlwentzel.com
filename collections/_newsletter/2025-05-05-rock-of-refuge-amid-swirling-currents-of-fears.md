@@ -2,7 +2,7 @@
 title: A Rock of Refuge Amid the Swirling Currents of My Fears
 subtitle: A prayer based on Psalm 18, N.T. Wright on beauty, a poem about sorrow by Mary Oliver, and more
 description: A prayer based on Psalm 18, N.T. Wright on beauty, a poem about sorrow by Mary Oliver, and more.
-date: 2025-05-01 16:00:53 -0700
+date: 2025-05-05 00:00:00 -0700
 img: 
     url_lg: https://cdn.ryanlwentzel.com/assets/img/content/osbert-solitude-of-christ-lg.webp
     url_md: https://cdn.ryanlwentzel.com/assets/img/content/osbert-solitude-of-christ-md.webp
