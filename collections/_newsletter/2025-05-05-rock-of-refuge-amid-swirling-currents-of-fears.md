@@ -2,14 +2,13 @@
 title: A Rock of Refuge Amid the Swirling Currents of My Fears
 subtitle: A prayer based on Psalm 18, N.T. Wright on beauty, a poem about sorrow by Mary Oliver, and more
 description: A prayer based on Psalm 18, N.T. Wright on beauty, a poem about sorrow by Mary Oliver, and more.
-date: 2025-05-05 00:00:00 -0700
+date: 2025-05-04 21:00:00 -0700
 img: 
     url_lg: https://cdn.ryanlwentzel.com/assets/img/content/osbert-solitude-of-christ-lg.webp
     url_md: https://cdn.ryanlwentzel.com/assets/img/content/osbert-solitude-of-christ-md.webp
     url_sm: https://cdn.ryanlwentzel.com/assets/img/content/osbert-solitude-of-christ-sm.webp
     alt: Alphonse Osbert, The Solitude of Christ, 1897 
     caption: Alphonse Osbert, <cite>The Solitude of Christ</cite>, 1897
-published: false
 ---
 **Welcome to another issue of *The Weary Pilgrim*.** I'm [Ryan Wentzel]({{ site.url | absolute_url }}), the guy behind this newsletter. I pastor a church in Southern California and write about topics like [joy as a form of protest]({% link _newsletter/2024-07-01-thicker-understanding-of-joy.md %}) and [how God's grace mends the broken fragments of our lives]({% link _newsletter/2024-06-03-beauty-out-of-brokenness.md %}). 
 
