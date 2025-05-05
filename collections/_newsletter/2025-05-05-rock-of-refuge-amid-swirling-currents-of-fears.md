@@ -9,7 +9,7 @@ img:
     url_sm: https://cdn.ryanlwentzel.com/assets/img/content/osbert-solitude-of-christ-sm.webp
     alt: Alphonse Osbert, The Solitude of Christ, 1897 
     caption: Alphonse Osbert, <cite>The Solitude of Christ</cite>, 1897
-publilshed: false
+published: false
 ---
 **Welcome to another issue of *The Weary Pilgrim*.** I'm [Ryan Wentzel]({{ site.url | absolute_url }}), the guy behind this newsletter. I pastor a church in Southern California and write about topics like [joy as a form of protest]({% link _newsletter/2024-07-01-thicker-understanding-of-joy.md %}) and [how God's grace mends the broken fragments of our lives]({% link _newsletter/2024-06-03-beauty-out-of-brokenness.md %}). 
 
