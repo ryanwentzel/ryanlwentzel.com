@@ -10,7 +10,6 @@ img:
     url_md: "https://cdn.ryanlwentzel.com/assets/img/content/inness-lonely-farm-nantucket-1892-md.webp"
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/inness-lonely-farm-nantucket-1892-sm.webp"
     alt: "An 1892 painting by George Inness titled 'The Lonely Farm, Nantucket'" 
-highlight: true
 ---
 *I live with anxiety. It's been a constant companion for most of my life, as far back as I can remember, at least. This is an attempt to describe my **experience** of it.*
 
