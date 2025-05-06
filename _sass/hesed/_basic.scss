@@ -397,6 +397,10 @@ ul li:last-child {
     }
 }
 
+.border-subtle {
+    border-color: rgba(204,204,204,0.25) !important;
+}
+
 /* Display headings */
 .display-md-5 {
     @include media-breakpoint-up(md) {
