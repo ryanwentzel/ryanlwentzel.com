@@ -10,3 +10,5 @@ opengraph:
     type: website
 ---
 {{ site.data.profile.bio | markdownify }}
+
+(You should subscribe to my newsletter, *[{{ site.data.newsletter.title }}]({% link _pages/newsletter.md %})*.)
