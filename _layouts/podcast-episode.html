@@ -4,25 +4,7 @@ layout: default
 <div class="container my-5 px-4">
     <div class="row justify-content-center">
         <div class="col-md-10 col-lg-7">
-            <div class="resource-byline d-flex align-items-center py-2 border-bottom">
-                <div>
-                    <a href="{% link _pages/about.md %}">
-                        <img class="rounded-circle" src="{{ site.data.profile.img.small }}" height="50" width="50">
-                    </a>
-                </div>
-                <div class="px-2 text-uppercase">
-                    <span class="resource-author">
-                        <small>
-                            <a class="resource-author" href="{% link _pages/about.md %}" title="About {{ site.data.profile.name }}">{{ site.data.profile.name }}</a>
-                        </small>
-                    </span>
-                    <div class="resource-pubdate rw-brand-text-muted">
-                        <small>
-                            {{ page.date | date: '%b %d, %Y' }}
-                        </small>
-                    </div>  
-                </div>
-            </div>
+            {%- include resource-byline.html %}
             <article class="podcast">
                 <section class="d-flex flex-column podcast-audio h-100 w-100 py-4 border-bottom mb-4">
                     {% if page.episode_id and page.episode_id != empty %}
