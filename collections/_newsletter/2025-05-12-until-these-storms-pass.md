@@ -29,7 +29,7 @@ Thank you to all the new supporters! Your partnership [helps me continue offerin
 	</figcaption>
 </figure>
 
-**Until These Storms Pass — A Prayer**  
+**Until These Storms Pass**  
 By Ryan Wentzel
 
 *(The following prayer draws on language and imagery from Psalm 57.)*
