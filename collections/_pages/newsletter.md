@@ -17,7 +17,7 @@ opengraph:
 
 It's free to sign up. I'm not going to spam you, I promise, and you can unsubscribe at any time, no questions asked.
 
-I'd love to share my work with you. Just enter your email address below to get my newsletter delivered to your inbox each month.
+I'd love to share my work with you. Just enter your email address below to get my newsletter delivered to your inbox.
 
 
 
