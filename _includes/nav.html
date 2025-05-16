@@ -1,7 +1,8 @@
 <nav id="site-nav" class="navbar bg-light border-bottom">
     <div class="container-fluid px-lg-3">
       <a class="navbar-brand" href="{{ '/' | relative_url }}">
-        <img class="d-flex mx-auto" src="{{ site.data.cdn.img_assets_url }}/brand/brand-initial.png" height="32" width="32" alt="Logo for {{ site.name }}" loading="lazy">
+        <img class="d-inline-block" src="{{ site.data.cdn.img_assets_url }}/brand/brand-initial.png" height="32" width="32" alt="Logo for {{ site.name }}" loading="lazy">
+        <span class="d-inline-block ms-2 fs-4 fw-black tracking-tight align-middle">{{ site.data.profile.name }}</span>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
