@@ -9,13 +9,13 @@ img:
     url: "https://cdn.ryanlwentzel.com/assets/img/content/newsletter-share-image.webp"
     alt: "The Weary Pilgrim Newsletter logo"
 logo:
-    url: "https://cdn.ryanlwentzel.com/assets/img/content/weary-pilgrim-newsletter-800x800.webp"
+    url: "https://cdn.ryanlwentzel.com/assets/img/content/newsletter-share-image.webp"
 opengraph:
     type: website
 ---
-**Life is hard, and faith isn't always tidy.** *{{ site.data.newsletter.title }}* is for hurting Christians — those walking through all kinds of pain, whether it's disappointment, grief, deep weariness, mental health struggles, or the burdens no one else sees. Each issue offers honest reflections and gospel hope for those learning to follow Jesus in the dark.
+Sometimes following Jesus feels like wandering through a dry and barren land — the sun hot on your back, the path unclear, strength failing. If you’re walking through grief, doubt, exhaustion, or the quiet sorrows no one else sees, you’re not alone. *The Weary Pilgrim* is a companion for those trying to hold onto hope when faith feels fragile.
 
-Every couple of weeks I send out a new issue shaped by honest questions, quiet hope, and the belief that Jesus meets us in the dark, not just on the other side of it.
+Every couple of weeks, I send out a new issue with honest reflections and gospel hope for fellow pilgrims learning to walk with Jesus through the wilderness.
 
 **Curious?** Check out two past issues that capture the heart of this newsletter:
 
