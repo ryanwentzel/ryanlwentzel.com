@@ -39,9 +39,11 @@ layout: default
                     {{ content }}
                 </section>
             </article>
-            {% include newsletter/subscribe-cta.html %}
             {% include author-bio.html %}
-            {% include nextprev.html %}
+            {% include newsletter/subscribe-cta.html %}
+            <div class="mt-5">
+                {% include nextprev.html %}
+            </div>
         </div>
     </div>
 </div>
