@@ -132,6 +132,7 @@ ul li:last-child {
 }
 
 .masthead-overlay {
+    animation: overlay-fade-in 1s;
     align-items: center;
     backdrop-filter: brightness(80%);
     background: rgba(57, 57, 57, 0.5);
