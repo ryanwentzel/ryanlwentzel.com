@@ -217,21 +217,14 @@ function photo () {
     cat << DELIMIT > "$filename"
 ---
 title: $title
-seo_title: 
 subtitle: $subtitle
 description: 
-seo_description: 
 date: $(date +'%Y-%m-%d %H:%M:%S %z')
 img:
     url: "$cdn_photos"
     alt: ""
     url_sm: "$cdn_photos"
     caption:
-    shutter_speed:
-    aperture:
-    iso:
-    lens: 50 mm (EF50mm f/1.4 USM)
-    camera: Canon EOS 6D
     date:
     location: Escondido, California
 published: false 
