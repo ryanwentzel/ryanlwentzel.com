@@ -26,7 +26,9 @@ The psalmist is in a tough spot. We don't know the specifics, but we hear about 
 
 Earlier in the biblical story, God saw Hagar — a lowly, oppressed woman — in distress in the wilderness (Genesis 16). Later, he saw Israel's suffering in Egypt (Exodus 3:7–8). Fast-forward to the New Testament, and God's attentive vision becomes embodied in a human being — Jesus of Nazareth. During his earthly ministry, Jesus saw others in their pain — the widow of Nain (Luke 7:13), Mary weeping over the death of her brother Lazarus (John 11:33), a despised tax collector living on the margins (Luke 19:5). 
 
-But Jesus did more than see; he stepped into the pain. He became like us in every way, the writer of Hebrews says (2:17–18), meaning Jesus knows what it's like to be afflicted. He has deep, personal experience with sorrow and disappointment and all the painful things we endure.
+But Jesus did more than see; he stepped into the pain. He became like us in every way, the writer of Hebrews says (2:17–18), meaning Jesus knows what it's like to be afflicted. He has deep, personal experience with sorrow and disappointment and all the painful things we endure. 
+
+Why does that matter? Because it means he gets you. 
 
 What are you going through today? Maybe it's the end of a cherished relationship. Maybe you received bad news from the doctor. Maybe the future feels uncertain. Do you feel alone, unseen, unknown? It might be hard to believe this at the moment, but Jesus *sees* you, really sees you. He *knows* you, and he is *present*, walking with you through this season.
 
