@@ -152,6 +152,10 @@ ul li:last-child {
     font-size: $font-size-sm * 0.85;
 }
 
+.fs-smaller {
+    font-size: smaller;
+}
+
 .font-slab {
     font-family: $font-family-slab;
 }

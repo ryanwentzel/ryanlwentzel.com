@@ -1,14 +1,7 @@
-<div class="resource-byline d-flex align-items-center py-2 mb-4 border-bottom border-subtle">
-    <div>
-        <a href="{% link _pages/about.md %}">
-            <img class="rounded-circle" src="{{ site.data.profile.img.small }}" height="50" width="50"
-            alt="Headshot of Ryan Wentzel">
-        </a>
-    </div>
-    <div class="px-2 text-uppercase">
-        <span class="resource-author">
-            <small><a class="resource-author" href="{% link _pages/about.md %}" title="About {{ site.data.profile.name }}">{{ site.data.profile.name }}</a></small>
-        </span>
-        <div class="resource-pubdate rw-brand-text-muted"><small>{{ page.date | date: '%b %d, %Y' }}</small></div>  
+<div class="resource-byline d-flex align-items-center border-top border-bottom border-subtle py-3 mb-4">
+    <img class="rounded-circle" src="{{ site.data.profile.img.small }}" height="64" width="64" alt="Profile photo for Ryan Wentzel">
+    <div class="ps-2 fs-smaller">
+        <div class="resource-author fw-bold">By {{ site.data.profile.name }}</div>
+        <div class="resource-pubdate">{{ page.date | date: '%B %d, %Y' }}</div>  
     </div>
 </div>

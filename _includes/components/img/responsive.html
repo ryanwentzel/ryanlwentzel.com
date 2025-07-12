@@ -1,0 +1,14 @@
+{% if include.img.url_lg %}
+<img class="img-fluid {{ include.classes }}" 
+    srcset="{{ include.img.url_sm }} 854w, {{ include.img.url_md }} 1280w, {{ include.img.url_lg }} 2560w"
+    src="{{ include.img.url_sm }}" 
+    alt="{{ include.img.alt }}"
+    loading="{{ include.loading | default: 'lazy'}}"
+    fetchpriority="{{ include.fetch_priority | default: 'normal'}}">
+{% else %}
+<img class="img-fluid {{ include.classes }}" 
+    src="{{ include.img.url }}" 
+    alt="{{ include.img.alt }}"
+    loading="{{ include.loading | default: 'lazy'}}"
+    fetchpriority="{{ include.fetch_priority | default: 'normal'}}">
+{% endif %}

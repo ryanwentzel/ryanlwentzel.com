@@ -1,0 +1,22 @@
+<div class="container mx-auto mt-5">
+    <div class="row justify-content-center pt-3">
+        <div class="col-12 col-lg-8">
+            <h1 class="display-2 fw-bold tracking-tight lh-1 mb-2">{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <div class="d-flex">
+                <h2 class="col-12 col-lg-10 fs-5 lead text-muted tracking-tight">{{ page.subtitle | smartify }}</h2>
+            </div>
+            {% endif %}
+        </div>
+        <div class="col-12 col-lg-8 mt-4">
+            <figure>
+                {% include components/img/responsive.html img=page.img 
+                    classes="d-block mx-auto shadow rounded" loading="eager" 
+                    fetch_priority="high" %}
+                {% if page.img.caption %}
+                <figcaption class="mt-2 text-end text-subtle fs-sm pe-2">{{ page.img.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
+                {% endif %}
+            </figure>
+        </div>
+    </div>
+</div>
