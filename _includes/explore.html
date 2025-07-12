@@ -8,7 +8,7 @@
             <article class="d-flex flex-column col-sm-6 col-lg-12 tease-border">
                 <div class="py-4 tease-border-alt-inner">
                     <div class="tease-text">
-                        <h3 class="fw-black mb-2">
+                        <h3 class="fw-bold mb-2">
                             <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
                         </h3>
                         <div class="resource-text rw-color-fg-muted">{{ resource.description | default: resource.excerpt | markdownify }}</div>    
@@ -21,7 +21,7 @@
         {% for resource in resources offset:2 limit:3 %}
             <article class="py-4 d-flex flex-column tease-border">
                 <div class="col-12 tease-text">
-                    <h3 class="fw-black">
+                    <h3 class="fw-bold">
                         <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
                     </h3>
                     <div class="resource-text rw-color-fg-muted">
@@ -43,7 +43,7 @@
             {% assign resource = resources[5] %}
             <article class="py-4 d-flex flex-column border-bottom border-md-0">
                 <div class="col-12 tease-text">
-                    <h3 class="fw-black">
+                    <h3 class="fw-bold">
                         <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
                     </h3>
                     <div class="resource-text rw-color-fg-muted">

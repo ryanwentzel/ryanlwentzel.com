@@ -33,10 +33,10 @@
                 <img class="d-none d-xl-block w-100 h-auto rounded-2" src="{% include resources/image-md-url.html resource=first %}" alt="{{ first.img.alt }}" loading="lazy" decoding="async">
             </a>
             <div class="col-12">
-                <h3 class="display-5 fw-black tracking-tight mb-1">
+                <h3 class="display-5 fw-bold tracking-tight mb-1">
                     <a class="resource-link text-reset" href="{{ first.url | relative_url }}">{{ first.title | smartify }}</a>
                 </h3>
-                <div class="resource-text">
+                <div class="resource-text lead">
                     {{ first.description | default: first.excerpt | markdownify }}
                 </div>
                 <div class="mt-3">

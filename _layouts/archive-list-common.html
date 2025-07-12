@@ -18,7 +18,7 @@ layout: default
                                     <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url_md | default: resource.img.url }}" alt="{{ resource.img.alt }}" loading="lazy">
                                 </a>
                                 {% endunless %}
-                                <h2 class="fw-black">
+                                <h2 class="fw-bold">
                                     <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
                                 </h2>
                                 {% if resource.subtitle != nil and resource.subtitle != empty -%}
