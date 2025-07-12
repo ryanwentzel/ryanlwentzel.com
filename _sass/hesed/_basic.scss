@@ -142,22 +142,12 @@ ul li:last-child {
     position: absolute;
 }
 
-.masthead {
-    h1 {
-        font-family: $font-family-slab !important;
-    }
-}
-
 .fs-sm {
     font-size: $font-size-sm * 0.85;
 }
 
 .fs-smaller {
     font-size: smaller;
-}
-
-.font-slab {
-    font-family: $font-family-slab;
 }
 
 .z-0 {
@@ -484,10 +474,6 @@ ul li:last-child {
     .display-1,.display-2,.display-3,
     .display-4,.display-5 {
         line-height: 1.1;
-    }
-
-    h3 {
-        font-family: $font-family-slab;
     }
 
     &.wide {

@@ -9,9 +9,6 @@
         primaryLoading: "primary-fonts-loading",
         primaryLoaded: "primary-fonts-loaded",
         primaryFailed: "primary-fonts-failed",
-        secondaryLoading: "secondary-fonts-loading",
-        secondaryLoaded: "secondary-fonts-loading",
-        secondaryFailed: "secondary-fonts-failed"
     };
     var sansNormal = new FontFaceObserver("InterVariable");
     var sansItalic = new FontFaceObserver("InterVariable", {
@@ -33,41 +30,5 @@
         sessionStorage.primaryFontsLoaded = false;
         html.classList.remove(classNames.primaryLoading);
         html.classList.add(classNames.primaryFailed);
-    });
-
-    var slabBold = new FontFaceObserver("zilla-slab", {
-        weight: 700
-    });
-    var slabBoldItalic = new FontFaceObserver("zilla-slab", {
-        weight: 700,
-        style: "italic"
-    });
-    var slabMedium = new FontFaceObserver("zilla-slab", {
-        weight: 500
-    });
-    var slabMediumItalic = new FontFaceObserver("zilla-slab", {
-        weight: 500,
-        style: "italic"
-    });
-
-    html.classList.add(classNames.secondaryLoading);
-    Promise.race([
-        timer(1000),
-        slabBold.load(),
-        slabBoldItalic.load(),
-        slabMedium.load(),
-        slabMediumItalic.load()
-    ]).then(function() {
-        html.classList.remove(classNames.secondaryLoading);
-        html.classList.remove(classNames.secondaryFailed);
-        html.classList.add(classNames.secondaryLoaded);
-        sessionStorage.secondaryFontsLoaded = true;
-        console.log("zilla slab family loaded");
-    }).catch(function() {
-        sessionStorage.secondaryFontsLoaded = false;
-        html.classList.remove(classNames.secondaryLoading);
-        html.classList.remove(classNames.secondaryLoaded);
-        html.classList.add(classNames.secondaryFailed);
-        console.log("failed to load zilla slab");
     });
 </script>
