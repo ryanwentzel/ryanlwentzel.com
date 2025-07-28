@@ -7,38 +7,36 @@ layout: default
         {% unless paginator.posts == nil or paginator.size == 0 %}
         {% assign resources = paginator.posts %}
         <div class="row justify-content-center">
-            <div class="col">
+            <div class="col-12 col-md-10 col-lg-8">
                 <section class="archive-section">
                 {% for resource in resources %}
-                    <article>
-                        <div class="py-4 border-top">
-                                {% unless page.thumbnail != nil and page.thumbnail == false  %}
-                                <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}"
-                                title="{{ resource.title | smartify }}">
-                                    <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url_md | default: resource.img.url }}" alt="{{ resource.img.alt }}" loading="lazy">
+                    <article class="archive-item py-4 border-top">
+                        {% unless page.thumbnail != nil and page.thumbnail == false  %}
+                        <a class="d-block col-12 position-relative rounded-2 mb-3 overflow-hidden" href="{{ resource.url | relative_url }}"
+                        title="{{ resource.title | smartify }}">
+                            <img class="d-block w-100 height-auto rounded-2" src="{{ resource.img.url_md | default: resource.img.url }}" alt="{{ resource.img.alt }}" loading="lazy">
+                        </a>
+                        {% endunless %}
+                        <h2 class="fw-bold">
+                            <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
+                        </h2>
+                        {% if resource.subtitle != nil and resource.subtitle != empty -%}
+                        <div class="h5 fst-italic">{{ resource.subtitle }}</div>
+                        {% endif -%}
+                        <span class="d-block rw-brand-text-muted mt-2">
+                            {{ resource.date | date: "%B %d, %Y" }}
+                        </span>
+                        <div class="resource-text mt-3">
+                            {{ resource.description | default: excerpt | markdownify }}
+                        </div>
+                        <div class="mt-3">
+                            <div class="d-flex align-items-center">
+                                <a class="d-inline-block fw-bold text-reset text-decoration-none" href="{{ resource.url | relative_url }}">
+                                    {{ page.more_link_text | default: "Read" }}
+                                    <i class="bi bi-arrow-right-circle"></i>
                                 </a>
-                                {% endunless %}
-                                <h2 class="fw-bold">
-                                    <a class="resource-link text-reset" href="{{ resource.url | relative_url }}">{{ resource.title | smartify }}</a>
-                                </h2>
-                                {% if resource.subtitle != nil and resource.subtitle != empty -%}
-                                <div class="h5 fst-italic">{{ resource.subtitle }}</div>
-                                {% endif -%}
-                                <span class="d-block rw-brand-text-muted mt-2">
-                                    {{ resource.date | date: "%B %d, %Y" }}
-                                </span>
-                                <div class="resource-text mt-3">
-                                    {{ resource.description | default: excerpt | markdownify }}
-                                </div>
-                                <div class="mt-3">
-                                    <div class="d-flex align-items-center">
-                                        <a class="d-inline-block fw-bold text-reset text-decoration-none" href="{{ resource.url | relative_url }}">
-                                            {{ page.more_link_text | default: "Read" }}
-                                            <i class="bi bi-arrow-right-circle"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                        </div> 
+                            </div>
+                        </div>
                     </article>
                 {% endfor %}
                 </section>

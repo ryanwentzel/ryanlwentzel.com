@@ -515,6 +515,10 @@ ul li:last-child {
     }
 }
 
+.archive-section .archive-item:is(:first-child) {
+    border-top: 0 !important;
+}
+
 /* Animations */
 @keyframes img-fade-in {
     0% { opacity: 0; }
