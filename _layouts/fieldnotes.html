@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-<div class="container my-5 px-4 fieldnotes">
+<div class="container px-4 fieldnotes">
     <div class="row justify-content-center">
         <div class="col-md-10 col-lg-7">
-            <div class="border bg-light rounded p-4">
+            {% include resource-byline.html %}
+            {% unless page.activity.date == nil %}
+            <div class="border bg-light rounded p-4 mb-4">
                 <div class="mb-2">
                     <span>
                         <i class="bi bi-geo-alt-fill"></i>
@@ -34,7 +36,8 @@ layout: default
                     </span>
                 </div>
             </div>
-            <article class="mt-4">
+            {% endunless %}
+            <article>
                 <section class="resource-body">
                     {{ content }}
                 </section>
