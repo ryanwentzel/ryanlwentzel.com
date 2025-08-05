@@ -9,7 +9,7 @@ img:
     url_sm: "https://cdn.ryanlwentzel.com/assets/img/content/20250804-trail-sign-sm.webp"
     alt: "Sign for the Coast to Crest Trail in San Pasqual Valley"
 ---
-I parked at the San Pasqual Valley Staging Area, off Bandy Canyon Road, in the San Dieguito River Park. The large dirt lot was empty when I arrived. I readied my pack and then set out, at 8:45 AM, on the Coast to Crest Trail, heading west. It was warm already, but a light breeze kept me comfortable.
+I parked at the San Pasqual Valley Staging Area, just off Bandy Canyon Road in the San Dieguito River Park. The large dirt lot was empty when I arrived. After readying my pack, I set out on the Coast to Crest Trail, heading west. It was 8:45 a.m. and already warm, but a light breeze kept me comfortable.
 
 <figure>
     <img src="https://cdn.ryanlwentzel.com/assets/img/content/20250804-spv-5-v2.webp" alt="Section of the Coast to Crest Trail in San Pasqual Valley">
@@ -22,7 +22,7 @@ The trail winds its way through an 11,000-acre agricultural preserve featuring a
     <img src="https://cdn.ryanlwentzel.com/assets/img/content/20250804-spv-6.webp" alt="California Buckwheat alongside the Coast to Crest Trail in San Pasqual Valley">
 </figure>
 
-California Buckwheat lined one side of the trail. The shrubs' flowers were a mixture of pink, white, and cream. Some of the older blooms had already turned a rich russet. Ground squirrels skittered from hole to hole. Crows — many of them — perched atop disused farming equipment. A Red-tailed Hawk, wings outstretched, circled above the barren field to the north.
+California buckwheat lined one side of the trail. The shrubs' flowers were a mix of pink, white, and cream, with some older blooms already turning a rich russet. Ground squirrels skittered from hole to hole. Crows — many of them — perched atop disused farming equipment. A red-tailed hawk, wings outstretched, circled above the barren field to the north.
 
 <figure>
     <img src="https://cdn.ryanlwentzel.com/assets/img/content/20250804-spv-3.webp" alt="The Coast to Crest Trail winding through the San Pasqual Valley">
@@ -37,10 +37,11 @@ Crossing Ysabel Creek Road, I continued along the trail. A few minutes later, I 
     <figcaption>A sea of eucalyptus</figcaption>
 </figure>
 
-On the way back, I paused atop a bridge that spans Santa Maria Creek. A grove of young eucalyptus trees butts up against the bridge. My feet were level with the tops of the trees, making me feel as though I was floating on a sea of leaves.
+On the way back, I paused atop a bridge that spans Santa Maria Creek. A grove of young eucalyptus trees grows next to the bridge. My feet were level with the trees' leafy tops, making me feel as though I was floating on a sea of leaves.
 
 <figure>
     <img src="https://cdn.ryanlwentzel.com/assets/img/content/20250804-spv-2-v2.webp" alt="The Coast to Crest Trail paralleling a section of Bandy Canyon Road">
 </figure>
 
-Two hours after having set out on the trail earlier in the morning, I found myself back where I started. I had covered just over six miles with my feet, but my soul had traveled many more.
+Two hours after having set out on the trail earlier that morning, I found myself back where I started. I had covered just over six miles on foot, but my soul had traveled much farther.
+
