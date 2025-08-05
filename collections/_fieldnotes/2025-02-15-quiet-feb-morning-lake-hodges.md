@@ -1,6 +1,7 @@
 ---
 title: "A Quiet February Morning at Lake Hodges"
-description: ""
+subtitle: "A lovely winter morning spent wandering along the shoreline at Lake Hodges"
+description: "A lovely winter morning spent wandering along the shoreline at Lake Hodges."
 date: 2025-02-15 17:00:00 -0800
 img:
     url: "https://cdn.ryanlwentzel.com/assets/img/content/20250210-IMG_0351-v2-lg.webp"
