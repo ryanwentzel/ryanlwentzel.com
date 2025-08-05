@@ -21,7 +21,7 @@ In June, I had the opportunity to visit the [National Museum of African American
 
 In July, I preached [a sermon on Zephaniah 3:14–20, titled "The God Who Sings Over You,"](https://youtu.be/OuhaPr7rsc0?si=9Dt4eAkuPehy4dsq) at Life Mission Church in Escondido, California. It was [the first time I had preached since Easter](https://youtu.be/v-aPgSWNhJU?si=qoH4phGCVEU3Qcom&t=1349), and it felt good to step behind a pulpit again.
 
-This month, I spent a lovely morning hiking in San Pasqual Valley and wrote [a brief trip report]({% link _fieldnotes/2025-08-04-a-hike-through-san-pasqual-valley.md %}) (with photos!).
+Already this month, I spent a lovely morning hiking in San Pasqual Valley and wrote [a brief trip report]({% link _fieldnotes/2025-08-04-a-hike-through-san-pasqual-valley.md %}) (with photos!).
 
 Lastly, I've been spending time with [a playlist I created a few years ago called *Songs of Lament and Hope*]({% link _playlists/songs-of-lament-and-hope.md %}). It's for anyone who is grieving, hurting, or suffering. The songs make space for both lament and hope in our faithful Savior, Jesus Christ. 
 
