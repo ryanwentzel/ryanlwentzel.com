@@ -28,7 +28,7 @@ California buckwheat lined one side of the trail. The shrubs' flowers were a mix
     <img src="https://cdn.ryanlwentzel.com/assets/img/content/20250804-spv-3.webp" alt="The Coast to Crest Trail winding through the San Pasqual Valley">
 </figure>
 
-I listened to Kristyn Getty read Psalm 84, a pilgrim song, and reflected on the line about pilgrims journeying through the Valley of Baca — the Valley of Weeping. Their tears nourish the arid land, transforming it into a place of springs and bringing new life out of death. A timely reminder.
+I listened to Kristyn Getty read Psalm 84, a pilgrim song, and reflected on the line about pilgrims journeying through the Valley of Baca — the Valley of Weeping. Their tears nourish the arid land, transforming it into a place of springs and bringing new life out of death. A timely reminder for me during this season of upheaval.
 
 Crossing Ysabel Creek Road, I continued along the trail. A few minutes later, I checked my watch and saw that I had been walking for over an hour. The day was growing warmer, so I decided to turn around.
 
