@@ -17,7 +17,7 @@ img:
 
 ## A Few Updates
 
-In June, I had the opportunity to visit the [National Museum of African American History and Culture](https://www.si.edu/museums/african-american-museum) in Washington, D.C. I've done four sightseeing tours of D.C. over the past thirteen years, but this was my first visit to the museum, and I regret not checking it out sooner. The museum's layout and exhibits are superb. So much attention to detail. It's easily in my top three museums in D.C.
+In June, I had the opportunity to visit the [National Museum of African American History and Culture](https://www.si.edu/museums/african-american-museum) in Washington, D.C. This was my fifth sightseeing tour of D.C. in the past thirteen years but my first visit to the museum, and I regret not checking it out sooner. The museum's layout and exhibits are superb. So much attention to detail. It's easily in my top three museums in D.C.
 
 In July, I preached [a sermon on Zephaniah 3:14–20, titled "The God Who Sings Over You,"](https://youtu.be/OuhaPr7rsc0?si=9Dt4eAkuPehy4dsq) at Life Mission Church in Escondido, California. It was [the first time I had preached since Easter](https://youtu.be/v-aPgSWNhJU?si=qoH4phGCVEU3Qcom&t=1349), and it felt good to step behind a pulpit again.
 
