@@ -1,5 +1,6 @@
 ---
 title: A Brief Visit to Lake Hodges
+subtitle: Exploring the lake the day after a brief but heavy rain
 description: Sunny, cool becoming warm. Rained briefly but heavily the morning before. Set out from the staging area on Lake Drive, across the street from Hernandez Hideaway.
 date: 2024-05-06 00:00:00 -0700
 img:
