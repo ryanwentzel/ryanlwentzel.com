@@ -1,6 +1,6 @@
 ---
-seo_description: Read field notes about an outing at Lake Hodges in Escondido, California to learn about the animals and plants that make their home there.
 title: A Late Afternoon Walk at Lake Hodges
+subtitle: Another perambulation at the local lake
 description: Clear skies. Warm. Breezy. West-southwest wind around 9 mph. I set out from the parking area on the San Dieguito River Trail (parallel to Mission Road) and headed east.
 date: 2024-05-09 21:14:39 -0700
 img:
