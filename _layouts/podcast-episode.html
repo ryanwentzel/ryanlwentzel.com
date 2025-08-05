@@ -18,8 +18,12 @@ layout: default
                 </section>
                 <section class="resource-body pb-3">{{ content }}</section>
             </article>
+            <hr class="border my-5 mx-auto w-25 opacity-50">
+            {% include newsletter/subscribe-cta.html %}
             {% include author-bio.html %}
-            {% include nextprev.html %}
+            <div class="mt-5">
+                {% include nextprev.html %} 
+            </div>
         </div>
     </div>
 </div>
