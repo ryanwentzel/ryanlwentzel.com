@@ -1,5 +1,6 @@
 ---
 title: "A Hike Through San Pasqual Valley on an August Morning"
+subtitle: "Meandering along the Coast to Crest Trail on a warm summer morning in a unique pocket of San Diego County"
 description: "Meandering along the Coast to Crest Trail on a warm summer morning in a unique pocket of San Diego County."
 date: 2025-08-04 17:20:00 -0700
 img:
