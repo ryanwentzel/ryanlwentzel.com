@@ -23,7 +23,9 @@ In July, I preached [a sermon on Zephaniah 3:14–20, titled "The God Who Sings 
 
 Already this month, I spent a lovely morning hiking in the San Pasqual Valley and wrote [a brief trip report]({% link _fieldnotes/2025-08-04-a-hike-through-san-pasqual-valley.md %}) (with photos!).
 
-Lastly, I've been spending time with [a playlist I created a few years ago called *Songs of Lament and Hope*]({% link _playlists/songs-of-lament-and-hope.md %}). It's for anyone who is grieving, hurting, or suffering. The songs make space for both lament and hope in our faithful Savior, Jesus Christ. 
+I've been spending time with [a playlist I created a few years ago called *Songs of Lament and Hope*]({% link _playlists/songs-of-lament-and-hope.md %}). It's for anyone who is grieving, hurting, or suffering. The songs make space for both lament and hope in our faithful Savior, Jesus Christ. 
+
+Lastly, I have a few reflections and articles in the hopper and hope to publish them here in the near future. Stay tuned!
 
 ---
 
@@ -72,7 +74,7 @@ under every leaf and tongue.
 ## What I'm Reading
 
 <figure>
-	<img src="https://cdn.ryanlwentzel.com/assets/img/content/de-braekeleer-plate-printer-1875.webp" alt="Henri de Braekeleer, The Plate Printer, 1875">
+	<img src="https://cdn.ryanlwentzel.com/assets/img/content/de-braekeleer-plate-printer-1875-v2.webp" alt="Henri de Braekeleer, The Plate Printer, 1875">
 	<figcaption>
 		<span class="caption">
         Henri de Braekeleer, <cite>The Plate Printer</cite>, 1875
@@ -86,6 +88,5 @@ under every leaf and tongue.
 - [**The Spy Who Came in from the Cold**](https://amzn.to/4lXdhXH) by John le Carré
 
 ---
-I have a few reflections and articles in the hopper and hope to publish them here in the near future. Stay tuned!
 
-This has been another issue of *The Weary Pilgrim*. Thanks for reading!
+This has been another issue of *The Weary Pilgrim*. As always, thanks for reading!
