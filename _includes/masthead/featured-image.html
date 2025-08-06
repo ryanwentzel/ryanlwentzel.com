@@ -7,8 +7,9 @@
                 <h2 class="col-12 col-lg-10 fs-5 lead text-muted tracking-tight">{{ page.subtitle | smartify }}</h2>
             </div>
             {% endif %}
+            {%- include resource-byline.html %}
         </div>
-        <div class="col-12 col-lg-8 mt-4">
+        <div class="col-12 col-lg-8 my-4">
             <figure>
                 {% include components/img/responsive.html img=page.img 
                     classes="d-block mx-auto shadow rounded" loading="eager" 
@@ -17,6 +18,7 @@
                 <figcaption class="mt-2 text-start text-subtle fs-sm pe-2">{{ page.img.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
                 {% endif %}
             </figure>
+            <hr class="border mx-auto my-5 w-25 opacity-25">
         </div>
     </div>
 </div>
