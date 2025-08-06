@@ -14,7 +14,7 @@
                     classes="d-block mx-auto shadow rounded" loading="eager" 
                     fetch_priority="high" %}
                 {% if page.img.caption %}
-                <figcaption class="mt-2 text-end text-subtle fs-sm pe-2">{{ page.img.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
+                <figcaption class="mt-2 text-start text-subtle fs-sm pe-2">{{ page.img.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
                 {% endif %}
             </figure>
         </div>
