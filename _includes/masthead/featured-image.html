@@ -12,7 +12,7 @@
         <div class="col-12 col-lg-10 col-xl-8 my-4">
             <figure>
                 {% include components/img/responsive.html img=page.img 
-                    classes="d-block mx-auto shadow rounded" loading="eager" 
+                    classes="d-block mx-auto shadow rounded fade-in" loading="eager" 
                     fetch_priority="high" %}
                 {% if page.img.caption %}
                 <figcaption class="mt-2 text-start text-subtle fs-sm pe-2">{{ page.img.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>
