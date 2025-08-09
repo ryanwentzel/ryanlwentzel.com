@@ -525,6 +525,10 @@ ul li:last-child {
     100% { opacity: 1; }
 }
 
+.fade-in {
+    animation: img-fade-in 1s;
+}
+
 .archive-section img,
 .collection-masthead img {
     animation: img-fade-in 1s;
