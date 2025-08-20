@@ -3,7 +3,6 @@ title: Treading the Verge of Jordan
 subtitle: A resource for ministering to the dying and their loved ones
 description: A curated collection of resources for providing spiritual support to those who are dying and their loved ones.
 date: 2025-08-18 20:00:00 -0700
-published: false
 sitemap:
     exclude: true
 img:
@@ -50,6 +49,14 @@ img:
 </div>
 
 <div class="sourcebook-item my-5">
+    <h5>God Draws Near to the Brokenhearted</h5>
+    <p class="my-0">
+        The LORD is close to the brokenhearted; he rescues those whose spirits are crushed...He heals the brokenhearted and bandages their wounds.
+    </p>
+    <h6 class="fst-italic mt-2 text-end">Psalms 34:18; 147:3</h6>
+</div>
+
+<div class="sourcebook-item my-5">
     <h5>What is Your Only Comfort in Life and in Death?</h5>
     <p class="my-0">
         That I am not my own, but belong—body and soul, in life and in death to my faithful Savior, Jesus Christ. He has fully paid for all my sins with his precious blood, and has set me free from the tyranny of the devil. He also watches over me in such a way that not a hair can fall from my head without the will of my Father in heaven; in fact, all things must work together for my salvation. Because I belong to him, Christ, by his Holy Spirit, assures me of eternal life and makes me wholeheartedly willing and ready from now on to live for him.
@@ -75,6 +82,22 @@ img:
         O Lord, give ear to our prayers and order the way of your servants under the safety of your protection, that, amid all the changes of this our pilgrimage, we may ever be guarded by your almighty power; through Jesus Christ our Lord. Amen.
     </p>
     <h6 class="fst-italic mt-2 text-end">Gelasian Sacramentary</h6>
+</div>
+
+<div class="sourcebook-item my-5">
+    <h5>For God's Presence</h5>
+    <p class="my-0">
+        Into your hands, O God, we commend ourselves and all who are dear to us this day. Let the gift of your special presence be with us even to to its close. Grant us never to lose sight of you throughout the day, but to worship and pray to you, so that when evening comes we may again give thanks to you; through Jesus Christ our Lord. Amen.
+    </p>
+    <h6 class="fst-italic mt-2 text-end">Gelasian Sacramentary</h6>
+</div>
+
+<div class="sourcebook-item my-5">
+    <h5>For Weary Souls</h5>
+    <p class="my-0">
+        Be present, O merciful God, and protect us through the silent hours of this night, so that we who are wearied by the changes and chances of this fleeting life may rest upon your eternal changelessness; through Jesus Christ our Lord. Amen.
+    </p>
+    <h6 class="fst-italic mt-2 text-end">The Scottish Book of Common Prayer (1929)</h6>
 </div>
 
 ---
