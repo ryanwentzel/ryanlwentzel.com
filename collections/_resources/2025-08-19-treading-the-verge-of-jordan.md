@@ -14,7 +14,7 @@ img:
     caption: "Charles P. Appel, <cite>Golden Sunset</cite>"
 ---
 
-<h2 id="words-of-comfort" class="text-center">Words of Comfort, Strength, & Hope</h2>
+<h2 id="words-of-comfort">Words of Comfort, Strength, & Hope</h2>
 
 <div class="sourcebook-item my-5">
     <h5>What is Your Only Comfort in Life and in Death?</h5>
@@ -114,7 +114,7 @@ img:
 
 ---
 
-<h2 id="prayers" class="text-center">Prayers</h2>
+<h2 id="prayers">Prayers</h2>
 
 <div class="sourcebook-item my-5">
     <h5>For Those Who Are Grieving</h5>
